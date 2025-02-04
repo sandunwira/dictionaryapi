@@ -1,9 +1,499 @@
 [
 	{
-		"word": "<word>",
+		"word": "Aardvark",
 		"definitions": [
-			"<definition1>",
-			"<definition2>"
+			"Mammal with a tubular snout and a long tongue, feeding on termites"
+		]
+	},
+	{
+		"word": "Aback",
+		"definitions": [
+			"Take aback surprise, disconcert"
+		]
+	},
+	{
+		"word": "Abacus",
+		"definitions": [
+			"Frame with wires along which beads are slid for calculating"
+		]
+	},
+	{
+		"word": "Abaft",
+		"definitions": [
+			"In the stern half of a ship"
+		]
+	},
+	{
+		"word": "Abandon",
+		"definitions": [
+			"Give up",
+			"Forsake, desert",
+			"Yield to a passion, another's control, etc.",
+			"Freedom from inhibitions"
+		]
+	},
+	{
+		"word": "Abandoned",
+		"definitions": [
+			"Deserted, forsaken",
+			"Unrestrained, profligate"
+		]
+	},
+	{
+		"word": "Abase",
+		"definitions": [
+			"Humiliate, degrade"
+		]
+	},
+	{
+		"word": "Abash",
+		"definitions": [
+			"Embarrass, disconcert"
+		]
+	},
+	{
+		"word": "Abate",
+		"definitions": [
+			"Make or become less strong, etc.; diminish"
+		]
+	},
+	{
+		"word": "Abattoir",
+		"definitions": [
+			"Slaughterhouse"
+		]
+	},
+	{
+		"word": "Abbacy",
+		"definitions": [
+			"Office or jurisdiction of an abbot or abbess"
+		]
+	},
+	{
+		"word": "Abbé",
+		"definitions": [
+			"(In France) abbot or priest"
+		]
+	},
+	{
+		"word": "Abbess",
+		"definitions": [
+			"Head of a community of nuns"
+		]
+	},
+	{
+		"word": "Abbey",
+		"definitions": [
+			"Building(s) occupied by a community of monks or nuns",
+			"The community itself",
+			"Building that was once an abbey"
+		]
+	},
+	{
+		"word": "Abbot",
+		"definitions": [
+			"Head of a community of monks"
+		]
+	},
+	{
+		"word": "Abbreviate",
+		"definitions": [
+			"Shorten, especially represent (a word etc.) by a part of it"
+		]
+	},
+	{
+		"word": "Abbreviation",
+		"definitions": [
+			"Related to brief"
+		]
+	},
+	{
+		"word": "Abc",
+		"definitions": [
+			"The alphabet",
+			"Rudiments of a subject",
+			"Alphabetical guide"
+		]
+	},
+	{
+		"word": "Abdicate",
+		"definitions": [
+			"Give up or renounce (the throne)",
+			"Renounce (a duty, right, etc.)"
+		]
+	},
+	{
+		"word": "Abdomen",
+		"definitions": [
+			"The belly, including the stomach, bowels, etc.",
+			"The hinder part of an insect etc."
+		]
+	},
+	{
+		"word": "Abduct",
+		"definitions": [
+			"Carry off or kidnap illegally"
+		]
+	},
+	{
+		"word": "Abeam",
+		"definitions": [
+			"At right angles to a ship's or an aircraft's length"
+		]
+	},
+	{
+		"word": "Aberdeen angus",
+		"definitions": [
+			"Animal of a Scottish breed of hornless black cattle"
+		]
+	},
+	{
+		"word": "Aberdonian",
+		"definitions": [
+			"Of Aberdeen",
+			"Native or citizen of Aberdeen"
+		]
+	},
+	{
+		"word": "Aberrant",
+		"definitions": [
+			"Deviating from what is normal or accepted"
+		]
+	},
+	{
+		"word": "Aberration",
+		"definitions": [
+			"Aberrant behaviour; moral or mental lapse",
+			"Deviation from a normal type (Biology)",
+			"Distortion of an image because of a defect in a lens or mirror",
+			"Apparent displacement of a celestial body (Astronomy)"
+		]
+	},
+	{
+		"word": "Abet",
+		"definitions": [
+			"Encourage or assist (an offender or offence)"
+		]
+	},
+	{
+		"word": "Abeyance",
+		"definitions": [
+			"Temporary disuse"
+		]
+	},
+	{
+		"word": "Abhor",
+		"definitions": [
+			"Detest; regard with disgust"
+		]
+	},
+	{
+		"word": "Abhorrence",
+		"definitions": [
+			"Disgust; detestation"
+		]
+	},
+	{
+		"word": "Abhorrent",
+		"definitions": [
+			"Disgusting or hateful"
+		]
+	},
+	{
+		"word": "Abide",
+		"definitions": [
+			"Tolerate, endure (can't abide him)",
+			"Act in accordance with (abide by the rules)",
+			"Keep (a promise)",
+			"Remain, continue (archaic)"
+		]
+	},
+	{
+		"word": "Abiding",
+		"definitions": [
+			"Enduring, permanent"
+		]
+	},
+	{
+		"word": "Ability",
+		"definitions": [
+			"Capacity or power (often followed by to + infinitive)",
+			"Cleverness, talent"
+		]
+	},
+	{
+		"word": "-ability",
+		"definitions": [
+			"Suffix forming nouns of quality from, or corresponding to, adjectives in -able"
+		]
+	},
+	{
+		"word": "Ab initio",
+		"definitions": [
+			"From the beginning"
+		]
+	},
+	{
+		"word": "Abject",
+		"definitions": [
+			"Miserable, wretched; degraded; despicable"
+		]
+	},
+	{
+		"word": "Abjure",
+		"definitions": [
+			"Renounce on oath (an opinion, cause, etc.)"
+		]
+	},
+	{
+		"word": "Ablative",
+		"definitions": [
+			"Case (in Latin) of nouns and pronouns indicating an agent, instrument, or location",
+			"Of or in the ablative"
+		]
+	},
+	{
+		"word": "Ablaze",
+		"definitions": [
+			"On fire",
+			"Glittering, glowing",
+			"Greatly excited"
+		]
+	},
+	{
+		"word": "Able",
+		"definitions": [
+			"Having the capacity or power (often followed by to + infinitive; used especially in is able, will be able, etc., replacing tenses of can)",
+			"Talented, clever"
+		]
+	},
+	{
+		"word": "Able-bodied",
+		"definitions": [
+			"Fit, healthy"
+		]
+	},
+	{
+		"word": "Able-bodied seaman",
+		"definitions": [
+			"Ordinary trained seaman"
+		]
+	},
+	{
+		"word": "Ablution",
+		"definitions": [
+			"Ceremonial washing of the hands, sacred vessels, etc.",
+			"Ordinary bodily washing (colloquial)",
+			"Place for this"
+		]
+	},
+	{
+		"word": "-ably",
+		"definitions": [
+			"Suffix forming adverbs corresponding to adjectives in -able"
+		]
+	},
+	{
+		"word": "ABM",
+		"definitions": [
+			"Anti-ballistic missile (abbr.)"
+		]
+	},
+	{
+		"word": "Abnegate",
+		"definitions": [
+			"Give up or renounce (a pleasure or right etc.)"
+		]
+	},
+	{
+		"word": "Abnegation",
+		"definitions": [
+			"Denial; renunciation of a doctrine"
+		]
+	},
+	{
+		"word": "Abnormal",
+		"definitions": [
+			"Deviating from the norm; exceptional"
+		]
+	},
+	{
+		"word": "Abnormality",
+		"definitions": [
+			"The state or quality of being abnormal (pl. -ies)"
+		]
+	},
+	{
+		"word": "Abnormally",
+		"definitions": [
+			"In an abnormal manner"
+		]
+	},
+	{
+		"word": "Abo",
+		"definitions": [
+			"Aboriginal (Australian slang, usually offensive)"
+		]
+	},
+	{
+		"word": "Aboard",
+		"definitions": [
+			"On or into (a ship, aircraft, etc.)"
+		]
+	},
+	{
+		"word": "Abode",
+		"definitions": [
+			"Dwelling-place"
+		]
+	},
+	{
+		"word": "Abode (see abide)",
+		"definitions": [
+			"Past tense of abide"
+		]
+	},
+	{
+		"word": "Abolish",
+		"definitions": [
+			"Put an end to (especially a custom or institution)"
+		]
+	},
+	{
+		"word": "Abolition",
+		"definitions": [
+			"Abolishing or being abolished"
+		]
+	},
+	{
+		"word": "Abolitionist",
+		"definitions": [
+			"Person who favours the abolition of a custom or institution"
+		]
+	},
+	{
+		"word": "A-bomb",
+		"definitions": [
+			"Atomic bomb"
+		]
+	},
+	{
+		"word": "Abominable",
+		"definitions": [
+			"Detestable, loathsome"
+		]
+	},
+	{
+		"word": "Abominable snowman",
+		"definitions": [
+			"Supposed manlike or bearlike Himalayan animal; yeti"
+		]
+	},
+	{
+		"word": "Abominate",
+		"definitions": [
+			"Detest, loathe"
+		]
+	},
+	{
+		"word": "Abomination",
+		"definitions": [
+			"Detestable thing or action"
+		]
+	},
+	{
+		"word": "Aboriginal",
+		"definitions": [
+			"Indigenous, inhabiting a land from the earliest times, especially before the arrival of colonists",
+			"Of Australian aborigines"
+		]
+	},
+	{
+		"word": "Aborigine",
+		"definitions": [
+			"Aboriginal inhabitant",
+			"Aboriginal inhabitant of Australia"
+		]
+	},
+	{
+		"word": "Aborigines",
+		"definitions": [
+			"Plural of aborigine"
+		]
+	},
+	{
+		"word": "Abort",
+		"definitions": [
+			"Miscarry",
+			"Effect abortion of (a foetus)",
+			"Effect abortion in (a mother)",
+			"End or cause (a project etc.) to end before completion"
+		]
+	},
+	{
+		"word": "Abortion",
+		"definitions": [
+			"Natural or (especially) induced expulsion of a foetus from the womb before it is able to survive independently",
+			"Stunted or deformed creature or thing",
+			"Failed project or action"
+		]
+	},
+	{
+		"word": "Abortionist",
+		"definitions": [
+			"Person who performs abortions"
+		]
+	},
+	{
+		"word": "Abortive",
+		"definitions": [
+			"Fruitless, unsuccessful"
+		]
+	},
+	{
+		"word": "Abound",
+		"definitions": [
+			"Be plentiful",
+			"(followed by in, with) Be rich; teem"
+		]
+	},
+	{
+		"word": "About",
+		"definitions": [
+			"On the subject of (a book about birds)",
+			"Relating to (glad about it)",
+			"In relation to (symmetry about a plane)",
+			"At a time near to (about six)",
+			"In, round (walked about the town; a scarf about her neck)",
+			"All round from a centre (look about you)",
+			"At points in (strewn about the house)",
+			"Carried with (no money about me)",
+			"Occupied with (about her business)"
+		]
+	},
+	{
+		"word": "About-face",
+		"definitions": [
+			"About-turn, about turn"
+		]
+	},
+	{
+		"word": "About-turn",
+		"definitions": [
+			"Turn made so as to face the opposite direction",
+			"Change of opinion or policy etc."
+		]
+	},
+	{
+		"word": "Above",
+		"definitions": [
+			"Over; on the top of; higher than; over the surface of (head above water; above the din)",
+			"More than (above twenty people)",
+			"Higher in rank, importance, etc., than",
+			"Not relative or comparative (absolute standard)",
+			"Gram. (of a construction) syntactically independent of the rest of the sentence, as in dinner being over, we left the table",
+			"(of an adjective or transitive verb) without an expressed noun or object (e.g. The deaf, guns kill)",
+			"(of a legal decree etc.) Final"
 		]
 	}
 ]
