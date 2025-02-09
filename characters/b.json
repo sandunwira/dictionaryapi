@@ -1,9 +1,2216 @@
 [
 	{
-		"word": "<word>",
+		"word": "B",
 		"definitions": [
-			"<definition1>",
-			"<definition2>"
+			"Second letter of the alphabet",
+			"Seventh note of the diatonic scale of c major"
+		]
+	},
+	{
+		"word": "Ba",
+		"definitions": [
+			"Bachelor of arts",
+			"British airways"
+		]
+	},
+	{
+		"word": "Baa",
+		"definitions": [
+			"Bleat",
+			"Sheep's cry"
+		]
+	},
+	{
+		"word": "Babble",
+		"definitions": [
+			"Talk, chatter, or say incoherently or excessively",
+			"Repeat or divulge foolishly"
+		]
+	},
+	{
+		"word": "Babe",
+		"definitions": [
+			"Literary baby",
+			"Innocent or helpless person"
+		]
+	},
+	{
+		"word": "Babel",
+		"definitions": [
+			"Confused noise, esp. Of voices",
+			"Scene of confusion"
+		]
+	},
+	{
+		"word": "Baboon",
+		"definitions": [
+			"Large long-nosed African and Arabian monkey"
+		]
+	},
+	{
+		"word": "Baby",
+		"definitions": [
+			"Very young child",
+			"Childish person"
+		]
+	},
+	{
+		"word": "Baby boom",
+		"definitions": [
+			"Temporary increase in the birthrate"
+		]
+	},
+	{
+		"word": "Baby buggy",
+		"definitions": [
+			"A kind of child's pushchair"
+		]
+	},
+	{
+		"word": "Baby carriage",
+		"definitions": [
+			"US pram"
+		]
+	},
+	{
+		"word": "Baby grand",
+		"definitions": [
+			"Small grand piano"
+		]
+	},
+	{
+		"word": "Babygro",
+		"definitions": [
+			"Stretchy all-in-one baby suit"
+		]
+	},
+	{
+		"word": "Babysit",
+		"definitions": [
+			"Look after a child while its parents are out"
+		]
+	},
+	{
+		"word": "Baccalaureate",
+		"definitions": [
+			"Final secondary school examination in France and many international schools"
+		]
+	},
+	{
+		"word": "Baccarat",
+		"definitions": [
+			"Gambling card-game"
+		]
+	},
+	{
+		"word": "Bacchanal",
+		"definitions": [
+			"Drunken revelry or reveller",
+			"Priest or follower of Bacchus"
+		]
+	},
+	{
+		"word": "Bacchanalia",
+		"definitions": [
+			"Roman festival of Bacchus",
+			"Drunken revelry"
+		]
+	},
+	{
+		"word": "Bacchant",
+		"definitions": [
+			"Priest or follower of Bacchus",
+			"Drunken reveller"
+		]
+	},
+	{
+		"word": "Bacchic",
+		"definitions": [
+			"Of or like Bacchus"
+		]
+	},
+	{
+		"word": "Baccy",
+		"definitions": [
+			"Tobacco"
+		]
+	},
+	{
+		"word": "Bachelor",
+		"definitions": [
+			"Unmarried man",
+			"Person with a university first degree"
+		]
+	},
+	{
+		"word": "Bachelor girl",
+		"definitions": [
+			"Independent young single woman"
+		]
+	},
+	{
+		"word": "Bacillus",
+		"definitions": [
+			"Rod-shaped bacterium, esp. one causing disease"
+		]
+	},
+	{
+		"word": "Back",
+		"definitions": [
+			"Rear surface of the human body from shoulder to hip",
+			"Upper surface of an animal's body"
+		]
+	},
+	{
+		"word": "Backache",
+		"definitions": [
+			"Ache in the back"
+		]
+	},
+	{
+		"word": "Back-bencher",
+		"definitions": [
+			"MP not holding a senior office"
+		]
+	},
+	{
+		"word": "Backbiting",
+		"definitions": [
+			"Malicious talk"
+		]
+	},
+	{
+		"word": "Back-boiler",
+		"definitions": [
+			"Boiler behind a domestic fire"
+		]
+	},
+	{
+		"word": "Backbone",
+		"definitions": [
+			"Spine",
+			"Chief support"
+		]
+	},
+	{
+		"word": "Back-breaking",
+		"definitions": [
+			"Extremely hard"
+		]
+	},
+	{
+		"word": "Back-burner",
+		"definitions": [
+			"Receiving little attention"
+		]
+	},
+	{
+		"word": "Backchat",
+		"definitions": [
+			"Verbal insolence"
+		]
+	},
+	{
+		"word": "Backcloth",
+		"definitions": [
+			"Painted cloth at the back of a stage",
+			"Background to a scene or situation"
+		]
+	},
+	{
+		"word": "Backcomb",
+		"definitions": [
+			"Comb the hair towards the scalp to give it fullness"
+		]
+	},
+	{
+		"word": "Back-crawl",
+		"definitions": [
+			"= *backstroke"
+		]
+	},
+	{
+		"word": "Backdate",
+		"definitions": [
+			"Make retrospectively valid",
+			"Put an earlier date to than the actual one"
+		]
+	},
+	{
+		"word": "Back door",
+		"definitions": [
+			"Secret or ingenious means"
+		]
+	},
+	{
+		"word": "Backdrop",
+		"definitions": [
+			"= *backcloth"
+		]
+	},
+	{
+		"word": "Backfire",
+		"definitions": [
+			"(Of an engine or vehicle) ignite or explode too early in the cylinder or exhaust",
+			"(Of a plan etc.) rebound adversely on its originator"
+		]
+	},
+	{
+		"word": "Back-formation",
+		"definitions": [
+			"Formation of a word from its seeming derivative (e.g. Laze from lazy)",
+			"Word so formed"
+		]
+	},
+	{
+		"word": "Backgammon",
+		"definitions": [
+			"Board-game with pieces moved according to throws of the dice"
+		]
+	},
+	{
+		"word": "Background",
+		"definitions": [
+			"Part of a scene or picture furthest from the observer",
+			"(Often attrib.) inconspicuous position"
+		]
+	},
+	{
+		"word": "Backhand",
+		"definitions": [
+			"(Of a stroke) made with the hand across one's body",
+			"Such a stroke"
+		]
+	},
+	{
+		"word": "Backhanded",
+		"definitions": [
+			"Made with the back of the hand",
+			"Indirect; ambiguous (backhanded compliment)"
+		]
+	},
+	{
+		"word": "Backhander",
+		"definitions": [
+			"A backhand stroke",
+			"Slang bribe"
+		]
+	},
+	{
+		"word": "Backing",
+		"definitions": [
+			"A support, esp. Financial or moral",
+			"Material used for a thing's back or support"
+		]
+	},
+	{
+		"word": "Backing track",
+		"definitions": [
+			"Recorded musical accompaniment"
+		]
+	},
+	{
+		"word": "Backlash",
+		"definitions": [
+			"Violent, usu. Hostile, reaction",
+			"Sudden recoil in a mechanism"
+		]
+	},
+	{
+		"word": "Backlist",
+		"definitions": [
+			"Publisher's list of books still in print"
+		]
+	},
+	{
+		"word": "Backlog",
+		"definitions": [
+			"Arrears of work"
+		]
+	},
+	{
+		"word": "Back number",
+		"definitions": [
+			"Out-of-date issue of a periodical",
+			"Slang out-of-date person or thing"
+		]
+	},
+	{
+		"word": "Backpack",
+		"definitions": [
+			"Rucksack",
+			"Travel or hike with this"
+		]
+	},
+	{
+		"word": "Back passage",
+		"definitions": [
+			"Colloq. Rectum"
+		]
+	},
+	{
+		"word": "Backrest",
+		"definitions": [
+			"Support for the back"
+		]
+	},
+	{
+		"word": "Back room",
+		"definitions": [
+			"(Often, with hyphen, attrib.) Place where secret work is done"
+		]
+	},
+	{
+		"word": "Back seat",
+		"definitions": [
+			"Less prominent or important position"
+		]
+	},
+	{
+		"word": "Back-seat driver",
+		"definitions": [
+			"Person eager to advise without taking responsibility"
+		]
+	},
+	{
+		"word": "Backside",
+		"definitions": [
+			"Colloq. Buttocks"
+		]
+	},
+	{
+		"word": "Back slang",
+		"definitions": [
+			"Slang using words spelt backwards (e.g. Yob)"
+		]
+	},
+	{
+		"word": "Backslide",
+		"definitions": [
+			"Return to bad habits etc."
+		]
+	},
+	{
+		"word": "Backspace",
+		"definitions": [
+			"Move a typewriter carriage etc. Back one or more spaces"
+		]
+	},
+	{
+		"word": "Backspin",
+		"definitions": [
+			"Backward spin making a ball bounce erratically"
+		]
+	},
+	{
+		"word": "Backstage",
+		"definitions": [
+			"Behind the scenes"
+		]
+	},
+	{
+		"word": "Backstairs",
+		"definitions": [
+			"Rear or side stairs of a building",
+			"Underhand; secret"
+		]
+	},
+	{
+		"word": "Backstitch",
+		"definitions": [
+			"Sewing with each stitch starting behind the end of the previous one"
+		]
+	},
+	{
+		"word": "Back-stop",
+		"definitions": [
+			"Cricket etc. A position directly behind the wicket-keeper",
+			"Last resort"
+		]
+	},
+	{
+		"word": "Backstreet",
+		"definitions": [
+			"Side-street, alley",
+			"Illicit; illegal (backstreet abortion)"
+		]
+	},
+	{
+		"word": "Backstroke",
+		"definitions": [
+			"Swimming stroke done on the back"
+		]
+	},
+	{
+		"word": "Back-to-back",
+		"definitions": [
+			"(Of houses) with a party wall at the rear"
+		]
+	},
+	{
+		"word": "Back to front",
+		"definitions": [
+			"With back and front reversed",
+			"In disorder"
+		]
+	},
+	{
+		"word": "Back-to-nature",
+		"definitions": [
+			"Seeking a simpler way of life"
+		]
+	},
+	{
+		"word": "Backtrack",
+		"definitions": [
+			"Retrace one's steps",
+			"Reverse one's policy or opinion"
+		]
+	},
+	{
+		"word": "Backup",
+		"definitions": [
+			"Support; reserve (back-up team)",
+			"Computing a making of spare copies of data for safety"
+		]
+	},
+	{
+		"word": "Backward",
+		"definitions": [
+			"Towards the rear or starting-point (backward look)",
+			"Reversed (backward roll)"
+		]
+	},
+	{
+		"word": "Backwards",
+		"definitions": [
+			"Away from one's front (lean backwards)",
+			"In reverse of the usual way (count backwards)"
+		]
+	},
+	{
+		"word": "Backwash",
+		"definitions": [
+			"Receding waves made by a ship etc.",
+			"Repercussions"
+		]
+	},
+	{
+		"word": "Backwater",
+		"definitions": [
+			"Peaceful, secluded, or dull place",
+			"Stagnant water fed from a stream"
+		]
+	},
+	{
+		"word": "Backwoods",
+		"definitions": [
+			"Remote uncleared forest land",
+			"Remote region"
+		]
+	},
+	{
+		"word": "Backyard",
+		"definitions": [
+			"Yard behind a house etc."
+		]
+	},
+	{
+		"word": "Bacon",
+		"definitions": [
+			"Cured meat from the back or sides of a pig"
+		]
+	},
+	{
+		"word": "Bacteriology",
+		"definitions": [
+			"The study of bacteria"
+		]
+	},
+	{
+		"word": "Bacterium",
+		"definitions": [
+			"Unicellular micro-organism lacking an organized nucleus, esp. Of a kind causing disease"
+		]
+	},
+	{
+		"word": "Bad",
+		"definitions": [
+			"Inadequate, defective (bad work, light)",
+			"Unpleasant (bad weather)"
+		]
+	},
+	{
+		"word": "Bad blood",
+		"definitions": [
+			"Ill feeling"
+		]
+	},
+	{
+		"word": "Bad books",
+		"definitions": [
+			"See *book"
+		]
+	},
+	{
+		"word": "Bad breath",
+		"definitions": [
+			"Unpleasant-smelling breath"
+		]
+	},
+	{
+		"word": "Bad debt",
+		"definitions": [
+			"Debt that is not recoverable"
+		]
+	},
+	{
+		"word": "Baddy",
+		"definitions": [
+			"Villain in a story, film, etc."
+		]
+	},
+	{
+		"word": "Bade",
+		"definitions": [
+			"See *bid"
+		]
+	},
+	{
+		"word": "Bad egg",
+		"definitions": [
+			"See *egg1"
+		]
+	},
+	{
+		"word": "Bad faith",
+		"definitions": [
+			"Intent to deceive"
+		]
+	},
+	{
+		"word": "Badge",
+		"definitions": [
+			"Small flat emblem worn to signify office, membership, etc., or as decoration",
+			"Thing that reveals a condition or quality"
+		]
+	},
+	{
+		"word": "Badger",
+		"definitions": [
+			"Nocturnal burrowing mammal with a black and white striped head",
+			"Pester, harass"
+		]
+	},
+	{
+		"word": "Badinage",
+		"definitions": [
+			"Playful ridicule"
+		]
+	},
+	{
+		"word": "Bad lot",
+		"definitions": [
+			"Person of bad character"
+		]
+	},
+	{
+		"word": "Badly",
+		"definitions": [
+			"In a bad manner",
+			"Colloq. Very much (wants it badly)"
+		]
+	},
+	{
+		"word": "Badminton",
+		"definitions": [
+			"Game with rackets and a shuttlecock"
+		]
+	},
+	{
+		"word": "Bad-mouth",
+		"definitions": [
+			"Esp. US slang abuse verbally, put down"
+		]
+	},
+	{
+		"word": "Bad news",
+		"definitions": [
+			"Colloq. Unpleasant or troublesome person or thing"
+		]
+	},
+	{
+		"word": "Bad-tempered",
+		"definitions": [
+			"Irritable"
+		]
+	},
+	{
+		"word": "Baffle",
+		"definitions": [
+			"Perplex",
+			"Frustrate, hinder"
+		]
+	},
+	{
+		"word": "Bafta",
+		"definitions": [
+			"British association of film and television arts"
+		]
+	},
+	{
+		"word": "Bag",
+		"definitions": [
+			"Soft open-topped receptacle",
+			"A piece of luggage"
+		]
+	},
+	{
+		"word": "Bagatelle",
+		"definitions": [
+			"Game in which small balls are struck into holes on a board",
+			"Mere trifle"
+		]
+	},
+	{
+		"word": "Bagel",
+		"definitions": [
+			"Ring-shaped bread roll"
+		]
+	},
+	{
+		"word": "Baggage",
+		"definitions": [
+			"Luggage",
+			"Portable army equipment"
+		]
+	},
+	{
+		"word": "Baggy",
+		"definitions": [
+			"Hanging loosely",
+			"Baggily adv."
+		]
+	},
+	{
+		"word": "Bagpipe",
+		"definitions": [
+			"(Usu. In pl.) Musical instrument consisting of a windbag connected to reeded pipes"
+		]
+	},
+	{
+		"word": "Baguette",
+		"definitions": [
+			"Long thin French loaf"
+		]
+	},
+	{
+		"word": "Bah",
+		"definitions": [
+			"Int. Expressing contempt or disbelief"
+		]
+	},
+	{
+		"word": "Baha'i",
+		"definitions": [
+			"(Pl. -s) Member of a monotheistic religion emphasizing religious unity and world peace"
+		]
+	},
+	{
+		"word": "Bail1",
+		"definitions": [
+			"Money etc. Pledged against the temporary release of an untried prisoner",
+			"Person(s) giving this"
+		]
+	},
+	{
+		"word": "Bail2",
+		"definitions": [
+			"Cricket either of two crosspieces bridging the stumps",
+			"Bar holding the paper against a typewriter platen"
+		]
+	},
+	{
+		"word": "Bail3",
+		"definitions": [
+			"(Also bale) Scoop water out of (a boat etc.)",
+			"Scoop (water etc.) out"
+		]
+	},
+	{
+		"word": "Bailey",
+		"definitions": [
+			"(Pl. -s) Outer wall of a castle",
+			"Court enclosed by it"
+		]
+	},
+	{
+		"word": "Bailey bridge",
+		"definitions": [
+			"Prefabricated military bridge for rapid assembly"
+		]
+	},
+	{
+		"word": "Bailiff",
+		"definitions": [
+			"Sheriff's officer who executes writs and carries out distraints",
+			"Landlord's agent or steward"
+		]
+	},
+	{
+		"word": "Bailiwick",
+		"definitions": [
+			"Law district of a bailiff",
+			"Person's particular interest"
+		]
+	},
+	{
+		"word": "Bain-marie",
+		"definitions": [
+			"Pan of hot water holding a pan containing sauce etc. for slow heating"
+		]
+	},
+	{
+		"word": "Bairn",
+		"definitions": [
+			"Child"
+		]
+	},
+	{
+		"word": "Bait",
+		"definitions": [
+			"Food used to entice prey",
+			"Allurement"
+		]
+	},
+	{
+		"word": "Baize",
+		"definitions": [
+			"Usu. Green woollen felted material, used for coverings"
+		]
+	},
+	{
+		"word": "Bake",
+		"definitions": [
+			"Cook or become cooked by dry heat, esp. in an oven",
+			"Colloq. (usu. as be baking) (of weather, a person, etc.) Be very hot"
+		]
+	},
+	{
+		"word": "Baked beans",
+		"definitions": [
+			"Baked haricot beans, usu. tinned in tomato sauce"
+		]
+	},
+	{
+		"word": "Bakelite",
+		"definitions": [
+			"Plastic made from formaldehyde and phenol, used formerly for buttons, plates, etc."
+		]
+	},
+	{
+		"word": "Baker",
+		"definitions": [
+			"Person who bakes and sells bread, cakes, etc., esp. for a living"
+		]
+	},
+	{
+		"word": "Baker day",
+		"definitions": [
+			"Colloq. Day set aside for in-service training of teachers"
+		]
+	},
+	{
+		"word": "Baker's dozen",
+		"definitions": [
+			"Thirteen"
+		]
+	},
+	{
+		"word": "Bakery",
+		"definitions": [
+			"Place where bread and cakes are made or sold"
+		]
+	},
+	{
+		"word": "Bakewell tart",
+		"definitions": [
+			"Open pastry case lined with jam and filled with almond paste"
+		]
+	},
+	{
+		"word": "Baking-powder",
+		"definitions": [
+			"Mixture of sodium bicarbonate, cream of tartar, etc., as a raising agent"
+		]
+	},
+	{
+		"word": "Baking-soda",
+		"definitions": [
+			"Sodium bicarbonate"
+		]
+	},
+	{
+		"word": "Baklava",
+		"definitions": [
+			"Rich sweetmeat of flaky pastry, honey, and nuts"
+		]
+	},
+	{
+		"word": "Baksheesh",
+		"definitions": [
+			"Gratuity, tip"
+		]
+	},
+	{
+		"word": "Balaclava",
+		"definitions": [
+			"Usu. woollen covering for the whole head and neck, except for the face"
+		]
+	},
+	{
+		"word": "Balalaika",
+		"definitions": [
+			"Guitar-like stringed instrument with a triangular body"
+		]
+	},
+	{
+		"word": "Balance",
+		"definitions": [
+			"A even distribution of weight or amount",
+			"Stability of body or mind"
+		]
+	},
+	{
+		"word": "Balance of payments",
+		"definitions": [
+			"Difference in value between payments into and out of a country"
+		]
+	},
+	{
+		"word": "Balance of power",
+		"definitions": [
+			"Situation of roughly equal power among the chief states of the world",
+			"Power held by a small group when larger groups are of equal strength"
+		]
+	},
+	{
+		"word": "Balance of trade",
+		"definitions": [
+			"Difference in value between imports and exports"
+		]
+	},
+	{
+		"word": "Balance sheet",
+		"definitions": [
+			"Statement giving the balance of an account"
+		]
+	},
+	{
+		"word": "Balcony",
+		"definitions": [
+			"Usu. balustraded platform on the outside of a building with access from an upper floor",
+			"Upper tier of seats in a theatre etc."
+		]
+	},
+	{
+		"word": "Bald",
+		"definitions": [
+			"Lacking some or all hair on the scalp",
+			"Lacking the usual hair, feathers, leaves, etc."
+		]
+	},
+	{
+		"word": "Balderdash",
+		"definitions": [
+			"Nonsense"
+		]
+	},
+	{
+		"word": "Bale1",
+		"definitions": [
+			"Tightly bound bundle of merchandise or hay",
+			"Make up into bales"
+		]
+	},
+	{
+		"word": "Baleen",
+		"definitions": [
+			"Whalebone"
+		]
+	},
+	{
+		"word": "Baleful",
+		"definitions": [
+			"Menacing in look, manner, etc.",
+			"Malignant, destructive"
+		]
+	},
+	{
+		"word": "Balk",
+		"definitions": [
+			"Variant of *baulk"
+		]
+	},
+	{
+		"word": "Balkan",
+		"definitions": [
+			"Of the region of SE Europe bounded by the Adriatic, Aegean, and Black Sea",
+			"Of its peoples or countries"
+		]
+	},
+	{
+		"word": "Ball1",
+		"definitions": [
+			"Sphere, esp. for use in a game",
+			"A ball-shaped object; material in the shape of a ball"
+		]
+	},
+	{
+		"word": "Ball2",
+		"definitions": [
+			"Formal social gathering for dancing",
+			"Slang enjoyable time (esp. Have a ball)"
+		]
+	},
+	{
+		"word": "Ballad",
+		"definitions": [
+			"Poem or song narrating a popular story",
+			"Slow sentimental song"
+		]
+	},
+	{
+		"word": "Balladry",
+		"definitions": [
+			"Ballad poetry"
+		]
+	},
+	{
+		"word": "Ball-and-socket joint",
+		"definitions": [
+			"Joint in which a rounded end lies in a concave socket"
+		]
+	},
+	{
+		"word": "Ballast",
+		"definitions": [
+			"Heavy material stabilizing a ship, the car of a balloon, etc.",
+			"Coarse stone etc. as the bed of a railway track or road"
+		]
+	},
+	{
+		"word": "Ball-bearing",
+		"definitions": [
+			"Bearing in which the two halves are separated by a ring of small balls",
+			"One of these balls"
+		]
+	},
+	{
+		"word": "Ballboy",
+		"definitions": [
+			"(fem. Ballgirl) (In tennis) Boy or girl who retrieves balls"
+		]
+	},
+	{
+		"word": "Ballcock",
+		"definitions": [
+			"Floating ball on a hinged arm controlling the water level in a cistern"
+		]
+	},
+	{
+		"word": "Ballerina",
+		"definitions": [
+			"Female ballet-dancer"
+		]
+	},
+	{
+		"word": "Ballet",
+		"definitions": [
+			"Dramatic or representational style of dancing to music",
+			"Particular piece or performance of ballet"
+		]
+	},
+	{
+		"word": "Ballet-dancer",
+		"definitions": [
+			"Dancer of ballet"
+		]
+	},
+	{
+		"word": "Ball game",
+		"definitions": [
+			"A game played with a ball",
+			"Esp. Us colloq. Affair; matter (a whole new ball game)"
+		]
+	},
+	{
+		"word": "Ballista",
+		"definitions": [
+			"(Pl. -stae) (In ancient warfare) Catapult for hurling large stones etc."
+		]
+	},
+	{
+		"word": "Ballistic",
+		"definitions": [
+			"Of projectiles"
+		]
+	},
+	{
+		"word": "Ballistic missile",
+		"definitions": [
+			"Missile that is powered and guided but falls by gravity"
+		]
+	},
+	{
+		"word": "Ballistics",
+		"definitions": [
+			"Science of projectiles and firearms"
+		]
+	},
+	{
+		"word": "Ballocking",
+		"definitions": [
+			"Var. of *bollocking"
+		]
+	},
+	{
+		"word": "Ballocks",
+		"definitions": [
+			"Var. of *bollocks"
+		]
+	},
+	{
+		"word": "Balloon",
+		"definitions": [
+			"Small inflatable rubber toy or decoration",
+			"Large usu. Round inflatable flying bag, often carrying a basket for passengers",
+			"Colloq. Balloon shape enclosing dialogue etc. in a comic strip or cartoon"
+		]
+	},
+	{
+		"word": "Ballot",
+		"definitions": [
+			"Occasion or system of voting, in writing and usu. Secret",
+			"Total of such votes"
+		]
+	},
+	{
+		"word": "Ballot-box",
+		"definitions": [
+			"Sealed box for completed ballot-papers"
+		]
+	},
+	{
+		"word": "Ballot-paper",
+		"definitions": [
+			"= *ballot n. 3"
+		]
+	},
+	{
+		"word": "Ballpark",
+		"definitions": [
+			"Us 1 baseball ground",
+			"Colloq. Sphere of activity, etc."
+		]
+	},
+	{
+		"word": "Ball-point",
+		"definitions": [
+			"(In full ball-point pen) Pen with a tiny ball as its writing point"
+		]
+	},
+	{
+		"word": "Ballroom",
+		"definitions": [
+			"Large room for dancing"
+		]
+	},
+	{
+		"word": "Ballroom dancing",
+		"definitions": [
+			"Formal social dancing"
+		]
+	},
+	{
+		"word": "Balls-up",
+		"definitions": [
+			"Coarse slang bungle, mess"
+		]
+	},
+	{
+		"word": "Bally",
+		"definitions": [
+			"Slang mild form of bloody"
+		]
+	},
+	{
+		"word": "Ballyhoo",
+		"definitions": [
+			"Loud noise or fuss",
+			"Noisy publicity"
+		]
+	},
+	{
+		"word": "Balm",
+		"definitions": [
+			"Aromatic ointment",
+			"Fragrant oil or resin exuded from certain trees and plants",
+			"Thing that heals or soothes",
+			"Aromatic herb"
+		]
+	},
+	{
+		"word": "Balmy",
+		"definitions": [
+			"Mild and fragrant; soothing",
+			"Slang = *barmy"
+		]
+	},
+	{
+		"word": "Baloney",
+		"definitions": [
+			"Var. of *boloney"
+		]
+	},
+	{
+		"word": "Balsa",
+		"definitions": [
+			"(In full balsa-wood) Tough lightweight wood used for making models etc.",
+			"Tropical American tree yielding it"
+		]
+	},
+	{
+		"word": "Balsam",
+		"definitions": [
+			"Resin exuded from various trees and shrubs",
+			"Ointment, esp. containing oil or turpentine"
+		]
+	},
+	{
+		"word": "Baluster",
+		"definitions": [
+			"Short post or pillar supporting a rail"
+		]
+	},
+	{
+		"word": "Balustrade",
+		"definitions": [
+			"Railing supported by balusters, esp. on a balcony"
+		]
+	},
+	{
+		"word": "Bamboo",
+		"definitions": [
+			"Tropical giant woody grass",
+			"Its stem, used for canes, furniture, etc."
+		]
+	},
+	{
+		"word": "Bamboo shoot",
+		"definitions": [
+			"Young shoot of bamboo, eaten as a vegetable"
+		]
+	},
+	{
+		"word": "Bamboozle",
+		"definitions": [
+			"(Ling) Colloq. Cheat; mystify"
+		]
+	},
+	{
+		"word": "Ban",
+		"definitions": [
+			"Forbid, prohibit, esp. formally",
+			"Formal prohibition (ban on smoking)"
+		]
+	},
+	{
+		"word": "Banal",
+		"definitions": [
+			"Trite, commonplace",
+			"Banality n. (Pl. -ies)"
+		]
+	},
+	{
+		"word": "Banana",
+		"definitions": [
+			"Long curved soft fruit with a yellow skin",
+			"Treetop plant bearing it"
+		]
+	},
+	{
+		"word": "Banana republic",
+		"definitions": [
+			"Derog. Small state, esp. in central America, dependent on foreign capital"
+		]
+	},
+	{
+		"word": "Band",
+		"definitions": [
+			"Flat, thin strip or loop of paper, metal, cloth, etc., put round something esp. to hold or decorate it",
+			"Group of esp. non-classical musicians"
+		]
+	},
+	{
+		"word": "Bandage",
+		"definitions": [
+			"Strip of material used to bind a wound etc",
+			"Bind with a bandage"
+		]
+	},
+	{
+		"word": "Bandanna",
+		"definitions": [
+			"Large patterned handkerchief or neckerchief"
+		]
+	},
+	{
+		"word": "B. & b.",
+		"definitions": [
+			"Abbr. Bed and breakfast"
+		]
+	},
+	{
+		"word": "Bandbox",
+		"definitions": [
+			"Hatbox"
+		]
+	},
+	{
+		"word": "Bandeau",
+		"definitions": [
+			"Narrow headband"
+		]
+	},
+	{
+		"word": "Banderole",
+		"definitions": [
+			"Long narrow flag with a cleft end",
+			"Ribbon-like inscribed scroll"
+		]
+	},
+	{
+		"word": "Bandicoot",
+		"definitions": [
+			"Catlike Australian marsupial",
+			"Destructive rat in India"
+		]
+	},
+	{
+		"word": "Bandit",
+		"definitions": [
+			"Robber or outlaw, esp. one attacking travellers etc"
+		]
+	},
+	{
+		"word": "Bandmaster",
+		"definitions": [
+			"Conductor of a band"
+		]
+	},
+	{
+		"word": "Bandog",
+		"definitions": [
+			"Fighting-dog bred for its strength and ferocity"
+		]
+	},
+	{
+		"word": "Bandolier",
+		"definitions": [
+			"Shoulder belt with loops or pockets for cartridges"
+		]
+	},
+	{
+		"word": "Band-saw",
+		"definitions": [
+			"Mechanical saw with a blade formed by an endless toothed band"
+		]
+	},
+	{
+		"word": "Bandsman",
+		"definitions": [
+			"Player in a band"
+		]
+	},
+	{
+		"word": "Bandstand",
+		"definitions": [
+			"Outdoor platform for musicians"
+		]
+	},
+	{
+		"word": "Bandwagon",
+		"definitions": [
+			"Join a popular or successful cause etc"
+		]
+	},
+	{
+		"word": "Bandwidth",
+		"definitions": [
+			"Range of frequencies within a given band"
+		]
+	},
+	{
+		"word": "Bandy1",
+		"definitions": [
+			"(Of the legs) Curved so as to be wide apart at the knees",
+			"Having bandy legs"
+		]
+	},
+	{
+		"word": "Bandy2",
+		"definitions": [
+			"Pass (a story, rumour, etc.) to and fro",
+			"Exchange (blows, insults, etc.)"
+		]
+	},
+	{
+		"word": "Bane",
+		"definitions": [
+			"Cause of ruin or trouble",
+			"Ruin"
+		]
+	},
+	{
+		"word": "Bang",
+		"definitions": [
+			"Loud short sound",
+			"Sharp blow"
+		]
+	},
+	{
+		"word": "Banger",
+		"definitions": [
+			"Slang sausage",
+			"Slang noisy old car"
+		]
+	},
+	{
+		"word": "Bangle",
+		"definitions": [
+			"Rigid bracelet or anklet"
+		]
+	},
+	{
+		"word": "Banian",
+		"definitions": [
+			"Var. of *banyan*"
+		]
+	},
+	{
+		"word": "Banish",
+		"definitions": [
+			"Condemn to exile",
+			"Dismiss (esp. from one's mind)"
+		]
+	},
+	{
+		"word": "Banister",
+		"definitions": [
+			"Uprights and handrail beside a staircase",
+			"Corruption of *baluster*"
+		]
+	},
+	{
+		"word": "Banjo",
+		"definitions": [
+			"Guitar-like stringed instrument with a circular body",
+			"Banjoist: US Southern corruption of bandore from Greek pandoura lute"
+		]
+	},
+	{
+		"word": "Bank1",
+		"definitions": [
+			"Sloping ground beside a river",
+			"Raised area, esp. in the sea; slope"
+		]
+	},
+	{
+		"word": "Bank2",
+		"definitions": [
+			"Establishment for depositing, withdrawing, and borrowing money",
+			"Storage place (blood bank)"
+		]
+	},
+	{
+		"word": "Banknote",
+		"definitions": [
+			"Piece of paper money"
+		]
+	},
+	{
+		"word": "Bankrupt",
+		"definitions": [
+			"Legally declared insolvent",
+			"Exhausted or drained (of emotion etc.)"
+		]
+	},
+	{
+		"word": "Banksia",
+		"definitions": [
+			"Australian evergreen flowering shrub"
+		]
+	},
+	{
+		"word": "Banner",
+		"definitions": [
+			"Large sign bearing a slogan or design, esp. in a demonstration or procession",
+			"Slogan, esp. political"
+		]
+	},
+	{
+		"word": "Banner headline",
+		"definitions": [
+			"Large, esp. front-page, newspaper headline"
+		]
+	},
+	{
+		"word": "Bannister",
+		"definitions": [
+			"Var. of *banister*"
+		]
+	},
+	{
+		"word": "Bannock",
+		"definitions": [
+			"Round flat loaf, usu. unleavened"
+		]
+	},
+	{
+		"word": "Banns",
+		"definitions": [
+			"Notice announcing an intended marriage, read out in a parish church"
+		]
+	},
+	{
+		"word": "Banquet",
+		"definitions": [
+			"Sumptuous, esp. formal, feast or dinner",
+			"Attend, or entertain with, a banquet; feast"
+		]
+	},
+	{
+		"word": "Banquette",
+		"definitions": [
+			"Upholstered bench, esp. in a restaurant or bar"
+		]
+	},
+	{
+		"word": "Banshee",
+		"definitions": [
+			"Wailing female spirit warning of death in a house"
+		]
+	},
+	{
+		"word": "Bantam",
+		"definitions": [
+			"A kind of small domestic fowl",
+			"Small but aggressive person"
+		]
+	},
+	{
+		"word": "Bantamweight",
+		"definitions": [
+			"Weight in certain sports between flyweight and featherweight, in amateur boxing 51–54 kg",
+			"Sportsman of this weight"
+		]
+	},
+	{
+		"word": "Banter",
+		"definitions": [
+			"Good-humoured teasing",
+			"Tease"
+		]
+	},
+	{
+		"word": "Bantu",
+		"definitions": [
+			"Member of a large group of central and southern African blacks",
+			"Group of languages spoken by them"
+		]
+	},
+	{
+		"word": "Bantustan",
+		"definitions": [
+			"S. Afr. Often offensive, *homeland 2*"
+		]
+	},
+	{
+		"word": "Banyan",
+		"definitions": [
+			"Indian fig tree with self-rooting branches"
+		]
+	},
+	{
+		"word": "Baobab",
+		"definitions": [
+			"African tree with a massive trunk and large pulpy fruit"
+		]
+	},
+	{
+		"word": "Bap",
+		"definitions": [
+			"Soft flattish bread roll"
+		]
+	},
+	{
+		"word": "Baptism",
+		"definitions": [
+			"Symbolic admission to the Christian church, with water and usu. name-giving",
+			"Baptismal: Of or relating to baptism"
+		]
+	},
+	{
+		"word": "Baptism of fire",
+		"definitions": [
+			"Initiation into battle",
+			"Painful initiation into an activity"
+		]
+	},
+	{
+		"word": "Baptist",
+		"definitions": [
+			"Person who baptizes, esp. John the Baptist",
+			"Christian advocating baptism by total immersion"
+		]
+	},
+	{
+		"word": "Baptistery",
+		"definitions": [
+			"Part of a church used for baptism",
+			"Separate building used for baptism"
+		]
+	},
+	{
+		"word": "Baptize",
+		"definitions": [
+			"Administer baptism to",
+			"Give a name or nickname to"
+		]
+	},
+	{
+		"word": "Bar1",
+		"definitions": [
+			"Long piece of rigid material, esp. Used to confine or obstruct",
+			"Something of similar form (bar of soap; bar of chocolate)",
+			"Band of colour or light",
+			"Heating element of an electric fire",
+			"Metal strip below the clasp of a medal, awarded as an extra distinction",
+			"Heraldry narrow horizontal stripe across a shield",
+			"Counter for serving alcohol etc.",
+			"Room or building containing it",
+			"Small shop or stall serving refreshments",
+			"Counter for a special service",
+			"Barrier",
+			"Restriction (colour bar; bar to promotion)",
+			"Prisoner's enclosure in a lawcourt",
+			"Any of the sections into which a piece of music is divided by vertical lines",
+			"The bar law a barristers collectively",
+			"Profession of barrister"
+		]
+	},
+	{
+		"word": "Bar2",
+		"definitions": [
+			"Unit of pressure, 105 newtons per square metre, approx. One atmosphere"
+		]
+	},
+	{
+		"word": "Barathea",
+		"definitions": [
+			"Fine wool cloth"
+		]
+	},
+	{
+		"word": "Barb",
+		"definitions": [
+			"Secondary backward-facing projection from an arrow, fish-hook, etc.",
+			"Hurtful remark",
+			"Fleshy filament at the mouth of some fish",
+			"Fit with a barb",
+			"(as barbed) (of a remark etc.) Deliberately hurtful"
+		]
+	},
+	{
+		"word": "Barbarian",
+		"definitions": [
+			"Uncultured or brutish person",
+			"Member of a primitive tribe etc.",
+			"Rough and uncultured",
+			"Uncivilized"
+		]
+	},
+	{
+		"word": "Barbaric",
+		"definitions": [
+			"Uncultured; brutal, cruel",
+			"Primitive"
+		]
+	},
+	{
+		"word": "Barbarism",
+		"definitions": [
+			"Barbaric state or act",
+			"Non-standard word or expression"
+		]
+	},
+	{
+		"word": "Barbarity",
+		"definitions": [
+			"Savage cruelty",
+			"Brutal act"
+		]
+	},
+	{
+		"word": "Barbarous",
+		"definitions": [
+			"Uncultured",
+			"Uncivilized"
+		]
+	},
+	{
+		"word": "Barbecue",
+		"definitions": [
+			"A meal cooked over charcoal etc. out of doors",
+			"Party for this",
+			"Grill etc. used for this",
+			"Cook on a barbecue"
+		]
+	},
+	{
+		"word": "Barbed wire",
+		"definitions": [
+			"Wire with interwoven sharp spikes, used in fences and barriers"
+		]
+	},
+	{
+		"word": "Barbel",
+		"definitions": [
+			"Freshwater fish with barbs",
+			"Barb n.3"
+		]
+	},
+	{
+		"word": "Barbell",
+		"definitions": [
+			"Iron bar with removable weights at each end, used for weightlifting"
+		]
+	},
+	{
+		"word": "Barber",
+		"definitions": [
+			"Person who cuts men's hair etc. by profession"
+		]
+	},
+	{
+		"word": "Barberry",
+		"definitions": [
+			"Shrub with yellow flowers and red berries",
+			"Its berry"
+		]
+	},
+	{
+		"word": "Barber-shop",
+		"definitions": [
+			"Close harmony singing for four male voices"
+		]
+	},
+	{
+		"word": "Barber's pole",
+		"definitions": [
+			"Pole with spiral red and white stripes as a barber's sign"
+		]
+	},
+	{
+		"word": "Barbican",
+		"definitions": [
+			"Outer defence, esp. A double tower above a gate or drawbridge"
+		]
+	},
+	{
+		"word": "Barbie",
+		"definitions": [
+			"Slang barbecue"
+		]
+	},
+	{
+		"word": "Bar billiards",
+		"definitions": [
+			"Form of billiards with holes in the table"
+		]
+	},
+	{
+		"word": "Barbiturate",
+		"definitions": [
+			"Soporific or sedative drug from barbituric acid"
+		]
+	},
+	{
+		"word": "Barbituric acid",
+		"definitions": [
+			"Organic acid from which barbiturates are derived"
+		]
+	},
+	{
+		"word": "Barbour",
+		"definitions": [
+			"Type of green waxed jacket"
+		]
+	},
+	{
+		"word": "Barcarole",
+		"definitions": [
+			"Gondoliers' song",
+			"Music imitating this"
+		]
+	},
+	{
+		"word": "Bar code",
+		"definitions": [
+			"Machine-readable striped code on packaging etc."
+		]
+	},
+	{
+		"word": "Bard",
+		"definitions": [
+			"Poet",
+			"Celtic minstrel",
+			"Prizewinner at an eisteddfod"
+		]
+	},
+	{
+		"word": "Bare",
+		"definitions": [
+			"Unclothed or uncovered",
+			"Leafless; unfurnished; empty",
+			"Plain, unadorned",
+			"Scanty, just sufficient",
+			"Uncover, reveal"
+		]
+	},
+	{
+		"word": "Bareback",
+		"definitions": [
+			"Without a saddle"
+		]
+	},
+	{
+		"word": "Barefaced",
+		"definitions": [
+			"Shameless, impudent"
+		]
+	},
+	{
+		"word": "Barefoot",
+		"definitions": [
+			"Wearing nothing on the feet"
+		]
+	},
+	{
+		"word": "Bareheaded",
+		"definitions": [
+			"Wearing nothing on the head"
+		]
+	},
+	{
+		"word": "Barely",
+		"definitions": [
+			"Scarcely",
+			"Scantily"
+		]
+	},
+	{
+		"word": "Bargain",
+		"definitions": [
+			"Agreement on the terms of a sale",
+			"Cheap thing",
+			"Discuss the terms of a sale",
+			"Rely on"
+		]
+	},
+	{
+		"word": "Barge",
+		"definitions": [
+			"Long flat-bottomed cargo boat on a canal or river",
+			"Long ornamental pleasure boat"
+		]
+	},
+	{
+		"word": "Bargeboard",
+		"definitions": [
+			"Board fixed to the gable-end of a roof to hide the ends of the roof timbers"
+		]
+	},
+	{
+		"word": "Bargee",
+		"definitions": [
+			"Person sailing a barge"
+		]
+	},
+	{
+		"word": "Bargepole",
+		"definitions": [
+			"Would not touch with a bargepole refuse to be associated or concerned with"
+		]
+	},
+	{
+		"word": "Baritone",
+		"definitions": [
+			"A second-lowest adult male singing voice",
+			"Singer with this voice"
+		]
+	},
+	{
+		"word": "Barium",
+		"definitions": [
+			"White soft metallic element"
+		]
+	},
+	{
+		"word": "Barium meal",
+		"definitions": [
+			"Mixture swallowed to reveal the abdomen in x-rays"
+		]
+	},
+	{
+		"word": "Bark",
+		"definitions": [
+			"Sharp explosive cry of a dog, fox, etc",
+			"Sound like this"
+		]
+	},
+	{
+		"word": "Barker",
+		"definitions": [
+			"Tout at an auction, sideshow, etc"
+		]
+	},
+	{
+		"word": "Barley",
+		"definitions": [
+			"Cereal used as food and in spirits",
+			"Its grain"
+		]
+	},
+	{
+		"word": "Barley sugar",
+		"definitions": [
+			"Sweet made from sugar, usually in twisted sticks"
+		]
+	},
+	{
+		"word": "Barley water",
+		"definitions": [
+			"Drink made from a boiled barley mixture"
+		]
+	},
+	{
+		"word": "Barm",
+		"definitions": [
+			"Froth on fermenting malt liquor"
+		]
+	},
+	{
+		"word": "Barmaid",
+		"definitions": [
+			"Woman serving in a pub etc"
+		]
+	},
+	{
+		"word": "Barman",
+		"definitions": [
+			"Man serving in a pub etc"
+		]
+	},
+	{
+		"word": "Bar mitzvah",
+		"definitions": [
+			"Religious initiation ceremony of a Jewish boy at 13",
+			"Boy undergoing this"
+		]
+	},
+	{
+		"word": "Barmy",
+		"definitions": [
+			"Crazy, stupid"
+		]
+	},
+	{
+		"word": "Barn",
+		"definitions": [
+			"Large farm building for storing grain etc"
+		]
+	},
+	{
+		"word": "Barnacle",
+		"definitions": [
+			"Marine crustacean clinging to rocks, ships' bottoms, etc",
+			"Tenacious attendant or follower"
+		]
+	},
+	{
+		"word": "Barnacle goose",
+		"definitions": [
+			"Arctic goose"
+		]
+	},
+	{
+		"word": "Barn dance",
+		"definitions": [
+			"Informal gathering for country dancing",
+			"A kind of country dance"
+		]
+	},
+	{
+		"word": "Barney",
+		"definitions": [
+			"Noisy quarrel"
+		]
+	},
+	{
+		"word": "Barn-owl",
+		"definitions": [
+			"A kind of owl frequenting barns"
+		]
+	},
+	{
+		"word": "Barnstorm",
+		"definitions": [
+			"Tour rural areas as an actor or political campaigner"
+		]
+	},
+	{
+		"word": "Barnyard",
+		"definitions": [
+			"Area around a barn"
+		]
+	},
+	{
+		"word": "Barograph",
+		"definitions": [
+			"Barometer equipped to record its readings"
+		]
+	},
+	{
+		"word": "Barometer",
+		"definitions": [
+			"Instrument measuring atmospheric pressure, used in meteorology",
+			"Anything which reflects change"
+		]
+	},
+	{
+		"word": "Baron",
+		"definitions": [
+			"Member of the lowest order of the British or foreign nobility",
+			"Powerful businessman, entrepreneur, etc"
+		]
+	},
+	{
+		"word": "Baroness",
+		"definitions": [
+			"Woman holding the rank of baron",
+			"Baron's wife or widow"
+		]
+	},
+	{
+		"word": "Baronet",
+		"definitions": [
+			"Member of the lowest hereditary titled British order"
+		]
+	},
+	{
+		"word": "Baron of beef",
+		"definitions": [
+			"Double sirloin"
+		]
+	},
+	{
+		"word": "Barony",
+		"definitions": [
+			"Domain or rank of a baron"
+		]
+	},
+	{
+		"word": "Baroque",
+		"definitions": [
+			"Highly ornate and extravagant in style, especially of European art etc. of the 17th and 18th c",
+			"Of this period"
+		]
+	},
+	{
+		"word": "Bar person",
+		"definitions": [
+			"Barmaid or barman"
+		]
+	},
+	{
+		"word": "Barque",
+		"definitions": [
+			"Sailing-ship with the rear mast fore-and-aft rigged and other masts square-rigged",
+			"Poet. Boat"
+		]
+	},
+	{
+		"word": "Barrack",
+		"definitions": [
+			"Housing for soldiers",
+			"Large bleak building"
+		]
+	},
+	{
+		"word": "Barrack",
+		"definitions": [
+			"Shout or jeer at (players, a speaker, etc.)",
+			"Cheer for, encourage (a team etc.)"
+		]
+	},
+	{
+		"word": "Barracouta",
+		"definitions": [
+			"Long slender fish of southern oceans"
+		]
+	},
+	{
+		"word": "Barracuda",
+		"definitions": [
+			"Large tropical marine fish"
+		]
+	},
+	{
+		"word": "Barrage",
+		"definitions": [
+			"Concentrated artillery bombardment",
+			"Rapid succession of questions or criticisms",
+			"Artificial barrier in a river etc"
+		]
+	},
+	{
+		"word": "Barrage balloon",
+		"definitions": [
+			"Large anchored balloon used as a defence against low-flying aircraft"
+		]
+	},
+	{
+		"word": "Barratry",
+		"definitions": [
+			"Fraud or gross negligence by a ship's master or crew"
+		]
+	},
+	{
+		"word": "Barre",
+		"definitions": [
+			"Horizontal bar at waist level, used in dance exercises"
+		]
+	},
+	{
+		"word": "Barré",
+		"definitions": [
+			"Method of playing a chord on the guitar etc. with a finger laid across the strings at a particular fret"
+		]
+	},
+	{
+		"word": "Barrel",
+		"definitions": [
+			"Cylindrical usually convex container",
+			"Its contents",
+			"Measure of capacity (30 to 40 gallons)",
+			"Cylindrical tube forming part of an object, e.g. a gun or a pen"
+		]
+	},
+	{
+		"word": "Barrel-organ",
+		"definitions": [
+			"Mechanical musical instrument with a rotating pin-studded cylinder"
+		]
+	},
+	{
+		"word": "Barren",
+		"definitions": [
+			"Unable to bear young",
+			"Unproductive, unprofitable, dull"
+		]
+	},
+	{
+		"word": "Barricade",
+		"definitions": [
+			"Barrier, especially improvised",
+			"Block or defend with this"
+		]
+	},
+	{
+		"word": "Barrier",
+		"definitions": [
+			"Fence etc. that bars advance or access",
+			"Obstacle (class barriers)"
+		]
+	},
+	{
+		"word": "Barrier cream",
+		"definitions": [
+			"Protective skin cream"
+		]
+	},
+	{
+		"word": "Barrier reef",
+		"definitions": [
+			"Coral reef separated from the shore by a channel"
+		]
+	},
+	{
+		"word": "Barring",
+		"definitions": [
+			"Except, not including"
+		]
+	},
+	{
+		"word": "Barrister",
+		"definitions": [
+			"Advocate entitled to practise in the higher courts"
+		]
+	},
+	{
+		"word": "Barrow",
+		"definitions": [
+			"Two-wheeled handcart",
+			"Wheelbarrow"
+		]
+	},
+	{
+		"word": "Barrow",
+		"definitions": [
+			"Ancient grave-mound"
+		]
+	},
+	{
+		"word": "Bar sinister",
+		"definitions": [
+			"Bend sinister"
+		]
+	},
+	{
+		"word": "Bartender",
+		"definitions": [
+			"Person serving in a pub etc"
+		]
+	},
+	{
+		"word": "Barter",
+		"definitions": [
+			"Trade in goods without using money",
+			"Exchange (goods)"
+		]
+	},
+	{
+		"word": "Baryon",
+		"definitions": [
+			"Heavy elementary particle (i.e. A nucleon or a hyperon)"
+		]
+	},
+	{
+		"word": "Baryta",
+		"definitions": [
+			"Barium oxide or hydroxide"
 		]
 	}
 ]
