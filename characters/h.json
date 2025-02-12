@@ -1,9 +1,1314 @@
 [
 	{
-		"word": "<word>",
+		"word": "H1",
 		"definitions": [
-			"<definition1>",
-			"<definition2>"
+			"Eighth letter of the alphabet",
+			"Anything having the form of an h (esp. In comb.: h-girder)"
+		]
+	},
+	{
+		"word": "H2",
+		"definitions": [
+			"(of a pencil-lead) Hard",
+			"(water) Hydrant",
+			"Slang Heroin",
+			"Henry(s)"
+		]
+	},
+	{
+		"word": "H3",
+		"definitions": [
+			"Hydrogen"
+		]
+	},
+	{
+		"word": "H.",
+		"definitions": [
+			"Hecto-",
+			"Height",
+			"Hot",
+			"Hour(s)"
+		]
+	},
+	{
+		"word": "Ha",
+		"definitions": [
+			"Hahnium"
+		]
+	},
+	{
+		"word": "Ha1",
+		"definitions": [
+			"Expressing surprise, derision, triumph, etc.",
+			"In hum and ha: see *hum"
+		]
+	},
+	{
+		"word": "Ha2",
+		"definitions": [
+			"Hectare(s)"
+		]
+	},
+	{
+		"word": "Habeas",
+		"definitions": [
+			"Writ requiring a person to be brought before a judge or into court, esp. To investigate the lawfulness of his or her detention"
+		]
+	},
+	{
+		"word": "corpus",
+		"definitions": [
+			"Writ requiring a person to be brought before a judge or into court, esp. To investigate the lawfulness of his or her detention"
+		]
+	},
+	{
+		"word": "Haberdasher",
+		"definitions": [
+			"Dealer in dress accessories and sewing-goods"
+		]
+	},
+	{
+		"word": "Haberdashery",
+		"definitions": [
+			"Dealer in dress accessories and sewing-goods"
+		]
+	},
+	{
+		"word": "Habiliment",
+		"definitions": [
+			"Archaic clothes"
+		]
+	},
+	{
+		"word": "Habit",
+		"definitions": [
+			"Settled or regular tendency or practice",
+			"Practice that is hard to give up",
+			"Mental constitution or attitude",
+			"Dress, esp. Of a religious order"
+		]
+	},
+	{
+		"word": "Habitable",
+		"definitions": [
+			"Suitable for living in",
+			"Habitability"
+		]
+	},
+	{
+		"word": "Habitat",
+		"definitions": [
+			"Natural home of an animal or plant"
+		]
+	},
+	{
+		"word": "Habitation",
+		"definitions": [
+			"Inhabiting (fit for habitation)",
+			"House or home"
+		]
+	},
+	{
+		"word": "Habit-forming",
+		"definitions": [
+			"Causing addiction"
+		]
+	},
+	{
+		"word": "Habitual",
+		"definitions": [
+			"Done constantly or as a habit",
+			"Regular, usual",
+			"Given to a (specified) habit"
+		]
+	},
+	{
+		"word": "Habituate",
+		"definitions": [
+			"Accustom",
+			"Habituation"
+		]
+	},
+	{
+		"word": "Habitué",
+		"definitions": [
+			"Habitual visitor or resident"
+		]
+	},
+	{
+		"word": "Hácek",
+		"definitions": [
+			"Diacritic placed over a letter to modify its sound in some languages"
+		]
+	},
+	{
+		"word": "Hachures",
+		"definitions": [
+			"Parallel lines on a map indicating the degree of steepness of hills"
+		]
+	},
+	{
+		"word": "Hacienda",
+		"definitions": [
+			"Estate with a dwelling-house"
+		]
+	},
+	{
+		"word": "Hack1",
+		"definitions": [
+			"Cut or chop roughly",
+			"Football etc. Kick the shin of (an opponent)",
+			"Deliver cutting blows",
+			"Cut through foliage",
+			"Colloq. Gain unauthorized access to (data in a computer)",
+			"Slang manage, cope with; tolerate",
+			"(as hacking adj.) (of a cough) Short, dry, and frequent",
+			"Make one's hackles rise cause one to be angry or indignant"
+		]
+	},
+	{
+		"word": "Hackney",
+		"definitions": [
+			"Horse for ordinary riding"
+		]
+	},
+	{
+		"word": "carriage",
+		"definitions": [
+			"Taxi"
+		]
+	},
+	{
+		"word": "Hackneyed",
+		"definitions": [
+			"(of a phrase etc.) Made trite by overuse"
+		]
+	},
+	{
+		"word": "Hacksaw",
+		"definitions": [
+			"Saw with a narrow blade set in a frame, for cutting metal"
+		]
+	},
+	{
+		"word": "Had",
+		"definitions": [
+			"Past and past part. of *have"
+		]
+	},
+	{
+		"word": "Haddock",
+		"definitions": [
+			"Atlantic marine fish used as food"
+		]
+	},
+	{
+		"word": "Hades",
+		"definitions": [
+			"(in Greek mythology) The underworld"
+		]
+	},
+	{
+		"word": "Hadj",
+		"definitions": [
+			"Var. of *hajj"
+		]
+	},
+	{
+		"word": "Hadji",
+		"definitions": [
+			"Var. of *hajji"
+		]
+	},
+	{
+		"word": "Hadn't",
+		"definitions": [
+			"Contr. Had not"
+		]
+	},
+	{
+		"word": "Haemal",
+		"definitions": [
+			"Of the blood"
+		]
+	},
+	{
+		"word": "Haematite",
+		"definitions": [
+			"A ferric oxide ore"
+		]
+	},
+	{
+		"word": "Haft",
+		"definitions": [
+			"Handle of a dagger, knife, etc."
+		]
+	},
+	{
+		"word": "Hag",
+		"definitions": [
+			"Ugly old woman",
+			"Witch"
+		]
+	},
+	{
+		"word": "Haggard",
+		"definitions": [
+			"Looking exhausted and distraught"
+		]
+	},
+	{
+		"word": "Haggis",
+		"definitions": [
+			"Scottish dish of offal boiled in a sheep's stomach with suet, oatmeal, etc."
+		]
+	},
+	{
+		"word": "Haggle",
+		"definitions": [
+			"Bargain persistently",
+			"Haggling"
+		]
+	},
+	{
+		"word": "Hagio-",
+		"definitions": [
+			"Form of saints"
+		]
+	},
+	{
+		"word": "Hagiography",
+		"definitions": [
+			"Writing about saints' lives",
+			"Hagiographer"
+		]
+	},
+	{
+		"word": "Hagiology",
+		"definitions": [
+			"Literature dealing with the lives and legends of saints"
+		]
+	},
+	{
+		"word": "Hagridden",
+		"definitions": [
+			"Afflicted by nightmares or anxieties"
+		]
+	},
+	{
+		"word": "Hah",
+		"definitions": [
+			"Var. of *ha1"
+		]
+	},
+	{
+		"word": "ha",
+		"definitions": [
+			"Representing laughter (iron. When spoken)"
+		]
+	},
+	{
+		"word": "Ha-ha",
+		"definitions": [
+			"Ditch with a wall in it, forming a boundary or fence without interrupting the view"
+		]
+	},
+	{
+		"word": "Hahnium",
+		"definitions": [
+			"Artificially produced radioactive element"
+		]
+	},
+	{
+		"word": "Haiku",
+		"definitions": [
+			"Japanese three-part poem of usu. 17 syllables",
+			"Traditional form of poetry originating from Japan"
+		]
+	},
+	{
+		"word": "Hail1",
+		"definitions": [
+			"Pellets of frozen rain",
+			"Barrage or onslaught"
+		]
+	},
+	{
+		"word": "Hail2",
+		"definitions": [
+			"Signal to (a taxi etc.) to stop",
+			"Greet enthusiastically"
+		]
+	},
+	{
+		"word": "Hail-fellow-well-met",
+		"definitions": [
+			"Friendly, esp. too friendly towards strangers"
+		]
+	},
+	{
+		"word": "Hail",
+		"definitions": [
+			"The Ave Maria"
+		]
+	},
+	{
+		"word": "Hailstone",
+		"definitions": [
+			"Pellet of hail"
+		]
+	},
+	{
+		"word": "Hailstorm",
+		"definitions": [
+			"Period of heavy hail"
+		]
+	},
+	{
+		"word": "Hair",
+		"definitions": [
+			"Any of the fine threadlike strands growing from the skin of mammals, esp. from the human head",
+			"Very small quantity or extent"
+		]
+	},
+	{
+		"word": "Hairbrush",
+		"definitions": [
+			"Brush for tidying the hair"
+		]
+	},
+	{
+		"word": "Haircloth",
+		"definitions": [
+			"Stiff cloth woven from hair"
+		]
+	},
+	{
+		"word": "Haircut",
+		"definitions": [
+			"Act of cutting the hair",
+			"Style in which the hair is cut"
+		]
+	},
+	{
+		"word": "Hairdo",
+		"definitions": [
+			"Style of or act of styling the hair"
+		]
+	},
+	{
+		"word": "Hairdresser",
+		"definitions": [
+			"Person who cuts and styles the hair, esp. for a living",
+			"Hairdresser's shop"
+		]
+	},
+	{
+		"word": "Hair-drier",
+		"definitions": [
+			"Device for drying the hair with warm air"
+		]
+	},
+	{
+		"word": "Hairgrip",
+		"definitions": [
+			"Flat hairpin with the ends close together"
+		]
+	},
+	{
+		"word": "Hairline",
+		"definitions": [
+			"Edge of a person's hair, esp. on the forehead",
+			"Very narrow line, crack"
+		]
+	},
+	{
+		"word": "Hairnet",
+		"definitions": [
+			"Piece of netting for confining the hair"
+		]
+	},
+	{
+		"word": "Hair",
+		"definitions": [
+			"Further alcoholic drink taken to cure the effects of drink"
+		]
+	},
+	{
+		"word": "Hairpiece",
+		"definitions": [
+			"Quantity of hair augmenting a person's natural hair"
+		]
+	},
+	{
+		"word": "Hairpin",
+		"definitions": [
+			"U-shaped pin for fastening the hair"
+		]
+	},
+	{
+		"word": "bend",
+		"definitions": [
+			"Sharp U-shaped bend in a road"
+		]
+	},
+	{
+		"word": "Hair-raising",
+		"definitions": [
+			"Terrifying"
+		]
+	},
+	{
+		"word": "Hair's",
+		"definitions": [
+			"A tiny amount or margin"
+		]
+	},
+	{
+		"word": "breadth",
+		"definitions": [
+			"A tiny amount or margin"
+		]
+	},
+	{
+		"word": "Hair",
+		"definitions": [
+			"Shirt of haircloth, worn formerly by penitents and ascetics"
+		]
+	},
+	{
+		"word": "Hair-slide",
+		"definitions": [
+			"Clip for keeping the hair in place"
+		]
+	},
+	{
+		"word": "Hair-splitting",
+		"definitions": [
+			"Quibbling"
+		]
+	},
+	{
+		"word": "Hairspray",
+		"definitions": [
+			"Liquid sprayed on the hair to keep it in place"
+		]
+	},
+	{
+		"word": "Hairspring",
+		"definitions": [
+			"Fine spring regulating the balance-wheel in a watch"
+		]
+	},
+	{
+		"word": "Hairstyle",
+		"definitions": [
+			"Particular way of arranging the hair"
+		]
+	},
+	{
+		"word": "Hair-trigger",
+		"definitions": [
+			"Trigger of a firearm set for release at the slightest pressure"
+		]
+	},
+	{
+		"word": "Hairy",
+		"definitions": [
+			"Covered with hair",
+			"Frightening, dangerous"
+		]
+	},
+	{
+		"word": "Hajj",
+		"definitions": [
+			"Islamic pilgrimage to Mecca"
+		]
+	},
+	{
+		"word": "Hajji",
+		"definitions": [
+			"Muslim who has made the pilgrimage to Mecca"
+		]
+	},
+	{
+		"word": "Haka",
+		"definitions": [
+			"Maori ceremonial war dance with chanting",
+			"Imitation of this by a sports team before a match"
+		]
+	},
+	{
+		"word": "Hake",
+		"definitions": [
+			"Marine fish resembling the cod, used as food"
+		]
+	},
+	{
+		"word": "Halal",
+		"definitions": [
+			"Meat from an animal killed according to Muslim law"
+		]
+	},
+	{
+		"word": "Halberd",
+		"definitions": [
+			"Combined spear and battleaxe"
+		]
+	},
+	{
+		"word": "Halcyon",
+		"definitions": [
+			"Calm, peaceful, happy"
+		]
+	},
+	{
+		"word": "Hale",
+		"definitions": [
+			"Strong and healthy"
+		]
+	},
+	{
+		"word": "Half",
+		"definitions": [
+			"Either of two equal parts into which a thing is divided",
+			"Amounting to half"
+		]
+	},
+	{
+		"word": "Half-and-half",
+		"definitions": [
+			"Being half one thing and half another"
+		]
+	},
+	{
+		"word": "Half-truth",
+		"definitions": [
+			"Statement that (esp. deliberately) conveys only part of the truth"
+		]
+	},
+	{
+		"word": "Half-volley",
+		"definitions": [
+			"(In ball games) playing of the ball as soon as it bounces off the ground"
+		]
+	},
+	{
+		"word": "Halfway",
+		"definitions": [
+			"At a point midway between two others (halfway to Rome)",
+			"To some extent, more or less (is halfway acceptable)",
+			"Situated halfway (reached a halfway point)"
+		]
+	},
+	{
+		"word": "Halfway",
+		"definitions": [
+			"Compromise",
+			"Halfway point in a progression",
+			"Centre for rehabilitating ex-prisoners etc.",
+			"Inn midway between two towns"
+		]
+	},
+	{
+		"word": "house",
+		"definitions": [
+			"Compromise",
+			"Halfway point in a progression",
+			"Centre for rehabilitating ex-prisoners etc.",
+			"Inn midway between two towns"
+		]
+	},
+	{
+		"word": "Halfwit",
+		"definitions": [
+			"Foolish or stupid person",
+			"Halfwitted adj."
+		]
+	},
+	{
+		"word": "Halibut",
+		"definitions": [
+			"Large marine flat-fish used as food"
+		]
+	},
+	{
+		"word": "Halitosis",
+		"definitions": [
+			"*Bad breath"
+		]
+	},
+	{
+		"word": "Hall",
+		"definitions": [
+			"Area into which the front entrance of a house etc. Opens",
+			"Large room or building for meetings, concerts, etc.",
+			"Large country house or estate",
+			"(In full hall of residence) residence for students",
+			"(In a college etc.) Dining-room",
+			"(In full hall of residence) residence for students",
+			"Premises of a guild (fishmongers' hall)",
+			"Large public room in a palace etc."
+		]
+	},
+	{
+		"word": "Hallal",
+		"definitions": [
+			"Var. of *halal"
+		]
+	},
+	{
+		"word": "Hallelujah",
+		"definitions": [
+			"Var. of *alleluia"
+		]
+	},
+	{
+		"word": "Halliard",
+		"definitions": [
+			"Var. of *halyard"
+		]
+	},
+	{
+		"word": "Hallmark",
+		"definitions": [
+			"Mark Indicating The Standard Of Gold, Silver, And Platinum",
+			"Distinctive Feature"
+		]
+	},
+	{
+		"word": "Hallo",
+		"definitions": [
+			"Var. Of *Hello"
+		]
+	},
+	{
+		"word": "Halloo",
+		"definitions": [
+			"Inciting Dogs To The Chase Or Calling Attention"
+		]
+	},
+	{
+		"word": "Hallow",
+		"definitions": [
+			"Make Holy, Consecrate",
+			"Honour As Holy"
+		]
+	},
+	{
+		"word": "Hallowe'en",
+		"definitions": [
+			"Eve Of All Saints' Day, 31 Oct"
+		]
+	},
+	{
+		"word": "Hallucinate",
+		"definitions": [
+			"Experience Hallucinations"
+		]
+	},
+	{
+		"word": "Hallucination",
+		"definitions": [
+			"Illusion Of Seeing Or Hearing Something Not Actually Present"
+		]
+	},
+	{
+		"word": "Hallucinogen",
+		"definitions": [
+			"Drug Causing Hallucinations"
+		]
+	},
+	{
+		"word": "Hallway",
+		"definitions": [
+			"Space or passage between the entrance and the interior of the house"
+		]
+	},
+	{
+		"word": "Hammer",
+		"definitions": [
+			"Colloq. With Great Vigour And Commotion"
+		]
+	},
+	{
+		"word": "tongs",
+		"definitions": [
+			"Colloq. With Great Vigour And Commotion"
+		]
+	},
+	{
+		"word": "Hammerhead",
+		"definitions": [
+			"Shark With A Flattened Head And With Eyes In Lateral Extensions Of It"
+		]
+	},
+	{
+		"word": "Hammerlock",
+		"definitions": [
+			"Wrestling Hold In Which The Arm Is Twisted And Bent Behind The Back"
+		]
+	},
+	{
+		"word": "Hammer-toe",
+		"definitions": [
+			"Toe Bent Permanently Downwards"
+		]
+	},
+	{
+		"word": "Hammock",
+		"definitions": [
+			"Bed Of Canvas Or Rope Network Suspended By Cords At The Ends"
+		]
+	},
+	{
+		"word": "Hammy",
+		"definitions": [
+			"Colloq. Over-Theatrical"
+		]
+	},
+	{
+		"word": "Hamper1",
+		"definitions": [
+			"Large Basket, Usu. With A Hinged Lid And Containing Food"
+		]
+	},
+	{
+		"word": "Hamper2",
+		"definitions": [
+			"Prevent The Free Movement Of; Hinder"
+		]
+	},
+	{
+		"word": "Handbill",
+		"definitions": [
+			"Printed Notice Distributed By Hand"
+		]
+	},
+	{
+		"word": "Handbook",
+		"definitions": [
+			"Short Manual Or Guidebook"
+		]
+	},
+	{
+		"word": "Handbrake",
+		"definitions": [
+			"Brake operated by hand"
+		]
+	},
+	{
+		"word": "H.",
+		"definitions": [
+			"Hot and cold (water)"
+		]
+	},
+	{
+		"word": "Handcart",
+		"definitions": [
+			"Small cart pushed or drawn by hand"
+		]
+	},
+	{
+		"word": "Handclap",
+		"definitions": [
+			"Clapping of the hands"
+		]
+	},
+	{
+		"word": "Handcraft",
+		"definitions": [
+			"Work requiring manual and artistic skill",
+			"Make by handicraft"
+		]
+	},
+	{
+		"word": "Handcuff",
+		"definitions": [
+			"Each of a pair of linked metal rings for securing a prisoner's wrist(s)",
+			"Put handcuffs on"
+		]
+	},
+	{
+		"word": "Handful",
+		"definitions": [
+			"Quantity that fills the hand",
+			"Small number or amount",
+			"Troublesome person or task"
+		]
+	},
+	{
+		"word": "Handlebar",
+		"definitions": [
+			"Steering-bar of a bicycle etc."
+		]
+	},
+	{
+		"word": "moustache",
+		"definitions": [
+			"Thick moustache with curved ends"
+		]
+	},
+	{
+		"word": "Handler",
+		"definitions": [
+			"Person who handles or deals in something",
+			"Person who trains and looks after an animal (esp. a police dog)"
+		]
+	},
+	{
+		"word": "Handmade",
+		"definitions": [
+			"Made by hand (as opposed to machine)"
+		]
+	},
+	{
+		"word": "Handmaid",
+		"definitions": [
+			"Archaic female servant"
+		]
+	},
+	{
+		"word": "Hand-me-down",
+		"definitions": [
+			"Article of clothing etc. passed on from another person"
+		]
+	},
+	{
+		"word": "Hand-out",
+		"definitions": [
+			"Thing given free to a needy person",
+			"Statement given to the press etc."
+		]
+	},
+	{
+		"word": "Hand-over",
+		"definitions": [
+			"Handing over"
+		]
+	},
+	{
+		"word": "Hand-over-fist",
+		"definitions": [
+			"With rapid progress"
+		]
+	},
+	{
+		"word": "Hand-pick",
+		"definitions": [
+			"Choose carefully or personally"
+		]
+	},
+	{
+		"word": "Handrail",
+		"definitions": [
+			"Narrow rail for holding as a support"
+		]
+	},
+	{
+		"word": "Handsaw",
+		"definitions": [
+			"Saw worked by one hand",
+			"A tool used for cutting wood or other materials by hand"
+		]
+	},
+	{
+		"word": "Handset",
+		"definitions": [
+			"Telephone mouthpiece and earpiece as one unit",
+			"Part of a telephone system held in hand"
+		]
+	},
+	{
+		"word": "Handshake",
+		"definitions": [
+			"Clasping of a person's hand as a greeting etc",
+			"A gesture of greeting or agreement"
+		]
+	},
+	{
+		"word": "Hands",
+		"definitions": [
+			"Warning not to touch or interfere with something",
+			"Not requiring the manual use of controls"
+		]
+	},
+	{
+		"word": "off",
+		"definitions": [
+			"Warning not to touch or interfere with something",
+			"Not requiring the manual use of controls"
+		]
+	},
+	{
+		"word": "Handsome",
+		"definitions": [
+			"(usu. Of a man) Good-looking",
+			"Generous or considerable in amount"
+		]
+	},
+	{
+		"word": "Hands",
+		"definitions": [
+			"Of or requiring personal operation at a keyboard",
+			"Practical rather than theoretical"
+		]
+	},
+	{
+		"word": "on",
+		"definitions": [
+			"Of or requiring personal operation at a keyboard",
+			"Practical rather than theoretical"
+		]
+	},
+	{
+		"word": "Handspring",
+		"definitions": [
+			"Gymnastic feat consisting of a handstand, somersaulting, and landing in a standing position",
+			"A form of acrobatic movement"
+		]
+	},
+	{
+		"word": "Handstand",
+		"definitions": [
+			"Supporting oneself on one's hands with one's feet in the air",
+			"A gymnastic position involving balancing on hands"
+		]
+	},
+	{
+		"word": "Hand-to-hand",
+		"definitions": [
+			"(of fighting) At close quarters",
+			"Involving direct physical contact"
+		]
+	},
+	{
+		"word": "Handwork",
+		"definitions": [
+			"Work done with the hands",
+			"Manual labor or craftsmanship"
+		]
+	},
+	{
+		"word": "Handwriting",
+		"definitions": [
+			"Writing done with a pen, pencil, etc",
+			"A person's particular style of writing"
+		]
+	},
+	{
+		"word": "Handy",
+		"definitions": [
+			"Convenient to handle or use",
+			"Clever with the hands"
+		]
+	},
+	{
+		"word": "Handyman",
+		"definitions": [
+			"Person able to do occasional repairs etc",
+			"A person skilled in various small tasks"
+		]
+	},
+	{
+		"word": "Hang",
+		"definitions": [
+			"Secure or cause to be supported from above, esp. With the lower part free",
+			"Attach by suspending from the top"
+		]
+	},
+	{
+		"word": "Hangar",
+		"definitions": [
+			"Building for housing aircraft etc",
+			"A large structure used for storing vehicles, usually aircraft"
+		]
+	},
+	{
+		"word": "Hank",
+		"definitions": [
+			"Coil or skein of wool or thread etc",
+			"A small bundle or loop of material"
+		]
+	},
+	{
+		"word": "Hanker",
+		"definitions": [
+			"Long for; crave",
+			"To have a strong desire for something"
+		]
+	},
+	{
+		"word": "Hanky",
+		"definitions": [
+			"Colloq. Handkerchief",
+			"A small piece of cloth used for wiping the face or hands"
+		]
+	},
+	{
+		"word": "Hanky-panky",
+		"definitions": [
+			"Naughtiness, esp. Sexual",
+			"Trickery or deceitful behavior"
+		]
+	},
+	{
+		"word": "Hanoverian",
+		"definitions": [
+			"Of British sovereigns from George I to Victoria",
+			"Relating to the dynasty or era in British history"
+		]
+	},
+	{
+		"word": "Hansard",
+		"definitions": [
+			"Official verbatim record of debates in the British Parliament",
+			"The written transcript of parliamentary proceedings"
+		]
+	},
+	{
+		"word": "Hansen's",
+		"definitions": [
+			"Leprosy",
+			"A chronic infectious disease caused by bacteria"
+		]
+	},
+	{
+		"word": "disease",
+		"definitions": [
+			"Leprosy",
+			"A chronic infectious disease caused by bacteria"
+		]
+	},
+	{
+		"word": "Hansom",
+		"definitions": [
+			"(In full hansom cab) Hist. Two-wheeled horse-drawn cab",
+			"A type of Victorian-era carriage"
+		]
+	},
+	{
+		"word": "Hanukkah",
+		"definitions": [
+			"Jewish festival of lights, commemorating the purification of the temple in 165 BC",
+			"A Jewish holiday celebrated with the lighting of candles on a menorah"
+		]
+	},
+	{
+		"word": "Haphazard",
+		"definitions": [
+			"Done etc. By chance; random",
+			"Lacking any specific planning or organization"
+		]
+	},
+	{
+		"word": "Hapless",
+		"definitions": [
+			"Unlucky",
+			"Lacking good fortune or success"
+		]
+	},
+	{
+		"word": "Haploid",
+		"definitions": [
+			"(Of an organism or cell) With a single set of chromosomes",
+			"Having half the normal number of chromosomes"
+		]
+	},
+	{
+		"word": "Happen",
+		"definitions": [
+			"Occur (by chance or otherwise)",
+			"Encounter or discover by chance"
+		]
+	},
+	{
+		"word": "Happening",
+		"definitions": [
+			"Event",
+			"Improvised or spontaneous performance"
+		]
+	},
+	{
+		"word": "Happy",
+		"definitions": [
+			"Feeling or showing pleasure or contentment",
+			"Characterized by fortunate or positive circumstances"
+		]
+	},
+	{
+		"word": "Happy-go-lucky",
+		"definitions": [
+			"Cheerfully casual",
+			"Having an easygoing attitude, unconcerned with difficulties"
+		]
+	},
+	{
+		"word": "Happy",
+		"definitions": [
+			"Time of the day when goods, esp. Drinks, are sold at reduced prices",
+			"A period of time marked by social gatherings and discounted drinks"
+		]
+	},
+	{
+		"word": "hour",
+		"definitions": [
+			"Time of the day when goods, esp. Drinks, are sold at reduced prices",
+			"A period of time marked by social gatherings and discounted drinks"
+		]
+	},
+	{
+		"word": "Happy",
+		"definitions": [
+			"Compromise; avoidance of extremes",
+			"A balanced or moderate approach to a situation"
+		]
+	},
+	{
+		"word": "medium",
+		"definitions": [
+			"Compromise; avoidance of extremes",
+			"A balanced or moderate approach to a situation"
+		]
+	},
+	{
+		"word": "Hara-kiri",
+		"definitions": [
+			"Ritual suicide by disembowelment with a sword, formerly practised by samurai to avoid dishonour",
+			"A form of self-inflicted death associated with Japanese culture"
+		]
+	},
+	{
+		"word": "Harangue",
+		"definitions": [
+			"Lengthy and earnest speech",
+			"To lecture or criticize someone in a forceful manner"
+		]
+	},
+	{
+		"word": "Harass",
+		"definitions": [
+			"Trouble and annoy continually",
+			"Make repeated attacks on someone or something"
+		]
+	},
+	{
+		"word": "Harbinger",
+		"definitions": [
+			"Person or thing that announces or signals the approach of another",
+			"A forerunner of an event or change"
+		]
+	},
+	{
+		"word": "Harbor",
+		"definitions": [
+			"Place of shelter for ships",
+			"To give refuge or shelter to someone"
+		]
+	},
+	{
+		"word": "Harbour",
+		"definitions": [
+			"Same as harbor (British spelling)",
+			"A place of protection or a safe area for ships"
+		]
+	},
+	{
+		"word": "Harbour-master",
+		"definitions": [
+			"Official in charge of a harbour",
+			"A person responsible for the management and safety of a port"
+		]
+	},
+	{
+		"word": "Hard",
+		"definitions": [
+			"Firm and solid",
+			"Difficult to understand, explain, or accomplish"
+		]
+	},
+	{
+		"word": "Hard",
+		"definitions": [
+			"(Of a rule or distinction) Definite, unalterable, strict",
+			"Not subject to change or exceptions"
+		]
+	},
+	{
+		"word": "and",
+		"definitions": [
+			"(Of a rule or distinction) Definite, unalterable, strict",
+			"Not subject to change or exceptions"
+		]
+	},
+	{
+		"word": "fast",
+		"definitions": [
+			"(Of a rule or distinction) Definite, unalterable, strict",
+			"Not subject to change or exceptions"
+		]
+	},
+	{
+		"word": "Hardback",
+		"definitions": [
+			"Bound in boards covered with cloth etc",
+			"A book with a rigid cover, typically more durable"
+		]
+	},
+	{
+		"word": "Hardbitten",
+		"definitions": [
+			"Colloq. Tough and cynical",
+			"Having a hardened, unfeeling attitude, especially from tough experiences"
+		]
+	},
+	{
+		"word": "Hardboard",
+		"definitions": [
+			"Stiff board made of compressed and treated wood pulp",
+			"A durable material used for construction or as a backing for products"
+		]
+	},
+	{
+		"word": "Hard-boiled",
+		"definitions": [
+			"(Of an egg) Boiled until the white and yolk are solid",
+			"Colloq. (Of a person) Tough, shrewd"
+		]
+	},
+	{
+		"word": "Hard cash",
+		"definitions": [
+			"Negotiable coins and banknotes",
+			"Physical money used in transactions"
+		]
+	},
+	{
+		"word": "Hard copy",
+		"definitions": [
+			"Material printed by a computer on paper",
+			"A tangible version of a document"
+		]
+	},
+	{
+		"word": "Hardcore",
+		"definitions": [
+			"Solid material, esp. Rubble, as road-foundation",
+			"The most committed members of a society etc"
+		]
+	},
+	{
+		"word": "Hard core",
+		"definitions": [
+			"Irreducible nucleus",
+			"Colloq. A conservative or reactionary minority"
+		]
+	},
+	{
+		"word": "Hard-core",
+		"definitions": [
+			"Forming a nucleus",
+			"Blatant, uncompromising"
 		]
 	}
 ]
