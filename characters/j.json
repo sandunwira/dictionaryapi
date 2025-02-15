@@ -1,9 +1,2222 @@
 [
 	{
-		"word": "<word>",
+		"word": "J1",
 		"definitions": [
-			"<definition1>",
-			"<definition2>"
+			"Tenth letter of the alphabet"
+		]
+	},
+	{
+		"word": "J2",
+		"definitions": [
+			"Joule(s)"
+		]
+	},
+	{
+		"word": "Jab",
+		"definitions": [
+			"Poke roughly",
+			"Stab"
+		]
+	},
+	{
+		"word": "Jabber",
+		"definitions": [
+			"Chatter volubly",
+			"Utter (words) in this way"
+		]
+	},
+	{
+		"word": "Jabot",
+		"definitions": [
+			"Ornamental frill on the front of a shirt or blouse"
+		]
+	},
+	{
+		"word": "Jacaranda",
+		"definitions": [
+			"Tropical American tree with trumpet-shaped blue flowers or hard scented wood"
+		]
+	},
+	{
+		"word": "Jacinth",
+		"definitions": [
+			"Reddish-orange zircon used as a gem"
+		]
+	},
+	{
+		"word": "Jack",
+		"definitions": [
+			"Device for raising heavy objects, especially vehicles",
+			"Court-card with a picture of a soldier, page, etc.",
+			"Ship's flag, especially showing nationality",
+			"Device using a single-pronged plug to connect an electrical circuit",
+			"Small white target ball in bowls",
+			"Jackstone or game of jackstones",
+			"Familiar form of John, especially typifying the common man, male animal, etc."
+		]
+	},
+	{
+		"word": "Jackal",
+		"definitions": [
+			"African or Asian wild animal of the dog family, scavenging in packs for food",
+			"Menial"
+		]
+	},
+	{
+		"word": "Jackanapes",
+		"definitions": [
+			"Archaic rascal"
+		]
+	},
+	{
+		"word": "Jackass",
+		"definitions": [
+			"Male ass",
+			"Stupid person"
+		]
+	},
+	{
+		"word": "Jackboot",
+		"definitions": [
+			"Military boot reaching above the knee",
+			"This as a militaristic or fascist symbol"
+		]
+	},
+	{
+		"word": "Jackdaw",
+		"definitions": [
+			"Grey-headed bird of the crow family"
+		]
+	},
+	{
+		"word": "Jacket",
+		"definitions": [
+			"A short coat with sleeves",
+			"Protective or supporting garment",
+			"Casing or covering round a boiler etc.",
+			"Dust-jacket",
+			"Skin of a potato",
+			"Animal's coat"
+		]
+	},
+	{
+		"word": "Jacket potato",
+		"definitions": [
+			"Potato baked in its skin"
+		]
+	},
+	{
+		"word": "Jack Frost",
+		"definitions": [
+			"Frost personified"
+		]
+	},
+	{
+		"word": "Jack-in-the-box",
+		"definitions": [
+			"Toy figure that springs out of a box"
+		]
+	},
+	{
+		"word": "Jackknife",
+		"definitions": [
+			"Large clasp-knife",
+			"Dive in which the body is bent and then straightened"
+		]
+	},
+	{
+		"word": "Jack of all trades",
+		"definitions": [
+			"Multi-skilled person"
+		]
+	},
+	{
+		"word": "Jack-o'-lantern",
+		"definitions": [
+			"Will-o'-the-wisp",
+			"Pumpkin lantern"
+		]
+	},
+	{
+		"word": "Jack plane",
+		"definitions": [
+			"Medium-sized joinery plane"
+		]
+	},
+	{
+		"word": "Jack plug",
+		"definitions": [
+			"Plug for use with a jack"
+		]
+	},
+	{
+		"word": "Jackpot",
+		"definitions": [
+			"Large prize, especially accumulated in a game, lottery, etc."
+		]
+	},
+	{
+		"word": "Jackrabbit",
+		"definitions": [
+			"Us Large Prairie Hare"
+		]
+	},
+	{
+		"word": "Jack Russell",
+		"definitions": [
+			"Short-Legged Breed Of Terrier"
+		]
+	},
+	{
+		"word": "Jackstone",
+		"definitions": [
+			"Metal Etc. Piece Used In Tossing-Games",
+			"Game With A Ball And Jackstones"
+		]
+	},
+	{
+		"word": "Jack Tar",
+		"definitions": [
+			"Sailor"
+		]
+	},
+	{
+		"word": "Jacobean",
+		"definitions": [
+			"Of The Reign Of James I",
+			"(Of Furniture) Heavy And Dark In Style"
+		]
+	},
+	{
+		"word": "Jacobite",
+		"definitions": [
+			"Hist. Supporter Of James II After His Flight, Or Of The Stuarts"
+		]
+	},
+	{
+		"word": "Jacquard",
+		"definitions": [
+			"Apparatus With Perforated Cards, For Weaving Figured Fabrics",
+			"(In Full Jacquard Loom) Loom With This",
+			"Fabric Or Article So Made"
+		]
+	},
+	{
+		"word": "Jacuzzi",
+		"definitions": [
+			"Propr. Large Bath With Massaging Underwater Jets Of Water"
+		]
+	},
+	{
+		"word": "Jade",
+		"definitions": [
+			"Hard Usu. Green Stone Used For Ornaments Etc.",
+			"Green Colour Of Jade",
+			"Inferior Or Worn-Out Horse",
+			"Derog. Disreputable Woman"
+		]
+	},
+	{
+		"word": "Jaded",
+		"definitions": [
+			"Tired Out; Surfeited"
+		]
+	},
+	{
+		"word": "J'adoube",
+		"definitions": [
+			"Chess Declaration Of The Intention To Adjust A Piece Without Moving It"
+		]
+	},
+	{
+		"word": "Jag",
+		"definitions": [
+			"Sharp Projection Of Rock Etc.",
+			"Cut Or Tear Unevenly",
+			"Make Indentations In",
+			"Slang Drinking Bout",
+			"Period Of Indulgence In An Activity, Emotion, Etc."
+		]
+	},
+	{
+		"word": "Jagged",
+		"definitions": [
+			"Unevenly Cut Or Torn",
+			"Deeply Indented"
+		]
+	},
+	{
+		"word": "Jaguar",
+		"definitions": [
+			"Large American Flesh-Eating Spotted Animal Of The Cat Family"
+		]
+	},
+	{
+		"word": "Jail",
+		"definitions": [
+			"Place For The Detention Of Prisoners",
+			"Confinement In A Jail",
+			"Put In Jail"
+		]
+	},
+	{
+		"word": "Jailbird",
+		"definitions": [
+			"Prisoner Or Habitual Criminal"
+		]
+	},
+	{
+		"word": "Jailbreak",
+		"definitions": [
+			"Escape From Jail"
+		]
+	},
+	{
+		"word": "Jailer",
+		"definitions": [
+			"Person In Charge Of A Jail Or Prisoners"
+		]
+	},
+	{
+		"word": "Jain",
+		"definitions": [
+			"Adherent Of An Indian Religion Resembling Buddhism",
+			"Of This Religion"
+		]
+	},
+	{
+		"word": "Jalap",
+		"definitions": [
+			"Purgative Drug From The Tuberous Roots Of A Mexican Climbing Plant"
+		]
+	},
+	{
+		"word": "Jalopy",
+		"definitions": [
+			"Colloq. Dilapidated Old Vehicle"
+		]
+	},
+	{
+		"word": "Jalousie",
+		"definitions": [
+			"Slatted Blind Or Shutter To Keep Out Rain Etc. And Control Light"
+		]
+	},
+	{
+		"word": "Jam",
+		"definitions": [
+			"Squeeze, Cram, Or Wedge Into A Space",
+			"Become Wedged",
+			"Cause (Machinery Etc.) To Become Wedged Or (Of Machinery Etc.) Become Wedged And Unworkable",
+			"Block (A Passage, Road, Etc.) By Crowding Etc.",
+			"Obstruct The Exit Of (Was Jammed In)",
+			"Apply (Brakes Etc.) Forcefully Or Abruptly",
+			"Make (A Radio Transmission) Unintelligible By Interference",
+			"Colloq. (In Jazz Etc.) Improvise With Other Musicians",
+			"Squeeze, Crush",
+			"Crowded Mass (Traffic Jam)",
+			"Colloq. Predicament",
+			"Stoppage (Of A Machine Etc.) Due To Jamming",
+			"(In Full Jam Session) Colloq. (In Jazz Etc.) Improvised Ensemble Playing",
+			"Conserve Of Boiled Fruit And Sugar",
+			"Colloq. Easy Or Pleasant Thing (Money For Jam)"
+		]
+	},
+	{
+		"word": "Jamb",
+		"definitions": [
+			"Side Post Or Side Face Of A Doorway, Window, Or Fireplace"
+		]
+	},
+	{
+		"word": "Jamboree",
+		"definitions": [
+			"Celebration",
+			"Large Rally Of Scouts"
+		]
+	},
+	{
+		"word": "Jamjar",
+		"definitions": [
+			"Glass Jar For Jam"
+		]
+	},
+	{
+		"word": "Jammy",
+		"definitions": [
+			"Covered With Jam",
+			"Colloq. Lucky",
+			"Profitable"
+		]
+	},
+	{
+		"word": "Jam-Packed",
+		"definitions": [
+			"Colloq. Full To Capacity"
+		]
+	},
+	{
+		"word": "Jan",
+		"definitions": [
+			"Abbr. January"
+		]
+	},
+	{
+		"word": "Jangle",
+		"definitions": [
+			"(Cause To) Make A (Esp. Harsh) Metallic Sound",
+			"Irritate (The Nerves Etc.) By Discord Etc.",
+			"Harsh Metallic Sound"
+		]
+	},
+	{
+		"word": "Janitor",
+		"definitions": [
+			"Doorkeeper",
+			"Caretaker"
+		]
+	},
+	{
+		"word": "January",
+		"definitions": [
+			"First Month Of The Year"
+		]
+	},
+	{
+		"word": "Jap",
+		"definitions": [
+			"Colloq. Often Offens. = Japanese"
+		]
+	},
+	{
+		"word": "Japan",
+		"definitions": [
+			"Hard Usu. Black Varnish, Orig. From Japan",
+			"Varnish With Japan",
+			"Make Black And Glossy"
+		]
+	},
+	{
+		"word": "Japanese",
+		"definitions": [
+			"Native Or National Of Japan",
+			"Person Of Japanese Descent",
+			"Language Of Japan",
+			"Of Japan, Its People, Or Its Language"
+		]
+	},
+	{
+		"word": "Jape",
+		"definitions": [
+			"Practical Joke",
+			"Play A Joke"
+		]
+	},
+	{
+		"word": "Japonica",
+		"definitions": [
+			"Flowering Shrub With Bright Red Flowers And Round Edible Fruits"
+		]
+	},
+	{
+		"word": "Jar",
+		"definitions": [
+			"Container, Usu. Of Glass And Cylindrical",
+			"Contents Of This",
+			"Colloq. Glass Of Beer",
+			"(Often Foll. By On) (Of Sound, Manner, Etc.) Sound Discordant, Grate (On The Nerves Etc.)",
+			"(Often Foll. By Against, On) (Cause To) Strike (Esp. Part Of The Body) With Vibration Or Shock (Jarred His Neck)",
+			"Vibrate With Shock Etc.",
+			"(Often Foll. By With) Be At Variance Or In Conflict",
+			"Jarring Sound Or Sensation",
+			"Physical Shock Or Jolt",
+			"On The Jar = Ajar"
+		]
+	},
+	{
+		"word": "Jardinière",
+		"definitions": [
+			"Ornamental Pot Or Stand For Plants",
+			"Dish Of Mixed Vegetables"
+		]
+	},
+	{
+		"word": "Jargon",
+		"definitions": [
+			"Words or expressions used by a particular group or profession",
+			"Debased or pretentious language"
+		]
+	},
+	{
+		"word": "Jasmine",
+		"definitions": [
+			"Ornamental shrub with white or yellow flowers"
+		]
+	},
+	{
+		"word": "Jasper",
+		"definitions": [
+			"Opaque quartz, usually red, yellow, or brown"
+		]
+	},
+	{
+		"word": "Jaundice",
+		"definitions": [
+			"Yellowing of the skin etc. caused by liver disease, bile disorder, etc.",
+			"Disordered (especially mental) vision",
+			"Envy"
+		]
+	},
+	{
+		"word": "Jaunt",
+		"definitions": [
+			"Short pleasure trip",
+			"Take a jaunt"
+		]
+	},
+	{
+		"word": "Jaunting car",
+		"definitions": [
+			"Light horse-drawn vehicle formerly used in Ireland"
+		]
+	},
+	{
+		"word": "Jaunty",
+		"definitions": [
+			"Cheerful and self-confident",
+			"Sprightly"
+		]
+	},
+	{
+		"word": "Javanese",
+		"definitions": [
+			"Native of Java",
+			"Language of Java"
+		]
+	},
+	{
+		"word": "Javelin",
+		"definitions": [
+			"Light spear thrown in sport or, formerly, as a weapon"
+		]
+	},
+	{
+		"word": "Jaw",
+		"definitions": [
+			"Upper or lower bony structure in vertebrates containing the teeth",
+			"Corresponding parts of certain invertebrates",
+			"The mouth with its bones and teeth",
+			"Narrow mouth of a valley, channel, etc.",
+			"Gripping parts of a tool etc.",
+			"Grip",
+			"Tedious talk"
+		]
+	},
+	{
+		"word": "Jawbone",
+		"definitions": [
+			"Lower jaw in most mammals"
+		]
+	},
+	{
+		"word": "Jaw-breaker",
+		"definitions": [
+			"Long or hard word"
+		]
+	},
+	{
+		"word": "Jay",
+		"definitions": [
+			"Noisy European bird of the crow family with vivid plumage"
+		]
+	},
+	{
+		"word": "Jaywalk",
+		"definitions": [
+			"Cross a road carelessly or dangerously"
+		]
+	},
+	{
+		"word": "Jazz",
+		"definitions": [
+			"Rhythmic syncopated especially improvised music of black US origin",
+			"Pretentious talk or behaviour"
+		]
+	},
+	{
+		"word": "Jazzman",
+		"definitions": [
+			"Jazz-player"
+		]
+	},
+	{
+		"word": "Jazzy",
+		"definitions": [
+			"Of or like jazz",
+			"Vivid, showy"
+		]
+	},
+	{
+		"word": "JCB",
+		"definitions": [
+			"Mechanical excavator with a shovel and a digging arm"
+		]
+	},
+	{
+		"word": "JCR",
+		"definitions": [
+			"Junior common (or combination) room"
+		]
+	},
+	{
+		"word": "Jealous",
+		"definitions": [
+			"Resentful of rivalry in love",
+			"Envious of a person etc.",
+			"Fiercely protective of rights etc.",
+			"Intolerant of disloyalty (of God)",
+			"Vigilant (of inquiry, supervision, etc.)"
+		]
+	},
+	{
+		"word": "Jealousy",
+		"definitions": [
+			"Jealous state or feeling",
+			"Instance of this"
+		]
+	},
+	{
+		"word": "Jeans",
+		"definitions": [
+			"Casual especially denim trousers"
+		]
+	},
+	{
+		"word": "Jeep",
+		"definitions": [
+			"Small sturdy especially military vehicle with four-wheel drive"
+		]
+	},
+	{
+		"word": "Jeepers",
+		"definitions": [
+			"Expressing surprise etc."
+		]
+	},
+	{
+		"word": "Jeer",
+		"definitions": [
+			"Scoff derisively; deride",
+			"Taunt"
+		]
+	},
+	{
+		"word": "Jehad",
+		"definitions": [
+			"Variant of *jihad"
+		]
+	},
+	{
+		"word": "Jehovah",
+		"definitions": [
+			"Hebrew name of God in the Old Testament"
+		]
+	},
+	{
+		"word": "Jehovah's Witness",
+		"definitions": [
+			"Member of a millenarian Christian sect rejecting the supremacy of the state and religious institutions over personal conscience, faith, etc."
+		]
+	},
+	{
+		"word": "Jejune",
+		"definitions": [
+			"Intellectually unsatisfying; shallow, meagre, scanty, dry",
+			"Puerile",
+			"Barren (of land)"
+		]
+	},
+	{
+		"word": "Jejunum",
+		"definitions": [
+			"Small intestine between the duodenum and ileum"
+		]
+	},
+	{
+		"word": "Jekyll and Hyde",
+		"definitions": [
+			"Person having opposing good and evil personalities"
+		]
+	},
+	{
+		"word": "Jell",
+		"definitions": [
+			"Set as jelly",
+			"(Of ideas etc.) Take a definite form",
+			"Coher"
+		]
+	},
+	{
+		"word": "Jellaba",
+		"definitions": [
+			"Variant of djellaba"
+		]
+	},
+	{
+		"word": "Jellify",
+		"definitions": [
+			"Turn into jelly; make or become like jelly"
+		]
+	},
+	{
+		"word": "Jelly",
+		"definitions": [
+			"(Usually fruit-flavoured) translucent dessert set with gelatin",
+			"Similar preparation as a jam, condiment, or sweet (redcurrant jelly)",
+			"Similar preparation from meat, bones, etc., and gelatin (marrowbone jelly)",
+			"Any similar substance",
+			"Slang gelignite"
+		]
+	},
+	{
+		"word": "Jelly Baby",
+		"definitions": [
+			"Jelly-like baby-shaped sweet"
+		]
+	},
+	{
+		"word": "Jellyfish",
+		"definitions": [
+			"Marine animal with a jelly-like body and stinging tentacles"
+		]
+	},
+	{
+		"word": "Jemmy",
+		"definitions": [
+			"Burglar's short crowbar"
+		]
+	},
+	{
+		"word": "Jenny",
+		"definitions": [
+			"Historical term for spinning-jenny",
+			"Female donkey"
+		]
+	},
+	{
+		"word": "Jenny-Wren",
+		"definitions": [
+			"Female wren"
+		]
+	},
+	{
+		"word": "Jeopardize",
+		"definitions": [
+			"Endanger"
+		]
+	},
+	{
+		"word": "Jeopardy",
+		"definitions": [
+			"Danger, especially severe"
+		]
+	},
+	{
+		"word": "Jerbil",
+		"definitions": [
+			"Variant of gerbil"
+		]
+	},
+	{
+		"word": "Jerboa",
+		"definitions": [
+			"Small jumping desert rodent"
+		]
+	},
+	{
+		"word": "Jeremiad",
+		"definitions": [
+			"Doleful complaint or lamentation"
+		]
+	},
+	{
+		"word": "Jeremiah",
+		"definitions": [
+			"Dismal prophet, denouncer of the times"
+		]
+	},
+	{
+		"word": "Jerk",
+		"definitions": [
+			"Sharp sudden pull, twist, twitch, start, etc.",
+			"Spasmodic muscular twitch",
+			"(In plural) Exercises (physical jerks)",
+			"Slang fool",
+			"Move, pull, thrust, twist, throw, etc., with a jerk",
+			"Cure (beef) by cutting it in long slices and drying it in the sun"
+		]
+	},
+	{
+		"word": "Jerk Off",
+		"definitions": [
+			"Coarse slang masturbate"
+		]
+	},
+	{
+		"word": "Jerkin",
+		"definitions": [
+			"Sleeveless jacket",
+			"Historical man's close-fitting, especially leather, jacket"
+		]
+	},
+	{
+		"word": "Jerky",
+		"definitions": [
+			"Moving suddenly or abruptly",
+			"Spasmodic"
+		]
+	},
+	{
+		"word": "Jeroboam",
+		"definitions": [
+			"Wine bottle of 4–12 times the ordinary size"
+		]
+	},
+	{
+		"word": "Jerry",
+		"definitions": [
+			"Slang for German (especially soldier)",
+			"Germans collectively",
+			"Slang chamber-pot"
+		]
+	},
+	{
+		"word": "Jerry-Builder",
+		"definitions": [
+			"Incompetent builder using cheap materials"
+		]
+	},
+	{
+		"word": "Jerrycan",
+		"definitions": [
+			"(Also jerrican) A kind of (originally German) petrol- or water-can"
+		]
+	},
+	{
+		"word": "Jersey",
+		"definitions": [
+			"Knitted usually woollen pullover",
+			"Plain-knitted (originally woollen) fabric",
+			"Light brown dairy cow from Jersey"
+		]
+	},
+	{
+		"word": "Jerusalem Artichoke",
+		"definitions": [
+			"Kind of sunflower with edible tubers",
+			"This as a vegetable"
+		]
+	},
+	{
+		"word": "Jest",
+		"definitions": [
+			"Joke; fun",
+			"Raillery, banter",
+			"Object of derision",
+			"Joke; fool about"
+		]
+	},
+	{
+		"word": "Jester",
+		"definitions": [
+			"Historical professional clown at a medieval court etc."
+		]
+	},
+	{
+		"word": "Jesuit",
+		"definitions": [
+			"Member of the Society of Jesus, a Roman Catholic order"
+		]
+	},
+	{
+		"word": "Jesuitical",
+		"definitions": [
+			"Of the Jesuits",
+			"Often offensive equivocating, casuistic"
+		]
+	},
+	{
+		"word": "Jesus",
+		"definitions": [
+			"Colloquial exclamation of surprise, dismay, etc."
+		]
+	},
+	{
+		"word": "Jet",
+		"definitions": [
+			"Stream of water, steam, gas, flame, etc., shot especially from a small opening",
+			"Spout or nozzle for this purpose",
+			"Jet engine or jet plane",
+			"Spurt out in jets",
+			"Colloquial send or travel by jet plane",
+			"Hard black lignite often carved and highly polished"
+		]
+	},
+	{
+		"word": "Jet Black",
+		"definitions": [
+			"Deep glossy black"
+		]
+	},
+	{
+		"word": "Jet Engine",
+		"definitions": [
+			"Engine using jet propulsion, especially of an aircraft"
+		]
+	},
+	{
+		"word": "Jet Lag",
+		"definitions": [
+			"Exhaustion etc. felt after a long flight across time zones"
+		]
+	},
+	{
+		"word": "Jet Plane",
+		"definitions": [
+			"Plane with a jet engine"
+		]
+	},
+	{
+		"word": "Jet-Propelled",
+		"definitions": [
+			"Having jet propulsion",
+			"Very fast"
+		]
+	},
+	{
+		"word": "Jet Propulsion",
+		"definitions": [
+			"Propulsion by the backward ejection of a high-speed jet of gas etc."
+		]
+	},
+	{
+		"word": "Jetsam",
+		"definitions": [
+			"Objects Washed Ashore, Especially Jettisoned From A Ship"
+		]
+	},
+	{
+		"word": "Jet Set",
+		"definitions": [
+			"Wealthy People Who Travel Widely, Especially For Pleasure"
+		]
+	},
+	{
+		"word": "Jettison",
+		"definitions": [
+			"Throw (Especially Heavy Material) Overboard To Lighten A Ship, Drop (Goods) From An Aircraft",
+			"Abandon, Get Rid Of"
+		]
+	},
+	{
+		"word": "Jetty",
+		"definitions": [
+			"Pier Or Breakwater To Protect Or Defend A Harbour, Coast, Etc.",
+			"Landing-Pier"
+		]
+	},
+	{
+		"word": "Jew",
+		"definitions": [
+			"Person Of Hebrew Descent Or Whose Religion Is Judaism",
+			"Slang Offensive Miserly Person"
+		]
+	},
+	{
+		"word": "Jewel",
+		"definitions": [
+			"A Precious Stone, This Used In Watchmaking",
+			"Jewelled Personal Ornament",
+			"Precious Person Or Thing"
+		]
+	},
+	{
+		"word": "Jeweler",
+		"definitions": [
+			"Maker Of Or Dealer In Jewels Or Jewellery"
+		]
+	},
+	{
+		"word": "Jeweller",
+		"definitions": [
+			"Maker Of Or Dealer In Jewels Or Jewellery"
+		]
+	},
+	{
+		"word": "Jewellery",
+		"definitions": [
+			"Rings, Brooches, Necklaces, Etc., Regarded Collectively"
+		]
+	},
+	{
+		"word": "Jewess",
+		"definitions": [
+			"Often Offensive Woman Or Girl Of Hebrew Descent Or Whose Religion Is Judaism"
+		]
+	},
+	{
+		"word": "Jewish",
+		"definitions": [
+			"Of Jews",
+			"Of Judaism"
+		]
+	},
+	{
+		"word": "Jewry",
+		"definitions": [
+			"Jews Collectively"
+		]
+	},
+	{
+		"word": "Jew's Harp",
+		"definitions": [
+			"Small Musical Instrument Held Between The Teeth"
+		]
+	},
+	{
+		"word": "Jezebel",
+		"definitions": [
+			"Shameless Or Immoral Woman"
+		]
+	},
+	{
+		"word": "Jib",
+		"definitions": [
+			"Triangular Staysail",
+			"Projecting Arm Of A Crane"
+		]
+	},
+	{
+		"word": "Jibe",
+		"definitions": [
+			"Variant Of Gibe"
+		]
+	},
+	{
+		"word": "Jiffy",
+		"definitions": [
+			"Colloquial Short Time, Moment"
+		]
+	},
+	{
+		"word": "Jiffy Bag",
+		"definitions": [
+			"Proprietary Padded Envelope"
+		]
+	},
+	{
+		"word": "Jig",
+		"definitions": [
+			"A Lively Leaping Dance, Music For This",
+			"Device That Holds A Piece Of Work And Guides The Tools Operating On It"
+		]
+	},
+	{
+		"word": "Jigger",
+		"definitions": [
+			"Billiards Colloquial Cue-Rest",
+			"A Measure Of Spirits Etc., Small Glass Holding This",
+			"Colloquial Mild Oath Confounded (I'll Be Jiggered)"
+		]
+	},
+	{
+		"word": "Jiggery-Pokery",
+		"definitions": [
+			"Colloquial Trickery, Swindling"
+		]
+	},
+	{
+		"word": "Jiggle",
+		"definitions": [
+			"Shake Or Jerk Lightly, Fidget",
+			"Light Shake"
+		]
+	},
+	{
+		"word": "Jigsaw",
+		"definitions": [
+			"A (In Full Jigsaw Puzzle) Picture On Board Or Wood Etc. Cut Into Irregular Interlocking Pieces To Be Reassembled As A Pastime, Problem Consisting Of Various Pieces Of Information",
+			"Mechanical Fretsaw With A Fine Blade"
+		]
+	},
+	{
+		"word": "Jihad",
+		"definitions": [
+			"Muslim Holy War Against Unbelievers"
+		]
+	},
+	{
+		"word": "Jilt",
+		"definitions": [
+			"Abruptly Reject Or Abandon (Especially A Lover)"
+		]
+	},
+	{
+		"word": "Jim Crow",
+		"definitions": [
+			"US Colloquial Segregation Of Blacks",
+			"Offensive A Black"
+		]
+	},
+	{
+		"word": "Jim-Jams",
+		"definitions": [
+			"Slang Delirium Tremens",
+			"Colloquial Nervousness, Depression"
+		]
+	},
+	{
+		"word": "Jingle",
+		"definitions": [
+			"Mixed Ringing Or Clinking Noise",
+			"A Repetition Of Sounds In A Phrase Etc., Short Catchy Verse Or Song In Advertising Etc."
+		]
+	},
+	{
+		"word": "Jingo",
+		"definitions": [
+			"Supporter Of War, Blustering Patriot"
+		]
+	},
+	{
+		"word": "Jink",
+		"definitions": [
+			"Move Elusively, Dodge",
+			"Elude By Dodging"
+		]
+	},
+	{
+		"word": "Jinnee",
+		"definitions": [
+			"(In Muslim Mythology) Spirit In Human Or Animal Form Having Power Over People"
+		]
+	},
+	{
+		"word": "Jinx",
+		"definitions": [
+			"Colloquial Person Or Thing That Seems To Cause Bad Luck",
+			"Subject To Bad Luck"
+		]
+	},
+	{
+		"word": "Jitter",
+		"definitions": [
+			"Colloquial Extreme Nervousness",
+			"Be Nervous, Act Nervously"
+		]
+	},
+	{
+		"word": "Jitterbug",
+		"definitions": [
+			"Nervous Person",
+			"Historical Fast Popular Dance, Dance The Jitterbug"
+		]
+	},
+	{
+		"word": "Jive",
+		"definitions": [
+			"Lively Dance Popular Especially In The 1950s",
+			"Music For This, Dance To Or Play Jive Music"
+		]
+	},
+	{
+		"word": "Jnr.",
+		"definitions": [
+			"Abbreviation Junior"
+		]
+	},
+	{
+		"word": "Job",
+		"definitions": [
+			"Piece of work to be done; task",
+			"Position in, or piece of, paid employment",
+			"Difficult task (had a job to find it)",
+			"Crime, especially a robbery",
+			"State of affairs etc. (bad job)"
+		]
+	},
+	{
+		"word": "Jobber",
+		"definitions": [
+			"Person who jobs",
+			"Principal or wholesaler on the stock exchange"
+		]
+	},
+	{
+		"word": "Jobbery",
+		"definitions": [
+			"Corrupt dealing"
+		]
+	},
+	{
+		"word": "Jobbing",
+		"definitions": [
+			"Freelance; pieceworking (jobbing gardener)"
+		]
+	},
+	{
+		"word": "Jobcentre",
+		"definitions": [
+			"Local government office advertising available jobs"
+		]
+	},
+	{
+		"word": "Job-hunt",
+		"definitions": [
+			"Seek employment"
+		]
+	},
+	{
+		"word": "Jobless",
+		"definitions": [
+			"Unemployed"
+		]
+	},
+	{
+		"word": "Job lot",
+		"definitions": [
+			"Mixed lot bought at auction etc."
+		]
+	},
+	{
+		"word": "Job's comforter",
+		"definitions": [
+			"Person who intends to comfort but increases distress"
+		]
+	},
+	{
+		"word": "Jobs for the boys",
+		"definitions": [
+			"Appointments for members of one's own group etc."
+		]
+	},
+	{
+		"word": "Job-sharing",
+		"definitions": [
+			"Sharing of a full-time job by two or more people"
+		]
+	},
+	{
+		"word": "Jobsheet",
+		"definitions": [
+			"Sheet for recording details of jobs done"
+		]
+	},
+	{
+		"word": "Jock",
+		"definitions": [
+			"Scotsman"
+		]
+	},
+	{
+		"word": "Jockey",
+		"definitions": [
+			"Rider in horse-races, especially professional",
+			"Trick, cheat, or outwit"
+		]
+	},
+	{
+		"word": "Jockstrap",
+		"definitions": [
+			"Support or protection for the male genitals, worn especially in sport"
+		]
+	},
+	{
+		"word": "Jocose",
+		"definitions": [
+			"Playful; jocular"
+		]
+	},
+	{
+		"word": "Jocular",
+		"definitions": [
+			"Fond of joking",
+			"Humorous"
+		]
+	},
+	{
+		"word": "Jocund",
+		"definitions": [
+			"Merry, cheerful"
+		]
+	},
+	{
+		"word": "Jodhpurs",
+		"definitions": [
+			"Riding breeches tight below the knee"
+		]
+	},
+	{
+		"word": "Joe Bloggs",
+		"definitions": [
+			"Hypothetical average man"
+		]
+	},
+	{
+		"word": "Jog",
+		"definitions": [
+			"Run slowly, especially as exercise",
+			"Push or jerk, especially unsteadily",
+			"Nudge, especially to alert",
+			"Stimulate (the memory)",
+			"Trudge; proceed ploddingly",
+			"Trot (of a horse)"
+		]
+	},
+	{
+		"word": "Jogger",
+		"definitions": [
+			"Person who jogs, especially for exercise"
+		]
+	},
+	{
+		"word": "Joggle",
+		"definitions": [
+			"Move in jerks"
+		]
+	},
+	{
+		"word": "Jogtrot",
+		"definitions": [
+			"Slow regular trot"
+		]
+	},
+	{
+		"word": "John",
+		"definitions": [
+			"Lavatory"
+		]
+	},
+	{
+		"word": "John Bull",
+		"definitions": [
+			"England or the typical Englishman"
+		]
+	},
+	{
+		"word": "John Dory",
+		"definitions": [
+			"Edible marine fish"
+		]
+	},
+	{
+		"word": "Johnny",
+		"definitions": [
+			"Condom",
+			"Fellow; man"
+		]
+	},
+	{
+		"word": "Johnny-come-lately",
+		"definitions": [
+			"Newcomer; upstart"
+		]
+	},
+	{
+		"word": "Joie de vivre",
+		"definitions": [
+			"Exuberance; high spirits"
+		]
+	},
+	{
+		"word": "Join",
+		"definitions": [
+			"Put together; fasten, unite",
+			"Connect (points) by a line etc.",
+			"Become a member of (a club, organization, etc.)",
+			"Take one's place with (a person, group, etc.)",
+			"Take part with (others) in an activity etc.",
+			"Come together; be united",
+			"Be or become connected or continuous with (of a river etc.)"
+		]
+	},
+	{
+		"word": "Joiner",
+		"definitions": [
+			"Maker of finished wood fittings",
+			"Person who joins an organization or who readily joins societies etc."
+		]
+	},
+	{
+		"word": "Joint",
+		"definitions": [
+			"Place at which two or more things or parts of a structure are joined",
+			"Device for joining these",
+			"Point at which two bones fit together",
+			"Division of an animal carcass as meat",
+			"Restaurant, bar, etc.",
+			"Marijuana cigarette",
+			"Crack in rock"
+		]
+	},
+	{
+		"word": "Joint stock",
+		"definitions": [
+			"Capital held jointly; common fund"
+		]
+	},
+	{
+		"word": "Joint-stock company",
+		"definitions": [
+			"Company formed on the basis of a joint stock"
+		]
+	},
+	{
+		"word": "Jointure",
+		"definitions": [
+			"Estate settled on a wife by her husband for use after his death"
+		]
+	},
+	{
+		"word": "Joist",
+		"definitions": [
+			"Supporting beam in a floor, ceiling, etc."
+		]
+	},
+	{
+		"word": "Jojoba",
+		"definitions": [
+			"Plant with seeds yielding an oily extract used in cosmetics etc."
+		]
+	},
+	{
+		"word": "Joke",
+		"definitions": [
+			"Thing said or done to cause laughter; witticism",
+			"Ridiculous person or thing"
+		]
+	},
+	{
+		"word": "Joker",
+		"definitions": [
+			"Person who jokes",
+			"Person",
+			"Playing-card used in some games"
+		]
+	},
+	{
+		"word": "Jollify",
+		"definitions": [
+			"Make merry"
+		]
+	},
+	{
+		"word": "Jollity",
+		"definitions": [
+			"Merrymaking; festivity"
+		]
+	},
+	{
+		"word": "Jolly",
+		"definitions": [
+			"Cheerful; merry",
+			"Festive, jovial",
+			"Pleasant, delightful",
+			"Party or celebration"
+		]
+	},
+	{
+		"word": "Jolly boat",
+		"definitions": [
+			"Clinker-built ship's boat smaller than a cutter"
+		]
+	},
+	{
+		"word": "Jolly Roger",
+		"definitions": [
+			"Pirates' black flag, usually with skull and crossbones"
+		]
+	},
+	{
+		"word": "Jolt",
+		"definitions": [
+			"Disturb or shake (especially in a moving vehicle) with a jerk",
+			"Shock; perturb",
+			"Move along jerkily"
+		]
+	},
+	{
+		"word": "Jonah",
+		"definitions": [
+			"Person who seems to bring bad luck"
+		]
+	},
+	{
+		"word": "Jonquil",
+		"definitions": [
+			"Narcissus with small fragrant yellow or white flowers"
+		]
+	},
+	{
+		"word": "Josh",
+		"definitions": [
+			"Tease, banter",
+			"Indulge in ridicule"
+		]
+	},
+	{
+		"word": "Joss",
+		"definitions": [
+			"Chinese idol"
+		]
+	},
+	{
+		"word": "Joss-stick",
+		"definitions": [
+			"Incense-stick for burning"
+		]
+	},
+	{
+		"word": "Jostle",
+		"definitions": [
+			"Push against; Elbow, Esp. Roughly Or In A Crowd",
+			"Struggle Roughly"
+		]
+	},
+	{
+		"word": "Jot",
+		"definitions": [
+			"Write Briefly Or Hastily",
+			"Very Small Amount (Not One Jot)"
+		]
+	},
+	{
+		"word": "Jotter",
+		"definitions": [
+			"Small Pad Or Notebook"
+		]
+	},
+	{
+		"word": "Jotting",
+		"definitions": [
+			"Jotted Note"
+		]
+	},
+	{
+		"word": "Joule",
+		"definitions": [
+			"SI Unit Of Work Or Energy"
+		]
+	},
+	{
+		"word": "Journal",
+		"definitions": [
+			"Newspaper Or Periodical",
+			"Daily Record Of Events; Diary",
+			"Book In Which Transactions And Accounts Are Entered",
+			"Part Of A Shaft Or Axle That Rests On Bearings"
+		]
+	},
+	{
+		"word": "Journalese",
+		"definitions": [
+			"Hackneyed Writing Characteristic Of Newspapers"
+		]
+	},
+	{
+		"word": "Journalism",
+		"definitions": [
+			"Profession Of Writing For Or Editing Newspapers Etc."
+		]
+	},
+	{
+		"word": "Journalist",
+		"definitions": [
+			"Person Writing For Or Editing Newspapers Etc."
+		]
+	},
+	{
+		"word": "Journey",
+		"definitions": [
+			"Act Of Going From One Place To Another, Esp. At A Long Distance",
+			"Time Taken For This (A Day's Journey)",
+			"Make A Journey"
+		]
+	},
+	{
+		"word": "Journeyman",
+		"definitions": [
+			"Qualified Mechanic Or Artisan Who Works For Another",
+			"Reliable But Not Outstanding Worker"
+		]
+	},
+	{
+		"word": "Joust",
+		"definitions": [
+			"Combat Between Two Knights On Horseback With Lances",
+			"Engage In A Joust"
+		]
+	},
+	{
+		"word": "Jove",
+		"definitions": [
+			"(In Roman Mythology) Jupiter",
+			"Exclamation Of Surprise Etc."
+		]
+	},
+	{
+		"word": "Jovial",
+		"definitions": [
+			"Merry, Convivial, Hearty"
+		]
+	},
+	{
+		"word": "Jowl",
+		"definitions": [
+			"Jaw Or Jawbone",
+			"Loose Hanging Skin On The Throat Or Neck"
+		]
+	},
+	{
+		"word": "Joy",
+		"definitions": [
+			"Pleasure; Extreme Gladness",
+			"Thing Causing Joy",
+			"Satisfaction, Success (Got No Joy)"
+		]
+	},
+	{
+		"word": "Joyride",
+		"definitions": [
+			"Pleasure Ride In Esp. A Stolen Car",
+			"Go For A Joyride"
+		]
+	},
+	{
+		"word": "Joystick",
+		"definitions": [
+			"Control Column Of An Aircraft",
+			"Lever Controlling Movement Of An Image On A VDU Screen Etc."
+		]
+	},
+	{
+		"word": "Jp",
+		"definitions": [
+			"Justice Of The Peace"
+		]
+	},
+	{
+		"word": "Jr",
+		"definitions": [
+			"Junior"
+		]
+	},
+	{
+		"word": "Jubilant",
+		"definitions": [
+			"Exultant, Rejoicing"
+		]
+	},
+	{
+		"word": "Jubilee",
+		"definitions": [
+			"Anniversary, Esp. The 25th Or 50th",
+			"Time Of Rejoicing"
+		]
+	},
+	{
+		"word": "Judaic",
+		"definitions": [
+			"Of Or Characteristic Of The Jews"
+		]
+	},
+	{
+		"word": "Judaism",
+		"definitions": [
+			"Religion Of The Jews"
+		]
+	},
+	{
+		"word": "Judas",
+		"definitions": [
+			"Traitor"
+		]
+	},
+	{
+		"word": "Judder",
+		"definitions": [
+			"Shake Noisily Or Violently"
+		]
+	},
+	{
+		"word": "Judge",
+		"definitions": [
+			"Public Official Appointed To Hear And Try Legal Cases",
+			"Person Appointed To Decide In A Contest, Dispute, Etc.",
+			"Person Who Decides A Question",
+			"Form An Opinion Or Judgement (About); Estimate, Appraise",
+			"Act As A Judge (Of)",
+			"Try (A Case) At Law",
+			"Pronounce Sentence On",
+			"Conclude, Consider"
+		]
+	},
+	{
+		"word": "Judgement",
+		"definitions": [
+			"Critical Faculty; Discernment (Error Of Judgement)",
+			"Good Sense",
+			"Opinion Or Estimate (In My Judgement)",
+			"Sentence Of A Court Of Justice",
+			"Deserved Misfortune"
+		]
+	},
+	{
+		"word": "Judgemental",
+		"definitions": [
+			"Of Or By Way Of Judgement",
+			"Condemning, Critical"
+		]
+	},
+	{
+		"word": "Judgement Day",
+		"definitions": [
+			"Day On Which Mankind Will Be Judged By God"
+		]
+	},
+	{
+		"word": "Judicature",
+		"definitions": [
+			"Administration Of Justice",
+			"Judge's Position",
+			"Judges Collectively"
+		]
+	},
+	{
+		"word": "Judicial",
+		"definitions": [
+			"Of, Done By, Or Proper To A Court Of Law",
+			"Having The Function Of Judgement (Judicial Assembly)",
+			"Of Or Proper To A Judge",
+			"Impartial"
+		]
+	},
+	{
+		"word": "Judiciary",
+		"definitions": [
+			"Judges Of A State Collectively"
+		]
+	},
+	{
+		"word": "Judicious",
+		"definitions": [
+			"Sensible, Prudent"
+		]
+	},
+	{
+		"word": "Judo",
+		"definitions": [
+			"Sport derived from ju-jitsu",
+			"Japanese, meaning 'gentle way'"
+		]
+	},
+	{
+		"word": "Jug",
+		"definitions": [
+			"Deep vessel for liquids, with a handle and a lip for pouring",
+			"Contents of this",
+			"Slang for prison",
+			"Stew or boil (especially hare) in a casserole"
+		]
+	},
+	{
+		"word": "Juggernaut",
+		"definitions": [
+			"Large heavy lorry",
+			"Overwhelming force or object"
+		]
+	},
+	{
+		"word": "Juggle",
+		"definitions": [
+			"Keep several objects in the air at once by throwing and catching",
+			"Perform such feats with balls",
+			"Deal with several activities at once",
+			"Misrepresent or rearrange facts adroitly"
+		]
+	},
+	{
+		"word": "Jugoslav",
+		"definitions": [
+			"Variant of Yugoslav"
+		]
+	},
+	{
+		"word": "Jugular",
+		"definitions": [
+			"Of the neck or throat",
+			"Jugular vein"
+		]
+	},
+	{
+		"word": "Jugular vein",
+		"definitions": [
+			"Any of several large veins in the neck carrying blood from the head"
+		]
+	},
+	{
+		"word": "Juice",
+		"definitions": [
+			"Liquid part of vegetables or fruits",
+			"Animal fluid, especially a secretion",
+			"Colloquial for petrol or electricity"
+		]
+	},
+	{
+		"word": "Juicy",
+		"definitions": [
+			"Full of juice; succulent",
+			"Interesting; racy, scandalous",
+			"Profitable"
+		]
+	},
+	{
+		"word": "Ju-jitsu",
+		"definitions": [
+			"Japanese system of unarmed combat and physical training",
+			"Also jiu-jitsu, ju-jutsu"
+		]
+	},
+	{
+		"word": "Ju-ju",
+		"definitions": [
+			"Charm or fetish of some West African peoples",
+			"Supernatural power attributed to this"
+		]
+	},
+	{
+		"word": "Jujube",
+		"definitions": [
+			"Small flavored jelly-like lozenge"
+		]
+	},
+	{
+		"word": "Ju-jutsu",
+		"definitions": [
+			"Variant of ju-jitsu"
+		]
+	},
+	{
+		"word": "Jukebox",
+		"definitions": [
+			"Coin-operated record-playing machine"
+		]
+	},
+	{
+		"word": "Jul.",
+		"definitions": [
+			"Abbreviation for July"
+		]
+	},
+	{
+		"word": "Julep",
+		"definitions": [
+			"A sweet drink, especially as a vehicle for medicine",
+			"Medicated drink as a mild stimulant",
+			"Iced and flavored spirits and water (mint julep)"
+		]
+	},
+	{
+		"word": "Julian",
+		"definitions": [
+			"Of Julius Caesar"
+		]
+	},
+	{
+		"word": "Julian calendar",
+		"definitions": [
+			"Calendar introduced by Julius Caesar, with a year of 365 days, every fourth year having 366"
+		]
+	},
+	{
+		"word": "Julienne",
+		"definitions": [
+			"Vegetables cut into short thin strips",
+			"Cut into thin strips"
+		]
+	},
+	{
+		"word": "Juliet cap",
+		"definitions": [
+			"Small net skullcap worn by brides"
+		]
+	},
+	{
+		"word": "July",
+		"definitions": [
+			"Seventh month of the year"
+		]
+	},
+	{
+		"word": "Jumble",
+		"definitions": [
+			"Confuse; mix up; muddle",
+			"Confused state or heap; muddle",
+			"Articles in a jumble sale"
+		]
+	},
+	{
+		"word": "Jumble sale",
+		"definitions": [
+			"Sale of second-hand articles, especially for charity"
+		]
+	},
+	{
+		"word": "Jumbo",
+		"definitions": [
+			"Large animal (especially an elephant), person, or thing",
+			"Large airliner for several hundred passengers"
+		]
+	},
+	{
+		"word": "Jump",
+		"definitions": [
+			"Rise off the ground by sudden muscular effort in the legs",
+			"Move suddenly or hastily",
+			"Jerk or twitch from shock or excitement",
+			"Change, especially advance in status or rise, rapidly",
+			"Pass over an obstacle by jumping",
+			"Skip a passage in a book",
+			"Cause a horse to jump",
+			"Reach a conclusion hastily",
+			"Leave the rails (of a train)",
+			"Pass a red traffic-light",
+			"Get on or off a train quickly, especially illegally or dangerously",
+			"Attack a person unexpectedly"
+		]
+	},
+	{
+		"word": "Jumped-up",
+		"definitions": [
+			"Upstart"
+		]
+	},
+	{
+		"word": "Jumper",
+		"definitions": [
+			"Knitted pullover",
+			"Loose outer jacket worn by sailors",
+			"Pinafore dress"
+		]
+	},
+	{
+		"word": "Jumper",
+		"definitions": [
+			"Person or animal that jumps",
+			"Short wire used to make or break an electrical circuit"
+		]
+	},
+	{
+		"word": "Jumping bean",
+		"definitions": [
+			"Seed of a Mexican plant that jumps with the movement of a larva inside"
+		]
+	},
+	{
+		"word": "Jump-jet",
+		"definitions": [
+			"Vertical take-off jet aircraft"
+		]
+	},
+	{
+		"word": "Jump-lead",
+		"definitions": [
+			"Cable for conveying current from the battery of one vehicle to that of another"
+		]
+	},
+	{
+		"word": "Jump-off",
+		"definitions": [
+			"Deciding round in showjumping"
+		]
+	},
+	{
+		"word": "Jump-start",
+		"definitions": [
+			"Start a vehicle by pushing it or with jump-leads",
+			"Act of jump-starting"
+		]
+	},
+	{
+		"word": "Jump suit",
+		"definitions": [
+			"One-piece garment for the whole body"
+		]
+	},
+	{
+		"word": "Jumpy",
+		"definitions": [
+			"Nervous; easily startled",
+			"Making sudden movements"
+		]
+	},
+	{
+		"word": "Jun.",
+		"definitions": [
+			"Abbreviation for June",
+			"Abbreviation for junior"
+		]
+	},
+	{
+		"word": "Junction",
+		"definitions": [
+			"Joint; joining-point",
+			"Place where railway lines or roads meet",
+			"Joining"
+		]
+	},
+	{
+		"word": "Junction box",
+		"definitions": [
+			"Box containing a junction of electric cables"
+		]
+	},
+	{
+		"word": "Juncture",
+		"definitions": [
+			"Critical convergence of events; point of time",
+			"Joining-point",
+			"Joining"
+		]
+	},
+	{
+		"word": "June",
+		"definitions": [
+			"Sixth month of the year"
+		]
+	},
+	{
+		"word": "Jungian",
+		"definitions": [
+			"Of the Swiss psychologist Carl Jung or his theories",
+			"Supporter of Jung or of his theories"
+		]
+	},
+	{
+		"word": "Jungle",
+		"definitions": [
+			"Land Overgrown With Tangled Vegetation, Especially In The Tropics",
+			"Place Of Bewildering Complexity, Confusion, Or Struggle"
+		]
+	},
+	{
+		"word": "Junior",
+		"definitions": [
+			"Inferior In Age, Standing, Or Position",
+			"Of The Lower Or Lowest Position (Junior Partner)"
+		]
+	},
+	{
+		"word": "Junior Common Room",
+		"definitions": [
+			"Common-Room For Undergraduates In A College",
+			"Undergraduates Of A College Collectively"
+		]
+	},
+	{
+		"word": "Juniper",
+		"definitions": [
+			"Evergreen Shrub Or Tree With Prickly Leaves And Dark-Purple Berry-Like Cones"
+		]
+	},
+	{
+		"word": "Junk",
+		"definitions": [
+			"Discarded Articles; Rubbish",
+			"Anything Regarded As Of Little Value"
+		]
+	},
+	{
+		"word": "Junk Bond",
+		"definitions": [
+			"Bond Bearing High Interest But Deemed To Be A Risky Investment"
+		]
+	},
+	{
+		"word": "Junket",
+		"definitions": [
+			"Pleasure Outing",
+			"Sweetened And Flavoured Milk Curds"
+		]
+	},
+	{
+		"word": "Junk Food",
+		"definitions": [
+			"Food, Such As Sweets Or Crisps, With Low Nutritional Value"
+		]
+	},
+	{
+		"word": "Junkie",
+		"definitions": [
+			"Drug Addict"
+		]
+	},
+	{
+		"word": "Junk Mail",
+		"definitions": [
+			"Unsolicited Advertising Matter Sent By Post"
+		]
+	},
+	{
+		"word": "Junk Shop",
+		"definitions": [
+			"Second-Hand Or Cheap Antiques Shop"
+		]
+	},
+	{
+		"word": "Junta",
+		"definitions": [
+			"Clique Taking Power In A Coup D'état"
+		]
+	},
+	{
+		"word": "Jural",
+		"definitions": [
+			"Of Law",
+			"Of Rights And Obligations"
+		]
+	},
+	{
+		"word": "Jurassic",
+		"definitions": [
+			"Of The Second Period Of The Mesozoic Era"
+		]
+	},
+	{
+		"word": "Juridical",
+		"definitions": [
+			"Of Judicial Proceedings",
+			"Relating To The Law"
+		]
+	},
+	{
+		"word": "Jurisdiction",
+		"definitions": [
+			"Administration Of Justice",
+			"Legal Or Other Authority"
+		]
+	},
+	{
+		"word": "Jurisprudence",
+		"definitions": [
+			"Science Or Philosophy Of Law"
+		]
+	},
+	{
+		"word": "Jurist",
+		"definitions": [
+			"Expert In Law"
+		]
+	},
+	{
+		"word": "Juror",
+		"definitions": [
+			"Member Of A Jury"
+		]
+	},
+	{
+		"word": "Jury",
+		"definitions": [
+			"Body Of People Giving A Verdict In A Court Of Justice"
+		]
+	},
+	{
+		"word": "Jury-Box",
+		"definitions": [
+			"Enclosure For The Jury In A Lawcourt"
+		]
+	},
+	{
+		"word": "Jury-Rigged",
+		"definitions": [
+			"Having Temporary Makeshift Rigging"
+		]
+	},
+	{
+		"word": "Just",
+		"definitions": [
+			"Morally Right Or Fair",
+			"Right In Amount Etc.; Proper"
+		]
+	},
+	{
+		"word": "Justice",
+		"definitions": [
+			"Justness, Fairness",
+			"Judicial Proceedings"
+		]
+	},
+	{
+		"word": "Justice Of The Peace",
+		"definitions": [
+			"Unpaid Lay Magistrate Appointed To Hear Minor Cases"
+		]
+	},
+	{
+		"word": "Justifiable",
+		"definitions": [
+			"Able To Be Justified"
+		]
+	},
+	{
+		"word": "Justify",
+		"definitions": [
+			"Show The Justice Or Correctness Of (A Person, Act, Assertion, Etc.)",
+			"Printing Adjust (A Line Of Type) To Give Even Margins"
+		]
+	},
+	{
+		"word": "Jut",
+		"definitions": [
+			"Protrude, Project"
+		]
+	},
+	{
+		"word": "Jute",
+		"definitions": [
+			"Fibre From The Bark Of An East Indian Plant, Used Especially For Sacking, Mats, Etc."
+		]
+	},
+	{
+		"word": "Juvenile",
+		"definitions": [
+			"Youthful",
+			"Of Or For Young People"
+		]
+	},
+	{
+		"word": "Juvenile Court",
+		"definitions": [
+			"Court For Children Under 17"
+		]
+	},
+	{
+		"word": "Juvenile Delinquency",
+		"definitions": [
+			"Offences Committed By People Below The Age Of Legal Responsibility"
+		]
+	},
+	{
+		"word": "Juvenilia",
+		"definitions": [
+			"Author's Or Artist's Youthful Works"
+		]
+	},
+	{
+		"word": "Juxtapose",
+		"definitions": [
+			"Place Things Side By Side",
+			"Place A Thing Beside Another"
 		]
 	}
 ]
