@@ -1,9 +1,4878 @@
 [
 	{
-		"word": "<word>",
+		"word": "N1",
 		"definitions": [
-			"<definition1>",
-			"<definition2>"
+			"Fourteenth letter of the alphabet",
+			"Indefinite number"
+		]
+	},
+	{
+		"word": "N2",
+		"definitions": [
+			"North; northern",
+			"New"
+		]
+	},
+	{
+		"word": "N3",
+		"definitions": [
+			"Nitrogen"
+		]
+	},
+	{
+		"word": "N",
+		"definitions": [
+			"Name",
+			"Neuter"
+		]
+	},
+	{
+		"word": "Na",
+		"definitions": [
+			"Sodium"
+		]
+	},
+	{
+		"word": "Naafi",
+		"definitions": [
+			"Navy, army, and air force institutes",
+			"Canteen for servicemen run by the naafi"
+		]
+	},
+	{
+		"word": "Nab",
+		"definitions": [
+			"Arrest; catch in wrongdoing",
+			"Grab"
+		]
+	},
+	{
+		"word": "Nacho",
+		"definitions": [
+			"Tortilla chip, usually topped with melted cheese and spices"
+		]
+	},
+	{
+		"word": "Nacre",
+		"definitions": [
+			"Mother-of-pearl from any shelled mollusc",
+			"Nacreous"
+		]
+	},
+	{
+		"word": "Nadir",
+		"definitions": [
+			"Part of the celestial sphere directly below an observer",
+			"Lowest point; time of deep despair"
+		]
+	},
+	{
+		"word": "Naevus",
+		"definitions": [
+			"Raised red birthmark",
+			"Mole"
+		]
+	},
+	{
+		"word": "Naff",
+		"definitions": [
+			"Unfashionable",
+			"Rubbishy"
+		]
+	},
+	{
+		"word": "Nag1",
+		"definitions": [
+			"Persistently criticize or scold",
+			"Be persistent (of a pain)"
+		]
+	},
+	{
+		"word": "Nag2",
+		"definitions": [
+			"Horse"
+		]
+	},
+	{
+		"word": "Naiad",
+		"definitions": [
+			"Water-nymph"
+		]
+	},
+	{
+		"word": "Nail",
+		"definitions": [
+			"Small metal spike hammered in to join things together or as a peg or decoration",
+			"Horny covering on the upper surface of the tip of the human finger or toe"
+		]
+	},
+	{
+		"word": "Nail-file",
+		"definitions": [
+			"Roughened metal or emery strip used for smoothing the nails"
+		]
+	},
+	{
+		"word": "Nail polish",
+		"definitions": [
+			"Varnish, usually colored, applied to the nails"
+		]
+	},
+	{
+		"word": "Naïve",
+		"definitions": [
+			"Innocent; unaffected",
+			"Foolishly credulous"
+		]
+	},
+	{
+		"word": "Naked",
+		"definitions": [
+			"Without clothes; nude",
+			"Without its usual covering"
+		]
+	},
+	{
+		"word": "Naked eye",
+		"definitions": [
+			"Unassisted vision"
+		]
+	},
+	{
+		"word": "Namby-pamby",
+		"definitions": [
+			"Insipidly pretty or sentimental; weak",
+			"Namby-pamby person"
+		]
+	},
+	{
+		"word": "Name",
+		"definitions": [
+			"Word by which an individual person, family, animal, place, or thing is spoken of",
+			"Reputation, especially a good one"
+		]
+	},
+	{
+		"word": "Name-day",
+		"definitions": [
+			"Feast-day of the saint after whom a person is named"
+		]
+	},
+	{
+		"word": "Name-dropping",
+		"definitions": [
+			"Familiar mention of famous people as a form of boasting"
+		]
+	},
+	{
+		"word": "Nameless",
+		"definitions": [
+			"Having or showing no name",
+			"Too horrific to be named"
+		]
+	},
+	{
+		"word": "Namely",
+		"definitions": [
+			"That is to say; in other words"
+		]
+	},
+	{
+		"word": "Name-plate",
+		"definitions": [
+			"Plate or panel bearing the name of an occupant of a room"
+		]
+	},
+	{
+		"word": "Namesake",
+		"definitions": [
+			"Person or thing having the same name as another"
+		]
+	},
+	{
+		"word": "Nan",
+		"definitions": [
+			"Colloquial for grandmother"
+		]
+	},
+	{
+		"word": "Nancy",
+		"definitions": [
+			"Effeminate man, especially a homosexual"
+		]
+	},
+	{
+		"word": "Nanny",
+		"definitions": [
+			"Child's nurse",
+			"Female goat"
+		]
+	},
+	{
+		"word": "Nano-",
+		"definitions": [
+			"Comb. form denoting a factor of 10-9"
+		]
+	},
+	{
+		"word": "Nap1",
+		"definitions": [
+			"Sleep lightly or briefly",
+			"Short sleep or doze"
+		]
+	},
+	{
+		"word": "Nap2",
+		"definitions": [
+			"Raised pile on textiles, especially velvet"
+		]
+	},
+	{
+		"word": "Nap3",
+		"definitions": [
+			"Form of whist in which players declare the number of tricks they expect to take",
+			"Racing tip claimed to be almost a certainty"
+		]
+	},
+	{
+		"word": "Napalm",
+		"definitions": [
+			"Thick jellied hydrocarbon mixture used in bombs",
+			"Attack with napalm bombs"
+		]
+	},
+	{
+		"word": "Nape",
+		"definitions": [
+			"Back of the neck"
+		]
+	},
+	{
+		"word": "Naphtha",
+		"definitions": [
+			"Inflammable hydrocarbon distilled from coal"
+		]
+	},
+	{
+		"word": "Naphthalene",
+		"definitions": [
+			"White crystalline substance produced by distilling coal tar"
+		]
+	},
+	{
+		"word": "Napkin",
+		"definitions": [
+			"Piece of linen for wiping the lips, fingers, etc. at meals",
+			"Baby's nappy"
+		]
+	},
+	{
+		"word": "Nappy",
+		"definitions": [
+			"Piece of towelling wrapped around a baby to absorb urine and faeces"
+		]
+	},
+	{
+		"word": "Narcissism",
+		"definitions": [
+			"Excessive or erotic interest in oneself",
+			"Narcissistic"
+		]
+	},
+	{
+		"word": "Narcissus",
+		"definitions": [
+			"Any of several flowering bulbs, including the daffodil"
+		]
+	},
+	{
+		"word": "Narcosis",
+		"definitions": [
+			"State of insensibility",
+			"Induction of this"
+		]
+	},
+	{
+		"word": "Narcotic",
+		"definitions": [
+			"(Of a substance) inducing drowsiness",
+			"Narcotic substance, drug, or influence"
+		]
+	},
+	{
+		"word": "Nark",
+		"definitions": [
+			"Police informer or decoy",
+			"Annoy"
+		]
+	},
+	{
+		"word": "Narrate",
+		"definitions": [
+			"Give a continuous story or account of",
+			"Provide a spoken accompaniment for (a film, etc.)"
+		]
+	},
+	{
+		"word": "Narrative",
+		"definitions": [
+			"Ordered account of connected events",
+			"Of or by narration"
+		]
+	},
+	{
+		"word": "Narrow",
+		"definitions": [
+			"Of small width",
+			"Of limited scope"
+		]
+	},
+	{
+		"word": "Narrow boat",
+		"definitions": [
+			"Canal boat"
+		]
+	},
+	{
+		"word": "Narrow-minded",
+		"definitions": [
+			"Rigid or restricted in one's views",
+			"Intolerant"
+		]
+	},
+	{
+		"word": "Narwhal",
+		"definitions": [
+			"Arctic white whale, the male of which has a long tusk"
+		]
+	},
+	{
+		"word": "Nasa",
+		"definitions": [
+			"National aeronautics and space administration"
+		]
+	},
+	{
+		"word": "Nasal",
+		"definitions": [
+			"Of the nose",
+			"(Of a letter or a sound) pronounced with the breath passing through the nose"
+		]
+	},
+	{
+		"word": "Nascent",
+		"definitions": [
+			"In the act of being born",
+			"Just beginning to be"
+		]
+	},
+	{
+		"word": "Nasturtium",
+		"definitions": [
+			"Trailing plant with edible leaves and bright flowers"
+		]
+	},
+	{
+		"word": "Nasty",
+		"definitions": [
+			"Highly unpleasant",
+			"Ill-natured",
+			"Unpleasant or contemptible person",
+			"A bad or harmful thing"
+		]
+	},
+	{
+		"word": "Nat",
+		"definitions": [
+			"Abbr. for national",
+			"Abbr. for nationalist",
+			"Abbr. for natural"
+		]
+	},
+	{
+		"word": "Natal",
+		"definitions": [
+			"Of or from one's birth",
+			"Relating to birth or origin"
+		]
+	},
+	{
+		"word": "Nation",
+		"definitions": [
+			"Community of people of mainly common descent, history, language, etc., forming a state or inhabiting a territory",
+			"A large group of people with a common heritage, culture, or language"
+		]
+	},
+	{
+		"word": "National",
+		"definitions": [
+			"Relating to a nation or country",
+			"A citizen or member of a specified country"
+		]
+	},
+	{
+		"word": "National anthem",
+		"definitions": [
+			"A song adopted by a nation, intended to inspire patriotism"
+		]
+	},
+	{
+		"word": "National curriculum",
+		"definitions": [
+			"A common programme of study for pupils in the maintained schools of England and Wales"
+		]
+	},
+	{
+		"word": "National debt",
+		"definitions": [
+			"Money owed by a state because of loans to it"
+		]
+	},
+	{
+		"word": "National front",
+		"definitions": [
+			"A UK political party with extreme reactionary views on immigration etc."
+		]
+	},
+	{
+		"word": "National grid",
+		"definitions": [
+			"A network of high-voltage electric power lines between major power stations",
+			"A system of geographical coordinates used in maps of the British Isles"
+		]
+	},
+	{
+		"word": "National health",
+		"definitions": [
+			"A system of national medical care paid for mainly by taxation"
+		]
+	},
+	{
+		"word": "National insurance",
+		"definitions": [
+			"A system of compulsory payments by employed persons to provide state assistance in sickness, unemployment, etc."
+		]
+	},
+	{
+		"word": "Nationalism",
+		"definitions": [
+			"Patriotic feeling, principles, etc.",
+			"A policy of national independence"
+		]
+	},
+	{
+		"word": "Nationality",
+		"definitions": [
+			"Status of belonging to a particular nation",
+			"Condition of being national or having distinctive national qualities"
+		]
+	},
+	{
+		"word": "Nationalize",
+		"definitions": [
+			"To take (railways, industry, land, etc.) into state ownership",
+			"To make national"
+		]
+	},
+	{
+		"word": "National park",
+		"definitions": [
+			"An area of natural beauty protected by the state for public use"
+		]
+	},
+	{
+		"word": "National service",
+		"definitions": [
+			"Hist. Conscripted peacetime military service"
+		]
+	},
+	{
+		"word": "Nationwide",
+		"definitions": [
+			"Extending over the whole nation"
+		]
+	},
+	{
+		"word": "Native",
+		"definitions": [
+			"A person born in a specified place or region",
+			"Indigenous animal or plant species"
+		]
+	},
+	{
+		"word": "Nativity",
+		"definitions": [
+			"The birth of Christ",
+			"Birth or origin of someone"
+		]
+	},
+	{
+		"word": "Nato",
+		"definitions": [
+			"Abbr. for North Atlantic Treaty Organization"
+		]
+	},
+	{
+		"word": "Natter",
+		"definitions": [
+			"To chatter idly",
+			"Aimless chatter"
+		]
+	},
+	{
+		"word": "Natterjack",
+		"definitions": [
+			"A kind of small toad"
+		]
+	},
+	{
+		"word": "Natty",
+		"definitions": [
+			"Trim and smart in appearance",
+			"Neat or fashionable"
+		]
+	},
+	{
+		"word": "Natural",
+		"definitions": [
+			"Existing in or caused by nature",
+			"Not surprising, to be expected"
+		]
+	},
+	{
+		"word": "Natural gas",
+		"definitions": [
+			"Gas found in the earth's crust, not manufactured"
+		]
+	},
+	{
+		"word": "Natural history",
+		"definitions": [
+			"The study of animals or plants"
+		]
+	},
+	{
+		"word": "Naturalism",
+		"definitions": [
+			"A theory of realistic representation in art and literature",
+			"A worldview excluding the supernatural or spiritual"
+		]
+	},
+	{
+		"word": "Naturalist",
+		"definitions": [
+			"A person who studies natural history",
+			"An adherent of naturalism"
+		]
+	},
+	{
+		"word": "Naturalize",
+		"definitions": [
+			"To admit a foreigner to citizenship",
+			"To successfully introduce an animal or plant into another region"
+		]
+	},
+	{
+		"word": "Natural law",
+		"definitions": [
+			"Unchanging moral principles common to all human beings"
+		]
+	},
+	{
+		"word": "Naturally",
+		"definitions": [
+			"In a natural manner",
+			"As might be expected"
+		]
+	},
+	{
+		"word": "Natural number",
+		"definitions": [
+			"A whole number greater than 0"
+		]
+	},
+	{
+		"word": "Natural resources",
+		"definitions": [
+			"Materials or conditions occurring in nature and capable of economic exploitation"
+		]
+	},
+	{
+		"word": "Natural science",
+		"definitions": [
+			"The study of the natural or physical world"
+		]
+	},
+	{
+		"word": "Natural selection",
+		"definitions": [
+			"The Darwinian theory of survival and propagation of organisms best adapted to their environment"
+		]
+	},
+	{
+		"word": "Nature",
+		"definitions": [
+			"The innate qualities or character of a thing or person",
+			"The physical power causing all material phenomena"
+		]
+	},
+	{
+		"word": "Nature reserve",
+		"definitions": [
+			"A tract of land managed to preserve its flora, fauna, and physical features"
+		]
+	},
+	{
+		"word": "Nature trail",
+		"definitions": [
+			"A signposted path designed to highlight natural phenomena"
+		]
+	},
+	{
+		"word": "Naturism",
+		"definitions": [
+			"Nudism"
+		]
+	},
+	{
+		"word": "Naught",
+		"definitions": [
+			"Nothing, nought",
+			"Worthless, useless"
+		]
+	},
+	{
+		"word": "Naughty",
+		"definitions": [
+			"Disobedient or badly behaved, especially of children",
+			"Indecent or improper"
+		]
+	},
+	{
+		"word": "Nausea",
+		"definitions": [
+			"The inclination to vomit",
+			"A feeling of revulsion"
+		]
+	},
+	{
+		"word": "Nauseate",
+		"definitions": [
+			"To affect with nausea",
+			"To cause revulsion"
+		]
+	},
+	{
+		"word": "Nauseous",
+		"definitions": [
+			"Causing nausea",
+			"Disgusting or loathsome"
+		]
+	},
+	{
+		"word": "Nautical",
+		"definitions": [
+			"Relating to sailors or navigation"
+		]
+	},
+	{
+		"word": "Nautical mile",
+		"definitions": [
+			"A unit of approximately 2,025 yards (1,852 meters)"
+		]
+	},
+	{
+		"word": "Nautilus",
+		"definitions": [
+			"A small mollusc with a spiral shell"
+		]
+	},
+	{
+		"word": "Naval",
+		"definitions": [
+			"Relating to a navy",
+			"Of or concerning ships"
+		]
+	},
+	{
+		"word": "Nave",
+		"definitions": [
+			"The central part of a church, excluding the side aisles"
+		]
+	},
+	{
+		"word": "Navel",
+		"definitions": [
+			"The depression in the center of the belly marking the site of attachment of the umbilical cord"
+		]
+	},
+	{
+		"word": "Navel orange",
+		"definitions": [
+			"An orange with a navel-like formation at the top"
+		]
+	},
+	{
+		"word": "Navigable",
+		"definitions": [
+			"Suitable for ships to pass through",
+			"Steerable"
+		]
+	},
+	{
+		"word": "Navigate",
+		"definitions": [
+			"To manage or direct the course of a ship or aircraft",
+			"To assist a driver in navigating with maps"
+		]
+	},
+	{
+		"word": "Navigation",
+		"definitions": [
+			"The act or process of navigating",
+			"The art or science of navigation"
+		]
+	},
+	{
+		"word": "Navvy",
+		"definitions": [
+			"A laborer employed in building or excavating roads, canals, etc.",
+			"To work as a navvy"
+		]
+	},
+	{
+		"word": "Navy",
+		"definitions": [
+			"The body of a state's ships of war",
+			"A fleet of ships"
+		]
+	},
+	{
+		"word": "Nay",
+		"definitions": [
+			"An expression of disagreement or negation",
+			"An archaic form of 'no'"
+		]
+	},
+	{
+		"word": "Nazarene",
+		"definitions": [
+			"A Christian",
+			"A native or inhabitant of Nazareth"
+		]
+	},
+	{
+		"word": "Nazi",
+		"definitions": [
+			"A member of the German National Socialist Party",
+			"Relating to Nazis or Nazism"
+		]
+	},
+	{
+		"word": "Nb",
+		"definitions": [
+			"Abbreviation for 'nota bene' (note well)",
+			"Symbol for Niobium"
+		]
+	},
+	{
+		"word": "Nco",
+		"definitions": [
+			"Non-commissioned officer"
+		]
+	},
+	{
+		"word": "Ncp",
+		"definitions": [
+			"Abbreviation for National Car Parks"
+		]
+	},
+	{
+		"word": "Nd",
+		"definitions": [
+			"Symbol for Neodymium"
+		]
+	},
+	{
+		"word": "Ne",
+		"definitions": [
+			"Abbreviation for North-East or North-Eastern",
+			"Symbol for Neon"
+		]
+	},
+	{
+		"word": "Neanderthal",
+		"definitions": [
+			"Of or relating to the type of human with massive brow-ridges, widely distributed in Paleolithic Europe"
+		]
+	},
+	{
+		"word": "Neap",
+		"definitions": [
+			"The tide at the times of the month with the least difference between high and low water"
+		]
+	},
+	{
+		"word": "Neapolitan",
+		"definitions": [
+			"A native or citizen of Naples",
+			"Relating to Naples"
+		]
+	},
+	{
+		"word": "Near",
+		"definitions": [
+			"To or at a short distance in space or time",
+			"Closely (as near as one can guess)"
+		]
+	},
+	{
+		"word": "Nearby",
+		"definitions": [
+			"Near in position",
+			"Close; not far away"
+		]
+	},
+	{
+		"word": "Near East",
+		"definitions": [
+			"Region comprising the countries of the eastern Mediterranean"
+		]
+	},
+	{
+		"word": "Nearly",
+		"definitions": [
+			"Almost",
+			"Closely"
+		]
+	},
+	{
+		"word": "Near miss",
+		"definitions": [
+			"Bomb etc. falling close to the target",
+			"Narrowly avoided collision",
+			"Not quite successful attempt"
+		]
+	},
+	{
+		"word": "Nearside",
+		"definitions": [
+			"Left side of a vehicle, animal, etc."
+		]
+	},
+	{
+		"word": "Near-sighted",
+		"definitions": [
+			"Short-sighted"
+		]
+	},
+	{
+		"word": "Near thing",
+		"definitions": [
+			"Narrow escape"
+		]
+	},
+	{
+		"word": "Neat",
+		"definitions": [
+			"Tidy and methodical",
+			"Elegantly simple",
+			"Brief, clear, and pointed",
+			"A cleverly executed",
+			"Dexterous",
+			"Undiluted (especially alcohol)"
+		]
+	},
+	{
+		"word": "Neaten",
+		"definitions": [
+			"Make neat"
+		]
+	},
+	{
+		"word": "Neath",
+		"definitions": [
+			"Poet. Beneath"
+		]
+	},
+	{
+		"word": "Nebula",
+		"definitions": [
+			"Cloud of gas and dust seen in the night sky, sometimes glowing and sometimes appearing as a dark silhouette"
+		]
+	},
+	{
+		"word": "Nebulous",
+		"definitions": [
+			"Cloudlike",
+			"Indistinct, vague"
+		]
+	},
+	{
+		"word": "Nec",
+		"definitions": [
+			"Abbr. National executive committee"
+		]
+	},
+	{
+		"word": "Necessary",
+		"definitions": [
+			"Requiring to be done; requisite, essential",
+			"Determined, existing, or happening by natural laws etc., not by free will; inevitable"
+		]
+	},
+	{
+		"word": "Necessarian",
+		"definitions": [
+			"Person who holds that all action is predetermined and free will is impossible",
+			"Of such a person or theory"
+		]
+	},
+	{
+		"word": "Necessitate",
+		"definitions": [
+			"Make necessary (esp. as a result)"
+		]
+	},
+	{
+		"word": "Necessitous",
+		"definitions": [
+			"Poor; needy"
+		]
+	},
+	{
+		"word": "Necessity",
+		"definitions": [
+			"Indispensable thing",
+			"Pressure of circumstances",
+			"Imperative need",
+			"Want; poverty",
+			"Constraint or compulsion regarded as a natural law governing all human action"
+		]
+	},
+	{
+		"word": "Neck",
+		"definitions": [
+			"A part of the body connecting the head to the shoulders",
+			"A part of a garment round the neck",
+			"Something resembling a neck; narrow part of a cavity, vessel, or object",
+			"Flesh of an animal's neck as food",
+			"Slang impudence"
+		]
+	},
+	{
+		"word": "Neck and neck",
+		"definitions": [
+			"Level in a race, etc."
+		]
+	},
+	{
+		"word": "Neckband",
+		"definitions": [
+			"Strip of material round the neck of a garment"
+		]
+	},
+	{
+		"word": "Neckerchief",
+		"definitions": [
+			"Square of cloth worn round the neck"
+		]
+	},
+	{
+		"word": "Necklace",
+		"definitions": [
+			"Chain or string of beads, precious stones, etc., worn round the neck",
+			"S. Afr. Tyre soaked or filled with petrol, placed round a victim's neck, and set alight"
+		]
+	},
+	{
+		"word": "Neckline",
+		"definitions": [
+			"Edge or shape of a garment-opening at the neck"
+		]
+	},
+	{
+		"word": "Necktie",
+		"definitions": [
+			"Esp. U.S. Tie"
+		]
+	},
+	{
+		"word": "Necro-",
+		"definitions": [
+			"Comb. form corpse"
+		]
+	},
+	{
+		"word": "Necromancy",
+		"definitions": [
+			"Divination by supposed communication with the dead",
+			"Magic"
+		]
+	},
+	{
+		"word": "Necrophilia",
+		"definitions": [
+			"Morbid and esp. sexual attraction to corpses"
+		]
+	},
+	{
+		"word": "Necropolis",
+		"definitions": [
+			"Ancient cemetery or burial place"
+		]
+	},
+	{
+		"word": "Necrosis",
+		"definitions": [
+			"Death of tissue"
+		]
+	},
+	{
+		"word": "Nectar",
+		"definitions": [
+			"Sugary substance produced by plants and made into honey by bees",
+			"(In Greek and Roman mythology) the drink of the gods",
+			"Drink compared to this"
+		]
+	},
+	{
+		"word": "Nectarine",
+		"definitions": [
+			"Smooth-skinned variety of peach"
+		]
+	},
+	{
+		"word": "Nedc",
+		"definitions": [
+			"Abbr. National economic development council"
+		]
+	},
+	{
+		"word": "Neddy",
+		"definitions": [
+			"Colloq. 1 donkey",
+			"(Neddy) = *NEDC. Pet form of Edward"
+		]
+	},
+	{
+		"word": "Nee",
+		"definitions": [
+			"(Used in adding a married woman's maiden name after her surname) born"
+		]
+	},
+	{
+		"word": "Née",
+		"definitions": [
+			"(Used in adding a married woman's maiden name after her surname) born"
+		]
+	},
+	{
+		"word": "Need",
+		"definitions": [
+			"Stand in want of; require",
+			"Be under the necessity or obligation (needs to be done well; he need not come; need you ask?)"
+		]
+	},
+	{
+		"word": "Needful",
+		"definitions": [
+			"Requisite"
+		]
+	},
+	{
+		"word": "Needle",
+		"definitions": [
+			"A very thin pointed rod of smooth steel etc. with a slit (‘eye’) for thread at the blunt end, used in sewing",
+			"Pointer on a dial",
+			"Any of several small thin pointed instruments, esp. a the end of a hypodermic syringe, b = *Stylus 1",
+			"Obelisk (Cleopatra's Needle)",
+			"Pointed rock or peak",
+			"Leaf of a fir or pine tree",
+			"(The needle) slang fit of bad temper or nervousness"
+		]
+	},
+	{
+		"word": "Needlecord",
+		"definitions": [
+			"Fine-ribbed corduroy fabric"
+		]
+	},
+	{
+		"word": "Needle-point",
+		"definitions": [
+			"Lace made with needles, not bobbins",
+			"Gros point or petit point"
+		]
+	},
+	{
+		"word": "Needless",
+		"definitions": [
+			"Unnecessary",
+			"Uncalled for"
+		]
+	},
+	{
+		"word": "Needlewoman",
+		"definitions": [
+			"Seamstress",
+			"Woman or girl with specified sewing skill"
+		]
+	},
+	{
+		"word": "Needlework",
+		"definitions": [
+			"Sewing or embroidery"
+		]
+	},
+	{
+		"word": "Needs",
+		"definitions": [
+			"Archaic (usu. prec. or foll. by must) of necessity"
+		]
+	},
+	{
+		"word": "Needy",
+		"definitions": [
+			"Poor; destitute"
+		]
+	},
+	{
+		"word": "Ne'er",
+		"definitions": [
+			"Poet. Never"
+		]
+	},
+	{
+		"word": "Ne'er-do-well",
+		"definitions": [
+			"Good-for-nothing person",
+			"Good-for-nothing"
+		]
+	},
+	{
+		"word": "Nefarious",
+		"definitions": [
+			"Wicked"
+		]
+	},
+	{
+		"word": "Neg",
+		"definitions": [
+			"Abbr. Esp. Photog. Negative"
+		]
+	},
+	{
+		"word": "Negate",
+		"definitions": [
+			"Nullify",
+			"Assert or imply the non-existence of"
+		]
+	},
+	{
+		"word": "Negation",
+		"definitions": [
+			"Absence or opposite of something actual or positive",
+			"Act of denying",
+			"Negative statement",
+			"Negative or unreal thing"
+		]
+	},
+	{
+		"word": "Negative",
+		"definitions": [
+			"Expressing or implying denial, prohibition, or refusal",
+			"(Of a person or attitude) lacking positive attributes",
+			"Marked by the absence of qualities",
+			"Of the opposite nature to a thing regarded as positive",
+			"(Of a quantity) less than zero, to be subtracted from others or from zero",
+			"Electr. A of the kind of charge carried by electrons",
+			"Containing or producing such a charge"
+		]
+	},
+	{
+		"word": "Negativism",
+		"definitions": [
+			"Negative attitude; extreme skepticism"
+		]
+	},
+	{
+		"word": "Neglect",
+		"definitions": [
+			"Fail to care for or to do; be remiss about",
+			"Fail; overlook the need to",
+			"Not pay attention to; disregard"
+		]
+	},
+	{
+		"word": "Negligée",
+		"definitions": [
+			"Woman's flimsy dressing-gown"
+		]
+	},
+	{
+		"word": "Negligence",
+		"definitions": [
+			"Lack of proper care and attention",
+			"Culpable carelessness"
+		]
+	},
+	{
+		"word": "Negligible",
+		"definitions": [
+			"Not worth considering; insignificant"
+		]
+	},
+	{
+		"word": "Negotiable",
+		"definitions": [
+			"Open to discussion",
+			"Able to be negotiated"
+		]
+	},
+	{
+		"word": "Negotiate",
+		"definitions": [
+			"Confer in order to reach an agreement",
+			"Arrange an affair or bring about a result by negotiating",
+			"Find a way over, through, etc. (an obstacle, difficulty, etc.)",
+			"Convert a cheque etc. into money"
+		]
+	},
+	{
+		"word": "Negress",
+		"definitions": [
+			"Female negro",
+			"The term negress is often considered offensive; black is usually preferred"
+		]
+	},
+	{
+		"word": "Negritude",
+		"definitions": [
+			"State of being black",
+			"Affirmation of black culture"
+		]
+	},
+	{
+		"word": "Negro",
+		"definitions": [
+			"Member of a dark-skinned race orig. native to Africa",
+			"Of negroes"
+		]
+	},
+	{
+		"word": "Negroid",
+		"definitions": [
+			"Characteristic of black people",
+			"Black"
+		]
+	},
+	{
+		"word": "Neigh",
+		"definitions": [
+			"Cry of a horse",
+			"Make a neigh"
+		]
+	},
+	{
+		"word": "Neighbor",
+		"definitions": [
+			"Person living next door to or near or nearest another",
+			"Fellow human being"
+		]
+	},
+	{
+		"word": "Neighborhood",
+		"definitions": [
+			"District; vicinity",
+			"People of a district"
+		]
+	},
+	{
+		"word": "Neighborly",
+		"definitions": [
+			"Like a good neighbour; friendly; kind",
+			"Neighbourliness"
+		]
+	},
+	{
+		"word": "Neither",
+		"definitions": [
+			"Not the one nor the other (of two things); not either",
+			"Also not"
+		]
+	},
+	{
+		"word": "Nelson",
+		"definitions": [
+			"Wrestling-hold in which one arm is passed under the opponent's arm from behind and the hand is applied to the neck",
+			"Full nelson, both arms and hands applied"
+		]
+	},
+	{
+		"word": "Nematode",
+		"definitions": [
+			"Worm with a slender unsegmented cylindrical shape"
+		]
+	},
+	{
+		"word": "Nem. Con.",
+		"definitions": [
+			"With no one dissenting"
+		]
+	},
+	{
+		"word": "Nemesis",
+		"definitions": [
+			"Retributive justice",
+			"Downfall caused by this"
+		]
+	},
+	{
+		"word": "Neo-",
+		"definitions": [
+			"New, modern",
+			"New form of"
+		]
+	},
+	{
+		"word": "Neoclassicism",
+		"definitions": [
+			"Revival of classical style or treatment in the arts",
+			"Neoclassical"
+		]
+	},
+	{
+		"word": "Neodymium",
+		"definitions": [
+			"Metallic element of the lanthanide series"
+		]
+	},
+	{
+		"word": "Neolithic",
+		"definitions": [
+			"Of the later part of the stone age"
+		]
+	},
+	{
+		"word": "Neologism",
+		"definitions": [
+			"New word",
+			"Coining of new words"
+		]
+	},
+	{
+		"word": "Neon",
+		"definitions": [
+			"Inert gaseous element giving an orange glow when electricity is passed through it"
+		]
+	},
+	{
+		"word": "Neophyte",
+		"definitions": [
+			"New convert",
+			"Beginner"
+		]
+	},
+	{
+		"word": "Nephew",
+		"definitions": [
+			"Son of one's brother or sister or of one's spouse's brother or sister"
+		]
+	},
+	{
+		"word": "Nephritic",
+		"definitions": [
+			"Of or in the kidneys",
+			"Of nephritis"
+		]
+	},
+	{
+		"word": "Nephritis",
+		"definitions": [
+			"Inflammation of the kidneys"
+		]
+	},
+	{
+		"word": "Ne plus ultra",
+		"definitions": [
+			"Furthest attainable point",
+			"Acme, perfection"
+		]
+	},
+	{
+		"word": "Nepotism",
+		"definitions": [
+			"Favouritism shown to relatives in conferring offices"
+		]
+	},
+	{
+		"word": "Neptunium",
+		"definitions": [
+			"Transuranic metallic element produced when uranium atoms absorb bombarding neutrons"
+		]
+	},
+	{
+		"word": "Nerd",
+		"definitions": [
+			"Foolish, feeble, or uninteresting person"
+		]
+	},
+	{
+		"word": "Nereid",
+		"definitions": [
+			"Sea-nymph"
+		]
+	},
+	{
+		"word": "Nerve",
+		"definitions": [
+			"A fibre or bundle of fibres that transmits impulses of sensation or motion between the brain or spinal cord and other parts of the body",
+			"A coolness in danger; bravery"
+		]
+	},
+	{
+		"word": "Nerve-cell",
+		"definitions": [
+			"Cell transmitting impulses in nerve tissue"
+		]
+	},
+	{
+		"word": "Nerve-centre",
+		"definitions": [
+			"Group of closely connected nerve-cells",
+			"Centre of control"
+		]
+	},
+	{
+		"word": "Nerve gas",
+		"definitions": [
+			"Poisonous gas affecting the nervous system"
+		]
+	},
+	{
+		"word": "Nerveless",
+		"definitions": [
+			"Lacking vigour",
+			"(Of style) diffuse"
+		]
+	},
+	{
+		"word": "Nerve-racking",
+		"definitions": [
+			"Causing mental strain"
+		]
+	},
+	{
+		"word": "Nervous",
+		"definitions": [
+			"Easily upset, timid, highly strung",
+			"Anxious"
+		]
+	},
+	{
+		"word": "Nervous breakdown",
+		"definitions": [
+			"Period of mental illness, usu. resulting from severe stress"
+		]
+	},
+	{
+		"word": "Nervous system",
+		"definitions": [
+			"Body's network of nerve cells"
+		]
+	},
+	{
+		"word": "Nervy",
+		"definitions": [
+			"Nervous; easily excited"
+		]
+	},
+	{
+		"word": "Nescient",
+		"definitions": [
+			"Lacking knowledge",
+			"Nescience"
+		]
+	},
+	{
+		"word": "-ness",
+		"definitions": [
+			"State or condition, or an instance of this",
+			"Something in a certain state"
+		]
+	},
+	{
+		"word": "Nest",
+		"definitions": [
+			"Structure or place where a bird lays eggs and shelters its young",
+			"Snug retreat or shelter"
+		]
+	},
+	{
+		"word": "Nest egg",
+		"definitions": [
+			"Sum of money saved for the future"
+		]
+	},
+	{
+		"word": "Nestle",
+		"definitions": [
+			"Settle oneself comfortably",
+			"Press oneself against another in affection"
+		]
+	},
+	{
+		"word": "Nestling",
+		"definitions": [
+			"Bird too young to leave its nest"
+		]
+	},
+	{
+		"word": "Net1",
+		"definitions": [
+			"Open-meshed fabric of cord, rope, etc.",
+			"Piece of net used to restrain, contain, or catch"
+		]
+	},
+	{
+		"word": "Net2",
+		"definitions": [
+			"Remaining after all necessary deductions",
+			"Ultimate, actual"
+		]
+	},
+	{
+		"word": "Netball",
+		"definitions": [
+			"Team game in which goals are scored by throwing a ball through a high horizontal ring from which a net hangs"
+		]
+	},
+	{
+		"word": "Nether",
+		"definitions": [
+			"Lower"
+		]
+	},
+	{
+		"word": "Nether regions",
+		"definitions": [
+			"Hell",
+			"The underworld"
+		]
+	},
+	{
+		"word": "Net profit",
+		"definitions": [
+			"Actual gain after working expenses have been paid"
+		]
+	},
+	{
+		"word": "Nett",
+		"definitions": [
+			"Of *net2"
+		]
+	},
+	{
+		"word": "Netting",
+		"definitions": [
+			"Netted fabric",
+			"Piece of this"
+		]
+	},
+	{
+		"word": "Nettle",
+		"definitions": [
+			"Plant with jagged leaves covered with stinging hairs",
+			"Plant resembling this"
+		]
+	},
+	{
+		"word": "Nettle-rash",
+		"definitions": [
+			"Skin eruption like nettle stings"
+		]
+	},
+	{
+		"word": "Network",
+		"definitions": [
+			"Arrangement of intersecting horizontal and vertical lines",
+			"Complex system of railways etc",
+			"People connected by the exchange of information etc., professionally or socially",
+			"System of connected electrical conductors",
+			"Group of broadcasting stations connected for the simultaneous broadcast of a programme",
+			"Chain of interconnected computers",
+			"Broadcast on a network"
+		]
+	},
+	{
+		"word": "Neural",
+		"definitions": [
+			"Of a nerve or the central nervous system"
+		]
+	},
+	{
+		"word": "Neuralgia",
+		"definitions": [
+			"Intense pain along a nerve, esp. In the head or face",
+			"Neuralgic"
+		]
+	},
+	{
+		"word": "Neuritis",
+		"definitions": [
+			"Inflammation of a nerve or nerves"
+		]
+	},
+	{
+		"word": "Neuro-",
+		"definitions": [
+			"Form nerve or nerves"
+		]
+	},
+	{
+		"word": "Neurology",
+		"definitions": [
+			"The study of nerve systems",
+			"Neurological",
+			"Neurologist"
+		]
+	},
+	{
+		"word": "Neuron",
+		"definitions": [
+			"Nerve-cell"
+		]
+	},
+	{
+		"word": "Neurosis",
+		"definitions": [
+			"Irrational or disturbed behaviour pattern, associated with nervous distress"
+		]
+	},
+	{
+		"word": "Neurosurgery",
+		"definitions": [
+			"Surgery on the nervous system, esp. The brain or spinal cord",
+			"Neurosurgeon",
+			"Neurosurgical"
+		]
+	},
+	{
+		"word": "Neurotic",
+		"definitions": [
+			"Caused by or relating to neurosis",
+			"Suffering from neurosis",
+			"Colloq. Abnormally sensitive or obsessive",
+			"Neurotically"
+		]
+	},
+	{
+		"word": "Neuter",
+		"definitions": [
+			"Neither masculine nor feminine",
+			"(Of a plant) having neither pistils nor stamen",
+			"(Of an insect) sexually undeveloped",
+			"Neuter gender or word",
+			"A non-fertile insect, esp. A worker bee or ant",
+			"Castrated animal",
+			"Castrate or spay"
+		]
+	},
+	{
+		"word": "Neutral",
+		"definitions": [
+			"Not supporting either of two opposing sides, impartial",
+			"Belonging to a neutral state etc",
+			"Indistinct, vague, indeterminate",
+			"(Of a gear) in which the engine is disconnected from the driven parts",
+			"(Of colours) not strong or positive; grey or beige",
+			"Chem. Neither acid nor alkaline",
+			"Electr. Neither positive nor negative",
+			"Biol. Sexually undeveloped; asexual",
+			"A neutral state or person",
+			"Neutral gear",
+			"Neutrality"
+		]
+	},
+	{
+		"word": "Neutralize",
+		"definitions": [
+			"Make neutral",
+			"Make ineffective by an opposite force or effect",
+			"Exempt or exclude (a place) from the sphere of hostilities",
+			"Neutralization"
+		]
+	},
+	{
+		"word": "Neutrino",
+		"definitions": [
+			"Elementary particle with zero electric charge and probably zero mass"
+		]
+	},
+	{
+		"word": "Neutron",
+		"definitions": [
+			"Elementary particle of about the same mass as a proton but without an electric charge"
+		]
+	},
+	{
+		"word": "Neutron bomb",
+		"definitions": [
+			"Bomb producing neutrons and little blast, destroying life but not property"
+		]
+	},
+	{
+		"word": "Never",
+		"definitions": [
+			"At no time; on no occasion; not ever",
+			"Not at all",
+			"Colloq. (expressing surprise) surely not",
+			"Well I never! Expressing great surprise"
+		]
+	},
+	{
+		"word": "Nevermore",
+		"definitions": [
+			"At no future time"
+		]
+	},
+	{
+		"word": "Never-never",
+		"definitions": [
+			"Colloq. Hire purchase"
+		]
+	},
+	{
+		"word": "Nevertheless",
+		"definitions": [
+			"In spite of that; notwithstanding"
+		]
+	},
+	{
+		"word": "Nevus",
+		"definitions": [
+			"Raised red birthmark",
+			"Mole"
+		]
+	},
+	{
+		"word": "New",
+		"definitions": [
+			"Of recent origin or arrival",
+			"Made, discovered, acquired, or experienced recently or now for the first time",
+			"In original condition; not worn or used",
+			"A renewed; reformed",
+			"Different from a recent previous one",
+			"Unfamiliar or strange",
+			"Advanced in method or theory",
+			"Newly, recently",
+			"Newish",
+			"Newness"
+		]
+	},
+	{
+		"word": "New age",
+		"definitions": [
+			"Set of beliefs replacing traditional western culture, with alternative approaches to religion, medicine, the environment, etc"
+		]
+	},
+	{
+		"word": "New arrival",
+		"definitions": [
+			"Colloq. Newborn child"
+		]
+	},
+	{
+		"word": "Newborn",
+		"definitions": [
+			"Recently born"
+		]
+	},
+	{
+		"word": "New broom",
+		"definitions": [
+			"New employee etc. Eager to make changes"
+		]
+	},
+	{
+		"word": "Newcomer",
+		"definitions": [
+			"Person who has recently arrived",
+			"Beginner in some activity"
+		]
+	},
+	{
+		"word": "Newel",
+		"definitions": [
+			"Supporting central post of winding stairs",
+			"Top or bottom supporting post of a stair-rail"
+		]
+	},
+	{
+		"word": "Newfangled",
+		"definitions": [
+			"Derog. Different from what one is used to; objectionably new"
+		]
+	},
+	{
+		"word": "Newly",
+		"definitions": [
+			"Recently",
+			"Afresh, anew"
+		]
+	},
+	{
+		"word": "Newly-wed",
+		"definitions": [
+			"Recently married person"
+		]
+	},
+	{
+		"word": "New mathematics",
+		"definitions": [
+			"System of elementary maths teaching with an emphasis on investigation and set theory"
+		]
+	},
+	{
+		"word": "New moon",
+		"definitions": [
+			"Moon when first seen as a crescent after conjunction with the sun",
+			"Time of its appearance"
+		]
+	},
+	{
+		"word": "New potatoes",
+		"definitions": [
+			"Earliest potatoes of a new crop"
+		]
+	},
+	{
+		"word": "News",
+		"definitions": [
+			"Information about important or interesting recent events, esp. When published or broadcast",
+			"Broadcast report of news",
+			"Newly received or noteworthy information"
+		]
+	},
+	{
+		"word": "Newsagent",
+		"definitions": [
+			"Seller of or shop selling newspapers etc"
+		]
+	},
+	{
+		"word": "Newscast",
+		"definitions": [
+			"Radio or television broadcast of news reports"
+		]
+	},
+	{
+		"word": "Newscaster",
+		"definitions": [
+			"Newsreader"
+		]
+	},
+	{
+		"word": "News conference",
+		"definitions": [
+			"Press conference"
+		]
+	},
+	{
+		"word": "Newsflash",
+		"definitions": [
+			"Single item of important news, broadcast urgently and often interrupting other programmes"
+		]
+	},
+	{
+		"word": "Newsletter",
+		"definitions": [
+			"Informal printed report issued periodically to members of a club etc"
+		]
+	},
+	{
+		"word": "Newspaper",
+		"definitions": [
+			"Printed publication of loose folded sheets containing news, advertisements, correspondence, etc",
+			"Paper forming this"
+		]
+	},
+	{
+		"word": "Newspeak",
+		"definitions": [
+			"Ambiguous euphemistic language used esp. In political propaganda"
+		]
+	},
+	{
+		"word": "Newsprint",
+		"definitions": [
+			"Low-quality paper on which newspapers are printed"
+		]
+	},
+	{
+		"word": "Newsreader",
+		"definitions": [
+			"Person who reads out broadcast news bulletins"
+		]
+	},
+	{
+		"word": "Newsreel",
+		"definitions": [
+			"Short cinema film of recent events",
+			"News broadcast in film form"
+		]
+	},
+	{
+		"word": "News room",
+		"definitions": [
+			"Room in a newspaper or broadcasting office where news is processed"
+		]
+	},
+	{
+		"word": "News-sheet",
+		"definitions": [
+			"Simple form of newspaper; newsletter"
+		]
+	},
+	{
+		"word": "News-stand",
+		"definitions": [
+			"Stall for the sale of newspapers"
+		]
+	},
+	{
+		"word": "New star",
+		"definitions": [
+			"Nova"
+		]
+	},
+	{
+		"word": "New style",
+		"definitions": [
+			"Dating reckoned by the Gregorian calendar"
+		]
+	},
+	{
+		"word": "News-vendor",
+		"definitions": [
+			"Newspaper-seller"
+		]
+	},
+	{
+		"word": "Newsworthy",
+		"definitions": [
+			"Topical; noteworthy as news"
+		]
+	},
+	{
+		"word": "Newsy",
+		"definitions": [
+			"Full of news"
+		]
+	},
+	{
+		"word": "Newt",
+		"definitions": [
+			"Small amphibian with a well-developed tail"
+		]
+	},
+	{
+		"word": "New testament",
+		"definitions": [
+			"Part of the Bible concerned with the life and teachings of Christ and his earliest followers"
+		]
+	},
+	{
+		"word": "Newton",
+		"definitions": [
+			"SI unit of force that, acting on a mass of one kilogram, increases its velocity by one meter per second every second"
+		]
+	},
+	{
+		"word": "New town",
+		"definitions": [
+			"Town planned and built all at once with government funds"
+		]
+	},
+	{
+		"word": "New wave",
+		"definitions": [
+			"A style of rock music"
+		]
+	},
+	{
+		"word": "New world",
+		"definitions": [
+			"North and South America"
+		]
+	},
+	{
+		"word": "New year",
+		"definitions": [
+			"Year just begun or about to begin; first few days of a year"
+		]
+	},
+	{
+		"word": "New year's day",
+		"definitions": [
+			"1 January"
+		]
+	},
+	{
+		"word": "New year's eve",
+		"definitions": [
+			"31 December"
+		]
+	},
+	{
+		"word": "Next",
+		"definitions": [
+			"Being, positioned, or living nearest",
+			"Nearest in order of time; soonest encountered"
+		]
+	},
+	{
+		"word": "Next-best",
+		"definitions": [
+			"The next in order of preference"
+		]
+	},
+	{
+		"word": "Next door",
+		"definitions": [
+			"In the next house or room"
+		]
+	},
+	{
+		"word": "Next of kin",
+		"definitions": [
+			"Closest living relative(s)"
+		]
+	},
+	{
+		"word": "Next world",
+		"definitions": [
+			"Life after death"
+		]
+	},
+	{
+		"word": "Nexus",
+		"definitions": [
+			"Connected group or series"
+		]
+	},
+	{
+		"word": "NHS",
+		"definitions": [
+			"National health service"
+		]
+	},
+	{
+		"word": "Ni",
+		"definitions": [
+			"Northern Ireland",
+			"National insurance"
+		]
+	},
+	{
+		"word": "Ni",
+		"definitions": [
+			"Nickel"
+		]
+	},
+	{
+		"word": "Niacin",
+		"definitions": [
+			"Nicotinic acid"
+		]
+	},
+	{
+		"word": "Nib",
+		"definitions": [
+			"Pen-point",
+			"Shelled and crushed coffee or cocoa beans"
+		]
+	},
+	{
+		"word": "Nibble",
+		"definitions": [
+			"Take small bites at",
+			"Eat in small amounts"
+		]
+	},
+	{
+		"word": "Nibs",
+		"definitions": [
+			"Mock title used with reference to an important or self-important person"
+		]
+	},
+	{
+		"word": "Nice",
+		"definitions": [
+			"Pleasant, satisfactory",
+			"Kind, good-natured"
+		]
+	},
+	{
+		"word": "Nicety",
+		"definitions": [
+			"Subtle distinction or detail",
+			"Precision"
+		]
+	},
+	{
+		"word": "Niche",
+		"definitions": [
+			"Shallow recess, esp. in a wall",
+			"Comfortable or apt position in life or employment"
+		]
+	},
+	{
+		"word": "Nick",
+		"definitions": [
+			"Small cut or notch",
+			"Slang for a prison or police station"
+		]
+	},
+	{
+		"word": "Nickel",
+		"definitions": [
+			"Silver-white metallic element used in magnetic alloys",
+			"US five-cent coin"
+		]
+	},
+	{
+		"word": "Nickel silver",
+		"definitions": [
+			"German silver"
+		]
+	},
+	{
+		"word": "Nickel steel",
+		"definitions": [
+			"Type of stainless steel with chromium and nickel"
+		]
+	},
+	{
+		"word": "Nicker",
+		"definitions": [
+			"Slang for pound sterling"
+		]
+	},
+	{
+		"word": "Nick-nack",
+		"definitions": [
+			"Variant of knick-knack"
+		]
+	},
+	{
+		"word": "Nickname",
+		"definitions": [
+			"Familiar or humorous name given to a person or thing instead of or as well as the real name",
+			"Call by a nickname"
+		]
+	},
+	{
+		"word": "Nicotine",
+		"definitions": [
+			"Poisonous alkaloid present in tobacco"
+		]
+	},
+	{
+		"word": "Nicotinic acid",
+		"definitions": [
+			"Vitamin of the B complex"
+		]
+	},
+	{
+		"word": "Nictitate",
+		"definitions": [
+			"Blink or wink"
+		]
+	},
+	{
+		"word": "Nictitating membrane",
+		"definitions": [
+			"Transparent third eyelid in amphibians, birds, and some other animals"
+		]
+	},
+	{
+		"word": "Niece",
+		"definitions": [
+			"Daughter of one's brother or sister or of one's spouse's brother or sister",
+			"Female relative in the next generation"
+		]
+	},
+	{
+		"word": "Niff",
+		"definitions": [
+			"Smell, stink",
+			"A bad or unpleasant odor"
+		]
+	},
+	{
+		"word": "Nifty",
+		"definitions": [
+			"Clever, adroit",
+			"Smart, stylish"
+		]
+	},
+	{
+		"word": "Niggard",
+		"definitions": [
+			"Stingy person",
+			"Person who is reluctant to spend or give"
+		]
+	},
+	{
+		"word": "Niggardly",
+		"definitions": [
+			"Stingy",
+			"Reluctant to spend or share"
+		]
+	},
+	{
+		"word": "Nigger",
+		"definitions": [
+			"Offens. Black or dark-skinned person",
+			"A derogatory term for a person of African descent"
+		]
+	},
+	{
+		"word": "Niggle",
+		"definitions": [
+			"Be over-attentive to details",
+			"Find fault in a petty way"
+		]
+	},
+	{
+		"word": "Nigh",
+		"definitions": [
+			"Near",
+			"Close in time or distance"
+		]
+	},
+	{
+		"word": "Night",
+		"definitions": [
+			"Period of darkness between one day and the next; time from sunset to sunrise",
+			"Darkness of night"
+		]
+	},
+	{
+		"word": "Nightbird",
+		"definitions": [
+			"Person who is most active at night",
+			"A nocturnal person"
+		]
+	},
+	{
+		"word": "Nightcap",
+		"definitions": [
+			"Cap worn in bed (historically)",
+			"Hot or alcoholic drink taken at bedtime"
+		]
+	},
+	{
+		"word": "Nightclub",
+		"definitions": [
+			"Club providing refreshment and entertainment late at night",
+			"Establishment for socializing and entertainment in the evening"
+		]
+	},
+	{
+		"word": "Nightdress",
+		"definitions": [
+			"Woman's or child's loose garment worn in bed",
+			"Nightwear"
+		]
+	},
+	{
+		"word": "Nightfall",
+		"definitions": [
+			"End of daylight",
+			"The onset of evening or darkness"
+		]
+	},
+	{
+		"word": "Nightgown",
+		"definitions": [
+			"Nightdress",
+			"Loose garment worn to bed, typically by women"
+		]
+	},
+	{
+		"word": "Nightie",
+		"definitions": [
+			"Colloq. Nightdress",
+			"Informal term for a nightgown"
+		]
+	},
+	{
+		"word": "Nightingale",
+		"definitions": [
+			"Small reddish-brown bird, known for melodious song at night",
+			"A bird famous for its nocturnal singing"
+		]
+	},
+	{
+		"word": "Nightjar",
+		"definitions": [
+			"Nocturnal bird with a characteristic harsh cry",
+			"A bird known for its night activity"
+		]
+	},
+	{
+		"word": "Night-life",
+		"definitions": [
+			"Entertainment available at night in a town",
+			"The social and cultural activities that take place in the evening"
+		]
+	},
+	{
+		"word": "Night-light",
+		"definitions": [
+			"Dim light kept burning in a bedroom at night",
+			"Small light used for safety during the night"
+		]
+	},
+	{
+		"word": "Night-long",
+		"definitions": [
+			"Throughout the night",
+			"Lasting or happening all night"
+		]
+	},
+	{
+		"word": "Nightly",
+		"definitions": [
+			"Happening, done, or existing in the night",
+			"Recurring every night"
+		]
+	},
+	{
+		"word": "Nightmare",
+		"definitions": [
+			"Frightening dream",
+			"Frightening or unpleasant experience or situation"
+		]
+	},
+	{
+		"word": "Night safe",
+		"definitions": [
+			"Safe with access from the outer wall of a bank for the deposit of money etc. when the bank is closed",
+			"Secure deposit system outside a building for night-time use"
+		]
+	},
+	{
+		"word": "Night school",
+		"definitions": [
+			"Institution providing classes in the evening",
+			"Educational institution operating during the night hours"
+		]
+	},
+	{
+		"word": "Nightshade",
+		"definitions": [
+			"Any of various plants with poisonous berries",
+			"A plant family with toxic members"
+		]
+	},
+	{
+		"word": "Nightshirt",
+		"definitions": [
+			"Long shirt worn in bed",
+			"Loose-fitting shirt worn as sleepwear"
+		]
+	},
+	{
+		"word": "Nightspot",
+		"definitions": [
+			"Nightclub",
+			"Popular entertainment venue open at night"
+		]
+	},
+	{
+		"word": "Night-time",
+		"definitions": [
+			"Time of darkness",
+			"The period between sunset and sunrise"
+		]
+	},
+	{
+		"word": "Night-watchman",
+		"definitions": [
+			"Person employed to keep watch at night",
+			"A security guard working during the night shift"
+		]
+	},
+	{
+		"word": "Nihilism",
+		"definitions": [
+			"Rejection of all religious and moral principles",
+			"Belief that nothing really exists"
+		]
+	},
+	{
+		"word": "-nik",
+		"definitions": [
+			"Suffix forming nouns denoting a person associated with a specified thing or quality (e.g., beatnik)",
+			"Used to denote affiliation with a specific group or characteristic"
+		]
+	},
+	{
+		"word": "Nikkei index",
+		"definitions": [
+			"A figure indicating the relative price of representative shares on the Tokyo Stock Exchange",
+			"A benchmark stock market index in Japan"
+		]
+	},
+	{
+		"word": "Nil",
+		"definitions": [
+			"Nothing; no number or amount (esp. as a score in games)",
+			"Zero; absence of quantity"
+		]
+	},
+	{
+		"word": "Nimble",
+		"definitions": [
+			"Quick and light in movement or function; agile",
+			"Able to move or react swiftly and easily"
+		]
+	},
+	{
+		"word": "Nimbus",
+		"definitions": [
+			"Halo",
+			"Rain-cloud"
+		]
+	},
+	{
+		"word": "Nimby",
+		"definitions": [
+			"Objecting to the siting of unpleasant developments in one's own locality",
+			"A person who resists changes or developments near their area"
+		]
+	},
+	{
+		"word": "Nincompoop",
+		"definitions": [
+			"Foolish person",
+			"A silly or foolish individual"
+		]
+	},
+	{
+		"word": "Nine",
+		"definitions": [
+			"One more than eight",
+			"Symbol for the number 9"
+		]
+	},
+	{
+		"word": "Nine days' wonder",
+		"definitions": [
+			"Person or thing that is briefly famous",
+			"Something that is momentarily popular or significant"
+		]
+	},
+	{
+		"word": "Ninefold",
+		"definitions": [
+			"Nine times as much or as many",
+			"Consisting of nine parts"
+		]
+	},
+	{
+		"word": "Ninepin",
+		"definitions": [
+			"Game in which nine pins are bowled at",
+			"Pin used in the ninepin game"
+		]
+	},
+	{
+		"word": "Nineteen",
+		"definitions": [
+			"One more than eighteen",
+			"Symbol for the number 19"
+		]
+	},
+	{
+		"word": "Ninety",
+		"definitions": [
+			"Product of nine and ten",
+			"Numbers from 90 to 99, esp. The years of a century or of a person's life"
+		]
+	},
+	{
+		"word": "Ninetieth",
+		"definitions": [
+			"The ordinal number corresponding to ninety",
+			"The 90th position or element in a sequence"
+		]
+	},
+	{
+		"word": "Ninny",
+		"definitions": [
+			"Foolish person",
+			"A silly or foolish individual"
+		]
+	},
+	{
+		"word": "Ninth",
+		"definitions": [
+			"Next after eighth",
+			"Any of nine equal parts of a thing"
+		]
+	},
+	{
+		"word": "Niobium",
+		"definitions": [
+			"Rare metallic element occurring naturally",
+			"A transition metal element"
+		]
+	},
+	{
+		"word": "Nip",
+		"definitions": [
+			"Pinch, squeeze, or bite sharply",
+			"A small quantity of spirits"
+		]
+	},
+	{
+		"word": "Nip1",
+		"definitions": [
+			"Pinch, squeeze, or bite sharply",
+			"Cause pain or harm to from the cold, etc."
+		]
+	},
+	{
+		"word": "Nip2",
+		"definitions": [
+			"Small quantity of spirits",
+			"A small drink, usually alcoholic"
+		]
+	},
+	{
+		"word": "Nipper",
+		"definitions": [
+			"Person or thing that nips",
+			"A young child"
+		]
+	},
+	{
+		"word": "Nipple",
+		"definitions": [
+			"Small projection in which the mammary ducts of mammals terminate",
+			"Device like a nipple in function"
+		]
+	},
+	{
+		"word": "Nippy",
+		"definitions": [
+			"Quick, nimble",
+			"Chilly"
+		]
+	},
+	{
+		"word": "Nirvana",
+		"definitions": [
+			"Perfect bliss attained by the extinction of individuality",
+			"A transcendent state free from suffering and the cycle of rebirth in Buddhism"
+		]
+	},
+	{
+		"word": "Nissen hut",
+		"definitions": [
+			"Tunnel-shaped hut of corrugated iron with a cement floor",
+			"A prefabricated military or emergency shelter"
+		]
+	},
+	{
+		"word": "Nit",
+		"definitions": [
+			"Egg or young form of a louse or other parasitic insect",
+			"A slang term for a stupid person"
+		]
+	},
+	{
+		"word": "Niter",
+		"definitions": [
+			"Saltpetre",
+			"A naturally occurring mineral used in fertilizers and gunpowder"
+		]
+	},
+	{
+		"word": "Nit-picking",
+		"definitions": [
+			"Fault-finding in a petty manner",
+			"The act of overly focusing on small, insignificant details"
+		]
+	},
+	{
+		"word": "Nitrate",
+		"definitions": [
+			"Any salt or ester of nitric acid",
+			"Potassium or sodium nitrate used as fertilizer"
+		]
+	},
+	{
+		"word": "Nitre",
+		"definitions": [
+			"Saltpetre",
+			"A naturally occurring mineral used in fertilizers and gunpowder"
+		]
+	},
+	{
+		"word": "Nitric",
+		"definitions": [
+			"Of or containing nitrogen",
+			"Relating to or derived from nitric acid"
+		]
+	},
+	{
+		"word": "Nitric acid",
+		"definitions": [
+			"Colourless corrosive poisonous liquid",
+			"A strong acid used in the manufacture of fertilizers and explosives"
+		]
+	},
+	{
+		"word": "Nitride",
+		"definitions": [
+			"Binary compound of nitrogen",
+			"A chemical compound containing nitrogen and one other element"
+		]
+	},
+	{
+		"word": "Nitrify",
+		"definitions": [
+			"Impregnate with nitrogen",
+			"Convert into nitrites or nitrates"
+		]
+	},
+	{
+		"word": "Nitrite",
+		"definitions": [
+			"Any salt or ester of nitrous acid",
+			"A chemical compound used in preserving meats and as a fertilizer"
+		]
+	},
+	{
+		"word": "Nitro-",
+		"definitions": [
+			"Form of or containing nitric acid, nitre, or nitrogen",
+			"Prefix indicating the presence of nitrogen compounds"
+		]
+	},
+	{
+		"word": "Nitrogen",
+		"definitions": [
+			"Gaseous element that forms four-fifths of the atmosphere",
+			"A colorless, odorless, inert gas essential for life"
+		]
+	},
+	{
+		"word": "Nitroglycerin",
+		"definitions": [
+			"Explosive yellow liquid made by reacting glycerol with a mixture of concentrated sulphuric and nitric acids",
+			"A compound used in dynamite and as a medication for heart conditions"
+		]
+	},
+	{
+		"word": "Nitroglycerine",
+		"definitions": [
+			"Explosive yellow liquid made by reacting glycerol with a mixture of concentrated sulphuric and nitric acids",
+			"A compound used in dynamite and as a medication for heart conditions"
+		]
+	},
+	{
+		"word": "Nitrous oxide",
+		"definitions": [
+			"Colourless gas used as an anaesthetic",
+			"A gas also known as laughing gas"
+		]
+	},
+	{
+		"word": "Nitty-gritty",
+		"definitions": [
+			"Realities or practical details of a matter",
+			"The basic and most important aspects of a situation"
+		]
+	},
+	{
+		"word": "Nitwit",
+		"definitions": [
+			"Stupid person",
+			"A foolish or silly individual"
+		]
+	},
+	{
+		"word": "Nne",
+		"definitions": [
+			"North-north-east"
+		]
+	},
+	{
+		"word": "Nnw",
+		"definitions": [
+			"North-north-west"
+		]
+	},
+	{
+		"word": "No1",
+		"definitions": [
+			"Nobelium",
+			"The first and most significant in a sequence"
+		]
+	},
+	{
+		"word": "No2",
+		"definitions": [
+			"Used in a variety of ways, including for *noh",
+			"Number two"
+		]
+	},
+	{
+		"word": "No.:",
+		"definitions": [
+			"Abbreviation for \"number\"",
+			"Denotes a specific item or entry in a list"
+		]
+	},
+	{
+		"word": "No1",
+		"definitions": [
+			"Not any",
+			"Hardly any"
+		]
+	},
+	{
+		"word": "No2",
+		"definitions": [
+			"Indicating a negative answer",
+			"Refusal or denial"
+		]
+	},
+	{
+		"word": "Nob1",
+		"definitions": [
+			"Slang for a person of wealth or high social position",
+			"A wealthy or influential individual"
+		]
+	},
+	{
+		"word": "Nob2",
+		"definitions": [
+			"Slang for head",
+			"A prominent or important person"
+		]
+	},
+	{
+		"word": "No-ball",
+		"definitions": [
+			"Cricket unlawfully delivered ball",
+			"An illegal ball delivery in cricket"
+		]
+	},
+	{
+		"word": "Nobble",
+		"definitions": [
+			"Try to influence unfairly, such as a judge",
+			"Tamper with a racehorse to prevent its winning"
+		]
+	},
+	{
+		"word": "Nobelium",
+		"definitions": [
+			"Artificially produced radioactive transuranic metallic element",
+			"A synthetic element named after Alfred Nobel"
+		]
+	},
+	{
+		"word": "Nobel prize",
+		"definitions": [
+			"Any of six international prizes awarded annually for physics, chemistry, physiology or medicine, literature, economics, and the promotion of peace",
+			"A prestigious award in recognition of outstanding contributions to society"
+		]
+	},
+	{
+		"word": "Nobility",
+		"definitions": [
+			"Nobleness of character, mind, birth, or rank",
+			"The highest social class consisting of noble families"
+		]
+	},
+	{
+		"word": "Noble",
+		"definitions": [
+			"Belonging to the aristocracy",
+			"Of excellent character; magnanimous"
+		]
+	},
+	{
+		"word": "Noble gas",
+		"definitions": [
+			"Any of a group of gaseous elements that almost never combine with other elements",
+			"An element from the periodic table's Group 18, including helium, neon, and argon"
+		]
+	},
+	{
+		"word": "Nobleman",
+		"definitions": [
+			"Peer",
+			"Male member of the aristocracy"
+		]
+	},
+	{
+		"word": "Noblesse oblige",
+		"definitions": [
+			"Privilege entails responsibility",
+			"Concept that those with power or wealth are obliged to act with generosity"
+		]
+	},
+	{
+		"word": "Noblewoman",
+		"definitions": [
+			"Peeress",
+			"Female member of the aristocracy"
+		]
+	},
+	{
+		"word": "Nobody",
+		"definitions": [
+			"No person",
+			"Person of no importance"
+		]
+	},
+	{
+		"word": "No claim bonus",
+		"definitions": [
+			"Reduction of an insurance premium after an agreed period without a claim",
+			"Discount on premiums for claim-free periods"
+		]
+	},
+	{
+		"word": "Nocturnal",
+		"definitions": [
+			"Of or in the night",
+			"Done or active by night"
+		]
+	},
+	{
+		"word": "Nocturne",
+		"definitions": [
+			"Short romantic composition, usually for piano",
+			"Picture of a night scene"
+		]
+	},
+	{
+		"word": "Nod",
+		"definitions": [
+			"Incline one's head slightly and briefly in assent, greeting, or command",
+			"Let one's head fall forward in drowsiness; be drowsy",
+			"Signify assent etc. by a nod"
+		]
+	},
+	{
+		"word": "Noddle",
+		"definitions": [
+			"Colloquial term for head",
+			"Informal reference to a person's head"
+		]
+	},
+	{
+		"word": "Noddy",
+		"definitions": [
+			"Simpleton",
+			"Tropical sea bird"
+		]
+	},
+	{
+		"word": "Node",
+		"definitions": [
+			"A part of a plant stem from which leaves emerge",
+			"A component in a computer network"
+		]
+	},
+	{
+		"word": "Nodule",
+		"definitions": [
+			"Small rounded lump of anything",
+			"Small tumour, node, or swelling on the root of a legume"
+		]
+	},
+	{
+		"word": "Noel",
+		"definitions": [
+			"Christmas",
+			"Term used to refer to the Christmas season"
+		]
+	},
+	{
+		"word": "Noggin",
+		"definitions": [
+			"Small mug",
+			"Small measure, usually 1/4 pint, of spirits"
+		]
+	},
+	{
+		"word": "No go",
+		"definitions": [
+			"Impossible, hopeless",
+			"Forbidden or restricted area"
+		]
+	},
+	{
+		"word": "Noh",
+		"definitions": [
+			"Traditional Japanese drama",
+			"Classical form of Japanese theatre"
+		]
+	},
+	{
+		"word": "Noise",
+		"definitions": [
+			"Sound, especially a loud or unpleasant one",
+			"Series or confusion of loud sounds"
+		]
+	},
+	{
+		"word": "Noiseless",
+		"definitions": [
+			"Making little or no noise",
+			"Quiet and still"
+		]
+	},
+	{
+		"word": "Noisome",
+		"definitions": [
+			"Harmful or noxious",
+			"Evil-smelling"
+		]
+	},
+	{
+		"word": "Noisy",
+		"definitions": [
+			"Making much noise",
+			"Full of noise"
+		]
+	},
+	{
+		"word": "Nomad",
+		"definitions": [
+			"Member of a tribe roaming from place to place for pasture",
+			"Wanderer"
+		]
+	},
+	{
+		"word": "No man's land",
+		"definitions": [
+			"Space between two opposing armies",
+			"Area not assigned to any owner"
+		]
+	},
+	{
+		"word": "Nom de plume",
+		"definitions": [
+			"Writer's assumed name",
+			"Pen-name"
+		]
+	},
+	{
+		"word": "Nomen",
+		"definitions": [
+			"Ancient Roman's second or family name",
+			"A person's surname in ancient Roman times"
+		]
+	},
+	{
+		"word": "Nomenclature",
+		"definitions": [
+			"Person's or community's system of names for things",
+			"Terminology of a science or field"
+		]
+	},
+	{
+		"word": "Nominal",
+		"definitions": [
+			"Existing in name only; not real or actual",
+			"Very small sum of money"
+		]
+	},
+	{
+		"word": "Nominalism",
+		"definitions": [
+			"Doctrine that universals or general ideas are mere names",
+			"Philosophical belief that only individual things exist, not abstract concepts"
+		]
+	},
+	{
+		"word": "Nominate",
+		"definitions": [
+			"Propose a candidate for election",
+			"Appoint to an office"
+		]
+	},
+	{
+		"word": "Nominative",
+		"definitions": [
+			"Case expressing the subject of a verb",
+			"Of or in this case"
+		]
+	},
+	{
+		"word": "Nominee",
+		"definitions": [
+			"Person who is nominated",
+			"A candidate for a position or honor"
+		]
+	},
+	{
+		"word": "Non-",
+		"definitions": [
+			"Prefix giving the negative sense of words with which it is combined",
+			"Denoting absence or negation"
+		]
+	},
+	{
+		"word": "Nonagenarian",
+		"definitions": [
+			"Person from 90 to 99 years old",
+			"Individual aged between ninety and ninety-nine years"
+		]
+	},
+	{
+		"word": "Non-aggression",
+		"definitions": [
+			"Lack of or restraint from aggression",
+			"Non-violence or peaceful stance"
+		]
+	},
+	{
+		"word": "Nonagon",
+		"definitions": [
+			"Plane figure with nine sides and angles",
+			"Geometric shape with nine sides"
+		]
+	},
+	{
+		"word": "Non-alcoholic",
+		"definitions": [
+			"Containing no alcohol",
+			"Not containing any alcoholic substances"
+		]
+	},
+	{
+		"word": "Non-aligned",
+		"definitions": [
+			"Not aligned with a major power",
+			"Independent or neutral in international relations"
+		]
+	},
+	{
+		"word": "Non-belligerent",
+		"definitions": [
+			"Not engaged in hostilities",
+			"A state or person not involved in a conflict"
+		]
+	},
+	{
+		"word": "Nonce",
+		"definitions": [
+			"For the time being; for the present occasion",
+			"Temporary or for a specific purpose"
+		]
+	},
+	{
+		"word": "Nonce-word",
+		"definitions": [
+			"Word coined for one occasion",
+			"A term used for a single instance or specific event"
+		]
+	},
+	{
+		"word": "Nonchalant",
+		"definitions": [
+			"Calm and casual",
+			"Showing no concern or interest"
+		]
+	},
+	{
+		"word": "Non-com",
+		"definitions": [
+			"Non-commissioned officer",
+			"A military rank below commissioned officer"
+		]
+	},
+	{
+		"word": "Non-combatant",
+		"definitions": [
+			"Person not fighting in a war",
+			"Civilian, army chaplain, etc."
+		]
+	},
+	{
+		"word": "Non-commissioned",
+		"definitions": [
+			"Not holding a commission",
+			"A rank in the military without a formal commission"
+		]
+	},
+	{
+		"word": "Noncommittal",
+		"definitions": [
+			"Avoiding commitment to a definite opinion or course of action",
+			"Not revealing a firm stance"
+		]
+	},
+	{
+		"word": "Non compos mentis",
+		"definitions": [
+			"Not in one's right mind",
+			"Not having control of one's mind"
+		]
+	},
+	{
+		"word": "Non-conductor",
+		"definitions": [
+			"Substance that does not conduct heat or electricity"
+		]
+	},
+	{
+		"word": "Nonconformist",
+		"definitions": [
+			"Person who does not conform to the doctrine or discipline of an established church, esp. member of a Protestant sect dissenting from the Anglican church",
+			"Person who does not conform to a prevailing principle"
+		]
+	},
+	{
+		"word": "Nonconformity",
+		"definitions": [
+			"Nonconformists as a body, or their principles",
+			"Failure to conform",
+			"Lack of correspondence between things"
+		]
+	},
+	{
+		"word": "Non-contributory",
+		"definitions": [
+			"Not involving contributions"
+		]
+	},
+	{
+		"word": "Non-cooperation",
+		"definitions": [
+			"Failure to cooperate"
+		]
+	},
+	{
+		"word": "Nondescript",
+		"definitions": [
+			"Lacking distinctive characteristics, not easily classified",
+			"Nondescript person or thing"
+		]
+	},
+	{
+		"word": "Non-drinker",
+		"definitions": [
+			"Person who does not drink alcoholic liquor"
+		]
+	},
+	{
+		"word": "Non-driver",
+		"definitions": [
+			"Person who does not drive a motor vehicle"
+		]
+	},
+	{
+		"word": "None",
+		"definitions": [
+			"Not any of",
+			"No persons",
+			"Not any"
+		]
+	},
+	{
+		"word": "Nonentity",
+		"definitions": [
+			"Person or thing of no importance",
+			"Non-existence"
+		]
+	},
+	{
+		"word": "Nones",
+		"definitions": [
+			"Day of the ancient Roman month (the 7th day of March, May, July, and October, the 5th of other months)"
+		]
+	},
+	{
+		"word": "Non-essential",
+		"definitions": [
+			"Not essential",
+			"Non-essential thing"
+		]
+	},
+	{
+		"word": "Nonetheless",
+		"definitions": [
+			"Nevertheless"
+		]
+	},
+	{
+		"word": "Non-event",
+		"definitions": [
+			"Insignificant event, esp. contrary to hopes or expectations"
+		]
+	},
+	{
+		"word": "Non-existent",
+		"definitions": [
+			"Not existing"
+		]
+	},
+	{
+		"word": "Non-fattening",
+		"definitions": [
+			"(Of food) not containing many calories"
+		]
+	},
+	{
+		"word": "Non-ferrous",
+		"definitions": [
+			"(Of a metal) other than iron or steel"
+		]
+	},
+	{
+		"word": "Non-fiction",
+		"definitions": [
+			"Literary work other than fiction"
+		]
+	},
+	{
+		"word": "Non-flammable",
+		"definitions": [
+			"Not inflammable"
+		]
+	},
+	{
+		"word": "Non-interference",
+		"definitions": [
+			"Non-intervention"
+		]
+	},
+	{
+		"word": "Non-intervention",
+		"definitions": [
+			"Principle or practice of not becoming involved in others' affairs"
+		]
+	},
+	{
+		"word": "Non-member",
+		"definitions": [
+			"Person who is not a member"
+		]
+	},
+	{
+		"word": "Non-nuclear",
+		"definitions": [
+			"Not involving nuclei or nuclear energy",
+			"Not having nuclear weapons"
+		]
+	},
+	{
+		"word": "Non-observance",
+		"definitions": [
+			"Failure to observe (an agreement, requirement, etc.)"
+		]
+	},
+	{
+		"word": "Non-operational",
+		"definitions": [
+			"That does not operate",
+			"Out of order"
+		]
+	},
+	{
+		"word": "Nonpareil",
+		"definitions": [
+			"Unrivalled or unique",
+			"Such a person or thing"
+		]
+	},
+	{
+		"word": "Non-partisan",
+		"definitions": [
+			"Not partisan"
+		]
+	},
+	{
+		"word": "Non-party",
+		"definitions": [
+			"Independent of political parties"
+		]
+	},
+	{
+		"word": "Non-payment",
+		"definitions": [
+			"Failure to pay",
+			"Lack of payment"
+		]
+	},
+	{
+		"word": "Nonplus",
+		"definitions": [
+			"Completely perplex"
+		]
+	},
+	{
+		"word": "Non-profit-making",
+		"definitions": [
+			"(Of an enterprise) not conducted primarily to make a profit"
+		]
+	},
+	{
+		"word": "Non-proliferation",
+		"definitions": [
+			"Prevention of an increase in something, esp. possession of nuclear weapons"
+		]
+	},
+	{
+		"word": "Non-resident",
+		"definitions": [
+			"Not residing in a particular place",
+			"Not requiring the holder to reside at the place of work"
+		]
+	},
+	{
+		"word": "Non-resistance",
+		"definitions": [
+			"Practice or principle of not resisting authority"
+		]
+	},
+	{
+		"word": "Non-returnable",
+		"definitions": [
+			"That is not to be returned"
+		]
+	},
+	{
+		"word": "Non-sectarian",
+		"definitions": [
+			"Not sectarian"
+		]
+	},
+	{
+		"word": "Nonsense",
+		"definitions": [
+			"Absurd or meaningless words or ideas",
+			"Foolish or extravagant conduct"
+		]
+	},
+	{
+		"word": "Non sequitur",
+		"definitions": [
+			"Conclusion that does not logically follow from the premises"
+		]
+	},
+	{
+		"word": "Non-slip",
+		"definitions": [
+			"That does not slip",
+			"That inhibits slipping"
+		]
+	},
+	{
+		"word": "Non-smoker",
+		"definitions": [
+			"Person who does not smoke",
+			"Train compartment etc. where smoking is forbidden"
+		]
+	},
+	{
+		"word": "Non-specialist",
+		"definitions": [
+			"Person who is not a specialist (in a particular subject)"
+		]
+	},
+	{
+		"word": "Non-specific",
+		"definitions": [
+			"That cannot be specified"
+		]
+	},
+	{
+		"word": "Non-standard",
+		"definitions": [
+			"Not standard"
+		]
+	},
+	{
+		"word": "Non-starter",
+		"definitions": [
+			"Person or scheme that is unlikely to succeed"
+		]
+	},
+	{
+		"word": "Non-stick",
+		"definitions": [
+			"That does not allow things to stick to it"
+		]
+	},
+	{
+		"word": "Non-stop",
+		"definitions": [
+			"Not stopping at intermediate places",
+			"Done without a stop or intermission"
+		]
+	},
+	{
+		"word": "Non-swimmer",
+		"definitions": [
+			"Person who cannot swim"
+		]
+	},
+	{
+		"word": "Non-toxic",
+		"definitions": [
+			"Not toxic"
+		]
+	},
+	{
+		"word": "Non-transferable",
+		"definitions": [
+			"That may not be transferred"
+		]
+	},
+	{
+		"word": "Non-u",
+		"definitions": [
+			"Not characteristic of the upper class"
+		]
+	},
+	{
+		"word": "Non-union",
+		"definitions": [
+			"Not belonging to a trade union",
+			"Not done or made by trade-union members"
+		]
+	},
+	{
+		"word": "Non-verbal",
+		"definitions": [
+			"Not involving words or speech"
+		]
+	},
+	{
+		"word": "Non-violence",
+		"definitions": [
+			"Avoidance of violence, esp. as a principle",
+			"Non-violent"
+		]
+	},
+	{
+		"word": "Non-voting",
+		"definitions": [
+			"Not having or using a vote",
+			"(Of shares) Not entitling the holder to vote"
+		]
+	},
+	{
+		"word": "Non-white",
+		"definitions": [
+			"Not white",
+			"Non-white person"
+		]
+	},
+	{
+		"word": "Noodle1",
+		"definitions": [
+			"Strip or ring of pasta"
+		]
+	},
+	{
+		"word": "Noodle2",
+		"definitions": [
+			"Simpleton",
+			"Slang head"
+		]
+	},
+	{
+		"word": "Nook",
+		"definitions": [
+			"Corner or recess; secluded place"
+		]
+	},
+	{
+		"word": "Noon",
+		"definitions": [
+			"Twelve o'clock in the day, midday"
+		]
+	},
+	{
+		"word": "Noonday",
+		"definitions": [
+			"Midday"
+		]
+	},
+	{
+		"word": "No one",
+		"definitions": [
+			"No person; nobody"
+		]
+	},
+	{
+		"word": "Noose",
+		"definitions": [
+			"Loop with a running knot",
+			"Snare, bond"
+		]
+	},
+	{
+		"word": "Nor",
+		"definitions": [
+			"And not; and not either (neither one thing nor the other; can neither read nor write)"
+		]
+	},
+	{
+		"word": "Nor'",
+		"definitions": [
+			"(Esp. in compounds) = *north (nor'wester)"
+		]
+	},
+	{
+		"word": "Nordic",
+		"definitions": [
+			"Of the tall blond long-headed Germanic people of Scandinavia",
+			"Nordic person"
+		]
+	},
+	{
+		"word": "Norfolk jacket",
+		"definitions": [
+			"Man's loose belted jacket with box pleats"
+		]
+	},
+	{
+		"word": "Norm",
+		"definitions": [
+			"Standard, pattern, or type",
+			"Standard amount of work etc."
+		]
+	},
+	{
+		"word": "Normal",
+		"definitions": [
+			"Conforming to a standard; regular, usual, typical",
+			"Free from mental or emotional disorder"
+		]
+	},
+	{
+		"word": "Normal distribution",
+		"definitions": [
+			"Function that represents the distribution of many random variables as a symmetrical bell-shaped graph"
+		]
+	},
+	{
+		"word": "Normalize",
+		"definitions": [
+			"Make or become normal",
+			"Cause to conform"
+		]
+	},
+	{
+		"word": "Normally",
+		"definitions": [
+			"In a normal manner",
+			"Usually"
+		]
+	},
+	{
+		"word": "Norman",
+		"definitions": [
+			"Native or inhabitant of medieval Normandy",
+			"Descendant of the people of mixed Scandinavian and Frankish origin established there in the 10th c."
+		]
+	},
+	{
+		"word": "Norman conquest",
+		"definitions": [
+			"Conquest of England by William of Normandy in 1066"
+		]
+	},
+	{
+		"word": "Norman French",
+		"definitions": [
+			"French as spoken by the Normans or (after 1066) in English law courts"
+		]
+	},
+	{
+		"word": "Normative",
+		"definitions": [
+			"Of or establishing a norm"
+		]
+	},
+	{
+		"word": "Norn",
+		"definitions": [
+			"Any of three goddesses of destiny in Scandinavian mythology"
+		]
+	},
+	{
+		"word": "Norse",
+		"definitions": [
+			"Norwegian language",
+			"Scandinavian language-group"
+		]
+	},
+	{
+		"word": "North",
+		"definitions": [
+			"A point of the horizon 90° anticlockwise from east",
+			"Compass point corresponding to this"
+		]
+	},
+	{
+		"word": "North american",
+		"definitions": [
+			"Of North America",
+			"Native or inhabitant of North America, esp. a citizen of the US or Canada"
+		]
+	},
+	{
+		"word": "Northbound",
+		"definitions": [
+			"Travelling or leading northwards"
+		]
+	},
+	{
+		"word": "North country",
+		"definitions": [
+			"Northern England"
+		]
+	},
+	{
+		"word": "North-east",
+		"definitions": [
+			"Point of the horizon midway between north and east",
+			"Direction in which this lies"
+		]
+	},
+	{
+		"word": "Northeaster",
+		"definitions": [
+			"North-east wind"
+		]
+	},
+	{
+		"word": "North-easterly",
+		"definitions": [
+			"= *north-east"
+		]
+	},
+	{
+		"word": "North-eastern",
+		"definitions": [
+			"On the north-east side"
+		]
+	},
+	{
+		"word": "Northerly",
+		"definitions": [
+			"In a northern position or direction",
+			"(Of wind) from the north"
+		]
+	},
+	{
+		"word": "Northern",
+		"definitions": [
+			"Of or in the north"
+		]
+	},
+	{
+		"word": "Northerner",
+		"definitions": [
+			"Native or inhabitant of the north"
+		]
+	},
+	{
+		"word": "Northern hemisphere",
+		"definitions": [
+			"The half of the Earth north of the equator"
+		]
+	},
+	{
+		"word": "Northern lights",
+		"definitions": [
+			"Aurora borealis"
+		]
+	},
+	{
+		"word": "Northman",
+		"definitions": [
+			"Native of Scandinavia, esp. Norway"
+		]
+	},
+	{
+		"word": "North-north-east",
+		"definitions": [
+			"Point or direction midway between north and north-east"
+		]
+	},
+	{
+		"word": "North-north-west",
+		"definitions": [
+			"Point or direction midway between north and north-west"
+		]
+	},
+	{
+		"word": "North pole",
+		"definitions": [
+			"Northernmost point of the Earth's axis of rotation"
+		]
+	},
+	{
+		"word": "North star",
+		"definitions": [
+			"Pole star"
+		]
+	},
+	{
+		"word": "Northward",
+		"definitions": [
+			"Towards the north",
+			"Northward direction or region"
+		]
+	},
+	{
+		"word": "North-west",
+		"definitions": [
+			"Part of a country or town to the north-west",
+			"Point of the horizon midway between north and west",
+			"Direction in which this lies"
+		]
+	},
+	{
+		"word": "Northwester",
+		"definitions": [
+			"North-west wind"
+		]
+	},
+	{
+		"word": "North-westerly",
+		"definitions": [
+			"= *north-west"
+		]
+	},
+	{
+		"word": "North-western",
+		"definitions": [
+			"On the north-west side"
+		]
+	},
+	{
+		"word": "Norwegian",
+		"definitions": [
+			"A native or national of Norway",
+			"Person of Norwegian descent"
+		]
+	},
+	{
+		"word": "Nor'wester",
+		"definitions": [
+			"Northwester"
+		]
+	},
+	{
+		"word": "Nos.",
+		"definitions": [
+			"Pl. of *no"
+		]
+	},
+	{
+		"word": "Nose",
+		"definitions": [
+			"Organ above the mouth of a human or animal, used for smelling and breathing",
+			"A sense of smell"
+		]
+	},
+	{
+		"word": "Nosebag",
+		"definitions": [
+			"Bag containing fodder, hung on a horse's head"
+		]
+	},
+	{
+		"word": "Noseband",
+		"definitions": [
+			"Lower band of a bridle, passing over the horse's nose"
+		]
+	},
+	{
+		"word": "Nosebleed",
+		"definitions": [
+			"Bleeding from the nose"
+		]
+	},
+	{
+		"word": "Nosedive",
+		"definitions": [
+			"Steep downward plunge by an aeroplane",
+			"Sudden plunge or drop"
+		]
+	},
+	{
+		"word": "Nosegay",
+		"definitions": [
+			"Small bunch of flowers"
+		]
+	},
+	{
+		"word": "Nose-to-tail",
+		"definitions": [
+			"(Of vehicles) one close behind another"
+		]
+	},
+	{
+		"word": "Nosh",
+		"definitions": [
+			"Eat",
+			"Food or drink",
+			"Snack"
+		]
+	},
+	{
+		"word": "Nosh-up",
+		"definitions": [
+			"Large meal"
+		]
+	},
+	{
+		"word": "Nostalgia",
+		"definitions": [
+			"Yearning for a past period",
+			"Severe homesickness"
+		]
+	},
+	{
+		"word": "Nostril",
+		"definitions": [
+			"Either of the two openings in the nose"
+		]
+	},
+	{
+		"word": "Nostrum",
+		"definitions": [
+			"Quack remedy, patent medicine",
+			"Pet scheme, especially for political or social reform"
+		]
+	},
+	{
+		"word": "Nosy",
+		"definitions": [
+			"Inquisitive, prying",
+			"Nosily",
+			"Nosiness"
+		]
+	},
+	{
+		"word": "Nosy parker",
+		"definitions": [
+			"Busybody"
+		]
+	},
+	{
+		"word": "Not",
+		"definitions": [
+			"Expressing negation, especially following an auxiliary verb or be",
+			"Used elliptically for a negative phrase"
+		]
+	},
+	{
+		"word": "Notable",
+		"definitions": [
+			"Worthy of note; remarkable, eminent",
+			"Eminent person"
+		]
+	},
+	{
+		"word": "Notary",
+		"definitions": [
+			"Solicitor who attests or certifies deeds"
+		]
+	},
+	{
+		"word": "Notation",
+		"definitions": [
+			"Representation of numbers, quantities, musical notes, etc., by symbols",
+			"Any set of such symbols"
+		]
+	},
+	{
+		"word": "Notch",
+		"definitions": [
+			"V-shaped indentation on an edge or surface",
+			"Make notches in",
+			"Record or score with or as with notches"
+		]
+	},
+	{
+		"word": "Note",
+		"definitions": [
+			"Brief written record as an aid to memory",
+			"Observation of experiences",
+			"Short or informal letter",
+			"Formal diplomatic communication",
+			"Written sign representing pitch and duration in music",
+			"Quality or tone of speaking"
+		]
+	},
+	{
+		"word": "Notebook",
+		"definitions": [
+			"Small book for making notes in"
+		]
+	},
+	{
+		"word": "Notecase",
+		"definitions": [
+			"Wallet for holding banknotes"
+		]
+	},
+	{
+		"word": "Notelet",
+		"definitions": [
+			"Small folded sheet of paper for an informal letter"
+		]
+	},
+	{
+		"word": "Notepaper",
+		"definitions": [
+			"Paper for writing letters"
+		]
+	},
+	{
+		"word": "Noteworthy",
+		"definitions": [
+			"Worthy of attention; remarkable"
+		]
+	},
+	{
+		"word": "Nothing",
+		"definitions": [
+			"Not anything",
+			"Person or thing of no importance",
+			"Non-existence",
+			"No amount"
+		]
+	},
+	{
+		"word": "Nothingness",
+		"definitions": [
+			"Non-existence",
+			"Worthlessness, triviality"
+		]
+	},
+	{
+		"word": "Notice",
+		"definitions": [
+			"Attention, observation",
+			"Displayed sheet bearing an announcement",
+			"Formal announcement or declaration of intention"
+		]
+	},
+	{
+		"word": "Noticeable",
+		"definitions": [
+			"Perceptible; noteworthy"
+		]
+	},
+	{
+		"word": "Notice-board",
+		"definitions": [
+			"Board for displaying notices"
+		]
+	},
+	{
+		"word": "Notifiable",
+		"definitions": [
+			"(Of a disease) That must be notified to the health authorities"
+		]
+	},
+	{
+		"word": "Notify",
+		"definitions": [
+			"Inform or give formal notice to",
+			"Make known"
+		]
+	},
+	{
+		"word": "Notion",
+		"definitions": [
+			"A concept or idea",
+			"Inclination or intention"
+		]
+	},
+	{
+		"word": "Notional",
+		"definitions": [
+			"Hypothetical, imaginary"
+		]
+	},
+	{
+		"word": "Notorious",
+		"definitions": [
+			"Well-known, especially unfavourably",
+			"Notoriously"
+		]
+	},
+	{
+		"word": "Notwithstanding",
+		"definitions": [
+			"In spite of",
+			"Nevertheless"
+		]
+	},
+	{
+		"word": "Nougat",
+		"definitions": [
+			"Sweet made from sugar or honey, nuts, and egg-white"
+		]
+	},
+	{
+		"word": "Nought",
+		"definitions": [
+			"Digit 0; cipher",
+			"Poet. or archaic nothing"
+		]
+	},
+	{
+		"word": "Noughts and crosses",
+		"definitions": [
+			"Pencil-and-paper game in which players seek to complete a row of three noughts or three crosses"
+		]
+	},
+	{
+		"word": "Noun",
+		"definitions": [
+			"Word used to name a person, place, or thing"
+		]
+	},
+	{
+		"word": "Nourish",
+		"definitions": [
+			"Sustain with food",
+			"Foster or cherish"
+		]
+	},
+	{
+		"word": "Nourishment",
+		"definitions": [
+			"Sustenance, food"
+		]
+	},
+	{
+		"word": "Nous",
+		"definitions": [
+			"Common sense; gumption",
+			"Mind, intellect"
+		]
+	},
+	{
+		"word": "Nouveau riche",
+		"definitions": [
+			"Person who has recently acquired wealth"
+		]
+	},
+	{
+		"word": "Nouvelle cuisine",
+		"definitions": [
+			"Modern style of cookery avoiding heaviness and emphasizing presentation"
+		]
+	},
+	{
+		"word": "Nov.",
+		"definitions": [
+			"November"
+		]
+	},
+	{
+		"word": "Nova",
+		"definitions": [
+			"Star showing a sudden burst of brightness"
+		]
+	},
+	{
+		"word": "Novel",
+		"definitions": [
+			"Fictitious prose story of book length",
+			"Of a new kind or nature"
+		]
+	},
+	{
+		"word": "Novelette",
+		"definitions": [
+			"Short novel"
+		]
+	},
+	{
+		"word": "Novelist",
+		"definitions": [
+			"Writer of novels"
+		]
+	},
+	{
+		"word": "Novella",
+		"definitions": [
+			"Short novel or narrative story"
+		]
+	},
+	{
+		"word": "Novelty",
+		"definitions": [
+			"Newness",
+			"New or unusual thing or occurrence",
+			"Small toy or trinket"
+		]
+	},
+	{
+		"word": "November",
+		"definitions": [
+			"Eleventh month of the year"
+		]
+	},
+	{
+		"word": "Novena",
+		"definitions": [
+			"Devotion consisting of special prayers on nine successive days"
+		]
+	},
+	{
+		"word": "Novice",
+		"definitions": [
+			"Beginner",
+			"Probationary member of a religious order"
+		]
+	},
+	{
+		"word": "Noviciate",
+		"definitions": [
+			"Period of being a novice",
+			"Religious novice"
+		]
+	},
+	{
+		"word": "Now",
+		"definitions": [
+			"At the present or mentioned time",
+			"Immediately",
+			"By this time",
+			"Under the present circumstances",
+			"On this further occasion",
+			"In the immediate past",
+			"Giving various tones to a sentence"
+		]
+	},
+	{
+		"word": "Nowadays",
+		"definitions": [
+			"At the present time or age",
+			"The present time"
+		]
+	},
+	{
+		"word": "Nowhere",
+		"definitions": [
+			"In Or To No Place",
+			"No Place"
+		]
+	},
+	{
+		"word": "No-win",
+		"definitions": [
+			"Of Or Designating A Situation In Which Success Is Impossible"
+		]
+	},
+	{
+		"word": "Nowt",
+		"definitions": [
+			"Nothing"
+		]
+	},
+	{
+		"word": "Noxious",
+		"definitions": [
+			"Harmful",
+			"Unwholesome"
+		]
+	},
+	{
+		"word": "Nozzle",
+		"definitions": [
+			"Spout On A Hose Etc. From Which A Jet Issues"
+		]
+	},
+	{
+		"word": "Np",
+		"definitions": [
+			"Neptunium"
+		]
+	},
+	{
+		"word": "Nr.",
+		"definitions": [
+			"Near"
+		]
+	},
+	{
+		"word": "Ns",
+		"definitions": [
+			"New Style"
+		]
+	},
+	{
+		"word": "Nspcc",
+		"definitions": [
+			"National Society For The Prevention Of Cruelty To Children"
+		]
+	},
+	{
+		"word": "Nsw",
+		"definitions": [
+			"New South Wales"
+		]
+	},
+	{
+		"word": "Nt",
+		"definitions": [
+			"New Testament",
+			"Northern Territory (Of Australia)",
+			"National Trust"
+		]
+	},
+	{
+		"word": "N't",
+		"definitions": [
+			"Not"
+		]
+	},
+	{
+		"word": "Nth",
+		"definitions": [
+			"See N1"
+		]
+	},
+	{
+		"word": "Nu",
+		"definitions": [
+			"Thirteenth Letter Of The Greek Alphabet"
+		]
+	},
+	{
+		"word": "Nuance",
+		"definitions": [
+			"Subtle Shade Of Meaning",
+			"Feeling, Colour, Etc."
+		]
+	},
+	{
+		"word": "Nub",
+		"definitions": [
+			"Point Or Gist (Of A Matter Or Story)",
+			"Small Lump, Esp. Of Coal"
+		]
+	},
+	{
+		"word": "Nubile",
+		"definitions": [
+			"(Of A Woman) Marriageable Or Sexually Attractive",
+			"Nubility"
+		]
+	},
+	{
+		"word": "Nuclear",
+		"definitions": [
+			"Of, Relating To, Or Constituting A Nucleus",
+			"Using Nuclear Energy"
+		]
+	},
+	{
+		"word": "Nuclear Bomb",
+		"definitions": [
+			"Bomb Using The Release Of Energy By Nuclear Fission Or Fusion Or Both"
+		]
+	},
+	{
+		"word": "Nuclear Energy",
+		"definitions": [
+			"Energy Obtained By Nuclear Fission Or Fusion"
+		]
+	},
+	{
+		"word": "Nuclear Family",
+		"definitions": [
+			"A Couple And Their Child Or Children"
+		]
+	},
+	{
+		"word": "Nuclear Fission",
+		"definitions": [
+			"Nuclear Reaction In Which A Heavy Nucleus Splits Spontaneously Or On Impact With Another Particle, With The Release Of Energy"
+		]
+	},
+	{
+		"word": "Nuclear Fuel",
+		"definitions": [
+			"Source Of Nuclear Energy"
+		]
+	},
+	{
+		"word": "Nuclear Fusion",
+		"definitions": [
+			"Nuclear Reaction In Which Atomic Nuclei Of Low Atomic Number Fuse To Form A Heavier Nucleus With The Release Of Energy"
+		]
+	},
+	{
+		"word": "Nuclear Physics",
+		"definitions": [
+			"Physics Of Atomic Nuclei"
+		]
+	},
+	{
+		"word": "Nuclear Power",
+		"definitions": [
+			"Power Generated By A Nuclear Reactor",
+			"Country That Has Nuclear Weapons"
+		]
+	},
+	{
+		"word": "Nuclear Reactor",
+		"definitions": [
+			"Device In Which A Nuclear Fission Chain Reaction Is Used To Produce Energy"
+		]
+	},
+	{
+		"word": "Nuclear Weapon",
+		"definitions": [
+			"Weapon Using The Release Of Energy By Nuclear Fission Or Fusion Or Both"
+		]
+	},
+	{
+		"word": "Nucleate",
+		"definitions": [
+			"Having A Nucleus",
+			"Form Or Form Into A Nucleus"
+		]
+	},
+	{
+		"word": "Nucleic Acid",
+		"definitions": [
+			"Either Of Two Complex Organic Molecules (DNA And RNA), Present In All Living Cells"
+		]
+	},
+	{
+		"word": "Nucleon",
+		"definitions": [
+			"Proton Or Neutron"
+		]
+	},
+	{
+		"word": "Nucleus",
+		"definitions": [
+			"A Central Part Or Thing Round Which Others Are Collected",
+			"Initial Part Meant To Receive Additions",
+			"Central Core Of An Atom",
+			"Large Dense Part Of A Cell, Containing The Genetic Material"
+		]
+	},
+	{
+		"word": "Nude",
+		"definitions": [
+			"Naked, Bare, Unclothed",
+			"Painting, Sculpture, Etc. Of A Nude Human Figure"
+		]
+	},
+	{
+		"word": "Nudge",
+		"definitions": [
+			"Prod Gently With The Elbow To Attract Attention",
+			"Push Gradually"
+		]
+	},
+	{
+		"word": "Nudist",
+		"definitions": [
+			"Person Who Advocates Or Practices Going Unclothed",
+			"Nudism"
+		]
+	},
+	{
+		"word": "Nugatory",
+		"definitions": [
+			"Futile, Trifling",
+			"Inoperative; Not Valid"
+		]
+	},
+	{
+		"word": "Nugget",
+		"definitions": [
+			"Lump Of Gold Etc., As Found In The Earth",
+			"Lump Of Anything",
+			"Something Valuable"
+		]
+	},
+	{
+		"word": "Nuisance",
+		"definitions": [
+			"Person, Thing, Or Circumstance Causing Trouble Or Annoyance"
+		]
+	},
+	{
+		"word": "Nuke",
+		"definitions": [
+			"Nuclear Weapon",
+			"Attack With Nuclear Weapons"
+		]
+	},
+	{
+		"word": "Null",
+		"definitions": [
+			"Invalid",
+			"Non-Existent",
+			"Without Character Or Expression"
+		]
+	},
+	{
+		"word": "Nullify",
+		"definitions": [
+			"Neutralize, Invalidate",
+			"Nullification"
+		]
+	},
+	{
+		"word": "Numb",
+		"definitions": [
+			"Deprived Of Feeling; Paralysed",
+			"Make Numb",
+			"Stupefy, Paralyse"
+		]
+	},
+	{
+		"word": "Number",
+		"definitions": [
+			"An Arithmetical Value Representing A Particular Quantity",
+			"Word, Symbol, Or Figure Representing This",
+			"Arithmetical Value Showing Position In A Series",
+			"Total Count Or Aggregate",
+			"Numerical Reckoning",
+			"Person Or Thing Having A Place In A Series",
+			"Company, Collection, Group"
+		]
+	},
+	{
+		"word": "Number Crunching",
+		"definitions": [
+			"Process Of Making Complex Calculations"
+		]
+	},
+	{
+		"word": "Numberless",
+		"definitions": [
+			"Innumerable"
+		]
+	},
+	{
+		"word": "Number One",
+		"definitions": [
+			"Oneself",
+			"Most Important"
+		]
+	},
+	{
+		"word": "Number-Plate",
+		"definitions": [
+			"Plate On A Vehicle Showing Its Registration Number"
+		]
+	},
+	{
+		"word": "Numerable",
+		"definitions": [
+			"That Can Be Counted"
+		]
+	},
+	{
+		"word": "Numeral",
+		"definitions": [
+			"Symbol Or Group Of Symbols Denoting A Number",
+			"Of Or Denoting A Number"
+		]
+	},
+	{
+		"word": "Numerate",
+		"definitions": [
+			"Acquainted with the basic principles of mathematics",
+			"Skilled in mathematical operations"
+		]
+	},
+	{
+		"word": "Numeracy",
+		"definitions": [
+			"The ability to understand and work with numbers",
+			"The knowledge of basic mathematics"
+		]
+	},
+	{
+		"word": "Numeration",
+		"definitions": [
+			"Method or process of numbering",
+			"Calculation"
+		]
+	},
+	{
+		"word": "Numerator",
+		"definitions": [
+			"Number above the line in a vulgar fraction showing how many of the parts indicated by the denominator are taken",
+			"The number that represents a part of a whole in a fraction"
+		]
+	},
+	{
+		"word": "Numerical",
+		"definitions": [
+			"Of or relating to a number or numbers",
+			"Expressed in numbers"
+		]
+	},
+	{
+		"word": "Numerically",
+		"definitions": [
+			"In terms of numbers",
+			"By means of numerical expression"
+		]
+	},
+	{
+		"word": "Numerology",
+		"definitions": [
+			"The study of the supposed occult significance of numbers"
+		]
+	},
+	{
+		"word": "Numerous",
+		"definitions": [
+			"Many",
+			"Consisting of many"
+		]
+	},
+	{
+		"word": "Numinous",
+		"definitions": [
+			"Indicating the presence of a divinity",
+			"Spiritual, awe-inspiring"
+		]
+	},
+	{
+		"word": "Numismatic",
+		"definitions": [
+			"Of or relating to coins or medals",
+			"Concerned with the study or collection of coins"
+		]
+	},
+	{
+		"word": "Numismatics",
+		"definitions": [
+			"The study of coins or medals",
+			"The collection of coins or currency"
+		]
+	},
+	{
+		"word": "Numskull",
+		"definitions": [
+			"Stupid person",
+			"Foolish individual"
+		]
+	},
+	{
+		"word": "Nun",
+		"definitions": [
+			"Member of a religious community of women living under certain vows",
+			"A woman who has dedicated her life to religious service"
+		]
+	},
+	{
+		"word": "Nuncio",
+		"definitions": [
+			"Papal ambassador",
+			"Official messenger"
+		]
+	},
+	{
+		"word": "Nunnery",
+		"definitions": [
+			"Religious house of nuns",
+			"Place where nuns live and worship"
+		]
+	},
+	{
+		"word": "Nuptial",
+		"definitions": [
+			"Of marriage or weddings",
+			"Wedding ceremony"
+		]
+	},
+	{
+		"word": "Nurd",
+		"definitions": [
+			"A variant of nerd"
+		]
+	},
+	{
+		"word": "Nurse",
+		"definitions": [
+			"Person trained to care for the sick or infirm and assist doctors or dentists",
+			"A person responsible for caring for patients"
+		]
+	},
+	{
+		"word": "Nurseling",
+		"definitions": [
+			"Infant that is being suckled",
+			"A child being cared for by a nurse"
+		]
+	},
+	{
+		"word": "Nursemaid",
+		"definitions": [
+			"Woman in charge of a child or children",
+			"Person employed to take care of children"
+		]
+	},
+	{
+		"word": "Nursery",
+		"definitions": [
+			"Room or place equipped for young children",
+			"Place where plants are reared for sale"
+		]
+	},
+	{
+		"word": "Nurseryman",
+		"definitions": [
+			"Owner of or worker in a plant nursery",
+			"A person who grows plants for sale"
+		]
+	},
+	{
+		"word": "Nursery rhyme",
+		"definitions": [
+			"Simple traditional song or rhyme for children",
+			"A short, rhyming poem often sung by children"
+		]
+	},
+	{
+		"word": "Nursery school",
+		"definitions": [
+			"School for children between the ages of three and five",
+			"Early childhood education center"
+		]
+	},
+	{
+		"word": "Nursery slopes",
+		"definitions": [
+			"Gentle slopes for novice skiers",
+			"Areas on a ski slope designated for beginners"
+		]
+	},
+	{
+		"word": "Nursing home",
+		"definitions": [
+			"Privately run hospital or home for invalids, old people, etc.",
+			"Residential facility for elderly or disabled people needing care"
+		]
+	},
+	{
+		"word": "Nursling",
+		"definitions": [
+			"Infant that is being suckled",
+			"A child under the care of a nurse"
+		]
+	},
+	{
+		"word": "Nurture",
+		"definitions": [
+			"Bringing up, fostering care",
+			"Nourishment"
+		]
+	},
+	{
+		"word": "Nut",
+		"definitions": [
+			"A fruit consisting of a hard or tough shell around an edible kernel",
+			"A small, typically hard object used in fastening bolts or screws"
+		]
+	},
+	{
+		"word": "Nutcase",
+		"definitions": [
+			"Crazy person",
+			"A person who behaves irrationally"
+		]
+	},
+	{
+		"word": "Nutcracker",
+		"definitions": [
+			"Device for cracking nuts",
+			"Tool used to open hard-shelled nuts"
+		]
+	},
+	{
+		"word": "Nuthatch",
+		"definitions": [
+			"Small bird that climbs up and down tree trunks",
+			"A bird known for its unique habit of climbing tree trunks headfirst"
+		]
+	},
+	{
+		"word": "Nutmeg",
+		"definitions": [
+			"Hard aromatic seed used as a spice and in medicine",
+			"The seed of an Indonesian tree used as a flavoring"
+		]
+	},
+	{
+		"word": "Nutria",
+		"definitions": [
+			"Coypu fur",
+			"A semi-aquatic rodent whose fur is used for coats"
+		]
+	},
+	{
+		"word": "Nutrient",
+		"definitions": [
+			"Substance that provides essential nourishment",
+			"A chemical compound that supports life"
+		]
+	},
+	{
+		"word": "Nutriment",
+		"definitions": [
+			"Nourishing food",
+			"Intellectual or artistic nourishment"
+		]
+	},
+	{
+		"word": "Nutrition",
+		"definitions": [
+			"Food, nourishment",
+			"The process of providing or obtaining the food necessary for health and growth"
+		]
+	},
+	{
+		"word": "Nutritious",
+		"definitions": [
+			"Efficient as food",
+			"Providing the necessary nutrients for health"
+		]
+	},
+	{
+		"word": "Nutritive",
+		"definitions": [
+			"Of nutrition",
+			"Nourishing"
+		]
+	},
+	{
+		"word": "Nuts",
+		"definitions": [
+			"Crazy, mad",
+			"Slang term for testicles"
+		]
+	},
+	{
+		"word": "Nuts and bolts",
+		"definitions": [
+			"Practical details",
+			"The essential components or fundamental aspects of something"
+		]
+	},
+	{
+		"word": "Nutshell",
+		"definitions": [
+			"Hard exterior covering of a nut",
+			"In a few words"
+		]
+	},
+	{
+		"word": "Nutter",
+		"definitions": [
+			"Crazy person",
+			"An eccentric individual"
+		]
+	},
+	{
+		"word": "Nutty",
+		"definitions": [
+			"Full of nuts",
+			"Slang for crazy or irrational"
+		]
+	},
+	{
+		"word": "Nux vomica",
+		"definitions": [
+			"Indian tree",
+			"Seeds of this tree, containing strychnine"
+		]
+	},
+	{
+		"word": "Nuzzle",
+		"definitions": [
+			"Prod or rub gently with the nose",
+			"Press the nose gently into, against, or up to something"
+		]
+	},
+	{
+		"word": "Nw",
+		"definitions": [
+			"North-west",
+			"North-western"
+		]
+	},
+	{
+		"word": "Ny",
+		"definitions": [
+			"US New York"
+		]
+	},
+	{
+		"word": "Nylon",
+		"definitions": [
+			"Tough light elastic synthetic fibre",
+			"Nylon fabric"
+		]
+	},
+	{
+		"word": "Nymph",
+		"definitions": [
+			"Mythological semi-divine spirit regarded as a maiden and associated with an aspect of nature, especially rivers and woods",
+			"Poetically, a beautiful young woman"
+		]
+	},
+	{
+		"word": "Nympho",
+		"definitions": [
+			"Colloquial term for nymphomaniac",
+			"A person with excessive sexual desire, typically used for women"
+		]
+	},
+	{
+		"word": "Nymphomania",
+		"definitions": [
+			"Excessive sexual desire in a woman",
+			"A condition characterized by excessive sexual desire"
+		]
+	},
+	{
+		"word": "Nz",
+		"definitions": [
+			"New Zealand"
 		]
 	}
 ]
