@@ -1,9 +1,1296 @@
 [
 	{
-		"word": "<word>",
+		"word": "P1",
 		"definitions": [
-			"<definition1>",
-			"<definition2>"
+			"Sixteenth letter of the alphabet",
+			"Abbreviation for parking, pawn, proprietary"
+		]
+	},
+	{
+		"word": "P2",
+		"definitions": [
+			"Symbol for Phosphorus"
+		]
+	},
+	{
+		"word": "P",
+		"definitions": [
+			"Abbreviation for penny, pence",
+			"Abbreviation for page",
+			"Abbreviation for piano (softly)"
+		]
+	},
+	{
+		"word": "Pa",
+		"definitions": [
+			"Abbreviation for personal assistant",
+			"Abbreviation for public address (system)"
+		]
+	},
+	{
+		"word": "Pa",
+		"definitions": [
+			"Symbol for Protactinium"
+		]
+	},
+	{
+		"word": "Pa",
+		"definitions": [
+			"Colloquial term for father (short for papa)"
+		]
+	},
+	{
+		"word": "P.a.",
+		"definitions": [
+			"Abbreviation for per annum"
+		]
+	},
+	{
+		"word": "Pabulum",
+		"definitions": [
+			"Food, especially for the mind"
+		]
+	},
+	{
+		"word": "Pace1",
+		"definitions": [
+			"A single step in walking or running",
+			"Distance covered in walking or running",
+			"Speed of walking or running",
+			"Way of walking or running, gait"
+		]
+	},
+	{
+		"word": "Pace2",
+		"definitions": [
+			"Used in stating a contrary opinion, with due respect to the person named"
+		]
+	},
+	{
+		"word": "Pace Bowler",
+		"definitions": [
+			"Fast bowler in cricket"
+		]
+	},
+	{
+		"word": "Pacemaker",
+		"definitions": [
+			"Competitor who sets the pace in a race",
+			"Device for stimulating the heart muscle"
+		]
+	},
+	{
+		"word": "Pace-setter",
+		"definitions": [
+			"Leader",
+			"A person or thing that sets the pace"
+		]
+	},
+	{
+		"word": "Pachyderm",
+		"definitions": [
+			"Thick-skinned mammal, especially an elephant or rhinoceros",
+			"Having thick skin, pachydermatous"
+		]
+	},
+	{
+		"word": "Pacific",
+		"definitions": [
+			"Peaceful, tranquil",
+			"Of or adjoining the Pacific Ocean"
+		]
+	},
+	{
+		"word": "Pacifier",
+		"definitions": [
+			"A person or thing that pacifies",
+			"A baby's dummy (US)"
+		]
+	},
+	{
+		"word": "Pacifism",
+		"definitions": [
+			"Belief that war and violence are morally unjustifiable"
+		]
+	},
+	{
+		"word": "Pacify",
+		"definitions": [
+			"To appease a person or anger",
+			"To bring a country or area to a state of peace"
+		]
+	},
+	{
+		"word": "Pack1",
+		"definitions": [
+			"A collection of things wrapped up or tied together for carrying",
+			"Set of packaged items",
+			"Group of hounds, wild animals, or people",
+			"Set of playing cards",
+			"Group of cub scouts or brownies"
+		]
+	},
+	{
+		"word": "Pack2",
+		"definitions": [
+			"To fill or secure a decision by selecting a jury or meeting"
+		]
+	},
+	{
+		"word": "Package",
+		"definitions": [
+			"A bundle of things packed together",
+			"Set of proposals or items offered as a whole",
+			"Piece of software for a wide range of users"
+		]
+	},
+	{
+		"word": "Package Holiday",
+		"definitions": [
+			"A holiday with travel, hotels, etc., at an inclusive price"
+		]
+	},
+	{
+		"word": "Packaging",
+		"definitions": [
+			"Wrapping or container for goods",
+			"Process of packing goods"
+		]
+	},
+	{
+		"word": "Packed Lunch",
+		"definitions": [
+			"Lunch prepared and packed to be eaten away from home"
+		]
+	},
+	{
+		"word": "Packed Out",
+		"definitions": [
+			"Full, crowded"
+		]
+	},
+	{
+		"word": "Packer",
+		"definitions": [
+			"Person or thing that packs, especially a food packer"
+		]
+	},
+	{
+		"word": "Packet",
+		"definitions": [
+			"A small package",
+			"Large sum of money won, lost, or spent"
+		]
+	},
+	{
+		"word": "Packhorse",
+		"definitions": [
+			"A horse used for carrying loads"
+		]
+	},
+	{
+		"word": "Pack Ice",
+		"definitions": [
+			"Crowded floating ice in the sea"
+		]
+	},
+	{
+		"word": "Packing",
+		"definitions": [
+			"Material used to pack fragile articles"
+		]
+	},
+	{
+		"word": "Packthread",
+		"definitions": [
+			"Stout thread used for sewing or tying up packs"
+		]
+	},
+	{
+		"word": "Pact",
+		"definitions": [
+			"Agreement or treaty"
+		]
+	},
+	{
+		"word": "Pad1",
+		"definitions": [
+			"Thick piece of soft material used for protection or to absorb liquid",
+			"Sheets of blank paper fastened together for writing or drawing"
+		]
+	},
+	{
+		"word": "Pad2",
+		"definitions": [
+			"To walk with a soft, dull, steady step",
+			"To travel or tramp along on foot"
+		]
+	},
+	{
+		"word": "Padded Cell",
+		"definitions": [
+			"Room with padded walls in a mental hospital"
+		]
+	},
+	{
+		"word": "Padding",
+		"definitions": [
+			"Soft material used for padding or stuffing"
+		]
+	},
+	{
+		"word": "Paddle1",
+		"definitions": [
+			"Short broad-bladed oar used without a rowlock",
+			"Paddle-shaped instrument"
+		]
+	},
+	{
+		"word": "Paddle2",
+		"definitions": [
+			"To walk barefoot or dabble the feet or hands in shallow water",
+			"The act of paddling"
+		]
+	},
+	{
+		"word": "Paddle-boat",
+		"definitions": [
+			"A boat or steamer propelled by a paddle-wheel"
+		]
+	},
+	{
+		"word": "Paddle-wheel",
+		"definitions": [
+			"A wheel used for propelling a ship with boards around the circumference"
+		]
+	},
+	{
+		"word": "Paddock",
+		"definitions": [
+			"Small field, especially for keeping horses",
+			"Turf enclosure at a racecourse for horses or cars"
+		]
+	},
+	{
+		"word": "Paddy",
+		"definitions": [
+			"Often offens. Irishman",
+			"Field where rice is grown"
+		]
+	},
+	{
+		"word": "Paddy1",
+		"definitions": [
+			"Rice before threshing or in the husk",
+			"Field where rice is grown"
+		]
+	},
+	{
+		"word": "Paddy2",
+		"definitions": [
+			"Rage",
+			"Fit of temper"
+		]
+	},
+	{
+		"word": "Padlock",
+		"definitions": [
+			"Detachable lock hanging by a pivoted hook on the object fastened",
+			"Secure with a padlock"
+		]
+	},
+	{
+		"word": "Padre",
+		"definitions": [
+			"Chaplain in the army etc.",
+			"Father, priest"
+		]
+	},
+	{
+		"word": "Paean",
+		"definitions": [
+			"Song of praise or triumph"
+		]
+	},
+	{
+		"word": "Paederast",
+		"definitions": [
+			"Var. of *pederast*"
+		]
+	},
+	{
+		"word": "Paederasty",
+		"definitions": [
+			"Var. of *pederasty*"
+		]
+	},
+	{
+		"word": "Paediatrics",
+		"definitions": [
+			"Branch of medicine dealing with children and their diseases",
+			"Paediatrician"
+		]
+	},
+	{
+		"word": "Paedo-",
+		"definitions": [
+			"Comb. form child"
+		]
+	},
+	{
+		"word": "Paedophile",
+		"definitions": [
+			"Person who displays paedophilia"
+		]
+	},
+	{
+		"word": "Paedophilia",
+		"definitions": [
+			"Sexual attraction felt towards children"
+		]
+	},
+	{
+		"word": "Paella",
+		"definitions": [
+			"Spanish dish of rice, saffron, chicken, seafood, etc., cooked and served in a large shallow pan"
+		]
+	},
+	{
+		"word": "Paeony",
+		"definitions": [
+			"Var. of *peony*"
+		]
+	},
+	{
+		"word": "Pagan",
+		"definitions": [
+			"Non-religious person, pantheist, or heathen, esp. in pre-Christian times",
+			"Irreligious"
+		]
+	},
+	{
+		"word": "Page1",
+		"definitions": [
+			"A leaf of a book, periodical, etc.",
+			"Episode; memorable event"
+		]
+	},
+	{
+		"word": "Page2",
+		"definitions": [
+			"Liveried boy or man employed to run errands, attend to a door, etc.",
+			"Boy as a personal attendant of a bride etc."
+		]
+	},
+	{
+		"word": "Pageant",
+		"definitions": [
+			"A brilliant spectacle, esp. an elaborate parade",
+			"Spectacular procession or play illustrating historical events"
+		]
+	},
+	{
+		"word": "Pageantry",
+		"definitions": [
+			"Esp. on state occasions) spectacular show; pomp"
+		]
+	},
+	{
+		"word": "Page-boy",
+		"definitions": [
+			"Woman's hairstyle with the hair bobbed and rolled under",
+			"Boy as a personal attendant"
+		]
+	},
+	{
+		"word": "Pager",
+		"definitions": [
+			"Bleeping radio device, calling its wearer to the telephone etc."
+		]
+	},
+	{
+		"word": "Paginate",
+		"definitions": [
+			"Assign numbers to the pages of (a book etc.)"
+		]
+	},
+	{
+		"word": "Pagoda",
+		"definitions": [
+			"Hindu or Buddhist temple, esp. a many-tiered tower",
+			"Ornamental imitation of this"
+		]
+	},
+	{
+		"word": "Pah",
+		"definitions": [
+			"Expressing disgust or contempt"
+		]
+	},
+	{
+		"word": "Paid",
+		"definitions": [
+			"Past and past part. of *pay*"
+		]
+	},
+	{
+		"word": "Paid-up",
+		"definitions": [
+			"Having paid one's subscription to a trade-union, club, etc.",
+			"Having done what is required to be considered a full member"
+		]
+	},
+	{
+		"word": "Pail",
+		"definitions": [
+			"Bucket",
+			"Amount contained in this"
+		]
+	},
+	{
+		"word": "Pain",
+		"definitions": [
+			"Any unpleasant bodily sensation produced by illness, accident, etc.",
+			"Mental suffering"
+		]
+	},
+	{
+		"word": "Painful",
+		"definitions": [
+			"Causing bodily or mental pain",
+			"Suffering pain"
+		]
+	},
+	{
+		"word": "Painkiller",
+		"definitions": [
+			"Drug for alleviating pain"
+		]
+	},
+	{
+		"word": "Painless",
+		"definitions": [
+			"Not causing pain"
+		]
+	},
+	{
+		"word": "Painstaking",
+		"definitions": [
+			"Careful, industrious, thorough"
+		]
+	},
+	{
+		"word": "Paint",
+		"definitions": [
+			"Pigment, esp. in liquid form, for colouring a surface",
+			"Depict (an object, scene, etc.) in paint"
+		]
+	},
+	{
+		"word": "Paintbox",
+		"definitions": [
+			"Box holding dry paints for painting pictures"
+		]
+	},
+	{
+		"word": "Paintbrush",
+		"definitions": [
+			"Brush for applying paint"
+		]
+	},
+	{
+		"word": "Painted lady",
+		"definitions": [
+			"Orange-red spotted butterfly"
+		]
+	},
+	{
+		"word": "Painter1",
+		"definitions": [
+			"Person who paints; artist or decorator"
+		]
+	},
+	{
+		"word": "Painter2",
+		"definitions": [
+			"Rope attached to the bow of a boat for tying it to a quay etc."
+		]
+	},
+	{
+		"word": "Painterly",
+		"definitions": [
+			"Characteristic of a painter or paintings; artistic",
+			"Lacking clearly defined outlines"
+		]
+	},
+	{
+		"word": "Painting",
+		"definitions": [
+			"Process or art of using paint",
+			"Painted picture"
+		]
+	},
+	{
+		"word": "Paint shop",
+		"definitions": [
+			"Part of a factory where cars etc. are sprayed or painted"
+		]
+	},
+	{
+		"word": "Paintwork",
+		"definitions": [
+			"Painted, esp. wooden, surface or area in a building etc",
+			"Work of painting"
+		]
+	},
+	{
+		"word": "Painty",
+		"definitions": [
+			"Of or covered in paint",
+			"Having a painty smell"
+		]
+	},
+	{
+		"word": "Pair",
+		"definitions": [
+			"Set of two people or things used together or regarded as a unit",
+			"Article consisting of two joined or corresponding parts, like scissors, trousers, or pyjamas",
+			"Engaged or married couple",
+			"Married couple of animals",
+			"Two horses harnessed side by side (coach and pair)",
+			"Member of a pair in relation to the other",
+			"Two playing-cards of the same denomination",
+			"Either or both of two MPs agreeing not to vote on certain occasions"
+		]
+	},
+	{
+		"word": "Pair of scales",
+		"definitions": [
+			"Simple balance"
+		]
+	},
+	{
+		"word": "Paisley",
+		"definitions": [
+			"Pattern of curved feather-shaped figures",
+			"Soft woolen shawl having this pattern"
+		]
+	},
+	{
+		"word": "Pajamas",
+		"definitions": [
+			"Suit of loose trousers and jacket for sleeping in",
+			"Loose trousers worn by both sexes in some Asian countries",
+			"Of either part of a pair of pyjamas (pyjama jacket)"
+		]
+	},
+	{
+		"word": "Paki",
+		"definitions": [
+			"Slang for Pakistani"
+		]
+	},
+	{
+		"word": "Pakistani",
+		"definitions": [
+			"Native or national of Pakistan",
+			"Person of Pakistani descent"
+		]
+	},
+	{
+		"word": "Pal",
+		"definitions": [
+			"Colloquial for friend, mate, comrade",
+			"To associate or form a friendship"
+		]
+	},
+	{
+		"word": "Palace",
+		"definitions": [
+			"Official residence of a sovereign, president, archbishop, or bishop",
+			"Splendid or spacious building"
+		]
+	},
+	{
+		"word": "Palace revolution",
+		"definitions": [
+			"Overthrow of a sovereign or government by a bureaucracy"
+		]
+	},
+	{
+		"word": "Palaeo-",
+		"definitions": [
+			"Comb. form meaning ancient; prehistoric"
+		]
+	},
+	{
+		"word": "Palaeography",
+		"definitions": [
+			"The study of ancient writing and documents"
+		]
+	},
+	{
+		"word": "Palaeolithic",
+		"definitions": [
+			"Of the early part of the Stone Age"
+		]
+	},
+	{
+		"word": "Palaeontology",
+		"definitions": [
+			"The study of life in the geological past"
+		]
+	},
+	{
+		"word": "Palaeozoic",
+		"definitions": [
+			"Of an era of geological time marked by the appearance of plants and animals, esp. invertebrates",
+			"This era"
+		]
+	},
+	{
+		"word": "Palais",
+		"definitions": [
+			"Colloquial for public dancehall"
+		]
+	},
+	{
+		"word": "Palanquin",
+		"definitions": [
+			"Covered litter for one, used in India and the East"
+		]
+	},
+	{
+		"word": "Palatable",
+		"definitions": [
+			"Pleasant to taste",
+			"Acceptable or satisfactory"
+		]
+	},
+	{
+		"word": "Palate",
+		"definitions": [
+			"Of the palate",
+			"Made by placing the tongue against the hard palate"
+		]
+	},
+	{
+		"word": "Palate",
+		"definitions": [
+			"Structure closing the upper part of the mouth cavity in vertebrates",
+			"Sense of taste",
+			"Mental taste; liking"
+		]
+	},
+	{
+		"word": "Palatial",
+		"definitions": [
+			"Like a palace; spacious and splendid"
+		]
+	},
+	{
+		"word": "Palatinate",
+		"definitions": [
+			"Territory under the jurisdiction of a count palatine"
+		]
+	},
+	{
+		"word": "Palatine",
+		"definitions": [
+			"Having local authority that belongs only to a sovereign"
+		]
+	},
+	{
+		"word": "Palaver",
+		"definitions": [
+			"Tedious fuss and bother"
+		]
+	},
+	{
+		"word": "Pale1",
+		"definitions": [
+			"Light or faint; whitish, ashen",
+			"Of faint lustre; dim"
+		]
+	},
+	{
+		"word": "Pale2",
+		"definitions": [
+			"Pointed piece of wood for fencing etc.; stake",
+			"Boundary"
+		]
+	},
+	{
+		"word": "Paleface",
+		"definitions": [
+			"Name supposedly used by Native American Indians for the white man"
+		]
+	},
+	{
+		"word": "Paleo-",
+		"definitions": [
+			"Comb. form meaning ancient; prehistoric"
+		]
+	},
+	{
+		"word": "Paleocene",
+		"definitions": [
+			"Of the earliest epoch of the Tertiary period",
+			"This epoch or system"
+		]
+	},
+	{
+		"word": "Paleography",
+		"definitions": [
+			"The study of ancient writing and documents"
+		]
+	},
+	{
+		"word": "Paleolithic",
+		"definitions": [
+			"Of the early part of the Stone Age"
+		]
+	},
+	{
+		"word": "Paleontology",
+		"definitions": [
+			"The study of life in the geological past"
+		]
+	},
+	{
+		"word": "Paleozoic",
+		"definitions": [
+			"Of an era of geological time marked by the appearance of plants and animals, esp. invertebrates",
+			"This era"
+		]
+	},
+	{
+		"word": "Palestinian",
+		"definitions": [
+			"Of Palestine",
+			"Native of Palestine",
+			"Arab or a descendant of one, born or living in the area formerly called Palestine"
+		]
+	},
+	{
+		"word": "Palette",
+		"definitions": [
+			"Artist's thin board or slab for laying and mixing colours",
+			"Range of colours used by an artist"
+		]
+	},
+	{
+		"word": "Palette-knife",
+		"definitions": [
+			"Thin flexible steel blade with a handle for mixing colours or applying or removing paint",
+			"Round-ended flexible kitchen knife"
+		]
+	},
+	{
+		"word": "Palimony",
+		"definitions": [
+			"Allowance paid by either partner of a separated unmarried couple to the other"
+		]
+	},
+	{
+		"word": "Palimpsest",
+		"definitions": [
+			"Writing material or manuscript on which the original writing has been effaced for re-use",
+			"Monumental brass turned and re-engraved on the reverse side"
+		]
+	},
+	{
+		"word": "Palindrome",
+		"definitions": [
+			"Word or phrase reading the same backwards as forwards (e.g., Nurses run)"
+		]
+	},
+	{
+		"word": "Paling",
+		"definitions": [
+			"Fence of pales",
+			"Pale"
+		]
+	},
+	{
+		"word": "Palisade",
+		"definitions": [
+			"Fence of pales or iron railings",
+			"Strong pointed wooden stake"
+		]
+	},
+	{
+		"word": "Pall1",
+		"definitions": [
+			"Cloth spread over a coffin",
+			"Shoulder-band with pendants, worn as an ecclesiastical vestment and sign of authority",
+			"Dark covering (pall of darkness)"
+		]
+	},
+	{
+		"word": "Pall2",
+		"definitions": [
+			"Become uninteresting to"
+		]
+	},
+	{
+		"word": "Palladium",
+		"definitions": [
+			"Rare white metallic element used as a catalyst and in jewellery"
+		]
+	},
+	{
+		"word": "Pallbearer",
+		"definitions": [
+			"Person helping to carry or escort a coffin at a funeral"
+		]
+	},
+	{
+		"word": "Pallet1",
+		"definitions": [
+			"Straw mattress",
+			"Mean or makeshift bed"
+		]
+	},
+	{
+		"word": "Pallet2",
+		"definitions": [
+			"Portable platform for transporting and storing loads"
+		]
+	},
+	{
+		"word": "Palliasse",
+		"definitions": [
+			"Straw mattress"
+		]
+	},
+	{
+		"word": "Palliate",
+		"definitions": [
+			"Alleviate disease without curing it",
+			"Excuse, extenuate"
+		]
+	},
+	{
+		"word": "Pallid",
+		"definitions": [
+			"Pale, esp. from illness",
+			"Related to *pale1*"
+		]
+	},
+	{
+		"word": "Pallor",
+		"definitions": [
+			"Paleness",
+			"Related to *palleo be pale*"
+		]
+	},
+	{
+		"word": "Pally",
+		"definitions": [
+			"Friendly",
+			"Colloquial form"
+		]
+	},
+	{
+		"word": "Palm1",
+		"definitions": [
+			"Tree-like plant with no branches and a mass of large leaves at the top",
+			"Leaf of this as a symbol of victory"
+		]
+	},
+	{
+		"word": "Palm2",
+		"definitions": [
+			"Inner surface of the hand between the wrist and fingers",
+			"Part of a glove that covers this"
+		]
+	},
+	{
+		"word": "Palmate",
+		"definitions": [
+			"Shaped like an open hand",
+			"Having lobes like spread fingers"
+		]
+	},
+	{
+		"word": "Palmetto",
+		"definitions": [
+			"Small palm-tree",
+			"Spanish diminutive of palma"
+		]
+	},
+	{
+		"word": "Palmistry",
+		"definitions": [
+			"Fortune-telling from lines on the palm of the hand",
+			"A person who practices palmistry"
+		]
+	},
+	{
+		"word": "Palm oil",
+		"definitions": [
+			"Oil from various palms"
+		]
+	},
+	{
+		"word": "Palm sunday",
+		"definitions": [
+			"Sunday before Easter, celebrating Christ's entry into Jerusalem"
+		]
+	},
+	{
+		"word": "Palmy",
+		"definitions": [
+			"Of, like, or abounding in palms",
+			"Triumphant, flourishing"
+		]
+	},
+	{
+		"word": "Palomino",
+		"definitions": [
+			"Golden or cream-colored horse with light-colored mane and tail",
+			"Related to *palumba dove*"
+		]
+	},
+	{
+		"word": "Palpable",
+		"definitions": [
+			"Able to be touched or felt",
+			"Readily perceived"
+		]
+	},
+	{
+		"word": "Palpate",
+		"definitions": [
+			"Examine (especially medically) by touch",
+			"Related to *palpation*"
+		]
+	},
+	{
+		"word": "Palpitate",
+		"definitions": [
+			"Pulsate, throb, tremble",
+			"Related to *palpito touch gently*"
+		]
+	},
+	{
+		"word": "Palpitation",
+		"definitions": [
+			"Throbbing, trembling",
+			"Increased rate of heartbeat due to exertion, agitation, or disease"
+		]
+	},
+	{
+		"word": "Palsy",
+		"definitions": [
+			"Paralysis, especially with involuntary tremors",
+			"Affect with palsy"
+		]
+	},
+	{
+		"word": "Paltry",
+		"definitions": [
+			"Worthless, contemptible, trifling",
+			"Related to *paltriness*"
+		]
+	},
+	{
+		"word": "Pampas",
+		"definitions": [
+			"Large treeless plains in South America. Related to *quechua*"
+		]
+	},
+	{
+		"word": "Pampas-grass",
+		"definitions": [
+			"Tall South American ornamental grass"
+		]
+	},
+	{
+		"word": "Pamper",
+		"definitions": [
+			"Overindulge (a person, taste, etc.)",
+			"Spoil"
+		]
+	},
+	{
+		"word": "Pamphlet",
+		"definitions": [
+			"Small, unbound booklet or leaflet",
+			"Distribute pamphlets to"
+		]
+	},
+	{
+		"word": "Pamphleteer",
+		"definitions": [
+			"Writer of (especially political) pamphlets"
+		]
+	},
+	{
+		"word": "Pan1",
+		"definitions": [
+			"A broad, usually metal vessel used for cooking",
+			"The contents of this"
+		]
+	},
+	{
+		"word": "Pan2",
+		"definitions": [
+			"Swing (a film camera) horizontally to give a panoramic effect",
+			"A panning movement"
+		]
+	},
+	{
+		"word": "Pan3",
+		"definitions": [
+			"All; the whole of",
+			"Relating to the whole of a continent, racial group, religion, etc."
+		]
+	},
+	{
+		"word": "Panacea",
+		"definitions": [
+			"Universal remedy",
+			"Related to *pan-, akos remedy*"
+		]
+	},
+	{
+		"word": "Panache",
+		"definitions": [
+			"Assertive flamboyance",
+			"Confidence of style or manner"
+		]
+	},
+	{
+		"word": "Panama",
+		"definitions": [
+			"Straw hat with a brim and indented crown",
+			"Related to *Panama in Central America*"
+		]
+	},
+	{
+		"word": "Panatella",
+		"definitions": [
+			"Long thin cigar",
+			"Related to *long thin biscuit*"
+		]
+	},
+	{
+		"word": "Pancake",
+		"definitions": [
+			"Thin flat cake of fried batter usually rolled up with a filling",
+			"Flat cake of makeup, etc."
+		]
+	},
+	{
+		"word": "Pancake day",
+		"definitions": [
+			"Shrove Tuesday (when pancakes are traditionally eaten)"
+		]
+	},
+	{
+		"word": "Pancake landing",
+		"definitions": [
+			"Emergency aircraft landing with the undercarriage still retracted"
+		]
+	},
+	{
+		"word": "Panchromatic",
+		"definitions": [
+			"Sensitive to all visible colors of the spectrum"
+		]
+	},
+	{
+		"word": "Pancreas",
+		"definitions": [
+			"Gland near the stomach supplying digestive fluid and secreting insulin",
+			"Related to *pancreatic*"
+		]
+	},
+	{
+		"word": "Panda",
+		"definitions": [
+			"Large, bear-like black and white mammal native to China and Tibet",
+			"Reddish-brown Himalayan raccoon-like mammal"
+		]
+	},
+	{
+		"word": "Panda car",
+		"definitions": [
+			"Police patrol car"
+		]
+	},
+	{
+		"word": "Pandemic",
+		"definitions": [
+			"Widespread; universal",
+			"Related to *demos people*"
+		]
+	},
+	{
+		"word": "Pandemonium",
+		"definitions": [
+			"Uproar; utter confusion",
+			"Scene of this"
+		]
+	},
+	{
+		"word": "Pander",
+		"definitions": [
+			"Gratify or indulge (a person or weakness)",
+			"Person who encourages coarse desires"
+		]
+	},
+	{
+		"word": "Pandit",
+		"definitions": [
+			"Variant of *pundit 1*"
+		]
+	},
+	{
+		"word": "Pandora's box",
+		"definitions": [
+			"Process that once begun will generate many unmanageable problems"
+		]
+	},
+	{
+		"word": "P. & p.",
+		"definitions": [
+			"Abbreviation for Postage and packing"
+		]
+	},
+	{
+		"word": "Pane",
+		"definitions": [
+			"Single sheet of glass in a window or door",
+			"Related to *pannus a cloth*"
+		]
+	},
+	{
+		"word": "Panegyric",
+		"definitions": [
+			"Eulogy; speech or essay of praise",
+			"Related to *agora assembly*"
+		]
+	},
+	{
+		"word": "Panel",
+		"definitions": [
+			"Distinct, usu. rectangular, section of a surface (e.g. of a wall, door, or vehicle)",
+			"Strip of material in a garment",
+			"Team in a broadcast game, discussion, etc."
+		]
+	},
+	{
+		"word": "Panel-beater",
+		"definitions": [
+			"Person who beats out the metal panels of vehicles"
+		]
+	},
+	{
+		"word": "Panel game",
+		"definitions": [
+			"Broadcast quiz etc. played by a panel"
+		]
+	},
+	{
+		"word": "Panelling",
+		"definitions": [
+			"(Brit. Panelling) Panelled work",
+			"Wood for making panels"
+		]
+	},
+	{
+		"word": "Panelist",
+		"definitions": [
+			"(Brit. Panellist) Member of a panel"
+		]
+	},
+	{
+		"word": "Panelling",
+		"definitions": [
+			"(US panelling) Panelled work",
+			"Wood for making panels"
+		]
+	},
+	{
+		"word": "Panelist",
+		"definitions": [
+			"(US panelist) Member of a panel"
+		]
+	},
+	{
+		"word": "Pang",
+		"definitions": [
+			"Sudden sharp pain or painful emotion"
+		]
+	},
+	{
+		"word": "Pangolin",
+		"definitions": [
+			"Scaly Asian and African anteater"
+		]
+	},
+	{
+		"word": "Panic",
+		"definitions": [
+			"Sudden uncontrollable fear",
+			"Infectious fright, esp. in commercial dealings",
+			"Affect or be affected with panic (was panicked into buying)"
+		]
+	},
+	{
+		"word": "Panicle",
+		"definitions": [
+			"Loose branching cluster of flowers, as in oats"
+		]
+	},
+	{
+		"word": "Panic stations",
+		"definitions": [
+			"Colloq. State of emergency"
+		]
+	},
+	{
+		"word": "Panic-stricken",
+		"definitions": [
+			"(Also panic-struck) Affected with panic"
+		]
+	},
+	{
+		"word": "Panjandrum",
+		"definitions": [
+			"Stock title for an important person",
+			"Pompous official etc."
+		]
+	},
+	{
+		"word": "Pannier",
+		"definitions": [
+			"Basket, bag, or box, esp. one of a pair carried by a donkey etc., bicycle, or motor cycle"
+		]
+	},
+	{
+		"word": "Panoply",
+		"definitions": [
+			"(Pl. -ies) Complete or splendid array",
+			"Complete suit of armour"
+		]
+	},
+	{
+		"word": "Panorama",
+		"definitions": [
+			"Unbroken view of a surrounding region",
+			"Complete survey of a subject, series of events, etc.",
+			"Picture or photograph containing a wide view",
+			"Continuous passing scene"
+		]
+	},
+	{
+		"word": "Panoramic",
+		"definitions": [
+			"Musical instrument made of a series of short graduated pipes fixed together"
 		]
 	}
 ]
