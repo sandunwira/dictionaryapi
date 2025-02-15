@@ -1,9 +1,2283 @@
 [
 	{
-		"word": "<word>",
+		"word": "K1",
 		"definitions": [
-			"<definition1>",
-			"<definition2>"
+			"Eleventh Letter Of The Alphabet"
+		]
+	},
+	{
+		"word": "K2",
+		"definitions": [
+			"Kelvin(s)",
+			"King, King's",
+			"Köchel (Catalogue Of Mozart's Works)",
+			"Computing Unit Of 1,024 Bytes Or Bits, Or Loosely 1,000"
+		]
+	},
+	{
+		"word": "K3",
+		"definitions": [
+			"Potassium"
+		]
+	},
+	{
+		"word": "K",
+		"definitions": [
+			"Kilo-",
+			"Knot(s)"
+		]
+	},
+	{
+		"word": "Kaffir",
+		"definitions": [
+			"Hist. Member Or Language Of A South African People Of The Bantu Family",
+			"Offensive Term For Any Black African"
+		]
+	},
+	{
+		"word": "Kafkaesque",
+		"definitions": [
+			"Impenetrably Oppressive Or Nightmarish, As In The Fiction Of Franz Kafka"
+		]
+	},
+	{
+		"word": "Kaftan",
+		"definitions": [
+			"Variant Of Caftan"
+		]
+	},
+	{
+		"word": "Kaiser",
+		"definitions": [
+			"Emperor, Especially Of Germany, Austria, Or The Holy Roman Empire"
+		]
+	},
+	{
+		"word": "Kalashnikov",
+		"definitions": [
+			"Type Of Soviet Rifle Or Sub-Machine-Gun"
+		]
+	},
+	{
+		"word": "Kale",
+		"definitions": [
+			"Variety Of Cabbage, Especially With Wrinkled Leaves And No Heart"
+		]
+	},
+	{
+		"word": "Kaleidoscope",
+		"definitions": [
+			"Tube Containing Mirrors And Pieces Of Coloured Glass Producing Changing Reflected Patterns When Shaken",
+			"Constantly Changing Pattern, Group, Etc."
+		]
+	},
+	{
+		"word": "Kalends",
+		"definitions": [
+			"Variant Of Calends"
+		]
+	},
+	{
+		"word": "Kaleyard",
+		"definitions": [
+			"Scottish Kitchen Garden"
+		]
+	},
+	{
+		"word": "Kamikaze",
+		"definitions": [
+			"Explosive-Laden Japanese Aircraft Deliberately Crashed On A Ship, Etc. During The War Of 1939-45",
+			"Pilot Of This",
+			"Reckless, Especially Suicidal"
+		]
+	},
+	{
+		"word": "Kangaroo",
+		"definitions": [
+			"Australian Marsupial With Strong Hind Legs For Jumping"
+		]
+	},
+	{
+		"word": "Kangaroo Court",
+		"definitions": [
+			"Illegal Court, E.g. Held By Strikers Or Mutineers"
+		]
+	},
+	{
+		"word": "Kaolin",
+		"definitions": [
+			"Fine Soft White Clay Used Especially For Porcelain And In Medicines"
+		]
+	},
+	{
+		"word": "Kapok",
+		"definitions": [
+			"Fine Fibrous Cotton-Like Substance From A Tropical Tree, Used For Padding"
+		]
+	},
+	{
+		"word": "Kappa",
+		"definitions": [
+			"Tenth Letter Of The Greek Alphabet"
+		]
+	},
+	{
+		"word": "Kaput",
+		"definitions": [
+			"Slang Broken, Ruined"
+		]
+	},
+	{
+		"word": "Karabiner",
+		"definitions": [
+			"Coupling Link Used By Mountaineers"
+		]
+	},
+	{
+		"word": "Karakul",
+		"definitions": [
+			"Asian Sheep With A Dark Curled Fleece When Young",
+			"Fur Of Or Like This"
+		]
+	},
+	{
+		"word": "Karaoke",
+		"definitions": [
+			"Entertainment In Nightclubs, Etc. With Customers Singing To A Backing Track"
+		]
+	},
+	{
+		"word": "Karate",
+		"definitions": [
+			"Japanese System Of Unarmed Combat Using The Hands And Feet As Weapons"
+		]
+	},
+	{
+		"word": "Karma",
+		"definitions": [
+			"In Buddhism & Hinduism, A Person's Actions In Previous Lives, Believed To Decide His Or Her Fate In Future Existences"
+		]
+	},
+	{
+		"word": "Kauri",
+		"definitions": [
+			"Coniferous New Zealand Tree Yielding Timber And Resin"
+		]
+	},
+	{
+		"word": "Kayak",
+		"definitions": [
+			"Eskimo One-Man Canoe Of Wood And Sealskins",
+			"Small Covered Canoe"
+		]
+	},
+	{
+		"word": "Kazoo",
+		"definitions": [
+			"Toy Musical Instrument Into Which The Player Sings Or Hums"
+		]
+	},
+	{
+		"word": "Kbe",
+		"definitions": [
+			"Knight Commander Of The Order Of The British Empire"
+		]
+	},
+	{
+		"word": "Kc",
+		"definitions": [
+			"King's Counsel"
+		]
+	},
+	{
+		"word": "Kc/s",
+		"definitions": [
+			"Kilocycles Per Second"
+		]
+	},
+	{
+		"word": "Kea",
+		"definitions": [
+			"New Zealand Parrot With Brownish-Green And Red Plumage"
+		]
+	},
+	{
+		"word": "Kebab",
+		"definitions": [
+			"Pieces Of Meat, Vegetables, Etc. Cooked On A Skewer"
+		]
+	},
+	{
+		"word": "Kedge",
+		"definitions": [
+			"Move A Ship With A Hawser Attached To A Small Anchor",
+			"Small Anchor For This Purpose"
+		]
+	},
+	{
+		"word": "Kedgeree",
+		"definitions": [
+			"Dish of fish, rice, hard-boiled eggs, etc.",
+			"(Hindi)"
+		]
+	},
+	{
+		"word": "Keel",
+		"definitions": [
+			"Main lengthwise member of the base of a ship etc.",
+			"(Cause to) fall down or over.",
+			"Turn keel upwards."
+		]
+	},
+	{
+		"word": "Keel",
+		"definitions": [
+			"On an even keel steady; balanced.",
+			"(Old Norse)"
+		]
+	},
+	{
+		"word": "Keelhaul",
+		"definitions": [
+			"Drag (a person) under the keel of a ship as a punishment.",
+			"Scold or rebuke severely."
+		]
+	},
+	{
+		"word": "Keelson",
+		"definitions": [
+			"Line of timber fastening a ship's floor-timbers to its keel.",
+			"(Origin uncertain)"
+		]
+	},
+	{
+		"word": "Keen1",
+		"definitions": [
+			"Enthusiastic, eager.",
+			"(Foll. by on) enthusiastic about, fond of.",
+			"(Of the senses) sharp.",
+			"Intellectually acute.",
+			"(Of a knife etc.) sharp.",
+			"(Of a sound, light, etc.) penetrating, vivid.",
+			"(Of a wind etc.) piercingly cold.",
+			"(Of a pain etc.) acute."
+		]
+	},
+	{
+		"word": "Keen1",
+		"definitions": [
+			"(Of a price) competitive.",
+			"Keenly",
+			"Keenness",
+			"(Old English)"
+		]
+	},
+	{
+		"word": "Keen2",
+		"definitions": [
+			"Irish wailing funeral song.",
+			"(Often foll. by over, for) wail mournfully, esp. at a funeral.",
+			"(Irish caoine from caoinim wail)"
+		]
+	},
+	{
+		"word": "Keep",
+		"definitions": [
+			"Have continuous charge of; retain possession of.",
+			"(Foll. by for) retain or reserve for (a future time) (kept it for later).",
+			"Retain or remain in a specified condition, position, place, etc.",
+			"(Foll. by from) restrain, hold back.",
+			"Detain (what kept you?).",
+			"Observe, honour, or respect (a law, custom, commitment, secret, etc.)."
+		]
+	},
+	{
+		"word": "Keep",
+		"definitions": [
+			"Own and look after (animals).",
+			"(Foll. by in) maintain (a person) with a supply of.",
+			"Carry on; manage (a business etc.).",
+			"Maintain (a diary, house, accounts, etc.) regularly and in proper order.",
+			"Normally have on sale (do you keep buttons?).",
+			"Guard or protect (a person or place).",
+			"Preserve (keep order).",
+			"(Foll. by verbal noun) continue; repeat habitually (keeps telling me).",
+			"Continue to follow (a way or course).",
+			"(Esp. of food) remain in good condition.",
+			"(Of news etc.) not suffer from delay in telling."
+		]
+	},
+	{
+		"word": "Keep",
+		"definitions": [
+			"(Often foll. by to) remain in (one's bed, room, etc.).",
+			"Maintain (a person) as one's mistress etc. (kept woman).",
+			"(Often in pl.) Maintenance, food, etc.",
+			"(Hist.) Tower, esp. The central stronghold of a castle.",
+			"For keeps colloq. Permanently, indefinitely.",
+			"How are you keeping? How are you?"
+		]
+	},
+	{
+		"word": "Keeper",
+		"definitions": [
+			"Person who looks after or is in charge of animals, people, or a thing.",
+			"Custodian of a museum, forest, etc.",
+			"A = wicket-keeper.",
+			"B = goalkeeper.",
+			"A sleeper in a pierced ear.",
+			"Ring that keeps another on the finger."
+		]
+	},
+	{
+		"word": "Keep-fit",
+		"definitions": [
+			"Regular physical exercises."
+		]
+	},
+	{
+		"word": "Keeping",
+		"definitions": [
+			"Custody, charge (in safe keeping).",
+			"Agreement, harmony (esp. in or out of keeping (with))."
+		]
+	},
+	{
+		"word": "Keepsake",
+		"definitions": [
+			"Souvenir, esp. of a person."
+		]
+	},
+	{
+		"word": "Keg",
+		"definitions": [
+			"Small barrel.",
+			"(Old Norse)"
+		]
+	},
+	{
+		"word": "Keg beer",
+		"definitions": [
+			"Beer kept in a metal keg under pressure."
+		]
+	},
+	{
+		"word": "Kelp",
+		"definitions": [
+			"Large brown seaweed suitable for manure.",
+			"Its calcined ashes, formerly a source of sodium, potassium, etc.",
+			"(Origin unknown)"
+		]
+	},
+	{
+		"word": "Kelpie",
+		"definitions": [
+			"(Scot.) Malevolent water-spirit, usu. in the form of a horse.",
+			"Australian sheepdog."
+		]
+	},
+	{
+		"word": "Kelpie",
+		"definitions": [
+			"(Origin unknown)"
+		]
+	},
+	{
+		"word": "Kelson",
+		"definitions": [
+			"Var. of keelson."
+		]
+	},
+	{
+		"word": "Kelt",
+		"definitions": [
+			"Var. of celt."
+		]
+	},
+	{
+		"word": "Kelt",
+		"definitions": [
+			"Salmon or sea trout after spawning.",
+			"(Origin unknown)"
+		]
+	},
+	{
+		"word": "Kelter",
+		"definitions": [
+			"Var. of kilter."
+		]
+	},
+	{
+		"word": "Kelvin",
+		"definitions": [
+			"SI unit of thermodynamic temperature.",
+			"(Kelvin, name of a physicist)"
+		]
+	},
+	{
+		"word": "Kelvin scale",
+		"definitions": [
+			"Scale of temperature with zero at absolute zero."
+		]
+	},
+	{
+		"word": "Ken",
+		"definitions": [
+			"Range of knowledge or sight (beyond my ken).",
+			"(Scot.) Recognize at sight.",
+			"Know.",
+			"(Old English, = make known: related to can1)"
+		]
+	},
+	{
+		"word": "Kendo",
+		"definitions": [
+			"Japanese fencing with two-handed bamboo swords.",
+			"(Japanese, = sword-way)"
+		]
+	},
+	{
+		"word": "Kennel",
+		"definitions": [
+			"Small shelter for a dog.",
+			"(In pl.) Breeding or boarding place for dogs.",
+			"(French chenil from Latin canis dog)"
+		]
+	},
+	{
+		"word": "Kent",
+		"definitions": [
+			"Past and past part. Of ken."
+		]
+	},
+	{
+		"word": "Kenyan",
+		"definitions": [
+			"(Adj.) Of Kenya in E. Africa.",
+			"(N.) 1. Native or national of Kenya.",
+			"2. Person of Kenyan descent."
+		]
+	},
+	{
+		"word": "Kepi",
+		"definitions": [
+			"(Pl. -s) French military cap with a horizontal peak.",
+			"(French képi)"
+		]
+	},
+	{
+		"word": "Kept",
+		"definitions": [
+			"Past and past part. Of keep."
+		]
+	},
+	{
+		"word": "Keratin",
+		"definitions": [
+			"Fibrous protein in hair, feathers, hooves, claws, horns, etc.",
+			"(Greek keras kerat- horn)"
+		]
+	},
+	{
+		"word": "Kerb",
+		"definitions": [
+			"Stone edging to a pavement or raised path.",
+			"(Var. of curb)"
+		]
+	},
+	{
+		"word": "Kerb-crawling",
+		"definitions": [
+			"(Colloq.) Driving slowly in order to engage a prostitute."
+		]
+	},
+	{
+		"word": "Kerb drill",
+		"definitions": [
+			"Precautions before crossing a road."
+		]
+	},
+	{
+		"word": "Kerbstone",
+		"definitions": [
+			"Stone forming part of a kerb."
+		]
+	},
+	{
+		"word": "Kerchief",
+		"definitions": [
+			"Headscarf, neckerchief.",
+			"Poet. Handkerchief.",
+			"(Anglo-French courchef: related to cover, chief)"
+		]
+	},
+	{
+		"word": "Kerfuffle",
+		"definitions": [
+			"(Colloq.) Fuss, commotion.",
+			"(Originally Scots)"
+		]
+	},
+	{
+		"word": "Kermes",
+		"definitions": [
+			"1. Female of an insect with a berry-like appearance.",
+			"2. (In full kermes oak) Evergreen oak on which this feeds.",
+			"3. Red dye made from these insects dried.",
+			"(Arabic)"
+		]
+	},
+	{
+		"word": "Kernel",
+		"definitions": [
+			"1. (Usual. soft) Edible centre within the hard shell of a nut, fruit stone, seed, etc.",
+			"2. Whole seed of a cereal.",
+			"3. Essence of anything.",
+			"(Old English: related to corn1)"
+		]
+	},
+	{
+		"word": "Kerosene",
+		"definitions": [
+			"(Also kerosine) Esp. US fuel oil for use in jet engines, boilers, etc.; paraffin oil.",
+			"(Greek keros wax)"
+		]
+	},
+	{
+		"word": "Kestrel",
+		"definitions": [
+			"Small hovering falcon.",
+			"(Origin uncertain)"
+		]
+	},
+	{
+		"word": "Ketch",
+		"definitions": [
+			"Small two-masted sailing-boat.",
+			"(Probably from catch)"
+		]
+	},
+	{
+		"word": "Ketchup",
+		"definitions": [
+			"(US catsup) Spicy esp. tomato sauce used as a condiment.",
+			"(Chinese)"
+		]
+	},
+	{
+		"word": "Ketone",
+		"definitions": [
+			"Any of a class of organic compounds including propanone (acetone).",
+			"(German keton, alteration of aketon acetone)"
+		]
+	},
+	{
+		"word": "Kettle",
+		"definitions": [
+			"Vessel for boiling water in.",
+			"A different kettle of fish a different matter altogether.",
+			"A fine (or pretty) kettle of fish iron. An awkward state of affairs.",
+			"(Old Norse)"
+		]
+	},
+	{
+		"word": "Kettledrum",
+		"definitions": [
+			"Large bowl-shaped drum."
+		]
+	},
+	{
+		"word": "Key1",
+		"definitions": [
+			"(Pl. -s) 1. (Usual. metal) instrument for moving the bolt of a lock.",
+			"2. Similar implement for operating a switch.",
+			"3. Instrument for grasping screws, nuts, etc., or for winding a clock etc."
+		]
+	},
+	{
+		"word": "Key1",
+		"definitions": [
+			"4. (Often in pl.) Finger-operated button or lever on a typewriter, piano, computer terminal, etc.",
+			"5. Means of advance, access, etc. (key to success).",
+			"6. Essential (key element).",
+			"7. A solution or explanation.",
+			"B. Word or system for solving a cipher or code.",
+			"C. Explanatory list of symbols used in a map, table, etc.",
+			"8. Mus. System of notes related to each other and based on a particular note (key of c major)."
+		]
+	},
+	{
+		"word": "Key2",
+		"definitions": [
+			"Low-lying island or reef, esp. in the W. Indies.",
+			"(Spanish cayo)"
+		]
+	},
+	{
+		"word": "Keyboard",
+		"definitions": [
+			"1. Set of keys on a typewriter, computer, piano, etc.",
+			"2. Electronic musical instrument with keys arranged as on a piano.",
+			"(V.) Enter (data) by means of a keyboard.",
+			"Keyboarder (in sense 1 of n.).",
+			"Keyboardist (in sense 2 of n.)."
+		]
+	},
+	{
+		"word": "Keyhole",
+		"definitions": [
+			"Hole in a door etc. For a key",
+			"A small opening or recess for a key to enter"
+		]
+	},
+	{
+		"word": "Keyhole surgery",
+		"definitions": [
+			"Minimally invasive surgery carried out through a very small incision",
+			"A type of surgery where instruments are inserted through small cuts"
+		]
+	},
+	{
+		"word": "Keynesian",
+		"definitions": [
+			"Of the economic theories of J. M. Keynes, esp. regarding state intervention in the economy",
+			"Pertaining to the economic philosophy of John Maynard Keynes"
+		]
+	},
+	{
+		"word": "Keynote",
+		"definitions": [
+			"Prevailing tone or idea, esp. In a speech, conference, etc",
+			"Note on which a key is based"
+		]
+	},
+	{
+		"word": "Keypad",
+		"definitions": [
+			"Miniature keyboard etc. For a portable electronic device, telephone, etc",
+			"A small, often digital, keyboard for entering data"
+		]
+	},
+	{
+		"word": "Keypunch",
+		"definitions": [
+			"Device for recording data by means of punched holes or notches on cards or paper tape",
+			"To record data using punched cards or tapes"
+		]
+	},
+	{
+		"word": "Key-ring",
+		"definitions": [
+			"Ring for keeping keys on",
+			"A circular metal loop for holding keys"
+		]
+	},
+	{
+		"word": "Key signature",
+		"definitions": [
+			"Any of several combinations of sharps or flats indicating the key of a composition",
+			"A set of sharps or flats at the beginning of a musical piece to define its key"
+		]
+	},
+	{
+		"word": "Keystone",
+		"definitions": [
+			"Central principle of a system, policy, etc",
+			"Central locking stone in an arch"
+		]
+	},
+	{
+		"word": "Keystroke",
+		"definitions": [
+			"Single depression of a key on a keyboard, esp. As a measure of work",
+			"A single input of a key on a keyboard"
+		]
+	},
+	{
+		"word": "Keyword",
+		"definitions": [
+			"Key to a cipher etc",
+			"A word of great significance, often used in indexing"
+		]
+	},
+	{
+		"word": "Kg",
+		"definitions": [
+			"Knight of the Order of the Garter",
+			"Kilogram(s)"
+		]
+	},
+	{
+		"word": "Kgb",
+		"definitions": [
+			"State security police of the former USSR",
+			"Committee of State Security"
+		]
+	},
+	{
+		"word": "Khaki",
+		"definitions": [
+			"Dull brownish-yellow",
+			"Khaki fabric or uniform"
+		]
+	},
+	{
+		"word": "Khan",
+		"definitions": [
+			"Title of rulers and officials in Central Asia, Afghanistan, etc",
+			"A historical title used by regional leaders"
+		]
+	},
+	{
+		"word": "Khz",
+		"definitions": [
+			"Kilohertz"
+		]
+	},
+	{
+		"word": "Kibbutz",
+		"definitions": [
+			"Communal esp. farming settlement in Israel",
+			"A collective community, often agricultural, in Israel"
+		]
+	},
+	{
+		"word": "Kibosh",
+		"definitions": [
+			"Slang nonsense",
+			"To put an end to something"
+		]
+	},
+	{
+		"word": "Kick",
+		"definitions": [
+			"Strike, strike out, or propel forcibly, with the foot or hoof",
+			"To protest at; rebel against"
+		]
+	},
+	{
+		"word": "Kickback",
+		"definitions": [
+			"Recoil",
+			"(Usually illegal) payment for help or favours, especially in business"
+		]
+	},
+	{
+		"word": "Kick-off",
+		"definitions": [
+			"Start or resumption of a football match"
+		]
+	},
+	{
+		"word": "Kickstand",
+		"definitions": [
+			"Rod for supporting a bicycle or motorcycle when stationary"
+		]
+	},
+	{
+		"word": "Kick-start",
+		"definitions": [
+			"Device to start the engine of a motorcycle etc. By the downward thrust of a pedal",
+			"To start (a motorcycle) in this way"
+		]
+	},
+	{
+		"word": "Kid1",
+		"definitions": [
+			"Young goat",
+			"Child (informal)"
+		]
+	},
+	{
+		"word": "Kid2",
+		"definitions": [
+			"Deceive, trick, tease",
+			"To kid oneself"
+		]
+	},
+	{
+		"word": "Kiddie",
+		"definitions": [
+			"Child (informal)",
+			"A playful term for a kid"
+		]
+	},
+	{
+		"word": "Kiddo",
+		"definitions": [
+			"Informal term for a child",
+			"A friendly term for a young person"
+		]
+	},
+	{
+		"word": "Kidnap",
+		"definitions": [
+			"Abduct a person, esp. To obtain a ransom",
+			"Steal a child"
+		]
+	},
+	{
+		"word": "Kidney",
+		"definitions": [
+			"Either of two organs in the abdominal cavity of vertebrates that remove nitrogenous wastes from the blood and excrete urine",
+			"Animal's kidney as food"
+		]
+	},
+	{
+		"word": "Kidney bean",
+		"definitions": [
+			"Red-skinned dried bean"
+		]
+	},
+	{
+		"word": "Kidney machine",
+		"definitions": [
+			"Machine able to take over the function of a damaged kidney"
+		]
+	},
+	{
+		"word": "Kidney-shaped",
+		"definitions": [
+			"Having one side concave and the other convex"
+		]
+	},
+	{
+		"word": "Kill",
+		"definitions": [
+			"Deprive of life or vitality; cause death",
+			"Destroy feelings or emotions"
+		]
+	},
+	{
+		"word": "Kick",
+		"definitions": [
+			"Strike forcibly with the foot or hoof",
+			"Rebel against or protest"
+		]
+	},
+	{
+		"word": "Kickstart",
+		"definitions": [
+			"Start the engine of a motorcycle by downward thrust",
+			"To initiate or set in motion"
+		]
+	},
+	{
+		"word": "Kid1",
+		"definitions": [
+			"Young goat",
+			"Leather from this",
+			"Colloq. Child"
+		]
+	},
+	{
+		"word": "Kid2",
+		"definitions": [
+			"Colloq. Deceive, trick, tease",
+			"No kidding slang that is the truth"
+		]
+	},
+	{
+		"word": "Kiddie",
+		"definitions": [
+			"Slang = *Kid1 n. 3"
+		]
+	},
+	{
+		"word": "Kiddo",
+		"definitions": [
+			"Slang = *Kid1 n. 3"
+		]
+	},
+	{
+		"word": "Kidnap",
+		"definitions": [
+			"Abduct (a person etc.), esp. To obtain a ransom",
+			"Steal (a child)"
+		]
+	},
+	{
+		"word": "Kidney",
+		"definitions": [
+			"Either of two organs in the abdominal cavity of vertebrates which remove nitrogenous wastes from the blood and excrete urine"
+		]
+	},
+	{
+		"word": "Kidney bean",
+		"definitions": [
+			"Red-skinned dried bean"
+		]
+	},
+	{
+		"word": "Kidney machine",
+		"definitions": [
+			"Machine able to take over the function of a damaged kidney"
+		]
+	},
+	{
+		"word": "Kidney-shaped",
+		"definitions": [
+			"Having one side concave and the other convex"
+		]
+	},
+	{
+		"word": "Kill",
+		"definitions": [
+			"Deprive of life or vitality; cause death or the death of",
+			"Destroy (feelings etc.)",
+			"Colloq. A overexert oneself",
+			"Colloq. Laugh heartily",
+			"Colloq. Overwhelm with amusement",
+			"Switch off (a light, engine, etc.)",
+			"Colloq. Delete",
+			"Colloq. Cause pain or discomfort to",
+			"Pass (time, or a specified period)"
+		]
+	},
+	{
+		"word": "Kill",
+		"definitions": [
+			"Defeat (a bill in parliament)",
+			"Hit (the ball) so that it cannot be returned",
+			"Make ineffective (taste, sound, pain, etc.)"
+		]
+	},
+	{
+		"word": "Killer",
+		"definitions": [
+			"A person, animal, or thing that kills",
+			"Colloq. An impressive, formidable, or excellent thing"
+		]
+	},
+	{
+		"word": "Killer instinct",
+		"definitions": [
+			"Innate tendency to kill",
+			"Ruthless streak"
+		]
+	},
+	{
+		"word": "Killer whale",
+		"definitions": [
+			"Dolphin with a prominent dorsal fin"
+		]
+	},
+	{
+		"word": "Killing",
+		"definitions": [
+			"A causing of death",
+			"Colloq. Great (esp. Financial) success"
+		]
+	},
+	{
+		"word": "Killjoy",
+		"definitions": [
+			"Gloomy or censorious person"
+		]
+	},
+	{
+		"word": "Kiln",
+		"definitions": [
+			"Furnace or oven for burning, baking, or drying",
+			"Old English from Latin culina kitchen"
+		]
+	},
+	{
+		"word": "Kilo",
+		"definitions": [
+			"Kilogram",
+			"French, abbreviation"
+		]
+	},
+	{
+		"word": "Kilobyte",
+		"definitions": [
+			"Computing 1,024 bytes as a measure of memory size"
+		]
+	},
+	{
+		"word": "Kilocalorie",
+		"definitions": [
+			"Large calorie"
+		]
+	},
+	{
+		"word": "Kilocycle",
+		"definitions": [
+			"Hist. Kilohertz"
+		]
+	},
+	{
+		"word": "Kilogram",
+		"definitions": [
+			"Si unit of mass, approx. 2.205 lb"
+		]
+	},
+	{
+		"word": "Kilohertz",
+		"definitions": [
+			"1,000 hertz, 1,000 cycles per second"
+		]
+	},
+	{
+		"word": "Kilojoule",
+		"definitions": [
+			"1,000 joules"
+		]
+	},
+	{
+		"word": "Kiloliter",
+		"definitions": [
+			"1,000 litres"
+		]
+	},
+	{
+		"word": "Kilometer",
+		"definitions": [
+			"1,000 metres (approx. 0.62 miles)"
+		]
+	},
+	{
+		"word": "Kilometre",
+		"definitions": [
+			"1,000 metres (approx. 0.62 miles)"
+		]
+	},
+	{
+		"word": "Kiloton",
+		"definitions": [
+			"Unit of explosive power equivalent to 1,000 tons of tnt"
+		]
+	},
+	{
+		"word": "Kilovolt",
+		"definitions": [
+			"1,000 volts"
+		]
+	},
+	{
+		"word": "Kilowatt",
+		"definitions": [
+			"1,000 watts"
+		]
+	},
+	{
+		"word": "Kilowatt-hour",
+		"definitions": [
+			"Electrical energy equivalent to a power consumption of 1,000 watts for one hour"
+		]
+	},
+	{
+		"word": "Kilt",
+		"definitions": [
+			"Pleated knee-length skirt, traditionally worn by highland men",
+			"Tuck up (the skirts) round the body"
+		]
+	},
+	{
+		"word": "Kilter",
+		"definitions": [
+			"Good working order"
+		]
+	},
+	{
+		"word": "Kimono",
+		"definitions": [
+			"Long sashed Japanese robe",
+			"Similar dressing-gown"
+		]
+	},
+	{
+		"word": "Kin",
+		"definitions": [
+			"One's relatives or family",
+			"Related"
+		]
+	},
+	{
+		"word": "-kin",
+		"definitions": [
+			"Suffix forming diminutive nouns"
+		]
+	},
+	{
+		"word": "Kind",
+		"definitions": [
+			"Race, species, or natural group of animals, plants, etc.",
+			"Class, type, sort, variety",
+			"Natural way, fashion, etc."
+		]
+	},
+	{
+		"word": "Kindergarten",
+		"definitions": [
+			"Class or school for very young children"
+		]
+	},
+	{
+		"word": "Kind-hearted",
+		"definitions": [
+			"Of a kind disposition",
+			"Kind-heartedly adv. Kind-heartedness n."
+		]
+	},
+	{
+		"word": "Kindle",
+		"definitions": [
+			"Light, catch, or set on fire",
+			"Arouse or inspire",
+			"Become aroused or animated"
+		]
+	},
+	{
+		"word": "Kindling",
+		"definitions": [
+			"Small sticks etc. for lighting fires"
+		]
+	},
+	{
+		"word": "Kindly1",
+		"definitions": [
+			"In a kind manner (spoke kindly)",
+			"Often iron. Please (kindly go away)",
+			"Look kindly upon regard sympathetically",
+			"Take kindly to be pleased by; like"
+		]
+	},
+	{
+		"word": "Kindly2",
+		"definitions": [
+			"Kind, kind-hearted",
+			"(of a climate etc.) Pleasant, mild",
+			"Kindlily adv. Kindliness n."
+		]
+	},
+	{
+		"word": "Kindliness",
+		"definitions": [
+			"Being kind",
+			"Kind act"
+		]
+	},
+	{
+		"word": "Kindred",
+		"definitions": [
+			"Related, allied, or similar",
+			"One's relations collectively",
+			"Blood relationship",
+			"Resemblance in character"
+		]
+	},
+	{
+		"word": "Kindred spirit",
+		"definitions": [
+			"Person like or in sympathy with oneself"
+		]
+	},
+	{
+		"word": "Kinematics",
+		"definitions": [
+			"Branch of mechanics concerned with the motion of objects without reference to cause"
+		]
+	},
+	{
+		"word": "Kinetic",
+		"definitions": [
+			"Of or due to motion"
+		]
+	},
+	{
+		"word": "Kinetic art",
+		"definitions": [
+			"Sculpture etc. designed to move"
+		]
+	},
+	{
+		"word": "Kinetic energy",
+		"definitions": [
+			"Energy of motion"
+		]
+	},
+	{
+		"word": "Kinetics",
+		"definitions": [
+			"Branch of physical chemistry measuring and studying the rates of chemical reactions"
+		]
+	},
+	{
+		"word": "King",
+		"definitions": [
+			"Male sovereign, esp. a hereditary ruler",
+			"Pre-eminent person or thing (oil king)",
+			"(attrib.) Large (or the largest) kind of plant, animal, etc. (king penguin)",
+			"Chess piece which must be checkmated for a win",
+			"Crowned piece in draughts",
+			"Court-card depicting a king"
+		]
+	},
+	{
+		"word": "King charles spaniel",
+		"definitions": [
+			"Small black and tan spaniel"
+		]
+	},
+	{
+		"word": "Kingcup",
+		"definitions": [
+			"Marsh marigold"
+		]
+	},
+	{
+		"word": "Kingdom",
+		"definitions": [
+			"Territory or state ruled by a king or queen",
+			"Spiritual reign or sphere of God",
+			"Domain",
+			"Division of the natural world (plant kingdom)",
+			"Specified sphere (kingdom of the heart)"
+		]
+	},
+	{
+		"word": "Kingdom come",
+		"definitions": [
+			"Colloq. The next world"
+		]
+	},
+	{
+		"word": "Kingfisher",
+		"definitions": [
+			"Small bird with brightly coloured plumage, diving for fish etc."
+		]
+	},
+	{
+		"word": "King of arms",
+		"definitions": [
+			"A chief herald"
+		]
+	},
+	{
+		"word": "King of beasts",
+		"definitions": [
+			"Lion"
+		]
+	},
+	{
+		"word": "King of birds",
+		"definitions": [
+			"Eagle"
+		]
+	},
+	{
+		"word": "Kingpin",
+		"definitions": [
+			"Main, large, or vertical bolt, esp. as a pivot",
+			"Essential person or thing"
+		]
+	},
+	{
+		"word": "King-post",
+		"definitions": [
+			"Upright post from the tie-beam of a roof to the apex of a truss"
+		]
+	},
+	{
+		"word": "King's counsel",
+		"definitions": [
+			"King's counsel"
+		]
+	},
+	{
+		"word": "King's english",
+		"definitions": [
+			"King's english"
+		]
+	},
+	{
+		"word": "King's evidence",
+		"definitions": [
+			"See evidence"
+		]
+	},
+	{
+		"word": "King's guide",
+		"definitions": [
+			"King's guide"
+		]
+	},
+	{
+		"word": "King's highway",
+		"definitions": [
+			"King's highway"
+		]
+	},
+	{
+		"word": "King-size",
+		"definitions": [
+			"Very large"
+		]
+	},
+	{
+		"word": "King's proctor",
+		"definitions": [
+			"King's proctor"
+		]
+	},
+	{
+		"word": "King's scout",
+		"definitions": [
+			"King's scout"
+		]
+	},
+	{
+		"word": "Kink",
+		"definitions": [
+			"A twist or bend in wire etc.",
+			"Tight wave in hair",
+			"Mental twist or quirk, esp. when perverse"
+		]
+	},
+	{
+		"word": "Kinky",
+		"definitions": [
+			"Colloq. A sexually perverted or unconventional",
+			"(of clothing etc.) Bizarre and sexually provocative",
+			"Having kinks"
+		]
+	},
+	{
+		"word": "Kinsfolk",
+		"definitions": [
+			"One's blood relations"
+		]
+	},
+	{
+		"word": "Kinship",
+		"definitions": [
+			"Blood relationship",
+			"Likeness; sympathy"
+		]
+	},
+	{
+		"word": "Kinsman",
+		"definitions": [
+			"Blood relation",
+			"Relation by marriage"
+		]
+	},
+	{
+		"word": "Kiosk",
+		"definitions": [
+			"Light open-fronted booth selling food, newspapers, tickets, etc.",
+			"Telephone box"
+		]
+	},
+	{
+		"word": "Kip",
+		"definitions": [
+			"Sleep",
+			"Bed or cheap lodgings"
+		]
+	},
+	{
+		"word": "Kipper",
+		"definitions": [
+			"Fish, esp. A herring, split, salted, dried, and usu. Smoked",
+			"Cure (a herring etc.) Thus"
+		]
+	},
+	{
+		"word": "Kir",
+		"definitions": [
+			"Dry white wine with crème de cassis"
+		]
+	},
+	{
+		"word": "Kirby-grip",
+		"definitions": [
+			"Type of sprung hairgrip"
+		]
+	},
+	{
+		"word": "Kirk",
+		"definitions": [
+			"Church",
+			"Church of Scotland"
+		]
+	},
+	{
+		"word": "Kirk-session",
+		"definitions": [
+			"Lowest court in the Church of Scotland"
+		]
+	},
+	{
+		"word": "Kirsch",
+		"definitions": [
+			"Brandy distilled from cherries"
+		]
+	},
+	{
+		"word": "Kismet",
+		"definitions": [
+			"Destiny, fate"
+		]
+	},
+	{
+		"word": "Kiss",
+		"definitions": [
+			"Touch with the lips, esp. As a sign of love, affection, greeting, or reverence",
+			"Lightly touch"
+		]
+	},
+	{
+		"word": "Kiss-curl",
+		"definitions": [
+			"Small curl of hair on the forehead, nape, etc."
+		]
+	},
+	{
+		"word": "Kisser",
+		"definitions": [
+			"Person who kisses",
+			"Slang mouth; face"
+		]
+	},
+	{
+		"word": "Kiss of death",
+		"definitions": [
+			"Apparent good luck etc. Which causes ruin"
+		]
+	},
+	{
+		"word": "Kiss of life",
+		"definitions": [
+			"Mouth-to-mouth resuscitation"
+		]
+	},
+	{
+		"word": "Kissogram",
+		"definitions": [
+			"Novelty telegram or greeting delivered with a kiss"
+		]
+	},
+	{
+		"word": "Kit",
+		"definitions": [
+			"Articles, equipment, etc. For a specific purpose",
+			"Specialized, esp. Sports, clothing or uniform"
+		]
+	},
+	{
+		"word": "Kitbag",
+		"definitions": [
+			"Large usu. Cylindrical bag used for a soldier's or traveller's kit"
+		]
+	},
+	{
+		"word": "Kitchen",
+		"definitions": [
+			"Place where food is prepared and cooked",
+			"Kitchen fitments"
+		]
+	},
+	{
+		"word": "Kitchenette",
+		"definitions": [
+			"Small kitchen or cooking area"
+		]
+	},
+	{
+		"word": "Kitchen garden",
+		"definitions": [
+			"Garden with vegetables, fruit, herbs, etc."
+		]
+	},
+	{
+		"word": "Kitchenware",
+		"definitions": [
+			"Cooking utensils"
+		]
+	},
+	{
+		"word": "Kite",
+		"definitions": [
+			"Light framework with a thin covering flown on a string in the wind",
+			"Soaring bird of prey"
+		]
+	},
+	{
+		"word": "Kitemark",
+		"definitions": [
+			"Official kite-shaped mark on goods approved by the British Standards Institution"
+		]
+	},
+	{
+		"word": "Kith",
+		"definitions": [
+			"Kith and kin friends and relations"
+		]
+	},
+	{
+		"word": "Kitsch",
+		"definitions": [
+			"Vulgar, pretentious, or worthless art"
+		]
+	},
+	{
+		"word": "Kitten",
+		"definitions": [
+			"Young cat, ferret, etc.",
+			"Give birth (to)"
+		]
+	},
+	{
+		"word": "Kittenish",
+		"definitions": [
+			"Playful, lively, or flirtatious"
+		]
+	},
+	{
+		"word": "Kittiwake",
+		"definitions": [
+			"A kind of small seagull"
+		]
+	},
+	{
+		"word": "Kitty",
+		"definitions": [
+			"Fund of money for communal use",
+			"Pool in some card-games"
+		]
+	},
+	{
+		"word": "Kiwi",
+		"definitions": [
+			"Flightless long-billed New Zealand bird",
+			"Colloq. New Zealander"
+		]
+	},
+	{
+		"word": "Kiwi fruit",
+		"definitions": [
+			"Green-fleshed fruit of a climbing plant"
+		]
+	},
+	{
+		"word": "Kj",
+		"definitions": [
+			"Kilojoule(s)"
+		]
+	},
+	{
+		"word": "Kl",
+		"definitions": [
+			"Kilolitre(s)"
+		]
+	},
+	{
+		"word": "Klaxon",
+		"definitions": [
+			"Horn or warning hooter"
+		]
+	},
+	{
+		"word": "Kleenex",
+		"definitions": [
+			"Disposable paper handkerchief"
+		]
+	},
+	{
+		"word": "Kleptomania",
+		"definitions": [
+			"Obsessive apparently motiveless urge to steal"
+		]
+	},
+	{
+		"word": "Km",
+		"definitions": [
+			"Kilometre(s)"
+		]
+	},
+	{
+		"word": "Knack",
+		"definitions": [
+			"Acquired faculty or trick of doing a thing",
+			"Habit"
+		]
+	},
+	{
+		"word": "Knacker",
+		"definitions": [
+			"Buyer of useless horses etc for slaughter",
+			"Buyer of old houses, ships etc for the materials"
+		]
+	},
+	{
+		"word": "Knapsack",
+		"definitions": [
+			"Soldier's or hiker's canvas bag carried on the back"
+		]
+	},
+	{
+		"word": "Knapweed",
+		"definitions": [
+			"Plant with thistle-like purple flowers"
+		]
+	},
+	{
+		"word": "Knave",
+		"definitions": [
+			"Rogue, scoundrel",
+			"Jack in a deck of cards"
+		]
+	},
+	{
+		"word": "Knead",
+		"definitions": [
+			"Work into dough or paste by pummelling",
+			"Massage muscles as if kneading"
+		]
+	},
+	{
+		"word": "Knee",
+		"definitions": [
+			"Joint between the thigh and lower leg in humans",
+			"Part of a garment covering the knee"
+		]
+	},
+	{
+		"word": "Knee-bend",
+		"definitions": [
+			"Bending of the knee, especially as a physical exercise"
+		]
+	},
+	{
+		"word": "Knee-breeches",
+		"definitions": [
+			"Close-fitting trousers to the knee or just below"
+		]
+	},
+	{
+		"word": "Kneecap",
+		"definitions": [
+			"Convex bone in front of the knee",
+			"Protective covering for the knee"
+		]
+	},
+	{
+		"word": "Knee-deep",
+		"definitions": [
+			"Immersed up to the knees",
+			"Deeply involved in something"
+		]
+	},
+	{
+		"word": "Knee-high",
+		"definitions": [
+			"So high as to reach the knees"
+		]
+	},
+	{
+		"word": "Knee-jerk",
+		"definitions": [
+			"Sudden involuntary kick caused by a blow on the tendon just below the knee",
+			"Predictable, automatic, stereotyped response"
+		]
+	},
+	{
+		"word": "Kneel",
+		"definitions": [
+			"Fall or rest on the knees",
+			"Rest on a knee"
+		]
+	},
+	{
+		"word": "Knee-length",
+		"definitions": [
+			"Reaching the knees"
+		]
+	},
+	{
+		"word": "Kneeler",
+		"definitions": [
+			"Cushion for kneeling on",
+			"Person who kneels"
+		]
+	},
+	{
+		"word": "Knees-up",
+		"definitions": [
+			"Lively party or gathering"
+		]
+	},
+	{
+		"word": "Knell",
+		"definitions": [
+			"Sound of a bell, especially for a death or funeral",
+			"Announcement or event regarded as an ill omen"
+		]
+	},
+	{
+		"word": "Knelt",
+		"definitions": [
+			"Past and past part of kneel"
+		]
+	},
+	{
+		"word": "Knew",
+		"definitions": [
+			"Past of know"
+		]
+	},
+	{
+		"word": "Knickerbocker",
+		"definitions": [
+			"Loose-fitting breeches gathered at the knee or calf",
+			"Pseudonym of W. Irving, author of History of New York"
+		]
+	},
+	{
+		"word": "Knickerbocker glory",
+		"definitions": [
+			"Ice-cream served with fruit etc in a tall glass"
+		]
+	},
+	{
+		"word": "Knickers",
+		"definitions": [
+			"Woman's or girl's undergarment for the lower torso",
+			"Abbreviation of knickerbocker"
+		]
+	},
+	{
+		"word": "Knick-knack",
+		"definitions": [
+			"Trinket or small dainty ornament"
+		]
+	},
+	{
+		"word": "Knife",
+		"definitions": [
+			"Metal blade for cutting or as a weapon",
+			"Cutting-blade in a machine"
+		]
+	},
+	{
+		"word": "Knife-edge",
+		"definitions": [
+			"Edge of a knife",
+			"Position of extreme danger or uncertainty"
+		]
+	},
+	{
+		"word": "Knife-pleat",
+		"definitions": [
+			"Narrow flat overlapping pleat on a skirt"
+		]
+	},
+	{
+		"word": "Knight",
+		"definitions": [
+			"Man awarded a non-hereditary title by a sovereign",
+			"Man devoted to a cause or lady"
+		]
+	},
+	{
+		"word": "Knight commander",
+		"definitions": [
+			"See commander"
+		]
+	},
+	{
+		"word": "Knight errant",
+		"definitions": [
+			"Medieval knight in search of chivalrous adventures",
+			"Chivalrous or quixotic man"
+		]
+	},
+	{
+		"word": "Knit",
+		"definitions": [
+			"Make a garment by interlocking loops of wool with needles",
+			"Wrinkle momentarily, especially the forehead"
+		]
+	},
+	{
+		"word": "Knitting",
+		"definitions": [
+			"Work being knitted"
+		]
+	},
+	{
+		"word": "Knitting-machine",
+		"definitions": [
+			"Machine for knitting"
+		]
+	},
+	{
+		"word": "Knitting-needle",
+		"definitions": [
+			"Thin pointed rod used for knitting"
+		]
+	},
+	{
+		"word": "Knitwear",
+		"definitions": [
+			"Knitted garments"
+		]
+	},
+	{
+		"word": "Knives",
+		"definitions": [
+			"Plural of knife"
+		]
+	},
+	{
+		"word": "Knob",
+		"definitions": [
+			"Rounded protuberance, especially at the end or surface of a thing",
+			"Small piece of something, such as butter"
+		]
+	},
+	{
+		"word": "Knobbly",
+		"definitions": [
+			"Hard and lumpy"
+		]
+	},
+	{
+		"word": "Knock",
+		"definitions": [
+			"Strike with an audible sharp blow",
+			"Criticize"
+		]
+	},
+	{
+		"word": "Knockabout",
+		"definitions": [
+			"Of comedy, boisterous or slapstick",
+			"Of clothes, hard-wearing"
+		]
+	},
+	{
+		"word": "Knock-down",
+		"definitions": [
+			"Overwhelming",
+			"Very low price at an auction"
+		]
+	},
+	{
+		"word": "Knocker",
+		"definitions": [
+			"Hinged instrument on a door for knocking",
+			"Coarse slang for woman's breasts"
+		]
+	},
+	{
+		"word": "Knocking-shop",
+		"definitions": [
+			"Slang for brothel"
+		]
+	},
+	{
+		"word": "Knock knees",
+		"definitions": [
+			"Abnormal curvature of the legs inwards at the knee"
+		]
+	},
+	{
+		"word": "Knock-on effect",
+		"definitions": [
+			"Secondary, Indirect, Or Cumulative Effect"
+		]
+	},
+	{
+		"word": "Knockout",
+		"definitions": [
+			"Act Of Making Unconscious By A Blow",
+			"Competition In Which The Loser In Each Round Is Eliminated"
+		]
+	},
+	{
+		"word": "Knock-up",
+		"definitions": [
+			"Practice At Tennis Etc"
+		]
+	},
+	{
+		"word": "Knoll",
+		"definitions": [
+			"Hillock, Mound"
+		]
+	},
+	{
+		"word": "Knot1",
+		"definitions": [
+			"A Intertwining Of Rope, String, Hair, Etc., So As To Fasten",
+			"Unit Of A Ship's Or Aircraft's Speed, Equivalent To One Nautical Mile Per Hour"
+		]
+	},
+	{
+		"word": "Knot2",
+		"definitions": [
+			"Small Sandpiper"
+		]
+	},
+	{
+		"word": "Knotgrass",
+		"definitions": [
+			"Wild Plant With Creeping Stems And Small Pink Flowers"
+		]
+	},
+	{
+		"word": "Knot-hole",
+		"definitions": [
+			"Hole In Timber Where A Knot Has Fallen Out"
+		]
+	},
+	{
+		"word": "Knotty",
+		"definitions": [
+			"Full Of Knots",
+			"Puzzling"
+		]
+	},
+	{
+		"word": "Know",
+		"definitions": [
+			"Have In The Mind; Have Learnt; Be Able To Recall",
+			"Be Aware Of"
+		]
+	},
+	{
+		"word": "Know-all",
+		"definitions": [
+			"Person Who Claims Or Seems To Know Everything"
+		]
+	},
+	{
+		"word": "Know-how",
+		"definitions": [
+			"Practical Knowledge; Natural Skill"
+		]
+	},
+	{
+		"word": "Knowing",
+		"definitions": [
+			"Suggesting That One Has Inside Information",
+			"Showing Knowledge; Shrewd"
+		]
+	},
+	{
+		"word": "Knowingly",
+		"definitions": [
+			"Consciously; Intentionally",
+			"In A Knowing Manner"
+		]
+	},
+	{
+		"word": "Knowledge",
+		"definitions": [
+			"Awareness Or Familiarity",
+			"Sum Of What Is Known"
+		]
+	},
+	{
+		"word": "Knowledgeable",
+		"definitions": [
+			"Well-informed; Intelligent"
+		]
+	},
+	{
+		"word": "Known",
+		"definitions": [
+			"Past Part Of *Know"
+		]
+	},
+	{
+		"word": "Knuckle",
+		"definitions": [
+			"Bone At A Finger-joint",
+			"Strike, Press, Or Rub With The Knuckles"
+		]
+	},
+	{
+		"word": "Knuckleduster",
+		"definitions": [
+			"Metal Guard Worn Over The Knuckles In Fighting"
+		]
+	},
+	{
+		"word": "Knuckle sandwich",
+		"definitions": [
+			"Slang Punch In The Mouth"
+		]
+	},
+	{
+		"word": "Knurl",
+		"definitions": [
+			"Small Projecting Knob, Ridge, Etc"
+		]
+	},
+	{
+		"word": "Ko",
+		"definitions": [
+			"Abbr. Knockout"
+		]
+	},
+	{
+		"word": "Koala",
+		"definitions": [
+			"Small Australian Bearlike Marsupial With Thick Grey Fur"
+		]
+	},
+	{
+		"word": "Kohl",
+		"definitions": [
+			"Black Powder Used As Eye Make-up"
+		]
+	},
+	{
+		"word": "Kohlrabi",
+		"definitions": [
+			"Cabbage With An Edible Turnip-like Swollen Stem"
+		]
+	},
+	{
+		"word": "Kola",
+		"definitions": [
+			"Var. Of *Cola"
+		]
+	},
+	{
+		"word": "Kolkhoz",
+		"definitions": [
+			"Collective Farm In The USSR"
+		]
+	},
+	{
+		"word": "Koodoo",
+		"definitions": [
+			"Var. Of *Kudu"
+		]
+	},
+	{
+		"word": "Kook",
+		"definitions": [
+			"Crazy Or Eccentric Person"
+		]
+	},
+	{
+		"word": "Kookaburra",
+		"definitions": [
+			"Australian Kingfisher With A Strange Laughing Cry"
+		]
+	},
+	{
+		"word": "Kopek",
+		"definitions": [
+			"Var. Of *Kopeck"
+		]
+	},
+	{
+		"word": "Koppie",
+		"definitions": [
+			"Small Hill"
+		]
+	},
+	{
+		"word": "Koran",
+		"definitions": [
+			"Islamic Sacred Book"
+		]
+	},
+	{
+		"word": "Korean",
+		"definitions": [
+			"Native Or National Of N. Or S. Korea",
+			"Language Or Korea"
+		]
+	},
+	{
+		"word": "Kosher",
+		"definitions": [
+			"Of Food Fulfilling The Requirements Of Jewish Law",
+			"Correct, Genuine, Legitimate"
+		]
+	},
+	{
+		"word": "Kowtow",
+		"definitions": [
+			"Act Obsequiously",
+			"Perform The Kowtow"
+		]
+	},
+	{
+		"word": "K.p.h.",
+		"definitions": [
+			"Abbr. Kilometres Per Hour"
+		]
+	},
+	{
+		"word": "Kr",
+		"definitions": [
+			"Symbol For Krypton"
+		]
+	},
+	{
+		"word": "Kraal",
+		"definitions": [
+			"Village Of Huts Enclosed By A Fence",
+			"Enclosure For Cattle Or Sheep"
+		]
+	},
+	{
+		"word": "Kraut",
+		"definitions": [
+			"Slang Offens. German"
+		]
+	},
+	{
+		"word": "Kremlin",
+		"definitions": [
+			"A Citadel In Moscow",
+			"Citadel Within A Russian Town"
+		]
+	},
+	{
+		"word": "Krill",
+		"definitions": [
+			"Tiny Planktonic Crustaceans",
+			"Used As Food By Many Marine Species"
+		]
+	},
+	{
+		"word": "Krona",
+		"definitions": [
+			"Chief Monetary Unit Of Sweden",
+			"Chief Monetary Unit Of Iceland"
+		]
+	},
+	{
+		"word": "Krone",
+		"definitions": [
+			"Chief Monetary Unit Of Denmark And Norway",
+			"Chief Monetary Unit In Scandinavian Countries"
+		]
+	},
+	{
+		"word": "Krugerrand",
+		"definitions": [
+			"South African Gold Coin",
+			"Named After A South African Statesman"
+		]
+	},
+	{
+		"word": "Krummhorn",
+		"definitions": [
+			"Medieval Wind Instrument",
+			"Characterized By A Curved Shape"
+		]
+	},
+	{
+		"word": "Krypton",
+		"definitions": [
+			"Inert Gaseous Element Used In Fluorescent Lamps",
+			"Named After The Greek Word *Krupto* (Hide)"
+		]
+	},
+	{
+		"word": "Kt.",
+		"definitions": [
+			"Abbr. Knight",
+			"Abbr. Knot"
+		]
+	},
+	{
+		"word": "Ku",
+		"definitions": [
+			"Symbol For Kurchatovium"
+		]
+	},
+	{
+		"word": "Kudos",
+		"definitions": [
+			"Glory; Renown",
+			"Often Used In Colloquial Speech"
+		]
+	},
+	{
+		"word": "Kudu",
+		"definitions": [
+			"African Antelope With White Stripes",
+			"Characterized By Corkscrew-shaped Ridged Horns"
+		]
+	},
+	{
+		"word": "Kufic",
+		"definitions": [
+			"Early Angular Form Of The Arabic Alphabet",
+			"Used Especially In Decorative Inscriptions"
+		]
+	},
+	{
+		"word": "Ku Klux Klan",
+		"definitions": [
+			"Secret White Racist Society In The Southern U.S.",
+			"Known For Its History Of Violence And Intimidation"
+		]
+	},
+	{
+		"word": "Kümmel",
+		"definitions": [
+			"Sweet Liqueur Flavored With Caraway And Cumin Seeds",
+			"A Popular German Beverage"
+		]
+	},
+	{
+		"word": "Kumquat",
+		"definitions": [
+			"Small Orange-like Fruit",
+			"Shrub Or Small Tree Yielding This Fruit"
+		]
+	},
+	{
+		"word": "Kung Fu",
+		"definitions": [
+			"Chinese Form Of Karate",
+			"Martial Art Known For Its Combat Techniques"
+		]
+	},
+	{
+		"word": "Kurchatovium",
+		"definitions": [
+			"Another Name For *Rutherfordium*",
+			"Named After A Russian Physicist"
+		]
+	},
+	{
+		"word": "Kv",
+		"definitions": [
+			"Abbr. Kilovolt(s)"
+		]
+	},
+	{
+		"word": "Kw",
+		"definitions": [
+			"Abbr. Kilowatt(s)"
+		]
+	},
+	{
+		"word": "Kwh",
+		"definitions": [
+			"Abbr. Kilowatt-hour(s)"
+		]
+	},
+	{
+		"word": "Kyle",
+		"definitions": [
+			"Narrow Channel Or Strait",
+			"Found In Scotland"
 		]
 	}
 ]
