@@ -1,9 +1,952 @@
 [
 	{
-		"word": "<word>",
+		"word": "Y1",
 		"definitions": [
-			"<definition1>",
-			"<definition2>"
+			"Twenty-fifth letter of the alphabet",
+			"Algebra second unknown quantity",
+			"Y-shaped thing"
+		]
+	},
+	{
+		"word": "Y2",
+		"definitions": [
+			"Symb. Yttrium"
+		]
+	},
+	{
+		"word": "y1",
+		"definitions": [
+			"Suffix forming adjectives meaning \"full of\" or \"having the quality of\" (messy)",
+			"Suffix forming adjectives meaning \"addicted to\" (boozy)",
+			"Suffix forming adjectives meaning \"inclined to\", \"apt to\" (sticky)"
+		]
+	},
+	{
+		"word": "y2",
+		"definitions": [
+			"Suffix forming diminutive nouns, pet names, etc. (granny; sally; nightie)"
+		]
+	},
+	{
+		"word": "y3",
+		"definitions": [
+			"Suffix forming nouns denoting state, condition, or quality (orthodoxy)"
+		]
+	},
+	{
+		"word": "Yacht",
+		"definitions": [
+			"Light sailing-vessel",
+			"Larger usu. power-driven vessel for cruising",
+			"Race or cruise in a yacht"
+		]
+	},
+	{
+		"word": "Yachtsman",
+		"definitions": [
+			"Person who sails yachts"
+		]
+	},
+	{
+		"word": "Yack",
+		"definitions": [
+			"Trivial or unduly persistent conversation",
+			"Engage in this"
+		]
+	},
+	{
+		"word": "Yah",
+		"definitions": [
+			"Expressing derision or defiance"
+		]
+	},
+	{
+		"word": "Yahoo",
+		"definitions": [
+			"Bestial person"
+		]
+	},
+	{
+		"word": "Yahweh",
+		"definitions": [
+			"= *Jehovah"
+		]
+	},
+	{
+		"word": "Yak",
+		"definitions": [
+			"Long-haired Tibetan ox"
+		]
+	},
+	{
+		"word": "Yale lock",
+		"definitions": [
+			"Type of lock with a revolving barrel, used for doors etc."
+		]
+	},
+	{
+		"word": "Yam",
+		"definitions": [
+			"Tropical or subtropical climbing plant",
+			"Edible starchy tuber of this",
+			"US sweet potato"
+		]
+	},
+	{
+		"word": "Yammer",
+		"definitions": [
+			"Lament, wail, grumble",
+			"Voluble talk",
+			"Utter a yammer"
+		]
+	},
+	{
+		"word": "Yang",
+		"definitions": [
+			"The active male principle of the universe (in Chinese philosophy)"
+		]
+	},
+	{
+		"word": "Yank",
+		"definitions": [
+			"Colloq. Often derog. American",
+			"Pull with a jerk"
+		]
+	},
+	{
+		"word": "Yankee",
+		"definitions": [
+			"Colloq. US inhabitant of New England or of the northern states",
+			"Often derog. = *Yank"
+		]
+	},
+	{
+		"word": "Yap",
+		"definitions": [
+			"Bark shrilly or fussily",
+			"Colloq. Talk noisily, foolishly, or complainingly",
+			"Sound of yapping"
+		]
+	},
+	{
+		"word": "Yarborough",
+		"definitions": [
+			"Whist or bridge hand with no card above a 9"
+		]
+	},
+	{
+		"word": "Yard1",
+		"definitions": [
+			"Unit of linear measure (3 ft., 0.9144 metre)",
+			"This length of material",
+			"Square or cubic yard",
+			"Spar slung across a mast for a sail to hang from",
+			"(in pl.; foll. by of) Colloq. A great length"
+		]
+	},
+	{
+		"word": "Yard2",
+		"definitions": [
+			"Piece of enclosed ground, esp. attached to a building or used for a particular purpose",
+			"US & Austral. Garden of a house"
+		]
+	},
+	{
+		"word": "Yardage",
+		"definitions": [
+			"Number of yards of material etc."
+		]
+	},
+	{
+		"word": "Yard-arm",
+		"definitions": [
+			"Either end of a ship's yard"
+		]
+	},
+	{
+		"word": "Yardie",
+		"definitions": [
+			"Slang member of a Jamaican or W. Indian gang engaging in organized crime, esp. drug-trafficking"
+		]
+	},
+	{
+		"word": "Yardstick",
+		"definitions": [
+			"Standard of comparison",
+			"Measuring rod a yard long, usu. divided into inches etc."
+		]
+	},
+	{
+		"word": "Yarmulke",
+		"definitions": [
+			"Skullcap worn by Jewish men"
+		]
+	},
+	{
+		"word": "Yarn",
+		"definitions": [
+			"Spun thread, esp. for knitting, weaving, etc.",
+			"Colloq. Story, traveller's tale, anecdote",
+			"Tell yarns"
+		]
+	},
+	{
+		"word": "Yarrow",
+		"definitions": [
+			"Perennial plant, esp. Milfoil"
+		]
+	},
+	{
+		"word": "Yashmak",
+		"definitions": [
+			"Veil concealing the face except the eyes, worn by some Muslim women"
+		]
+	},
+	{
+		"word": "Yaw",
+		"definitions": [
+			"(of a ship or aircraft etc.) Fail to hold a straight course; go unsteadily",
+			"Yawing of a ship etc. from its course"
+		]
+	},
+	{
+		"word": "Yawl",
+		"definitions": [
+			"A kind of ship's boat or sailing- or fishing-boat"
+		]
+	},
+	{
+		"word": "Yawn",
+		"definitions": [
+			"Open the mouth wide and inhale, esp. when sleepy or bored",
+			"Gape, be wide open",
+			"Act of yawning",
+			"Colloq. Boring idea, activity, etc."
+		]
+	},
+	{
+		"word": "Yaws",
+		"definitions": [
+			"Contagious tropical skin-disease with large red swellings"
+		]
+	},
+	{
+		"word": "Yb",
+		"definitions": [
+			"Symb. Ytterbium"
+		]
+	},
+	{
+		"word": "Y chromosome",
+		"definitions": [
+			"Sex chromosome occurring only in male cells"
+		]
+	},
+	{
+		"word": "Yd",
+		"definitions": [
+			"Abbr. Yard (measure)"
+		]
+	},
+	{
+		"word": "Ye1",
+		"definitions": [
+			"Archaic pl. of *thou1 (ye gods!)"
+		]
+	},
+	{
+		"word": "Ye2",
+		"definitions": [
+			"Pseudo-archaic = *the (ye olde tea-shoppe)"
+		]
+	},
+	{
+		"word": "Yea",
+		"definitions": [
+			"Archaic \"yes\"",
+			"Indeed (ready, yea eager)",
+			"Utterance of ‘yea’; ‘yes’ vote"
+		]
+	},
+	{
+		"word": "Yeah",
+		"definitions": [
+			"Colloq. Yes"
+		]
+	},
+	{
+		"word": "Year",
+		"definitions": [
+			"Time occupied by the earth in one revolution round the sun, approx. 3651/4 days",
+			"Calendar year",
+			"Period of twelve months, starting at any point",
+			"Age, time of life",
+			"Colloq. Very long time",
+			"Group of students entering college etc. in the same academic year"
+		]
+	},
+	{
+		"word": "Yearbook",
+		"definitions": [
+			"Annual publication dealing with events or aspects of the (usu. preceding) year"
+		]
+	},
+	{
+		"word": "Yearling",
+		"definitions": [
+			"Animal between one and two years old"
+		]
+	},
+	{
+		"word": "Yearly",
+		"definitions": [
+			"Done, produced, or occurring once a year",
+			"Of or lasting a year",
+			"Once a year"
+		]
+	},
+	{
+		"word": "Yearn",
+		"definitions": [
+			"Be filled with longing, compassion, or tenderness",
+			"Yearning (n. & adj.)"
+		]
+	},
+	{
+		"word": "Yeast",
+		"definitions": [
+			"Greyish-yellow fungus obtained esp. from fermenting malt liquors and used as a fermenting agent",
+			"Used to raise bread etc."
+		]
+	},
+	{
+		"word": "Yeasty",
+		"definitions": [
+			"Of, like, or tasting of yeast; frothy",
+			"In a ferment",
+			"Working like yeast",
+			"(of talk etc.) Light and superficial"
+		]
+	},
+	{
+		"word": "Yell",
+		"definitions": [
+			"Loud sharp cry; shout",
+			"Cry, shout"
+		]
+	},
+	{
+		"word": "Yellow",
+		"definitions": [
+			"Of the colour of buttercups, lemons, egg-yolks, etc.",
+			"Having a yellow skin or complexion",
+			"Colloq. Cowardly",
+			"Yellow colour or pigment",
+			"Yellow clothes or material",
+			"Turn yellow"
+		]
+	},
+	{
+		"word": "Yellow-belly",
+		"definitions": [
+			"Colloq. Coward"
+		]
+	},
+	{
+		"word": "Yellow card",
+		"definitions": [
+			"Card shown by the referee to a football-player being cautioned"
+		]
+	},
+	{
+		"word": "Yellow fever",
+		"definitions": [
+			"Tropical virus disease with fever and jaundice"
+		]
+	},
+	{
+		"word": "Yellow flag",
+		"definitions": [
+			"Flag displayed by a ship in quarantine"
+		]
+	},
+	{
+		"word": "Yellowhammer",
+		"definitions": [
+			"Bunting of which the male has a yellow head, neck, and breast"
+		]
+	},
+	{
+		"word": "Yellow pages",
+		"definitions": [
+			"Telephone directory on yellow paper, listing and classifying business subscribers"
+		]
+	},
+	{
+		"word": "Yellow pepper",
+		"definitions": [
+			"Ripe yellow fruit of the capsicum plant"
+		]
+	},
+	{
+		"word": "Yellow spot",
+		"definitions": [
+			"Point of acutest vision in the retina"
+		]
+	},
+	{
+		"word": "Yellow streak",
+		"definitions": [
+			"Colloq. Trait of cowardice"
+		]
+	},
+	{
+		"word": "Yelp",
+		"definitions": [
+			"Sharp shrill cry as of a dog in pain or excitement",
+			"Utter a yelp"
+		]
+	},
+	{
+		"word": "Yen1",
+		"definitions": [
+			"Chief monetary unit of Japan"
+		]
+	},
+	{
+		"word": "Yen2",
+		"definitions": [
+			"Longing or yearning",
+			"Feel a longing"
+		]
+	},
+	{
+		"word": "Yeoman",
+		"definitions": [
+			"Man holding and cultivating a small landed estate",
+			"Member of the yeomanry force",
+			"Yeomanly (adj.)"
+		]
+	},
+	{
+		"word": "Yeoman of the guard",
+		"definitions": [
+			"Member of the sovereign's bodyguard"
+		]
+	},
+	{
+		"word": "Yeomanry",
+		"definitions": [
+			"Body or class of yeomen",
+			"Hist. Volunteer cavalry force raised from the yeoman class"
+		]
+	},
+	{
+		"word": "Yeoman warder",
+		"definitions": [
+			"(Correct term for) a \"beefeater\" at the Tower of London"
+		]
+	},
+	{
+		"word": "Yep",
+		"definitions": [
+			"US colloq. = *yes"
+		]
+	},
+	{
+		"word": "Yes",
+		"definitions": [
+			"Indicating that the answer to the question is affirmative, the statement etc. made is correct, the request or command will be complied with, or the person summoned or addressed is present",
+			"Affirmation or assent",
+			"‘Yes’ vote"
+		]
+	},
+	{
+		"word": "Yes-man",
+		"definitions": [
+			"Colloq. Weakly acquiescent person"
+		]
+	},
+	{
+		"word": "Yesterday",
+		"definitions": [
+			"On the day before today",
+			"In the recent past",
+			"The day before today",
+			"The recent past"
+		]
+	},
+	{
+		"word": "Yesteryear",
+		"definitions": [
+			"Archaic or rhet. Last year",
+			"The recent past"
+		]
+	},
+	{
+		"word": "Yet",
+		"definitions": [
+			"As late as, or until, now or then",
+			"So soon as, or by, now or then",
+			"Again; in addition",
+			"In the remaining time available",
+			"Even (a yet more difficult task)",
+			"Nevertheless; and or but in spite of that",
+			"But at the same time; but nevertheless"
+		]
+	},
+	{
+		"word": "Yeti",
+		"definitions": [
+			"= *Abominable snowman"
+		]
+	},
+	{
+		"word": "Yew",
+		"definitions": [
+			"Dark-leaved evergreen tree bearing berry-like cones",
+			"Its wood"
+		]
+	},
+	{
+		"word": "Y-fronts",
+		"definitions": [
+			"Men's or boys' briefs with a Y-shaped seam at the front"
+		]
+	},
+	{
+		"word": "Yha",
+		"definitions": [
+			"Abbr. Youth Hostels Association"
+		]
+	},
+	{
+		"word": "Yid",
+		"definitions": [
+			"Slang offens. Jew"
+		]
+	},
+	{
+		"word": "Yiddish",
+		"definitions": [
+			"Language used by Jews in or from Europe, orig. a German dialect with words from Hebrew etc.",
+			"Of this language"
+		]
+	},
+	{
+		"word": "Yield",
+		"definitions": [
+			"Produce or return as a fruit, profit, or result",
+			"Give up; surrender, concede",
+			"Surrender; submit; defer to",
+			"(as yielding adj.) Compliant; submissive; soft and pliable",
+			"Give right of way to (other traffic)"
+		]
+	},
+	{
+		"word": "Yin",
+		"definitions": [
+			"(in Chinese philosophy) The passive female principle of the universe"
+		]
+	},
+	{
+		"word": "Yippee",
+		"definitions": [
+			"Expressing delight or excitement"
+		]
+	},
+	{
+		"word": "Ymca",
+		"definitions": [
+			"Abbr. Young Men's Christian Association"
+		]
+	},
+	{
+		"word": "Yob",
+		"definitions": [
+			"Slang lout, hooligan",
+			"Yobbish (adj.)"
+		]
+	},
+	{
+		"word": "Yobbo",
+		"definitions": [
+			"Slang = *yob"
+		]
+	},
+	{
+		"word": "Yodel",
+		"definitions": [
+			"Sing with melodious inarticulate sounds and frequent changes between falsetto and normal voice in the manner of Swiss mountain-dwellers",
+			"Yodelling cry",
+			"Yodeller (n.)"
+		]
+	},
+	{
+		"word": "Yoga",
+		"definitions": [
+			"Hindu system of meditation and asceticism designed to effect reunion with the universal spirit",
+			"System of physical exercises and breathing control used in yoga"
+		]
+	},
+	{
+		"word": "Yoghurt",
+		"definitions": [
+			"Semi-solid sourish food made from milk fermented by added bacteria"
+		]
+	},
+	{
+		"word": "Yogi",
+		"definitions": [
+			"Devotee of yoga",
+			"Yogi (pl.)"
+		]
+	},
+	{
+		"word": "Yoicks",
+		"definitions": [
+			"Cry used by fox-hunters to urge on the hounds"
+		]
+	},
+	{
+		"word": "Yoke",
+		"definitions": [
+			"Wooden crosspiece fastened over the necks of two oxen etc. and attached to the plough or wagon to be pulled",
+			"(pl. Same or -s) Pair (of oxen etc.)",
+			"Object like a yoke in form or function, e.g. a wooden shoulder-piece for carrying a pair of pails",
+			"Sway, dominion, or servitude",
+			"Bond of union, esp. of marriage",
+			"Put a yoke on",
+			"Couple or unite (a pair)",
+			"Link (one thing) to (another)",
+			"Match or work together"
+		]
+	},
+	{
+		"word": "Yokel",
+		"definitions": [
+			"Rustic; country bumpkin"
+		]
+	},
+	{
+		"word": "Yolk",
+		"definitions": [
+			"Yellow inner part of an egg"
+		]
+	},
+	{
+		"word": "Yom Kippur",
+		"definitions": [
+			"Most solemn religious fast day of the Jewish year, day of atonement"
+		]
+	},
+	{
+		"word": "Yon",
+		"definitions": [
+			"Literary & dial. Yonder"
+		]
+	},
+	{
+		"word": "Yonder",
+		"definitions": [
+			"Over there; at some distance in that direction; in the place indicated",
+			"Situated yonder"
+		]
+	},
+	{
+		"word": "Yonks",
+		"definitions": [
+			"Slang a long time (yonks ago)"
+		]
+	},
+	{
+		"word": "Yoo-hoo",
+		"definitions": [
+			"Used to attract a person's attention"
+		]
+	},
+	{
+		"word": "Yore",
+		"definitions": [
+			"Of yore, a long time ago"
+		]
+	},
+	{
+		"word": "York",
+		"definitions": [
+			"Cricket bowl out with a yorker"
+		]
+	},
+	{
+		"word": "Yorker",
+		"definitions": [
+			"Cricket ball that pitches immediately under the bat"
+		]
+	},
+	{
+		"word": "Yorkist",
+		"definitions": [
+			"Follower of the house of York, esp. in the Wars of the Roses",
+			"Of the house of York"
+		]
+	},
+	{
+		"word": "Yorkshire pudding",
+		"definitions": [
+			"Baked batter eaten with roast beef"
+		]
+	},
+	{
+		"word": "Yorkshire terrier",
+		"definitions": [
+			"Small long-haired blue and tan kind of terrier"
+		]
+	},
+	{
+		"word": "You",
+		"definitions": [
+			"The person or persons addressed",
+			"(as int. with a noun) In an exclamatory statement (you fools!)",
+			"(in general statements) One, a person, people (you get used to it)",
+			"You and yours, you and your family, property, etc."
+		]
+	},
+	{
+		"word": "You'd",
+		"definitions": [
+			"You had",
+			"You would"
+		]
+	},
+	{
+		"word": "You'll",
+		"definitions": [
+			"You will; you shall"
+		]
+	},
+	{
+		"word": "Young",
+		"definitions": [
+			"Not far advanced in life, development, or existence; not yet old",
+			"Immature, inexperienced",
+			"Of or characteristic of youth (young love)",
+			"Representing young people (young farmers)",
+			"A distinguishing a son from his father (young George)",
+			"As a familiar or condescending form of address (listen, young lady)",
+			"(younger) Distinguishing one person from another of the same name (the younger Pitt)",
+			"Offspring, esp. of animals",
+			"Youngish (adj.)"
+		]
+	},
+	{
+		"word": "Young person",
+		"definitions": [
+			"Law person aged between 14 and 17 years"
+		]
+	},
+	{
+		"word": "Youngster",
+		"definitions": [
+			"Child, young person"
+		]
+	},
+	{
+		"word": "Your",
+		"definitions": [
+			"Of or belonging to you",
+			"Colloq. Often derog. Much talked of; well known (your typical professor)"
+		]
+	},
+	{
+		"word": "You're",
+		"definitions": [
+			"You are"
+		]
+	},
+	{
+		"word": "Yours",
+		"definitions": [
+			"The one or ones belonging to you (it is yours; yours are over there)",
+			"Your letter (yours of the 10th)",
+			"Introducing a formula ending a letter (yours ever; yours truly)",
+			"Of yours of or belonging to you (friend of yours)"
+		]
+	},
+	{
+		"word": "Yourself",
+		"definitions": [
+			"A emphat. Form of *you",
+			"In your normal state of body or mind (are quite yourself again)"
+		]
+	},
+	{
+		"word": "Youth",
+		"definitions": [
+			"Being young; period between childhood and adult age",
+			"Vigour, enthusiasm, inexperience, or other characteristic of this period",
+			"Young man",
+			"(as pl.) Young people collectively (the youth of the country)"
+		]
+	},
+	{
+		"word": "Youth club",
+		"definitions": [
+			"Place for young people's leisure activities"
+		]
+	},
+	{
+		"word": "Youthful",
+		"definitions": [
+			"Young or still having the characteristics of youth",
+			"Youthfully (adv.)",
+			"Youthfulness (n.)"
+		]
+	},
+	{
+		"word": "Youth hostel",
+		"definitions": [
+			"Any of a chain of cheap lodgings for holiday-makers, esp. walkers and cyclists"
+		]
+	},
+	{
+		"word": "You've",
+		"definitions": [
+			"You have"
+		]
+	},
+	{
+		"word": "Yowl",
+		"definitions": [
+			"Loud wailing cry of or as of a cat or dog in distress",
+			"Utter a yowl"
+		]
+	},
+	{
+		"word": "Yo-yo",
+		"definitions": [
+			"Toy consisting of a pair of discs with a deep groove between them in which string is attached and wound, and which can be made to fall and rise",
+			"Thing that repeatedly falls and rises"
+		]
+	},
+	{
+		"word": "Yr.",
+		"definitions": [
+			"Abbr. 1 year(s)",
+			"Abbr. 2 younger",
+			"Abbr. 3 your"
+		]
+	},
+	{
+		"word": "Yrs.",
+		"definitions": [
+			"Abbr. 1 years",
+			"Abbr. 2 yours"
+		]
+	},
+	{
+		"word": "Yts",
+		"definitions": [
+			"Abbr. Youth training scheme"
+		]
+	},
+	{
+		"word": "Ytterbium",
+		"definitions": [
+			"Metallic element of the lanthanide series"
+		]
+	},
+	{
+		"word": "Yttrium",
+		"definitions": [
+			"Metallic element resembling the lanthanides"
+		]
+	},
+	{
+		"word": "Yuan",
+		"definitions": [
+			"Chief monetary unit of China"
+		]
+	},
+	{
+		"word": "Yucca",
+		"definitions": [
+			"Subtropical white-flowered plant with swordlike leaves, often grown as a house-plant"
+		]
+	},
+	{
+		"word": "Yuck",
+		"definitions": [
+			"Slang expression of strong distaste"
+		]
+	},
+	{
+		"word": "Yucky",
+		"definitions": [
+			"Slang 1 messy, repellent",
+			"Slang 2 sickly, sentimental"
+		]
+	},
+	{
+		"word": "Yugoslav",
+		"definitions": [
+			"Native or national of Yugoslavia",
+			"Person of Yugoslav descent",
+			"Of Yugoslavia"
+		]
+	},
+	{
+		"word": "Yuk",
+		"definitions": [
+			"Var. of *yuck"
+		]
+	},
+	{
+		"word": "Yukky",
+		"definitions": [
+			"Var. of *yucky"
+		]
+	},
+	{
+		"word": "Yule",
+		"definitions": [
+			"Archaic the Christmas festival"
+		]
+	},
+	{
+		"word": "Yule-log",
+		"definitions": [
+			"Large log traditionally burnt on Christmas Eve",
+			"Log-shaped chocolate cake eaten at Christmas"
+		]
+	},
+	{
+		"word": "Yummy",
+		"definitions": [
+			"Colloq. Tasty, delicious"
+		]
+	},
+	{
+		"word": "Yum-yum",
+		"definitions": [
+			"Expressing pleasure from eating or the prospect of eating"
+		]
+	},
+	{
+		"word": "Yup",
+		"definitions": [
+			"Var. of *yep"
+		]
+	},
+	{
+		"word": "Yuppie",
+		"definitions": [
+			"Colloq., usu. derog. Young ambitious professional person working in a city"
+		]
+	},
+	{
+		"word": "Ywca",
+		"definitions": [
+			"Abbr. Young Women's Christian Association"
 		]
 	}
 ]
