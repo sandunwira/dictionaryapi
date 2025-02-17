@@ -1,9 +1,3531 @@
 [
 	{
-		"word": "<word>",
+		"word": "V1",
 		"definitions": [
-			"<definition1>",
-			"<definition2>"
+			"Twenty-second letter of the alphabet",
+			"V-shaped thing",
+			"As a Roman numeral, 5"
+		]
+	},
+	{
+		"word": "V2",
+		"definitions": [
+			"Volt(s)"
+		]
+	},
+	{
+		"word": "V3",
+		"definitions": [
+			"Vanadium"
+		]
+	},
+	{
+		"word": "V.",
+		"definitions": [
+			"Verse",
+			"Versus",
+			"Very",
+			"Vide"
+		]
+	},
+	{
+		"word": "Vac",
+		"definitions": [
+			"Vacation",
+			"Vacuum cleaner"
+		]
+	},
+	{
+		"word": "Vacancy",
+		"definitions": [
+			"Being vacant",
+			"Unoccupied job",
+			"Available room in a hotel"
+		]
+	},
+	{
+		"word": "Vacant",
+		"definitions": [
+			"Not filled or occupied",
+			"Not mentally active; showing no interest"
+		]
+	},
+	{
+		"word": "Vacant possession",
+		"definitions": [
+			"Ownership of an unoccupied house"
+		]
+	},
+	{
+		"word": "Vacate",
+		"definitions": [
+			"Leave vacant, cease to occupy (a house, post, etc.)"
+		]
+	},
+	{
+		"word": "Vacation",
+		"definitions": [
+			"Fixed holiday period, especially in universities and law courts",
+			"US: Holiday",
+			"Vacating or being vacated"
+		]
+	},
+	{
+		"word": "Vaccinate",
+		"definitions": [
+			"Inoculate with a vaccine to immunize against a disease"
+		]
+	},
+	{
+		"word": "Vaccine",
+		"definitions": [
+			"Preparation, originally cowpox virus, used in vaccination"
+		]
+	},
+	{
+		"word": "Vacillate",
+		"definitions": [
+			"Be irresolute; fluctuate"
+		]
+	},
+	{
+		"word": "Vacuole",
+		"definitions": [
+			"Tiny space in an organ or cell, containing air, fluid, etc."
+		]
+	},
+	{
+		"word": "Vacuous",
+		"definitions": [
+			"Expressionless",
+			"Showing absence of thought or intelligence, inane"
+		]
+	},
+	{
+		"word": "Vacuum",
+		"definitions": [
+			"Space entirely devoid of matter",
+			"Space or vessel from which all or some of the air has been pumped out",
+			"Absence of the normal or previous content, activities, etc.",
+			"Vacuum cleaner"
+		]
+	},
+	{
+		"word": "Vacuum brake",
+		"definitions": [
+			"Brake worked by the exhaustion of air"
+		]
+	},
+	{
+		"word": "Vacuum cleaner",
+		"definitions": [
+			"Machine for removing dust by suction"
+		]
+	},
+	{
+		"word": "Vacuum flask",
+		"definitions": [
+			"Vessel with a double wall enclosing a vacuum, ensuring contents remain hot or cold"
+		]
+	},
+	{
+		"word": "Vacuum-packed",
+		"definitions": [
+			"Sealed after the partial removal of air"
+		]
+	},
+	{
+		"word": "Vacuum tube",
+		"definitions": [
+			"Tube with a near-vacuum for the free passage of electric current"
+		]
+	},
+	{
+		"word": "Vade-mecum",
+		"definitions": [
+			"Handbook used constantly"
+		]
+	},
+	{
+		"word": "Vagabond",
+		"definitions": [
+			"Wanderer, especially an idle one",
+			"Wandering, roving"
+		]
+	},
+	{
+		"word": "Vagary",
+		"definitions": [
+			"Caprice, whim"
+		]
+	},
+	{
+		"word": "Vagina",
+		"definitions": [
+			"Canal from the uterus to the vulva in female mammals"
+		]
+	},
+	{
+		"word": "Vagrant",
+		"definitions": [
+			"Unemployed itinerant",
+			"Wandering, roving"
+		]
+	},
+	{
+		"word": "Vague",
+		"definitions": [
+			"Uncertain or ill-defined",
+			"(Of a person or mind) imprecise; inexact in thought, expression, or understanding"
+		]
+	},
+	{
+		"word": "Vain",
+		"definitions": [
+			"Having too high an opinion of one's looks, abilities, etc.",
+			"Empty, trivial",
+			"Useless; futile"
+		]
+	},
+	{
+		"word": "Vainglory",
+		"definitions": [
+			"Boastfulness; extreme vanity"
+		]
+	},
+	{
+		"word": "Valance",
+		"definitions": [
+			"Short curtain around the frame or canopy of a bedstead, above a window, etc."
+		]
+	},
+	{
+		"word": "Vale",
+		"definitions": [
+			"(Archaic except in place-names) Valley"
+		]
+	},
+	{
+		"word": "Valediction",
+		"definitions": [
+			"Formal bidding farewell",
+			"Words used in bidding farewell"
+		]
+	},
+	{
+		"word": "Valence1",
+		"definitions": [
+			"Combining power of an atom measured by the number of hydrogen atoms it can displace or combine with"
+		]
+	},
+	{
+		"word": "Valence2",
+		"definitions": [
+			"Variant of *valance"
+		]
+	},
+	{
+		"word": "Valency",
+		"definitions": [
+			"Combining power of an atom measured by the number of hydrogen atoms it can displace or combine with"
+		]
+	},
+	{
+		"word": "Valentine",
+		"definitions": [
+			"Card sent, often anonymously, as a mark of love on St. Valentine's Day",
+			"Sweetheart chosen on this day"
+		]
+	},
+	{
+		"word": "Valerian",
+		"definitions": [
+			"Any of various flowering herbs, especially used as a sedative"
+		]
+	},
+	{
+		"word": "Valet",
+		"definitions": [
+			"Gentleman's personal servant",
+			"Clean or clean out (a car)"
+		]
+	},
+	{
+		"word": "Valetudinarian",
+		"definitions": [
+			"Person of poor health or who is unduly anxious about health",
+			"Of a valetudinarian"
+		]
+	},
+	{
+		"word": "Valiant",
+		"definitions": [
+			"Brave"
+		]
+	},
+	{
+		"word": "Valid",
+		"definitions": [
+			"(Of a reason, objection, etc.) Sound, defensible",
+			"Executed with the proper formalities, legally acceptable"
+		]
+	},
+	{
+		"word": "Validate",
+		"definitions": [
+			"Make valid; ratify"
+		]
+	},
+	{
+		"word": "Valise",
+		"definitions": [
+			"Small portmanteau"
+		]
+	},
+	{
+		"word": "Valium",
+		"definitions": [
+			"Drug diazepam used as a tranquillizer"
+		]
+	},
+	{
+		"word": "Valley",
+		"definitions": [
+			"Low area between hills, usually with a stream or river flowing through it"
+		]
+	},
+	{
+		"word": "Valor",
+		"definitions": [
+			"Courage, especially in battle"
+		]
+	},
+	{
+		"word": "Valour",
+		"definitions": [
+			"Courage, especially in battle"
+		]
+	},
+	{
+		"word": "Valuable",
+		"definitions": [
+			"Of great value, price, or worth",
+			"Valuable thing"
+		]
+	},
+	{
+		"word": "Valuation",
+		"definitions": [
+			"Estimation (especially professional) of a thing's worth",
+			"Worth so estimated"
+		]
+	},
+	{
+		"word": "Value",
+		"definitions": [
+			"Worth, desirability, or utility, or the qualities on which these depend",
+			"Worth as estimated"
+		]
+	},
+	{
+		"word": "Value added tax",
+		"definitions": [
+			"Tax levied on the rise in value of services and goods at each stage of production"
+		]
+	},
+	{
+		"word": "Value judgement",
+		"definitions": [
+			"Subjective estimate of worth"
+		]
+	},
+	{
+		"word": "Valve",
+		"definitions": [
+			"Device controlling flow through a pipe, especially allowing movement in one direction only",
+			"Structure in an organ allowing a flow of blood in one direction only"
+		]
+	},
+	{
+		"word": "Vamoose",
+		"definitions": [
+			"Depart hurriedly"
+		]
+	},
+	{
+		"word": "Vamp1",
+		"definitions": [
+			"Upper front part of a boot or shoe",
+			"Repair or furbish"
+		]
+	},
+	{
+		"word": "Vamp2",
+		"definitions": [
+			"Woman who uses sexual attraction to exploit men",
+			"Allure and exploit (a man)"
+		]
+	},
+	{
+		"word": "Vampire",
+		"definitions": [
+			"Supposed ghost or reanimated corpse sucking the blood of sleeping persons",
+			"Person who preys ruthlessly on others"
+		]
+	},
+	{
+		"word": "Van1",
+		"definitions": [
+			"Small covered goods vehicle",
+			"Railway carriage for luggage and the guard"
+		]
+	},
+	{
+		"word": "Van2",
+		"definitions": [
+			"Vanguard, forefront"
+		]
+	},
+	{
+		"word": "Vanadium",
+		"definitions": [
+			"Hard grey metallic element used to strengthen steel"
+		]
+	},
+	{
+		"word": "Vandal",
+		"definitions": [
+			"Person who willfully or maliciously damages property",
+			"Vandalism"
+		]
+	},
+	{
+		"word": "Vandalize",
+		"definitions": [
+			"Willfully or maliciously destroy or damage (especially public property)"
+		]
+	},
+	{
+		"word": "Vane",
+		"definitions": [
+			"Weather-vane",
+			"Blade of a screw propeller or windmill"
+		]
+	},
+	{
+		"word": "Vanguard",
+		"definitions": [
+			"Foremost part of an advancing army",
+			"Leaders of a movement"
+		]
+	},
+	{
+		"word": "Vanilla",
+		"definitions": [
+			"A tropical fragrant climbing orchid",
+			"Extract from the vanilla-pod, or a synthetic substance used as flavoring"
+		]
+	},
+	{
+		"word": "Vanish",
+		"definitions": [
+			"Disappear",
+			"Cease to exist"
+		]
+	},
+	{
+		"word": "Vanishing cream",
+		"definitions": [
+			"Skin ointment that leaves no visible trace"
+		]
+	},
+	{
+		"word": "Vanishing-point",
+		"definitions": [
+			"Point at which receding parallel lines appear to meet",
+			"Stage of complete disappearance"
+		]
+	},
+	{
+		"word": "Vanity",
+		"definitions": [
+			"Conceit about one's appearance or attainments",
+			"Futility, unsubstantiality, unreal thing"
+		]
+	},
+	{
+		"word": "Vanity bag",
+		"definitions": [
+			"Woman's make-up bag or case"
+		]
+	},
+	{
+		"word": "Vanity unit",
+		"definitions": [
+			"Wash-basin set into a unit with cupboards beneath"
+		]
+	},
+	{
+		"word": "Vanquish",
+		"definitions": [
+			"Conquer, overcome"
+		]
+	},
+	{
+		"word": "Vantage",
+		"definitions": [
+			"Place giving a good view",
+			"Tennis: Advantage"
+		]
+	},
+	{
+		"word": "Vapid",
+		"definitions": [
+			"Insipid; dull; flat"
+		]
+	},
+	{
+		"word": "Vapor",
+		"definitions": [
+			"Moisture or other substance diffused or suspended in air",
+			"Gaseous form of a substance"
+		]
+	},
+	{
+		"word": "Vaporize",
+		"definitions": [
+			"Change into vapour"
+		]
+	},
+	{
+		"word": "Vapour",
+		"definitions": [
+			"Moisture or other substance diffused or suspended in air",
+			"Gaseous form of a substance"
+		]
+	},
+	{
+		"word": "Vapour trail",
+		"definitions": [
+			"Trail of condensed water from an aircraft"
+		]
+	},
+	{
+		"word": "Variable",
+		"definitions": [
+			"Changeable, adaptable",
+			"(Of a quantity) Indeterminate; able to assume different numerical values"
+		]
+	},
+	{
+		"word": "Variance",
+		"definitions": [
+			"Difference of opinion; dispute",
+			"Discrepancy"
+		]
+	},
+	{
+		"word": "Variant",
+		"definitions": [
+			"Differing in form or details from a standard",
+			"Variant form, spelling, type, etc."
+		]
+	},
+	{
+		"word": "Variation",
+		"definitions": [
+			"Varying",
+			"Departure from the normal kind, amount, a standard"
+		]
+	},
+	{
+		"word": "Varicolored",
+		"definitions": [
+			"Variegated in colour",
+			"Of various colours"
+		]
+	},
+	{
+		"word": "Varicoloured",
+		"definitions": [
+			"Variegated in colour",
+			"Of various colours"
+		]
+	},
+	{
+		"word": "Varicose",
+		"definitions": [
+			"(Especially of a vein) Permanently and abnormally dilated"
+		]
+	},
+	{
+		"word": "Varied",
+		"definitions": [
+			"Showing variety"
+		]
+	},
+	{
+		"word": "Variegated",
+		"definitions": [
+			"With irregular patches of different colours",
+			"Having leaves of two or more colours"
+		]
+	},
+	{
+		"word": "Variety",
+		"definitions": [
+			"Diversity; absence of uniformity; many-sidedness",
+			"Quantity or collection of different things"
+		]
+	},
+	{
+		"word": "Various",
+		"definitions": [
+			"Different, diverse",
+			"Several"
+		]
+	},
+	{
+		"word": "Varlet",
+		"definitions": [
+			"Archaic menial; rascal"
+		]
+	},
+	{
+		"word": "Varnish",
+		"definitions": [
+			"Resinous solution used to give a hard shiny transparent coating",
+			"Deceptive outward appearance or show"
+		]
+	},
+	{
+		"word": "Varsity",
+		"definitions": [
+			"(Especially with reference to sports) University"
+		]
+	},
+	{
+		"word": "Vary",
+		"definitions": [
+			"Be or become different; be of different kinds; change",
+			"Make different; modify"
+		]
+	},
+	{
+		"word": "Vas",
+		"definitions": [
+			"Vessel or duct"
+		]
+	},
+	{
+		"word": "Vascular",
+		"definitions": [
+			"Of or containing vessels for conveying blood, sap, etc."
+		]
+	},
+	{
+		"word": "Vas deferens",
+		"definitions": [
+			"Sperm duct of the testicle"
+		]
+	},
+	{
+		"word": "Vase",
+		"definitions": [
+			"Vessel used as an ornament or container for flowers"
+		]
+	},
+	{
+		"word": "Vasectomy",
+		"definitions": [
+			"Removal of part of each vas deferens, especially for sterilization"
+		]
+	},
+	{
+		"word": "Vaseline",
+		"definitions": [
+			"Type of petroleum jelly used as an ointment"
+		]
+	},
+	{
+		"word": "Vassal",
+		"definitions": [
+			"Feudal tenant of land",
+			"Humble dependant"
+		]
+	},
+	{
+		"word": "Vast",
+		"definitions": [
+			"Immense, huge"
+		]
+	},
+	{
+		"word": "Vat",
+		"definitions": [
+			"Tank, especially for holding liquids in brewing, distilling, food manufacture, dyeing, and tanning",
+			"Abbreviation of value-added tax"
+		]
+	},
+	{
+		"word": "Vatican",
+		"definitions": [
+			"Palace or government of the pope in Rome"
+		]
+	},
+	{
+		"word": "Vaudeville",
+		"definitions": [
+			"Variety entertainment",
+			"Light stage play with interspersed songs"
+		]
+	},
+	{
+		"word": "Vault",
+		"definitions": [
+			"Arched roof",
+			"Underground storage chamber or place of interment beneath a church or in a cemetery"
+		]
+	},
+	{
+		"word": "Vaulting",
+		"definitions": [
+			"Arched work in a vaulted roof or ceiling"
+		]
+	},
+	{
+		"word": "Vaulting-horse",
+		"definitions": [
+			"Wooden box for vaulting over"
+		]
+	},
+	{
+		"word": "Vaunt",
+		"definitions": [
+			"Boast"
+		]
+	},
+	{
+		"word": "Vc",
+		"definitions": [
+			"Victoria Cross"
+		]
+	},
+	{
+		"word": "Vcr",
+		"definitions": [
+			"Video cassette recorder"
+		]
+	},
+	{
+		"word": "Vd",
+		"definitions": [
+			"Venereal disease"
+		]
+	},
+	{
+		"word": "Vdu",
+		"definitions": [
+			"Visual display unit"
+		]
+	},
+	{
+		"word": "Ve",
+		"definitions": [
+			"Victory in Europe (in 1945)"
+		]
+	},
+	{
+		"word": "'Ve",
+		"definitions": [
+			"Have (I've; they've)"
+		]
+	},
+	{
+		"word": "Veal",
+		"definitions": [
+			"Calf's flesh as food"
+		]
+	},
+	{
+		"word": "Vector",
+		"definitions": [
+			"Math & physics quantity having direction as well as magnitude",
+			"Carrier of disease"
+		]
+	},
+	{
+		"word": "Veda",
+		"definitions": [
+			"Oldest Hindu scriptures"
+		]
+	},
+	{
+		"word": "Ve day",
+		"definitions": [
+			"8 May, the day marking Victory in Europe (in 1945)"
+		]
+	},
+	{
+		"word": "Veer",
+		"definitions": [
+			"Change direction, especially (of the wind) clockwise",
+			"Change in course or opinion"
+		]
+	},
+	{
+		"word": "Veg",
+		"definitions": [
+			"Colloquial: Vegetable(s)"
+		]
+	},
+	{
+		"word": "Vegan",
+		"definitions": [
+			"Person who does not eat animals or animal products",
+			"Using or containing no animal products"
+		]
+	},
+	{
+		"word": "Vegeburger",
+		"definitions": [
+			"Variant of veggie burger"
+		]
+	},
+	{
+		"word": "Vegetable",
+		"definitions": [
+			"Plant, especially a herbaceous plant used for food",
+			"Colloquial: A dull or inactive person"
+		]
+	},
+	{
+		"word": "Vegetable marrow",
+		"definitions": [
+			"See marrow 1"
+		]
+	},
+	{
+		"word": "Vegetal",
+		"definitions": [
+			"Of or like plants"
+		]
+	},
+	{
+		"word": "Vegetarian",
+		"definitions": [
+			"Person who does not eat meat or fish",
+			"Excluding animal food, especially meat"
+		]
+	},
+	{
+		"word": "Vegetarianism",
+		"definitions": [
+			"The practice of excluding animal food"
+		]
+	},
+	{
+		"word": "Vegetate",
+		"definitions": [
+			"Live an uneventful or monotonous life",
+			"Grow as plants do"
+		]
+	},
+	{
+		"word": "Vegetation",
+		"definitions": [
+			"Plants collectively; plant life"
+		]
+	},
+	{
+		"word": "Vegetative",
+		"definitions": [
+			"Concerned with growth and development as distinct from sexual reproduction",
+			"Of vegetation"
+		]
+	},
+	{
+		"word": "Veggie",
+		"definitions": [
+			"Colloquial: Vegetarian"
+		]
+	},
+	{
+		"word": "Veggie burger",
+		"definitions": [
+			"Flat cake like a hamburger but containing vegetables or soya protein instead of meat"
+		]
+	},
+	{
+		"word": "Vehement",
+		"definitions": [
+			"Showing or caused by strong feeling; ardent",
+			"Vehemently adv."
+		]
+	},
+	{
+		"word": "Vehicle",
+		"definitions": [
+			"Conveyance used on land or in space",
+			"Thing or person as a medium for expression or action"
+		]
+	},
+	{
+		"word": "Veil",
+		"definitions": [
+			"Piece of usually transparent fabric attached to a woman's hat, etc., to conceal or protect the face",
+			"Thing that hides or disguises"
+		]
+	},
+	{
+		"word": "Vein",
+		"definitions": [
+			"Any of the tubes conveying blood to the heart",
+			"Rib of an insect's wing or leaf"
+		]
+	},
+	{
+		"word": "Velcro",
+		"definitions": [
+			"Fastener consisting of two strips of fabric which cling when pressed together"
+		]
+	},
+	{
+		"word": "Veld",
+		"definitions": [
+			"Open country"
+		]
+	},
+	{
+		"word": "Veleta",
+		"definitions": [
+			"Ballroom dance in triple time"
+		]
+	},
+	{
+		"word": "Vellum",
+		"definitions": [
+			"A fine parchment, originally calfskin",
+			"Smooth writing-paper imitating vellum"
+		]
+	},
+	{
+		"word": "Velocity",
+		"definitions": [
+			"Speed, especially of inanimate things"
+		]
+	},
+	{
+		"word": "Velodrome",
+		"definitions": [
+			"Place or building with a track for cycle-racing"
+		]
+	},
+	{
+		"word": "Velour",
+		"definitions": [
+			"Plushlike fabric"
+		]
+	},
+	{
+		"word": "Velvet",
+		"definitions": [
+			"Soft fabric with a thick short pile on one side",
+			"Furry skin on a growing antler"
+		]
+	},
+	{
+		"word": "Velveteen",
+		"definitions": [
+			"Cotton fabric with a pile like velvet"
+		]
+	},
+	{
+		"word": "Velvet glove",
+		"definitions": [
+			"Outward gentleness, especially cloaking firmness"
+		]
+	},
+	{
+		"word": "Ven.",
+		"definitions": [
+			"Abbreviation: Venerable (as the title of an archdeacon)"
+		]
+	},
+	{
+		"word": "Venal",
+		"definitions": [
+			"Corrupt; able to be bribed; involving bribery",
+			"Venally adv."
+		]
+	},
+	{
+		"word": "Vend",
+		"definitions": [
+			"Offer (small wares) for sale"
+		]
+	},
+	{
+		"word": "Vendetta",
+		"definitions": [
+			"Blood feud",
+			"Prolonged bitter quarrel"
+		]
+	},
+	{
+		"word": "Vending-machine",
+		"definitions": [
+			"Slot-machine selling small items"
+		]
+	},
+	{
+		"word": "Vendor",
+		"definitions": [
+			"Law seller, especially of property"
+		]
+	},
+	{
+		"word": "Veneer",
+		"definitions": [
+			"Thin covering of fine wood, etc.",
+			"Deceptively pleasing appearance"
+		]
+	},
+	{
+		"word": "Venerable",
+		"definitions": [
+			"Entitled to deep respect on account of character, age, associations, etc.",
+			"Title of an archdeacon in the Church of England"
+		]
+	},
+	{
+		"word": "Venerate",
+		"definitions": [
+			"Respect deeply",
+			"Veneration n."
+		]
+	},
+	{
+		"word": "Venereal",
+		"definitions": [
+			"Of sexual desire or intercourse",
+			"Of venereal disease"
+		]
+	},
+	{
+		"word": "Venereal disease",
+		"definitions": [
+			"Disease contracted by sexual intercourse with an infected person or congenitally"
+		]
+	},
+	{
+		"word": "Venetian",
+		"definitions": [
+			"Native, citizen, or dialect of Venice",
+			"Of Venice"
+		]
+	},
+	{
+		"word": "Venetian blind",
+		"definitions": [
+			"Window-blind of adjustable horizontal slats"
+		]
+	},
+	{
+		"word": "Vengeance",
+		"definitions": [
+			"Punishment inflicted for wrong to oneself or one's cause",
+			"With a vengeance to a high or excessive degree"
+		]
+	},
+	{
+		"word": "Vengeful",
+		"definitions": [
+			"Vindictive; seeking vengeance",
+			"Vengefully adv."
+		]
+	},
+	{
+		"word": "Venial",
+		"definitions": [
+			"(Of a sin or fault) Pardonable; not mortal",
+			"Veniality n."
+		]
+	},
+	{
+		"word": "Venison",
+		"definitions": [
+			"Deer's flesh as food"
+		]
+	},
+	{
+		"word": "Venn diagram",
+		"definitions": [
+			"Diagram using overlapping and intersecting circles to show relationships between mathematical sets"
+		]
+	},
+	{
+		"word": "Venom",
+		"definitions": [
+			"Poisonous fluid of, especially, snakes",
+			"Malignity; virulence"
+		]
+	},
+	{
+		"word": "Venous",
+		"definitions": [
+			"Of, full of, or contained in veins"
+		]
+	},
+	{
+		"word": "Vent1",
+		"definitions": [
+			"Opening allowing the passage of air, etc.",
+			"Outlet; free expression"
+		]
+	},
+	{
+		"word": "Vent2",
+		"definitions": [
+			"Slit in a garment, especially in the lower edge of the back of a jacket"
+		]
+	},
+	{
+		"word": "Ventilate",
+		"definitions": [
+			"Cause air to circulate freely in a room, etc.",
+			"Air (a question, grievance, etc.)"
+		]
+	},
+	{
+		"word": "Ventilator",
+		"definitions": [
+			"Appliance or aperture for ventilating a room, etc.",
+			"Medical: Respirator"
+		]
+	},
+	{
+		"word": "Ventral",
+		"definitions": [
+			"Of or on the abdomen"
+		]
+	},
+	{
+		"word": "Ventricle",
+		"definitions": [
+			"Cavity in the body",
+			"Hollow part of an organ, especially the brain or heart"
+		]
+	},
+	{
+		"word": "Ventriloquism",
+		"definitions": [
+			"Skill of speaking without moving the lips, especially as entertainment with a dummy",
+			"Ventriloquist n."
+		]
+	},
+	{
+		"word": "Venture",
+		"definitions": [
+			"Risky undertaking",
+			"Commercial speculation"
+		]
+	},
+	{
+		"word": "Venture scout",
+		"definitions": [
+			"Senior scout"
+		]
+	},
+	{
+		"word": "Venturesome",
+		"definitions": [
+			"Disposed to take risks",
+			"Risky"
+		]
+	},
+	{
+		"word": "Venue",
+		"definitions": [
+			"Place for a match, meeting, concert, etc."
+		]
+	},
+	{
+		"word": "Venus fly-trap",
+		"definitions": [
+			"Insectivorous plant"
+		]
+	},
+	{
+		"word": "Veracious",
+		"definitions": [
+			"Truthful by nature",
+			"Of a statement, etc., true"
+		]
+	},
+	{
+		"word": "Veranda",
+		"definitions": [
+			"(Usually covered) platform along the side of a house"
+		]
+	},
+	{
+		"word": "Verb",
+		"definitions": [
+			"Word used to indicate action, a state, or an occurrence"
+		]
+	},
+	{
+		"word": "Verbal",
+		"definitions": [
+			"Of words",
+			"Oral, not written"
+		]
+	},
+	{
+		"word": "Verbalize",
+		"definitions": [
+			"Put into words"
+		]
+	},
+	{
+		"word": "Verbal noun",
+		"definitions": [
+			"Noun derived from a verb"
+		]
+	},
+	{
+		"word": "Verbatim",
+		"definitions": [
+			"In exactly the same words"
+		]
+	},
+	{
+		"word": "Verbena",
+		"definitions": [
+			"Plant of a genus of usually annual or biennial plants with clusters of fragrant flowers"
+		]
+	},
+	{
+		"word": "Verbiage",
+		"definitions": [
+			"Too many words or unnecessarily difficult words"
+		]
+	},
+	{
+		"word": "Verbose",
+		"definitions": [
+			"Using more words than are needed",
+			"Verbosity n."
+		]
+	},
+	{
+		"word": "Verdant",
+		"definitions": [
+			"(Of grass, a field, etc.) Green, lush",
+			"(Of a person) Unsophisticated, green"
+		]
+	},
+	{
+		"word": "Verdict",
+		"definitions": [
+			"Decision of a jury in a civil or criminal case",
+			"Decision; judgment"
+		]
+	},
+	{
+		"word": "Verdigris",
+		"definitions": [
+			"Greenish-blue substance that forms on copper or brass"
+		]
+	},
+	{
+		"word": "Verdure",
+		"definitions": [
+			"Literary: Green vegetation or its colour"
+		]
+	},
+	{
+		"word": "Verge1",
+		"definitions": [
+			"Edge or border",
+			"Brink"
+		]
+	},
+	{
+		"word": "Verge2",
+		"definitions": [
+			"Border on",
+			"Incline downwards or in a specified direction"
+		]
+	},
+	{
+		"word": "Verger",
+		"definitions": [
+			"Church caretaker and attendant",
+			"Officer preceding a bishop, etc., with a staff"
+		]
+	},
+	{
+		"word": "Verify",
+		"definitions": [
+			"Establish the truth, correctness, or validity of by examination",
+			"(Of an event, etc.) Bear out"
+		]
+	},
+	{
+		"word": "Verily",
+		"definitions": [
+			"Archaic: Really, truly"
+		]
+	},
+	{
+		"word": "Verisimilitude",
+		"definitions": [
+			"Appearance of being true or real"
+		]
+	},
+	{
+		"word": "Veritable",
+		"definitions": [
+			"Real; rightly so called",
+			"Veritably adv."
+		]
+	},
+	{
+		"word": "Verity",
+		"definitions": [
+			"A fundamental truth",
+			"Archaic: Truth"
+		]
+	},
+	{
+		"word": "Vermicelli",
+		"definitions": [
+			"Pasta in long slender threads",
+			"Shreds of chocolate as cake decoration"
+		]
+	},
+	{
+		"word": "Vermicide",
+		"definitions": [
+			"Drug that kills intestinal worms"
+		]
+	},
+	{
+		"word": "Vermiculite",
+		"definitions": [
+			"A hydrous silicate mineral used especially as a moisture-holding medium for plant growth"
+		]
+	},
+	{
+		"word": "Vermiform",
+		"definitions": [
+			"Worm-shaped"
+		]
+	},
+	{
+		"word": "Vermiform appendix",
+		"definitions": [
+			"Small blind tube extending from the caecum in humans and some other mammals"
+		]
+	},
+	{
+		"word": "Vermilion",
+		"definitions": [
+			"Cinnabar",
+			"A brilliant red pigment made especially from this"
+		]
+	},
+	{
+		"word": "Vermin",
+		"definitions": [
+			"Mammals and birds harmful to game, crops, etc.",
+			"Parasitic worms or insects"
+		]
+	},
+	{
+		"word": "Vermouth",
+		"definitions": [
+			"Wine flavored with aromatic herbs"
+		]
+	},
+	{
+		"word": "Vernacular",
+		"definitions": [
+			"Language or dialect of a particular country",
+			"Language of a particular class or group"
+		]
+	},
+	{
+		"word": "Vernal",
+		"definitions": [
+			"Of or in spring"
+		]
+	},
+	{
+		"word": "Vernal equinox",
+		"definitions": [
+			"Variant of *spring equinox"
+		]
+	},
+	{
+		"word": "Vernier",
+		"definitions": [
+			"Small movable graduated scale for obtaining fractional parts of subdivisions on a fixed scale"
+		]
+	},
+	{
+		"word": "Veronal",
+		"definitions": [
+			"Sedative drug"
+		]
+	},
+	{
+		"word": "Veronica",
+		"definitions": [
+			"Speedwell"
+		]
+	},
+	{
+		"word": "Verruca",
+		"definitions": [
+			"Wart or similar growth, especially on the foot"
+		]
+	},
+	{
+		"word": "Versatile",
+		"definitions": [
+			"Adapting easily to different subjects or occupations; skilled in many subjects or occupations",
+			"Having many uses"
+		]
+	},
+	{
+		"word": "Verse",
+		"definitions": [
+			"Poetry",
+			"Stanza of a poem or song"
+		]
+	},
+	{
+		"word": "Versed",
+		"definitions": [
+			"Experienced or skilled in"
+		]
+	},
+	{
+		"word": "Versicle",
+		"definitions": [
+			"Each of a priest's short sentences in a liturgy, answered by the congregation"
+		]
+	},
+	{
+		"word": "Versify",
+		"definitions": [
+			"Turn into or express in verse",
+			"Compose verses"
+		]
+	},
+	{
+		"word": "Version",
+		"definitions": [
+			"Account of a matter from a particular point of view",
+			"Book, etc., in a particular edition or translation"
+		]
+	},
+	{
+		"word": "Verso",
+		"definitions": [
+			"Left-hand page of an open book",
+			"Back of a printed leaf"
+		]
+	},
+	{
+		"word": "Versus",
+		"definitions": [
+			"Against (especially in law and sport)"
+		]
+	},
+	{
+		"word": "Vertebra",
+		"definitions": [
+			"Each segment of a backbone"
+		]
+	},
+	{
+		"word": "Vertebrate",
+		"definitions": [
+			"(Of an animal) Having a backbone",
+			"Vertebrate animal"
+		]
+	},
+	{
+		"word": "Vertex",
+		"definitions": [
+			"Highest point; top, apex",
+			"Each angular point of a triangle, polygon, etc."
+		]
+	},
+	{
+		"word": "Vertical",
+		"definitions": [
+			"At right angles to a horizontal plane",
+			"In a direction from top to bottom of a picture, etc."
+		]
+	},
+	{
+		"word": "Vertical take-off",
+		"definitions": [
+			"Take-off of an aircraft directly upwards"
+		]
+	},
+	{
+		"word": "Vertiginous",
+		"definitions": [
+			"Of or causing vertigo"
+		]
+	},
+	{
+		"word": "Vertigo",
+		"definitions": [
+			"Dizziness caused especially by heights"
+		]
+	},
+	{
+		"word": "Vervain",
+		"definitions": [
+			"Any of several verbenas, especially one with small blue, white, or purple flowers"
+		]
+	},
+	{
+		"word": "Verve",
+		"definitions": [
+			"Enthusiasm, vigor, spirit"
+		]
+	},
+	{
+		"word": "Very",
+		"definitions": [
+			"In a high degree",
+			"Actual; truly such"
+		]
+	},
+	{
+		"word": "Very light",
+		"definitions": [
+			"Flare projected from a pistol for signaling or illuminating part of a battlefield, etc."
+		]
+	},
+	{
+		"word": "Vesicle",
+		"definitions": [
+			"Small bladder, bubble, or blister"
+		]
+	},
+	{
+		"word": "Vespers",
+		"definitions": [
+			"Evensong"
+		]
+	},
+	{
+		"word": "Vessel",
+		"definitions": [
+			"Hollow receptacle, especially for liquid",
+			"Ship or boat, especially a large one"
+		]
+	},
+	{
+		"word": "Vest",
+		"definitions": [
+			"Undergarment worn on the trunk",
+			"US & Austral. Waistcoat"
+		]
+	},
+	{
+		"word": "Vestal virgin",
+		"definitions": [
+			"Roman antiquity virgin consecrated to Vesta and vowed to chastity"
+		]
+	},
+	{
+		"word": "Vested interest",
+		"definitions": [
+			"Personal interest in a state of affairs, usually with an expectation of gain",
+			"Law interest, usually in land or money held in trust, recognized as belonging to a person"
+		]
+	},
+	{
+		"word": "Vestibule",
+		"definitions": [
+			"Hall or lobby of a building",
+			"US enclosed space between railway carriages"
+		]
+	},
+	{
+		"word": "Vestige",
+		"definitions": [
+			"Trace; sign",
+			"Slight amount; particle"
+		]
+	},
+	{
+		"word": "Vestment",
+		"definitions": [
+			"Ceremonial garment, especially a chasuble"
+		]
+	},
+	{
+		"word": "Vestry",
+		"definitions": [
+			"Church room or building for keeping vestments, etc."
+		]
+	},
+	{
+		"word": "Vet",
+		"definitions": [
+			"Colloquial term for a veterinary surgeon",
+			"Make a careful and critical examination of (a scheme, work, candidate, etc.)"
+		]
+	},
+	{
+		"word": "Vet2",
+		"definitions": [
+			"US veteran"
+		]
+	},
+	{
+		"word": "Vetch",
+		"definitions": [
+			"Plant of the pea family used largely for fodder"
+		]
+	},
+	{
+		"word": "Veteran",
+		"definitions": [
+			"Old soldier or long-serving member of any group (war veteran; veteran actor)",
+			"US ex-serviceman or servicewoman"
+		]
+	},
+	{
+		"word": "Veteran car",
+		"definitions": [
+			"Car made before 1916, or (strictly) before 1905"
+		]
+	},
+	{
+		"word": "Veterinarian",
+		"definitions": [
+			"Formal term for veterinary surgeon"
+		]
+	},
+	{
+		"word": "Veterinary",
+		"definitions": [
+			"Of or for the diseases and injuries of animals",
+			"Veterinary surgeon"
+		]
+	},
+	{
+		"word": "Veterinary surgeon",
+		"definitions": [
+			"Person qualified to treat animals"
+		]
+	},
+	{
+		"word": "Veto",
+		"definitions": [
+			"Right to reject a measure, resolution, etc. unilaterally",
+			"Rejection, prohibition"
+		]
+	},
+	{
+		"word": "Vex",
+		"definitions": [
+			"Anger, irritate",
+			"Archaic grieve, afflict"
+		]
+	},
+	{
+		"word": "Vexation",
+		"definitions": [
+			"Vexing or being vexed",
+			"Annoying or distressing thing"
+		]
+	},
+	{
+		"word": "Vexatious",
+		"definitions": [
+			"Causing vexation",
+			"Law (of litigation) lacking sufficient grounds and seeking only to annoy the defendant"
+		]
+	},
+	{
+		"word": "Vexed",
+		"definitions": [
+			"(Of a question) Much discussed; problematic"
+		]
+	},
+	{
+		"word": "V.g.c.",
+		"definitions": [
+			"Abbreviation for Very good condition"
+		]
+	},
+	{
+		"word": "Vhf",
+		"definitions": [
+			"Abbreviation for Very high frequency"
+		]
+	},
+	{
+		"word": "Via",
+		"definitions": [
+			"Through (London to Rome via Paris; send it via your son)"
+		]
+	},
+	{
+		"word": "Viable",
+		"definitions": [
+			"(Of a plan, etc.) Feasible, especially economically",
+			"(Especially of a fetus) Capable of developing and surviving independently"
+		]
+	},
+	{
+		"word": "Viability",
+		"definitions": [
+			"The quality of being feasible or capable of surviving independently"
+		]
+	},
+	{
+		"word": "Viaduct",
+		"definitions": [
+			"Long bridge, especially a series of arches, carrying a road or railway across a valley or hollow"
+		]
+	},
+	{
+		"word": "Vial",
+		"definitions": [
+			"Small (usually cylindrical glass) vessel, especially for holding medicines"
+		]
+	},
+	{
+		"word": "Viand",
+		"definitions": [
+			"Formal term for an article of food"
+		]
+	},
+	{
+		"word": "Viaticum",
+		"definitions": [
+			"Eucharist given to a dying person"
+		]
+	},
+	{
+		"word": "Vibes",
+		"definitions": [
+			"Colloquial term for vibrations, especially feelings communicated",
+			"Abbreviation for vibraphone"
+		]
+	},
+	{
+		"word": "Vibrant",
+		"definitions": [
+			"Vibrating",
+			"(Often followed by \"with\") Thrilling, lively"
+		]
+	},
+	{
+		"word": "Vibraphone",
+		"definitions": [
+			"Instrument like a xylophone but with motor-driven resonators under the metal bars giving a vibrato effect"
+		]
+	},
+	{
+		"word": "Vibrate",
+		"definitions": [
+			"Move rapidly to and fro",
+			"(Of a sound) Throb; resonate"
+		]
+	},
+	{
+		"word": "Vibration",
+		"definitions": [
+			"Vibrating",
+			"(In plural) A mental, especially occult, influence or atmosphere communicated"
+		]
+	},
+	{
+		"word": "Vibrato",
+		"definitions": [
+			"Rapid slight variation in musical pitch producing a tremulous effect"
+		]
+	},
+	{
+		"word": "Vibrator",
+		"definitions": [
+			"Device that vibrates, especially an instrument for massage or sexual stimulation"
+		]
+	},
+	{
+		"word": "Viburnum",
+		"definitions": [
+			"A shrub, usually with white flowers"
+		]
+	},
+	{
+		"word": "Vicar",
+		"definitions": [
+			"Clergyman of a Church of England parish who formerly received a stipend rather than tithes"
+		]
+	},
+	{
+		"word": "Vicarage",
+		"definitions": [
+			"Vicar's house"
+		]
+	},
+	{
+		"word": "Vicarious",
+		"definitions": [
+			"Experienced indirectly or second-hand",
+			"Acting or done for another"
+		]
+	},
+	{
+		"word": "Vice",
+		"definitions": [
+			"Immoral conduct",
+			"Form of this (the vice of gluttony)"
+		]
+	},
+	{
+		"word": "Vice2",
+		"definitions": [
+			"(US \"vise\") Clamp with two jaws holding an object so as to leave the hands free to work on it"
+		]
+	},
+	{
+		"word": "Vice3",
+		"definitions": [
+			"In the place of; succeeding"
+		]
+	},
+	{
+		"word": "Vice-",
+		"definitions": [
+			"Comb. Form forming nouns meaning: 1 Substitute, deputy (vice-president) 2 Next in rank to (vice-admiral)"
+		]
+	},
+	{
+		"word": "Vice-chancellor",
+		"definitions": [
+			"Deputy chancellor, especially administrator of a university"
+		]
+	},
+	{
+		"word": "Vice-president",
+		"definitions": [
+			"Official ranking below and deputizing for a president"
+		]
+	},
+	{
+		"word": "Viceregal",
+		"definitions": [
+			"Of a viceroy"
+		]
+	},
+	{
+		"word": "Vicereine",
+		"definitions": [
+			"Viceroy's wife",
+			"Woman viceroy"
+		]
+	},
+	{
+		"word": "Vice ring",
+		"definitions": [
+			"Group of criminals organizing prostitution"
+		]
+	},
+	{
+		"word": "Vice squad",
+		"definitions": [
+			"Police department concerned with prostitution, etc."
+		]
+	},
+	{
+		"word": "Viceroy",
+		"definitions": [
+			"Sovereign's deputy ruler in a colony, province, etc."
+		]
+	},
+	{
+		"word": "Vice versa",
+		"definitions": [
+			"With the order of the terms changed; the other way round"
+		]
+	},
+	{
+		"word": "Vichyssoise",
+		"definitions": [
+			"(Usually chilled) Creamy soup of leeks and potatoes"
+		]
+	},
+	{
+		"word": "Vichy water",
+		"definitions": [
+			"Effervescent mineral water from Vichy in France"
+		]
+	},
+	{
+		"word": "Vicinity",
+		"definitions": [
+			"Surrounding district",
+			"(Followed by \"to\") Nearness"
+		]
+	},
+	{
+		"word": "Vicious",
+		"definitions": [
+			"Bad-tempered, spiteful",
+			"Violent",
+			"Corrupt, depraved",
+			"(Of reasoning, etc.) Faulty, unsound"
+		]
+	},
+	{
+		"word": "Vicious circle",
+		"definitions": [
+			"Self-perpetuating, harmful sequence of cause and effect"
+		]
+	},
+	{
+		"word": "Vicious spiral",
+		"definitions": [
+			"Vicious circle, especially as causing inflation"
+		]
+	},
+	{
+		"word": "Vicissitude",
+		"definitions": [
+			"Literary change, especially of fortune"
+		]
+	},
+	{
+		"word": "Victim",
+		"definitions": [
+			"Person or thing injured or destroyed",
+			"Prey; dupe",
+			"Creature sacrificed to a deity or in a religious rite"
+		]
+	},
+	{
+		"word": "Victimize",
+		"definitions": [
+			"Single out for punishment or discrimination",
+			"Make (a person, etc.) a victim"
+		]
+	},
+	{
+		"word": "Victor",
+		"definitions": [
+			"Winner in a battle or contest"
+		]
+	},
+	{
+		"word": "Victoria cross",
+		"definitions": [
+			"Highest decoration for conspicuous bravery in the armed services"
+		]
+	},
+	{
+		"word": "Victorian",
+		"definitions": [
+			"Of the time of Queen Victoria",
+			"Prudish; strict",
+			"Person of this time"
+		]
+	},
+	{
+		"word": "Victoriana",
+		"definitions": [
+			"Articles, especially collectors' items, of the Victorian period"
+		]
+	},
+	{
+		"word": "Victoria sponge",
+		"definitions": [
+			"Sandwich sponge cake with a jam filling"
+		]
+	},
+	{
+		"word": "Victorious",
+		"definitions": [
+			"Conquering, triumphant",
+			"Marked by victory"
+		]
+	},
+	{
+		"word": "Victory",
+		"definitions": [
+			"Defeat of an enemy or opponent"
+		]
+	},
+	{
+		"word": "Victual",
+		"definitions": [
+			"Food, provisions",
+			"Supply with victuals",
+			"Obtain stores",
+			"Eat victuals"
+		]
+	},
+	{
+		"word": "Victualer",
+		"definitions": [
+			"Person who supplies victuals",
+			"(In full) Licensed victualler, publican licensed to sell alcohol"
+		]
+	},
+	{
+		"word": "Victualler",
+		"definitions": [
+			"(US \"victualer\") Person who supplies victuals",
+			"(In full) Licensed victualler, publican licensed to sell alcohol"
+		]
+	},
+	{
+		"word": "Vicuña",
+		"definitions": [
+			"South American mammal like a llama, with fine silky wool",
+			"A cloth from its wool",
+			"Imitation of this"
+		]
+	},
+	{
+		"word": "Vide",
+		"definitions": [
+			"(In imperative) See, consult (a passage in a book, etc.)"
+		]
+	},
+	{
+		"word": "Videlicet",
+		"definitions": [
+			"= viz."
+		]
+	},
+	{
+		"word": "Video",
+		"definitions": [
+			"Of the recording (or reproduction) of moving pictures on magnetic tape",
+			"Of the broadcasting of television pictures",
+			"(Pl. -s) Such recording or broadcasting",
+			"Colloquial = video recorder",
+			"Colloquial, a film on videotape",
+			"Record on videotape"
+		]
+	},
+	{
+		"word": "Video cassette",
+		"definitions": [
+			"Cassette of videotape"
+		]
+	},
+	{
+		"word": "Videodisc",
+		"definitions": [
+			"Disc for recording moving pictures and sound"
+		]
+	},
+	{
+		"word": "Video game",
+		"definitions": [
+			"Computer game played on a television screen"
+		]
+	},
+	{
+		"word": "Video nasty",
+		"definitions": [
+			"Colloquial term for a horrific or pornographic video film"
+		]
+	},
+	{
+		"word": "Video recorder",
+		"definitions": [
+			"(Also video cassette recorder) Apparatus for recording and playing videotapes"
+		]
+	},
+	{
+		"word": "Video shop",
+		"definitions": [
+			"Shop hiring out or selling video films"
+		]
+	},
+	{
+		"word": "Videotape",
+		"definitions": [
+			"Magnetic tape for recording moving pictures and sound",
+			"Record on this"
+		]
+	},
+	{
+		"word": "Videotape recorder",
+		"definitions": [
+			"= video recorder"
+		]
+	},
+	{
+		"word": "Videotex",
+		"definitions": [
+			"Any electronic information system, especially Teletext or viewdata"
+		]
+	},
+	{
+		"word": "Vie",
+		"definitions": [
+			"Compete; strive for superiority",
+			"(Often followed by \"with\") compete against"
+		]
+	},
+	{
+		"word": "Vietnamese",
+		"definitions": [
+			"Of Vietnam",
+			"Native or language of Vietnam"
+		]
+	},
+	{
+		"word": "View",
+		"definitions": [
+			"Range of vision",
+			"What is seen; prospect, scene, etc.",
+			"Opinion",
+			"Manner of considering a thing",
+			"Inspection by the eye or mind"
+		]
+	},
+	{
+		"word": "Viewdata",
+		"definitions": [
+			"News and information service from a computer source, connected to a television screen by a telephone link"
+		]
+	},
+	{
+		"word": "Viewer",
+		"definitions": [
+			"Person who views, especially television",
+			"Device for looking at film transparencies, etc."
+		]
+	},
+	{
+		"word": "Viewfinder",
+		"definitions": [
+			"Device on a camera showing the borders of the proposed photograph"
+		]
+	},
+	{
+		"word": "Viewpoint",
+		"definitions": [
+			"Point of view"
+		]
+	},
+	{
+		"word": "Vigil",
+		"definitions": [
+			"Keeping awake during the night to keep watch or pray",
+			"Eve of a festival or holy day"
+		]
+	},
+	{
+		"word": "Vigilance",
+		"definitions": [
+			"Watchfulness, caution"
+		]
+	},
+	{
+		"word": "Vigilante",
+		"definitions": [
+			"Member of a self-appointed group maintaining order, etc."
+		]
+	},
+	{
+		"word": "Vignette",
+		"definitions": [
+			"Short description, character sketch",
+			"Book illustration not in a definite border",
+			"Photograph, etc., with the background shaded off"
+		]
+	},
+	{
+		"word": "Vigor",
+		"definitions": [
+			"Physical or mental strength or energy",
+			"Healthy growth",
+			"Forcefulness; animation"
+		]
+	},
+	{
+		"word": "Vigour",
+		"definitions": [
+			"(US vigor) Physical or mental strength or energy",
+			"Healthy growth",
+			"Forcefulness; animation"
+		]
+	},
+	{
+		"word": "Viking",
+		"definitions": [
+			"Scandinavian pirate and raider of the 8th–11th centuries"
+		]
+	},
+	{
+		"word": "Vile",
+		"definitions": [
+			"Disgusting",
+			"Depraved",
+			"Abominable"
+		]
+	},
+	{
+		"word": "Vilify",
+		"definitions": [
+			"Defame; malign"
+		]
+	},
+	{
+		"word": "Villa",
+		"definitions": [
+			"Country house; mansion",
+			"Rented holiday home, especially abroad",
+			"Detached or semi-detached house in a residential district"
+		]
+	},
+	{
+		"word": "Village",
+		"definitions": [
+			"Country settlement, larger than a hamlet and smaller than a town",
+			"Self-contained village-like community within a city, etc."
+		]
+	},
+	{
+		"word": "Villain",
+		"definitions": [
+			"Wicked person",
+			"Chief evil character in a play, story, etc.",
+			"Professional criminal",
+			"Rascal"
+		]
+	},
+	{
+		"word": "Villainous",
+		"definitions": [
+			"Wicked"
+		]
+	},
+	{
+		"word": "Villainy",
+		"definitions": [
+			"Wicked behavior or act"
+		]
+	},
+	{
+		"word": "Villein",
+		"definitions": [
+			"(Historical) Feudal tenant entirely subject to a lord or attached to a manor"
+		]
+	},
+	{
+		"word": "Vim",
+		"definitions": [
+			"Colloquial for vigour"
+		]
+	},
+	{
+		"word": "Vinaigrette",
+		"definitions": [
+			"Salad dressing of oil, wine vinegar, and seasoning",
+			"Small bottle for smelling-salts"
+		]
+	},
+	{
+		"word": "Vindicate",
+		"definitions": [
+			"Clear of blame or suspicion",
+			"Establish the existence, merits, or justice of something disputed",
+			"Justify by evidence or argument"
+		]
+	},
+	{
+		"word": "Vindictive",
+		"definitions": [
+			"Vengeful"
+		]
+	},
+	{
+		"word": "Vine",
+		"definitions": [
+			"Climbing or trailing plant with a woody stem, especially bearing grapes",
+			"Stem of this plant"
+		]
+	},
+	{
+		"word": "Vinegar",
+		"definitions": [
+			"Sour liquid made from fermentation of malt, wine, cider, etc., used as a condiment or for pickling"
+		]
+	},
+	{
+		"word": "Vineyard",
+		"definitions": [
+			"Plantation of grapevines, especially for wine-making"
+		]
+	},
+	{
+		"word": "Vingt-et-un",
+		"definitions": [
+			"= Pontoon (card game)"
+		]
+	},
+	{
+		"word": "Vino",
+		"definitions": [
+			"Slang for wine, especially of an inferior kind"
+		]
+	},
+	{
+		"word": "Vinous",
+		"definitions": [
+			"Of, like, or due to wine",
+			"Addicted to wine"
+		]
+	},
+	{
+		"word": "Vintage",
+		"definitions": [
+			"A season's produce of grapes",
+			"Wine from this season",
+			"A gathering of grapes for wine-making",
+			"A year or period when something was made or occurred",
+			"Of high or peak quality"
+		]
+	},
+	{
+		"word": "Vintage car",
+		"definitions": [
+			"Car made between 1917 and 1930"
+		]
+	},
+	{
+		"word": "Vintner",
+		"definitions": [
+			"Wine merchant"
+		]
+	},
+	{
+		"word": "Vinyl",
+		"definitions": [
+			"Plastic made by polymerization, especially polyvinyl chloride"
+		]
+	},
+	{
+		"word": "Viol",
+		"definitions": [
+			"Medieval stringed instrument of various sizes, similar to a violin but held vertically"
+		]
+	},
+	{
+		"word": "Viola1",
+		"definitions": [
+			"Instrument larger than the violin and of lower pitch"
+		]
+	},
+	{
+		"word": "Viola2",
+		"definitions": [
+			"Any plant of the genus including the pansy and violet, especially a cultivated hybrid"
+		]
+	},
+	{
+		"word": "Viola da gamba",
+		"definitions": [
+			"Viol held between the player's legs"
+		]
+	},
+	{
+		"word": "Violate",
+		"definitions": [
+			"Disregard; break (an oath, treaty, law, etc.)",
+			"Treat (a sanctuary, etc.) profanely; disrespect",
+			"Disturb (a person's privacy, etc.)",
+			"Rape"
+		]
+	},
+	{
+		"word": "Violence",
+		"definitions": [
+			"Being violent",
+			"Violent conduct or treatment",
+			"Unlawful use of force"
+		]
+	},
+	{
+		"word": "Violent",
+		"definitions": [
+			"Involving or using great physical force",
+			"Intense, vehement",
+			"Resulting from violence or poison"
+		]
+	},
+	{
+		"word": "Violet",
+		"definitions": [
+			"Sweet-scented plant with usually purple, blue, or white flowers",
+			"Bluish-purple color at the end of the spectrum opposite red",
+			"Pigment or clothing of this color"
+		]
+	},
+	{
+		"word": "Violin",
+		"definitions": [
+			"High-pitched stringed instrument played with a bow"
+		]
+	},
+	{
+		"word": "Violist",
+		"definitions": [
+			"Viol- or viola-player"
+		]
+	},
+	{
+		"word": "Violoncello",
+		"definitions": [
+			"(Pl. -s) Formal term for \"cello\""
+		]
+	},
+	{
+		"word": "Vip",
+		"definitions": [
+			"Abbreviation for Very Important Person"
+		]
+	},
+	{
+		"word": "Viper",
+		"definitions": [
+			"Small venomous snake",
+			"Malignant or treacherous person"
+		]
+	},
+	{
+		"word": "Virago",
+		"definitions": [
+			"Fierce or abusive woman"
+		]
+	},
+	{
+		"word": "Viral",
+		"definitions": [
+			"Of or caused by a virus"
+		]
+	},
+	{
+		"word": "Virgin",
+		"definitions": [
+			"Person who has never had sexual intercourse",
+			"(The Virgin) Christ's mother Mary"
+		]
+	},
+	{
+		"word": "Virginal",
+		"definitions": [
+			"Of or befitting a virgin",
+			"(Usually in pl.) Musical legless spinet in a box"
+		]
+	},
+	{
+		"word": "Virgin birth",
+		"definitions": [
+			"(Usually preceded by \"the\") Doctrine of Christ's birth from a virgin mother",
+			"Parthenogenesis"
+		]
+	},
+	{
+		"word": "Virginia creeper",
+		"definitions": [
+			"Ornamental vine"
+		]
+	},
+	{
+		"word": "Virginity",
+		"definitions": [
+			"State of being a virgin"
+		]
+	},
+	{
+		"word": "Virgo",
+		"definitions": [
+			"Constellation and sixth sign of the zodiac (the virgin)",
+			"Person born when the sun is in this sign"
+		]
+	},
+	{
+		"word": "Virile",
+		"definitions": [
+			"(Of a man) Vigorous or strong",
+			"Sexually potent"
+		]
+	},
+	{
+		"word": "Virology",
+		"definitions": [
+			"The study of viruses"
+		]
+	},
+	{
+		"word": "Virtual",
+		"definitions": [
+			"Being so in practice though not strictly or in name",
+			"Virtual reality simulation of the real world by a computer"
+		]
+	},
+	{
+		"word": "Virtually",
+		"definitions": [
+			"In effect, nearly, almost"
+		]
+	},
+	{
+		"word": "Virtue",
+		"definitions": [
+			"Moral excellence; goodness",
+			"Particular form of this",
+			"(Especially female) Chastity",
+			"Good quality",
+			"Efficacy"
+		]
+	},
+	{
+		"word": "Virtuoso",
+		"definitions": [
+			"Highly skilled artist, especially a musician",
+			"(Often attributive) Virtuoso performance"
+		]
+	},
+	{
+		"word": "Virtuous",
+		"definitions": [
+			"Morally good",
+			"Archaic: Chaste"
+		]
+	},
+	{
+		"word": "Virulent",
+		"definitions": [
+			"Strongly poisonous",
+			"(Of a disease) Violent",
+			"Bitterly hostile"
+		]
+	},
+	{
+		"word": "Virus",
+		"definitions": [
+			"Microscopic organism often causing diseases",
+			"Computer virus"
+		]
+	},
+	{
+		"word": "Visa",
+		"definitions": [
+			"Endorsement on a passport allowing entrance to or exit from a country"
+		]
+	},
+	{
+		"word": "Visage",
+		"definitions": [
+			"Literary term for face"
+		]
+	},
+	{
+		"word": "Vis-à-vis",
+		"definitions": [
+			"In relation to",
+			"In comparison with",
+			"Opposite"
+		]
+	},
+	{
+		"word": "Viscera",
+		"definitions": [
+			"Internal organs of the body"
+		]
+	},
+	{
+		"word": "Visceral",
+		"definitions": [
+			"Of the viscera",
+			"Of feelings rather than reason"
+		]
+	},
+	{
+		"word": "Viscid",
+		"definitions": [
+			"Glutinous, sticky"
+		]
+	},
+	{
+		"word": "Viscose",
+		"definitions": [
+			"Cellulose in a highly viscous state, used for making rayon",
+			"Fabric made from this"
+		]
+	},
+	{
+		"word": "Viscount",
+		"definitions": [
+			"British nobleman ranking between an earl and a baron",
+			"Viscountcy (pl. -ies)"
+		]
+	},
+	{
+		"word": "Viscountess",
+		"definitions": [
+			"Viscount's wife or widow",
+			"Woman holding the rank of viscount"
+		]
+	},
+	{
+		"word": "Viscous",
+		"definitions": [
+			"Glutinous, sticky",
+			"Semifluid"
+		]
+	},
+	{
+		"word": "Vise",
+		"definitions": [
+			"Clamp with two jaws holding an object so as to leave the hands free to work on it"
+		]
+	},
+	{
+		"word": "Visibility",
+		"definitions": [
+			"Being visible",
+			"Range or possibility of vision as determined by the light and weather"
+		]
+	},
+	{
+		"word": "Visible",
+		"definitions": [
+			"Able to be seen, perceived, or ascertained",
+			"Of exports, etc., consisting of actual goods"
+		]
+	},
+	{
+		"word": "Vision",
+		"definitions": [
+			"Act or faculty of seeing, sight",
+			"Thing or person seen in a dream or trance",
+			"Mental picture",
+			"Imaginative insight",
+			"Statesmanlike foresight",
+			"Beautiful person, etc.",
+			"Television or cinema picture, especially of specified quality"
+		]
+	},
+	{
+		"word": "Visionary",
+		"definitions": [
+			"Given to seeing visions or to fanciful theories",
+			"Having vision or foresight",
+			"Not real, imaginary",
+			"Not practicable"
+		]
+	},
+	{
+		"word": "Visit",
+		"definitions": [
+			"Go or come to see or inspect (a person, place, etc.)",
+			"Stay temporarily with (a person) or at (a place)",
+			"(Of a disease, calamity, etc.) Attack",
+			"(Followed by 'with') Punish (a person)",
+			"(Followed by 'upon') Inflict punishment for (a sin)"
+		]
+	},
+	{
+		"word": "Visitant",
+		"definitions": [
+			"Visitor, especially a ghost, etc.",
+			"Migratory bird resting temporarily in an area"
+		]
+	},
+	{
+		"word": "Visitation",
+		"definitions": [
+			"Official visit of inspection",
+			"Trouble, etc., seen as divine punishment",
+			"A visit of the Virgin Mary to Elizabeth"
+		]
+	},
+	{
+		"word": "Visitor",
+		"definitions": [
+			"Person who visits",
+			"Migrant bird staying for part of the year"
+		]
+	},
+	{
+		"word": "Visitors' book",
+		"definitions": [
+			"Book for visitors to a hotel, church, etc., to sign, make remarks in, etc."
+		]
+	},
+	{
+		"word": "Visor",
+		"definitions": [
+			"Movable part of a helmet covering the face",
+			"Shield for the eyes, especially one at the top of a vehicle windscreen"
+		]
+	},
+	{
+		"word": "Vista",
+		"definitions": [
+			"Long narrow view as between rows of trees",
+			"Mental view of a long series of events"
+		]
+	},
+	{
+		"word": "Visual",
+		"definitions": [
+			"Of or used in seeing"
+		]
+	},
+	{
+		"word": "Visual aid",
+		"definitions": [
+			"Film, etc., as a teaching aid"
+		]
+	},
+	{
+		"word": "Visual display unit",
+		"definitions": [
+			"Computing device displaying data on a screen"
+		]
+	},
+	{
+		"word": "Visualize",
+		"definitions": [
+			"Imagine visually",
+			"Visualization"
+		]
+	},
+	{
+		"word": "Vital",
+		"definitions": [
+			"Of or essential to organic life",
+			"Essential, indispensable",
+			"Full of life or activity",
+			"Fatal error",
+			"In pl., the body's vital organs, e.g., the heart and brain"
+		]
+	},
+	{
+		"word": "Vitality",
+		"definitions": [
+			"Liveliness, animation",
+			"Ability to survive or endure"
+		]
+	},
+	{
+		"word": "Vitalize",
+		"definitions": [
+			"Endow with life",
+			"Make lively or vigorous",
+			"Vitalization"
+		]
+	},
+	{
+		"word": "Vital statistics",
+		"definitions": [
+			"Measurements of a woman's bust, waist, and hips",
+			"The number of births, marriages, deaths, etc."
+		]
+	},
+	{
+		"word": "Vitamin",
+		"definitions": [
+			"Any of various substances present in many foods and essential to health and growth",
+			"Vitamin B complex: Any of a group of vitamins often found together in foods"
+		]
+	},
+	{
+		"word": "Vitaminize",
+		"definitions": [
+			"Add vitamins to"
+		]
+	},
+	{
+		"word": "Vitiate",
+		"definitions": [
+			"Impair, debase",
+			"Make invalid or ineffectual",
+			"Vitiation"
+		]
+	},
+	{
+		"word": "Viticulture",
+		"definitions": [
+			"Cultivation of grapes"
+		]
+	},
+	{
+		"word": "Vitreous",
+		"definitions": [
+			"Of or like glass"
+		]
+	},
+	{
+		"word": "Vitreous humour",
+		"definitions": [
+			"Clear fluid in the eye between the lens and the retina"
+		]
+	},
+	{
+		"word": "Vitrify",
+		"definitions": [
+			"Change into glass or a glasslike substance, esp. by heat",
+			"Vitrifaction, Vitrification"
+		]
+	},
+	{
+		"word": "Vitriol",
+		"definitions": [
+			"Sulphuric acid or a sulphate",
+			"Caustic or hostile speech or criticism"
+		]
+	},
+	{
+		"word": "Vitriolic",
+		"definitions": [
+			"Caustic, hostile"
+		]
+	},
+	{
+		"word": "Vituperate",
+		"definitions": [
+			"Criticize abusively",
+			"Vituperation, Vituperative"
+		]
+	},
+	{
+		"word": "Viva1",
+		"definitions": [
+			"= *viva voce",
+			"Viva-voce"
+		]
+	},
+	{
+		"word": "Viva2",
+		"definitions": [
+			"Long live",
+			"Cry of this as a salute, etc."
+		]
+	},
+	{
+		"word": "Vivace",
+		"definitions": [
+			"In a lively manner"
+		]
+	},
+	{
+		"word": "Vivacious",
+		"definitions": [
+			"Lively, animated",
+			"Vivacity"
+		]
+	},
+	{
+		"word": "Vivarium",
+		"definitions": [
+			"Glass bowl, etc., for keeping animals for scientific study",
+			"Enclosure for keeping animals in (nearly) their natural state"
+		]
+	},
+	{
+		"word": "Viva voce",
+		"definitions": [
+			"Oral",
+			"Orally",
+			"Oral examination",
+			"Examine orally"
+		]
+	},
+	{
+		"word": "Vivid",
+		"definitions": [
+			"Of light or colour, strong, intense",
+			"Of a memory, description, the imagination, etc., clear, lively, graphic",
+			"Vividly, Vividness"
+		]
+	},
+	{
+		"word": "Vivify",
+		"definitions": [
+			"Enliven, animate, give life to"
+		]
+	},
+	{
+		"word": "Viviparous",
+		"definitions": [
+			"Zool. Bringing forth young alive"
+		]
+	},
+	{
+		"word": "Vivisect",
+		"definitions": [
+			"Perform vivisection on"
+		]
+	},
+	{
+		"word": "Vivisection",
+		"definitions": [
+			"Surgical experimentation on living animals for scientific research",
+			"Vivisectional, Vivisectionist, Vivisector"
+		]
+	},
+	{
+		"word": "Vixen",
+		"definitions": [
+			"Female fox",
+			"Spiteful woman"
+		]
+	},
+	{
+		"word": "Viz.",
+		"definitions": [
+			"Namely; that is to say; in other words"
+		]
+	},
+	{
+		"word": "Vizier",
+		"definitions": [
+			"High official in some Muslim countries"
+		]
+	},
+	{
+		"word": "Vizor",
+		"definitions": [
+			"Var. of *visor"
+		]
+	},
+	{
+		"word": "V-neck",
+		"definitions": [
+			"V-shaped neckline on a pullover, etc."
+		]
+	},
+	{
+		"word": "Vocable",
+		"definitions": [
+			"Word, esp. with reference to form not meaning"
+		]
+	},
+	{
+		"word": "Vocabulary",
+		"definitions": [
+			"Words used by a particular language, book, branch of science, or author",
+			"List of these, in alphabetical order with definitions or translations",
+			"Individual's stock of words",
+			"Set of artistic or stylistic forms or techniques"
+		]
+	},
+	{
+		"word": "Vocal",
+		"definitions": [
+			"Of or uttered by the voice",
+			"Outspoken",
+			"In sing. or pl., sung part or piece of music",
+			"Vocally"
+		]
+	},
+	{
+		"word": "Vocal cords",
+		"definitions": [
+			"Voice-producing part of the larynx"
+		]
+	},
+	{
+		"word": "Vocalist",
+		"definitions": [
+			"Singer"
+		]
+	},
+	{
+		"word": "Vocalize",
+		"definitions": [
+			"Form (a sound) or utter (a word) with the voice",
+			"Articulate, express",
+			"Vocalization"
+		]
+	},
+	{
+		"word": "Vocation",
+		"definitions": [
+			"A strong feeling of suitability for a particular career",
+			"Employment, trade, profession",
+			"Vocational"
+		]
+	},
+	{
+		"word": "Vocative",
+		"definitions": [
+			"Case of a noun used in addressing a person or thing",
+			"Of or in this case"
+		]
+	},
+	{
+		"word": "Vociferate",
+		"definitions": [
+			"Utter noisily",
+			"Shout, bawl",
+			"Vociferation, Vociferator"
+		]
+	},
+	{
+		"word": "Vociferous",
+		"definitions": [
+			"Noisy, clamorous",
+			"Insistently and forcibly outspoken",
+			"Vociferously"
+		]
+	},
+	{
+		"word": "Vodka",
+		"definitions": [
+			"Alcoholic spirit distilled esp. in Russia from rye, etc."
+		]
+	},
+	{
+		"word": "Vogue",
+		"definitions": [
+			"Preceded by 'the', prevailing fashion",
+			"Popular use",
+			"In vogue",
+			"Voguish"
+		]
+	},
+	{
+		"word": "Voice",
+		"definitions": [
+			"A sound formed in the larynx and uttered by the mouth",
+			"Power of this",
+			"A use of the voice; spoken or written expression",
+			"Opinion so expressed",
+			"Right to express an opinion",
+			"Set of verbal forms showing whether a verb is active or passive",
+			"Express",
+			"Esp. as voiced adj., utter with vibration of the vocal cords",
+			"In good voice",
+			"With one voice"
+		]
+	},
+	{
+		"word": "Voice-box",
+		"definitions": [
+			"Larynx"
+		]
+	},
+	{
+		"word": "Voice in the wilderness",
+		"definitions": [
+			"Unheeded advocate of reform"
+		]
+	},
+	{
+		"word": "Voiceless",
+		"definitions": [
+			"Dumb, speechless",
+			"Uttered without vibration of the vocal cords"
+		]
+	},
+	{
+		"word": "Voice-over",
+		"definitions": [
+			"Commentary in a film, etc., by an unseen narrator"
+		]
+	},
+	{
+		"word": "Void",
+		"definitions": [
+			"Empty, vacant",
+			"Of a contract, etc., invalid, not legally binding",
+			"Empty space, vacuum",
+			"Render void",
+			"Excrete; empty"
+		]
+	},
+	{
+		"word": "Voile",
+		"definitions": [
+			"Fine semi-transparent fabric"
+		]
+	},
+	{
+		"word": "Vol.",
+		"definitions": [
+			"Abbr. Volume"
+		]
+	},
+	{
+		"word": "Volatile",
+		"definitions": [
+			"Changeable in mood; fickle",
+			"Of trading conditions, etc., unstable",
+			"Of a political situation, etc., likely to erupt in violence",
+			"Chem. Evaporating rapidly",
+			"Volatility"
+		]
+	},
+	{
+		"word": "Volatilize",
+		"definitions": [
+			"Turn into vapour",
+			"Volatilization"
+		]
+	},
+	{
+		"word": "Vol-au-vent",
+		"definitions": [
+			"Small puff pastry case with a savoury filling"
+		]
+	},
+	{
+		"word": "Volcanic",
+		"definitions": [
+			"Of, like, or from a volcano",
+			"Volcanically"
+		]
+	},
+	{
+		"word": "Volcano",
+		"definitions": [
+			"Mountain or hill from which lava, steam, etc. escape through openings in the earth's crust",
+			"Volatile situation"
+		]
+	},
+	{
+		"word": "Vole",
+		"definitions": [
+			"Small plant-eating rodent"
+		]
+	},
+	{
+		"word": "Volition",
+		"definitions": [
+			"Act or power of willing",
+			"Of one's own volition, voluntarily",
+			"Volitional"
+		]
+	},
+	{
+		"word": "Volley",
+		"definitions": [
+			"A simultaneous firing of a number of weapons",
+			"Torrent (of abuse, etc.)",
+			"Playing of a ball in tennis, football, etc., before it touches the ground",
+			"Return or send by or in a volley"
+		]
+	},
+	{
+		"word": "Volleyball",
+		"definitions": [
+			"Game for two teams of six hitting a large ball by hand over a high net"
+		]
+	},
+	{
+		"word": "Volt",
+		"definitions": [
+			"SI unit of electromotive force, the difference of potential that would carry one ampere of current against one ohm resistance"
+		]
+	},
+	{
+		"word": "Voltage",
+		"definitions": [
+			"Electromotive force expressed in volts"
+		]
+	},
+	{
+		"word": "Volte-face",
+		"definitions": [
+			"Sudden reversal of one's attitude or opinion"
+		]
+	},
+	{
+		"word": "Voltmeter",
+		"definitions": [
+			"Instrument measuring electric potential in volts"
+		]
+	},
+	{
+		"word": "Voluble",
+		"definitions": [
+			"Speaking or spoken fluently or at length",
+			"Volubility, Volubly"
+		]
+	},
+	{
+		"word": "Volume",
+		"definitions": [
+			"Single book forming part or all of a work",
+			"A solid content, bulk",
+			"Space occupied by a gas or liquid",
+			"Amount or quantity",
+			"Strength of sound, loudness",
+			"A moving mass of water, etc.",
+			"Mass of smoke, etc."
+		]
+	},
+	{
+		"word": "Volumetric",
+		"definitions": [
+			"Of measurement by volume",
+			"Volumetrically"
+		]
+	},
+	{
+		"word": "Voluminous",
+		"definitions": [
+			"Of drapery, etc., loose and ample",
+			"Written or writing at great length"
+		]
+	},
+	{
+		"word": "Voluntary",
+		"definitions": [
+			"Acting, done, or given willingly; not compulsory; intentional",
+			"Unpaid (voluntary work)",
+			"Supported by charity",
+			"Controlled by the will",
+			"Organ solo played before or after a church service",
+			"Voluntarily, Voluntariness"
+		]
+	},
+	{
+		"word": "Volunteer",
+		"definitions": [
+			"Person who voluntarily undertakes a task or enters military, etc., service",
+			"Undertake or offer (one's services, a remark, etc.) voluntarily",
+			"Be a volunteer"
+		]
+	},
+	{
+		"word": "Voluptuary",
+		"definitions": [
+			"Person who seeks luxury and sensual pleasure"
+		]
+	},
+	{
+		"word": "Voluptuous",
+		"definitions": [
+			"Of, tending to, occupied with, or derived from, sensuous or sensual pleasure",
+			"Of a woman, curvaceous and sexually desirable",
+			"Voluptuously"
+		]
+	},
+	{
+		"word": "Volute",
+		"definitions": [
+			"Spiral stonework scroll as an ornament of especially Ionic capitals"
+		]
+	},
+	{
+		"word": "Vomit",
+		"definitions": [
+			"Eject (contents of the stomach) through the mouth; be sick",
+			"Eject violently, belch forth",
+			"Matter vomited from the stomach"
+		]
+	},
+	{
+		"word": "Voodoo",
+		"definitions": [
+			"Religious witchcraft as practiced especially in the West Indies",
+			"Affect by voodoo; bewitch"
+		]
+	},
+	{
+		"word": "Voracious",
+		"definitions": [
+			"Gluttonous, ravenous",
+			"Very eager (voracious reader)",
+			"Voraciously, Voracity"
+		]
+	},
+	{
+		"word": "Vortex",
+		"definitions": [
+			"Whirlpool, whirlwind",
+			"Whirling motion or mass",
+			"Thing viewed as destructive or devouring (the vortex of society)",
+			"Vortical"
+		]
+	},
+	{
+		"word": "Vorticist",
+		"definitions": [
+			"Futuristic painter, writer, etc., of a school based on the so-called ‘vortices’ of modern civilization",
+			"Vorticism"
+		]
+	},
+	{
+		"word": "Votary",
+		"definitions": [
+			"Person dedicated to the service of a god or cult",
+			"Devotee of a person, occupation, etc."
+		]
+	},
+	{
+		"word": "Vote",
+		"definitions": [
+			"Formal expression of choice or opinion by a ballot, show of hands, etc., in an election, etc.",
+			"Right to vote, especially in a state election",
+			"Opinion expressed by a vote",
+			"Votes given by or for a particular group",
+			"Give a vote",
+			"Enact or resolve by a majority of votes",
+			"Grant (a sum of money) by vote",
+			"Pronounce by general consent",
+			"Suggest, urge",
+			"Vote down, vote in, vote off, vote out, vote with one's feet"
+		]
+	},
+	{
+		"word": "Voter",
+		"definitions": [
+			"Person voting or with the right to vote at an election"
+		]
+	},
+	{
+		"word": "Votive",
+		"definitions": [
+			"Offered or consecrated in fulfilment of a vow"
+		]
+	},
+	{
+		"word": "Vouch",
+		"definitions": [
+			"Answer for, be surety for (will vouch for the truth of this; can vouch for him)"
+		]
+	},
+	{
+		"word": "Voucher",
+		"definitions": [
+			"Document exchangeable for goods or services",
+			"Receipt"
+		]
+	},
+	{
+		"word": "Vouchsafe",
+		"definitions": [
+			"Condescend to grant",
+			"Foll. by to + infin., condescend"
+		]
+	},
+	{
+		"word": "Vow",
+		"definitions": [
+			"Solemn, especially religious, promise",
+			"Promise solemnly",
+			"Declare solemnly"
+		]
+	},
+	{
+		"word": "Vowel",
+		"definitions": [
+			"Speech-sound made with vibration of the vocal cords but without audible friction",
+			"Letter(s) representing this, as a, e, i, o, u, aw, ah"
+		]
+	},
+	{
+		"word": "Vox pop",
+		"definitions": [
+			"Popular opinion as represented by informal comments from the public"
+		]
+	},
+	{
+		"word": "Vox populi",
+		"definitions": [
+			"Public opinion, popular belief"
+		]
+	},
+	{
+		"word": "Voyage",
+		"definitions": [
+			"Journey, especially a long one by sea or in space",
+			"Make a voyage"
+		]
+	},
+	{
+		"word": "Voyeur",
+		"definitions": [
+			"Person who derives sexual pleasure from secretly observing others' sexual activity or organs",
+			"Esp. covert, spectator",
+			"Voyeurism, Voyeuristic"
+		]
+	},
+	{
+		"word": "Vs.",
+		"definitions": [
+			"Abbr. Versus"
+		]
+	},
+	{
+		"word": "V-sign",
+		"definitions": [
+			"Sign of the letter V made with the first two fingers pointing up and the back of the hand facing outwards, as a gesture of abuse, etc.",
+			"Similar sign made with the palm of the hand facing outwards, as a symbol of victory"
+		]
+	},
+	{
+		"word": "Vso",
+		"definitions": [
+			"Abbr. Voluntary service overseas"
+		]
+	},
+	{
+		"word": "Vsop",
+		"definitions": [
+			"Abbr. Very special old pale (brandy)"
+		]
+	},
+	{
+		"word": "Vto",
+		"definitions": [
+			"Abbr. Vertical take-off"
+		]
+	},
+	{
+		"word": "Vtol",
+		"definitions": [
+			"Abbr. Vertical take-off and landing"
+		]
+	},
+	{
+		"word": "Vtr",
+		"definitions": [
+			"Abbr. Videotape recorder"
+		]
+	},
+	{
+		"word": "Vulcanite",
+		"definitions": [
+			"Hard black vulcanized rubber"
+		]
+	},
+	{
+		"word": "Vulcanize",
+		"definitions": [
+			"Treat (rubber, etc.) with sulphur at a high temperature to strengthen it",
+			"Vulcanization"
+		]
+	},
+	{
+		"word": "Vulcanology",
+		"definitions": [
+			"The study of volcanoes",
+			"Vulcanological, Vulcanologist"
+		]
+	},
+	{
+		"word": "Vulgar",
+		"definitions": [
+			"Coarse; indecent; tasteless",
+			"Of or characteristic of the common people",
+			"Common; prevalent",
+			"Vulgarity, Vulgarly"
+		]
+	},
+	{
+		"word": "Vulgar fraction",
+		"definitions": [
+			"Fraction expressed by numerator and denominator, not decimally"
+		]
+	},
+	{
+		"word": "Vulgarian",
+		"definitions": [
+			"Vulgar (especially rich) person"
+		]
+	},
+	{
+		"word": "Vulgarism",
+		"definitions": [
+			"Vulgar word, expression, action, or habit"
+		]
+	},
+	{
+		"word": "Vulgarity",
+		"definitions": [
+			"Vulgar act, expression, or state"
+		]
+	},
+	{
+		"word": "Vulgarize",
+		"definitions": [
+			"Make vulgar",
+			"Spoil by popularizing"
+		]
+	},
+	{
+		"word": "Vulgar tongue",
+		"definitions": [
+			"National or vernacular language"
+		]
+	},
+	{
+		"word": "Vulgate",
+		"definitions": [
+			"4th-c. Latin version of the Bible"
+		]
+	},
+	{
+		"word": "Vulnerable",
+		"definitions": [
+			"Easily wounded or harmed",
+			"Exposed to damage, temptation, etc.",
+			"Vulnerability, Vulnerably"
+		]
+	},
+	{
+		"word": "Vulpine",
+		"definitions": [
+			"Of or like a fox",
+			"Crafty, cunning"
+		]
+	},
+	{
+		"word": "Vulture",
+		"definitions": [
+			"Large carrion-eating bird of prey, reputed to gather with others in anticipation of a death",
+			"Rapacious person"
+		]
+	},
+	{
+		"word": "Vulva",
+		"definitions": [
+			"External female genitals"
+		]
+	},
+	{
+		"word": "Vv.",
+		"definitions": [
+			"Abbr. Verses",
+			"Abbr. Volumes"
+		]
+	},
+	{
+		"word": "Vying",
+		"definitions": [
+			"Present participle of *vie"
 		]
 	}
 ]
