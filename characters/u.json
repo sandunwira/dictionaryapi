@@ -1,9 +1,7527 @@
 [
 	{
-		"word": "<word>",
+		"word": "U1",
 		"definitions": [
-			"<definition1>",
-			"<definition2>"
+			"The twenty-first letter of the alphabet",
+			"A U-shaped object or curve"
+		]
+	},
+	{
+		"word": "U2",
+		"definitions": [
+			"Colloquial term for upper class or supposedly upper class"
+		]
+	},
+	{
+		"word": "U3",
+		"definitions": [
+			"Abbreviation for universal (of films classified as suitable for all)"
+		]
+	},
+	{
+		"word": "U4",
+		"definitions": [
+			"Symbol for uranium"
+		]
+	},
+	{
+		"word": "Ub40",
+		"definitions": [
+			"A card issued to people claiming unemployment benefit",
+			"Colloquial term for an unemployed person"
+		]
+	},
+	{
+		"word": "Ubiquitous",
+		"definitions": [
+			"(Seemingly) present everywhere simultaneously",
+			"Often encountered"
+		]
+	},
+	{
+		"word": "U-boat",
+		"definitions": [
+			"Historical German submarine"
+		]
+	},
+	{
+		"word": "U.c.",
+		"definitions": [
+			"Abbreviation for upper case"
+		]
+	},
+	{
+		"word": "Ucca",
+		"definitions": [
+			"Abbreviation for Universities Central Council on Admissions"
+		]
+	},
+	{
+		"word": "Uda",
+		"definitions": [
+			"Abbreviation for Ulster Defence Association (a loyalist paramilitary organization)"
+		]
+	},
+	{
+		"word": "Udder",
+		"definitions": [
+			"A baglike mammary organ of cattle, with several teats"
+		]
+	},
+	{
+		"word": "Udi",
+		"definitions": [
+			"Abbreviation for Unilateral Declaration of Independence"
+		]
+	},
+	{
+		"word": "Udr",
+		"definitions": [
+			"Abbreviation for Ulster Defence Regiment"
+		]
+	},
+	{
+		"word": "Uefa",
+		"definitions": [
+			"Abbreviation for Union of European Football Associations"
+		]
+	},
+	{
+		"word": "Ufo",
+		"definitions": [
+			"Abbreviation for unidentified flying object"
+		]
+	},
+	{
+		"word": "Ugh",
+		"definitions": [
+			"Interjection expressing disgust or similar emotions",
+			"Sound of a cough or grunt"
+		]
+	},
+	{
+		"word": "Ugli",
+		"definitions": [
+			"A mottled green and yellow hybrid of a grapefruit and a tangerine"
+		]
+	},
+	{
+		"word": "Uglify",
+		"definitions": [
+			"To make something ugly"
+		]
+	},
+	{
+		"word": "Ugly",
+		"definitions": [
+			"Unpleasant to the eye, ear, or mind",
+			"Unpleasantly suggestive; discreditable"
+		]
+	},
+	{
+		"word": "Ugly customer",
+		"definitions": [
+			"A threatening or violent person"
+		]
+	},
+	{
+		"word": "Ugly duckling",
+		"definitions": [
+			"A person lacking early promise but blossoming later"
+		]
+	},
+	{
+		"word": "Uhf",
+		"definitions": [
+			"Abbreviation for ultrahigh frequency"
+		]
+	},
+	{
+		"word": "Uh-huh",
+		"definitions": [
+			"Colloquial term for yes; indeed"
+		]
+	},
+	{
+		"word": "Uht",
+		"definitions": [
+			"Abbreviation for ultra heat treated (especially of milk, for long keeping)"
+		]
+	},
+	{
+		"word": "Uk",
+		"definitions": [
+			"Abbreviation for United Kingdom"
+		]
+	},
+	{
+		"word": "Ukrainian",
+		"definitions": [
+			"A native or language of Ukraine",
+			"A person of Ukrainian descent"
+		]
+	},
+	{
+		"word": "Ukulele",
+		"definitions": [
+			"A small four-stringed Hawaiian guitar"
+		]
+	},
+	{
+		"word": "Ulcer",
+		"definitions": [
+			"An open sore on or in the body, often forming pus",
+			"A corrupting influence"
+		]
+	},
+	{
+		"word": "Ulcerate",
+		"definitions": [
+			"To form into or affect with an ulcer"
+		]
+	},
+	{
+		"word": "-ule",
+		"definitions": [
+			"A suffix forming diminutive nouns (e.g., globule)"
+		]
+	},
+	{
+		"word": "Ullage",
+		"definitions": [
+			"The amount by which a cask falls short of being full",
+			"Loss by evaporation or leakage"
+		]
+	},
+	{
+		"word": "Ulna",
+		"definitions": [
+			"Thinner and longer bone in the forearm, opposite to the thumb",
+			"Corresponding bone in an animal's foreleg or a bird's wing"
+		]
+	},
+	{
+		"word": "Ulster",
+		"definitions": [
+			"A long loose overcoat of rough cloth"
+		]
+	},
+	{
+		"word": "Ulsterman",
+		"definitions": [
+			"A native of Ulster"
+		]
+	},
+	{
+		"word": "Ult.",
+		"definitions": [
+			"Abbreviation for ultimo"
+		]
+	},
+	{
+		"word": "Ulterior",
+		"definitions": [
+			"Not evident or admitted; hidden, secret (especially ulterior motive)"
+		]
+	},
+	{
+		"word": "Ultimate",
+		"definitions": [
+			"Last or final possible",
+			"Fundamental, primary, basic (ultimate truths)"
+		]
+	},
+	{
+		"word": "Ultimatum",
+		"definitions": [
+			"A final statement of terms, the rejection of which could cause hostility"
+		]
+	},
+	{
+		"word": "Ultimo",
+		"definitions": [
+			"Commerce term for last month (the 28th ultimo)"
+		]
+	},
+	{
+		"word": "Ultra",
+		"definitions": [
+			"Extreme, especially in religion or politics",
+			"An extremist"
+		]
+	},
+	{
+		"word": "Ultra-",
+		"definitions": [
+			"Extreme(ly), excessive(ly) (ultra-modern)",
+			"Beyond"
+		]
+	},
+	{
+		"word": "Ultra-high",
+		"definitions": [
+			"(Of a frequency) in the range 300 to 3000 megahertz"
+		]
+	},
+	{
+		"word": "Ultramarine",
+		"definitions": [
+			"Brilliant blue pigment originally from lapis lazuli",
+			"The color of this pigment"
+		]
+	},
+	{
+		"word": "Ultramicroscopic",
+		"definitions": [
+			"Too small to be seen by an ordinary optical microscope"
+		]
+	},
+	{
+		"word": "Ultramontane",
+		"definitions": [
+			"Situated beyond the Alps",
+			"Advocating supreme papal authority"
+		]
+	},
+	{
+		"word": "Ultrasonic",
+		"definitions": [
+			"Of or using sound waves pitched above the range of human hearing"
+		]
+	},
+	{
+		"word": "Ultrasonics",
+		"definitions": [
+			"The science of ultrasonic waves"
+		]
+	},
+	{
+		"word": "Ultrasound",
+		"definitions": [
+			"Ultrasonic waves"
+		]
+	},
+	{
+		"word": "Ultraviolet",
+		"definitions": [
+			"Of or using radiation with a frequency just beyond that of the violet end of the visible spectrum"
+		]
+	},
+	{
+		"word": "Ultra vires",
+		"definitions": [
+			"Beyond one's legal power or authority"
+		]
+	},
+	{
+		"word": "Ululate",
+		"definitions": [
+			"To howl or wail"
+		]
+	},
+	{
+		"word": "Um",
+		"definitions": [
+			"An interjection expressing hesitation or a pause in speech"
+		]
+	},
+	{
+		"word": "Umbel",
+		"definitions": [
+			"A flower-cluster with stalks springing from a common center and forming a flat or curved surface"
+		]
+	},
+	{
+		"word": "Umbelliferous",
+		"definitions": [
+			"(Of a plant) bearing umbels, such as parsley and carrot"
+		]
+	},
+	{
+		"word": "Umber",
+		"definitions": [
+			"A natural pigment like ochre but darker and browner",
+			"The color of this pigment"
+		]
+	},
+	{
+		"word": "Umbilical",
+		"definitions": [
+			"Of the navel"
+		]
+	},
+	{
+		"word": "Umbilical cord",
+		"definitions": [
+			"A cordlike structure attaching a fetus to the placenta"
+		]
+	},
+	{
+		"word": "Umbilicus",
+		"definitions": [
+			"The navel"
+		]
+	},
+	{
+		"word": "Umbra",
+		"definitions": [
+			"Total shadow, especially that cast on the Earth by the moon during a solar eclipse"
+		]
+	},
+	{
+		"word": "Umbrage",
+		"definitions": [
+			"Offense taken (especially \"take umbrage at\")"
+		]
+	},
+	{
+		"word": "Umbrella",
+		"definitions": [
+			"A collapsible cloth canopy on a central stick, used against rain or strong sun",
+			"Protection or patronage"
+		]
+	},
+	{
+		"word": "Umlaut",
+		"definitions": [
+			"A mark (¨) used over a vowel, especially in Germanic languages, to indicate a vowel change",
+			"Such a vowel change, e.g., German \"mann\" to \"männer,\" English \"man\" to \"men\""
+		]
+	},
+	{
+		"word": "Umpire",
+		"definitions": [
+			"A person enforcing rules and settling disputes, especially in cricket",
+			"To act as an umpire in a game or dispute"
+		]
+	},
+	{
+		"word": "Umpteen",
+		"definitions": [
+			"Indefinitely many; a lot",
+			"Indefinitely many (as a pronoun)"
+		]
+	},
+	{
+		"word": "Un",
+		"definitions": [
+			"Abbreviation for United Nations"
+		]
+	},
+	{
+		"word": "Un-1",
+		"definitions": [
+			"Prefix meaning not (unusable), or reverse of (unselfish)",
+			"Less commonly, added to nouns to mean ‘a lack of’ or ‘the reverse of’ (unrest)"
+		]
+	},
+	{
+		"word": "Un-2",
+		"definitions": [
+			"Prefix forming verbs denoting reversal (undress), deprivation (unmask), or causing to be no longer (unman)"
+		]
+	},
+	{
+		"word": "Un-3",
+		"definitions": [
+			"Prefix in chemistry denoting ‘one’ combined with other numerical roots, such as unnilquadium or ununbium"
+		]
+	},
+	{
+		"word": "Unabashed",
+		"definitions": [
+			"Not abashed"
+		]
+	},
+	{
+		"word": "Unabated",
+		"definitions": [
+			"Not abated; undiminished"
+		]
+	},
+	{
+		"word": "Unable",
+		"definitions": [
+			"Not able"
+		]
+	},
+	{
+		"word": "Unabridged",
+		"definitions": [
+			"Complete; not abridged"
+		]
+	},
+	{
+		"word": "Unacademic",
+		"definitions": [
+			"Not academic"
+		]
+	},
+	{
+		"word": "Unacceptable",
+		"definitions": [
+			"Not acceptable"
+		]
+	},
+	{
+		"word": "Unaccompanied",
+		"definitions": [
+			"Not accompanied",
+			"(Music) Without accompaniment"
+		]
+	},
+	{
+		"word": "Unaccomplished",
+		"definitions": [
+			"Uncompleted",
+			"Lacking accomplishments"
+		]
+	},
+	{
+		"word": "Unaccountable",
+		"definitions": [
+			"Without explanation; strange",
+			"Not answerable for one's actions"
+		]
+	},
+	{
+		"word": "Unaccounted",
+		"definitions": [
+			"Unexplained; excluded"
+		]
+	},
+	{
+		"word": "Unaccustomed",
+		"definitions": [
+			"Not accustomed",
+			"Unusual (unaccustomed silence)"
+		]
+	},
+	{
+		"word": "Unacknowledged",
+		"definitions": [
+			"Not acknowledged"
+		]
+	},
+	{
+		"word": "Unacquainted",
+		"definitions": [
+			"Not acquainted"
+		]
+	},
+	{
+		"word": "Unadopted",
+		"definitions": [
+			"(Of a road) not maintained by a local authority",
+			"Not adopted"
+		]
+	},
+	{
+		"word": "Unadorned",
+		"definitions": [
+			"Plain"
+		]
+	},
+	{
+		"word": "Unadulterated",
+		"definitions": [
+			"Pure",
+			"Complete, utter"
+		]
+	},
+	{
+		"word": "Unadventurous",
+		"definitions": [
+			"Not adventurous"
+		]
+	},
+	{
+		"word": "Unadvised",
+		"definitions": [
+			"Indiscreet; rash",
+			"Without advice"
+		]
+	},
+	{
+		"word": "Unaffected",
+		"definitions": [
+			"(Usually followed by \"by\") not affected",
+			"Free from affectation"
+		]
+	},
+	{
+		"word": "Unaffiliated",
+		"definitions": [
+			"Not affiliated"
+		]
+	},
+	{
+		"word": "Unafraid",
+		"definitions": [
+			"Not afraid"
+		]
+	},
+	{
+		"word": "Unaided",
+		"definitions": [
+			"Without help"
+		]
+	},
+	{
+		"word": "Unalike",
+		"definitions": [
+			"Not alike; different"
+		]
+	},
+	{
+		"word": "Unalloyed",
+		"definitions": [
+			"Complete; utter (unalloyed joy)",
+			"Pure"
+		]
+	},
+	{
+		"word": "Unalterable",
+		"definitions": [
+			"Not alterable"
+		]
+	},
+	{
+		"word": "Unaltered",
+		"definitions": [
+			"Not altered; remaining the same"
+		]
+	},
+	{
+		"word": "Unambiguous",
+		"definitions": [
+			"Not ambiguous; clear or definite in meaning"
+		]
+	},
+	{
+		"word": "Unambitious",
+		"definitions": [
+			"Not ambitious"
+		]
+	},
+	{
+		"word": "Un-American",
+		"definitions": [
+			"Uncharacteristic of Americans",
+			"Contrary to US interests, treasonable"
+		]
+	},
+	{
+		"word": "Unamused",
+		"definitions": [
+			"Not amused"
+		]
+	},
+	{
+		"word": "Unanimous",
+		"definitions": [
+			"All in agreement (committee was unanimous)",
+			"(Of an opinion, vote, etc.) By all without exception (unanimous choice)"
+		]
+	},
+	{
+		"word": "Unannounced",
+		"definitions": [
+			"Not announced; without warning (of arrival, etc.)"
+		]
+	},
+	{
+		"word": "Unanswerable",
+		"definitions": [
+			"Irrefutable (unanswerable case)",
+			"Unable to be answered (unanswerable question)"
+		]
+	},
+	{
+		"word": "Unanswered",
+		"definitions": [
+			"Not answered"
+		]
+	},
+	{
+		"word": "Unanticipated",
+		"definitions": [
+			"Not anticipated"
+		]
+	},
+	{
+		"word": "Unappealing",
+		"definitions": [
+			"Unattractive"
+		]
+	},
+	{
+		"word": "Unappetizing",
+		"definitions": [
+			"Not appetizing"
+		]
+	},
+	{
+		"word": "Unappreciated",
+		"definitions": [
+			"Not appreciated"
+		]
+	},
+	{
+		"word": "Unappreciative",
+		"definitions": [
+			"Not appreciative"
+		]
+	},
+	{
+		"word": "Unapproachable",
+		"definitions": [
+			"Inaccessible",
+			"(Of a person) unfriendly"
+		]
+	},
+	{
+		"word": "Unarmed",
+		"definitions": [
+			"Not armed; without weapons"
+		]
+	},
+	{
+		"word": "Unashamed",
+		"definitions": [
+			"Feeling no guilt",
+			"Blatant; bold"
+		]
+	},
+	{
+		"word": "Unassailable",
+		"definitions": [
+			"Unable to be attacked; impregnable"
+		]
+	},
+	{
+		"word": "Unassuming",
+		"definitions": [
+			"Not pretentious; modest"
+		]
+	},
+	{
+		"word": "Unattached",
+		"definitions": [
+			"Not engaged, married, etc.",
+			"(Often followed by \"to\") not attached, especially to a particular organization, etc."
+		]
+	},
+	{
+		"word": "Unattainable",
+		"definitions": [
+			"Not attainable"
+		]
+	},
+	{
+		"word": "Unattended",
+		"definitions": [
+			"(Usually followed by \"to\") not attended",
+			"(Of a person, vehicle, etc.) Alone"
+		]
+	},
+	{
+		"word": "Unattractive",
+		"definitions": [
+			"Not attractive"
+		]
+	},
+	{
+		"word": "Unattributable",
+		"definitions": [
+			"(Especially of published information) not attributed to a source, etc."
+		]
+	},
+	{
+		"word": "Unauthorized",
+		"definitions": [
+			"Not authorized"
+		]
+	},
+	{
+		"word": "Unavailable",
+		"definitions": [
+			"Not available"
+		]
+	},
+	{
+		"word": "Unavailing",
+		"definitions": [
+			"Achieving nothing"
+		]
+	},
+	{
+		"word": "Unavoidable",
+		"definitions": [
+			"Inevitable"
+		]
+	},
+	{
+		"word": "Unaware",
+		"definitions": [
+			"(Usually followed by \"of\" or \"that\") not aware",
+			"Unperceptive"
+		]
+	},
+	{
+		"word": "Unawares",
+		"definitions": [
+			"Unexpectedly",
+			"Inadvertently"
+		]
+	},
+	{
+		"word": "Unbalanced",
+		"definitions": [
+			"Emotionally unstable",
+			"Biased (unbalanced report)"
+		]
+	},
+	{
+		"word": "Unban",
+		"definitions": [
+			"(Verb) Remove prohibited status from; allow"
+		]
+	},
+	{
+		"word": "Unbar",
+		"definitions": [
+			"(Verb) Unlock, open",
+			"Remove a bar from (a gate, etc.)"
+		]
+	},
+	{
+		"word": "Unbearable",
+		"definitions": [
+			"Unendurable"
+		]
+	},
+	{
+		"word": "Unbeatable",
+		"definitions": [
+			"Not beatable; excelling"
+		]
+	},
+	{
+		"word": "Unbeaten",
+		"definitions": [
+			"Not beaten",
+			"(Of a record, etc.) Not surpassed"
+		]
+	},
+	{
+		"word": "Unbecoming",
+		"definitions": [
+			"Unflattering (unbecoming hat)",
+			"(Usually followed by \"to\" or \"for\") Not fitting; indecorous"
+		]
+	},
+	{
+		"word": "Unbeknown",
+		"definitions": [
+			"Without the knowledge of (unbeknown to us)",
+			"Unknown"
+		]
+	},
+	{
+		"word": "Unbelief",
+		"definitions": [
+			"Lack of belief, especially religious belief",
+			"Unbeliever"
+		]
+	},
+	{
+		"word": "Unbelievable",
+		"definitions": [
+			"Not believable; incredible"
+		]
+	},
+	{
+		"word": "Unbend",
+		"definitions": [
+			"Straighten",
+			"Relax; become affable"
+		]
+	},
+	{
+		"word": "Unbending",
+		"definitions": [
+			"Inflexible",
+			"Firm; austere"
+		]
+	},
+	{
+		"word": "Unbiased",
+		"definitions": [
+			"Impartial"
+		]
+	},
+	{
+		"word": "Unbidden",
+		"definitions": [
+			"Not commanded or invited (arrived unbidden)"
+		]
+	},
+	{
+		"word": "Unbind",
+		"definitions": [
+			"Release; unfasten, untie"
+		]
+	},
+	{
+		"word": "Unbleached",
+		"definitions": [
+			"Not bleached"
+		]
+	},
+	{
+		"word": "Unblemished",
+		"definitions": [
+			"Not blemished"
+		]
+	},
+	{
+		"word": "Unblinking",
+		"definitions": [
+			"Not blinking",
+			"Steadfast; stolid"
+		]
+	},
+	{
+		"word": "Unblock",
+		"definitions": [
+			"Remove an obstruction from"
+		]
+	},
+	{
+		"word": "Unblushing",
+		"definitions": [
+			"Shameless",
+			"Frank"
+		]
+	},
+	{
+		"word": "Unbolt",
+		"definitions": [
+			"Release the bolt of (a door, etc.)"
+		]
+	},
+	{
+		"word": "Unborn",
+		"definitions": [
+			"Not yet, or never to be, born (unborn child; unborn hopes)"
+		]
+	},
+	{
+		"word": "Unbosom",
+		"definitions": [
+			"(Often reflexive) Disclose (thoughts, etc.); unburden oneself"
+		]
+	},
+	{
+		"word": "Unbothered",
+		"definitions": [
+			"Not bothered; unconcerned"
+		]
+	},
+	{
+		"word": "Unbound1",
+		"definitions": [
+			"Not bound",
+			"Unconstrained",
+			"(Of a book) without a binding; having paper covers"
+		]
+	},
+	{
+		"word": "Unbound2",
+		"definitions": [
+			"Past and past participle of *unbind*"
+		]
+	},
+	{
+		"word": "Unbounded",
+		"definitions": [
+			"Infinite (unbounded optimism)"
+		]
+	},
+	{
+		"word": "Unbreakable",
+		"definitions": [
+			"Not breakable"
+		]
+	},
+	{
+		"word": "Unbridgeable",
+		"definitions": [
+			"Unable to be bridged"
+		]
+	},
+	{
+		"word": "Unbridle",
+		"definitions": [
+			"Remove a bridle, constraints, etc., from (a horse, one's tongue, etc.)"
+		]
+	},
+	{
+		"word": "Unbroken",
+		"definitions": [
+			"Not broken",
+			"Untamed (unbroken horse)",
+			"Uninterrupted (unbroken sleep)",
+			"Unsurpassed (unbroken record)"
+		]
+	},
+	{
+		"word": "Unbuckle",
+		"definitions": [
+			"Release the buckle of (a strap, shoe, etc.)"
+		]
+	},
+	{
+		"word": "Unburden",
+		"definitions": [
+			"(Often reflexive; often followed by \"to\") Relieve (oneself, one's conscience, etc.) by confession, etc."
+		]
+	},
+	{
+		"word": "Unbusinesslike",
+		"definitions": [
+			"Not businesslike"
+		]
+	},
+	{
+		"word": "Unbutton",
+		"definitions": [
+			"Unfasten the buttons of (a garment, person, etc.)",
+			"(Absol.) Relax"
+		]
+	},
+	{
+		"word": "Uncalled-for",
+		"definitions": [
+			"(Of a remark, action, etc.) Rude, unnecessary"
+		]
+	},
+	{
+		"word": "Uncanny",
+		"definitions": [
+			"Seemingly supernatural; mysterious"
+		]
+	},
+	{
+		"word": "Uncapped",
+		"definitions": [
+			"(Sport) (Of a player) Not yet awarded his cap or never having been selected to represent his country"
+		]
+	},
+	{
+		"word": "Uncared-for",
+		"definitions": [
+			"Disregarded; neglected"
+		]
+	},
+	{
+		"word": "Uncaring",
+		"definitions": [
+			"Neglectful, lacking compassion"
+		]
+	},
+	{
+		"word": "Unceasing",
+		"definitions": [
+			"Not ceasing; continuous (unceasing effort)"
+		]
+	},
+	{
+		"word": "Uncensored",
+		"definitions": [
+			"Not censored"
+		]
+	},
+	{
+		"word": "Unceremonious",
+		"definitions": [
+			"Abrupt; discourteous",
+			"Informal"
+		]
+	},
+	{
+		"word": "Uncertain",
+		"definitions": [
+			"Not certainly knowing or known (result is uncertain)",
+			"Unreliable",
+			"Changeable, erratic (uncertain weather)"
+		]
+	},
+	{
+		"word": "Unchain",
+		"definitions": [
+			"Remove the chain(s) from; release"
+		]
+	},
+	{
+		"word": "Unchallengeable",
+		"definitions": [
+			"Not challengeable; unassailable"
+		]
+	},
+	{
+		"word": "Unchallenged",
+		"definitions": [
+			"Not challenged"
+		]
+	},
+	{
+		"word": "Unchangeable",
+		"definitions": [
+			"Unable to be changed"
+		]
+	},
+	{
+		"word": "Unchanged",
+		"definitions": [
+			"Not changed; unaltered"
+		]
+	},
+	{
+		"word": "Unchanging",
+		"definitions": [
+			"Not changing; remaining the same"
+		]
+	},
+	{
+		"word": "Unchaperoned",
+		"definitions": [
+			"Without a chaperone"
+		]
+	},
+	{
+		"word": "Uncharacteristic",
+		"definitions": [
+			"Not characteristic"
+		]
+	},
+	{
+		"word": "Uncharitable",
+		"definitions": [
+			"Censorious, severe in judgement"
+		]
+	},
+	{
+		"word": "Uncharted",
+		"definitions": [
+			"Not mapped or surveyed"
+		]
+	},
+	{
+		"word": "Unchecked",
+		"definitions": [
+			"Not checked",
+			"Unrestrained (unchecked violence)"
+		]
+	},
+	{
+		"word": "Unchivalrous",
+		"definitions": [
+			"Not chivalrous"
+		]
+	},
+	{
+		"word": "Unchristian",
+		"definitions": [
+			"Contrary to Christian principles, especially uncaring or selfish"
+		]
+	},
+	{
+		"word": "Uncial",
+		"definitions": [
+			"Of or written in rounded unjoined letters similar to capitals, found in manuscripts of the 4th–8th c.",
+			"Uncial letter, style, or manuscript"
+		]
+	},
+	{
+		"word": "Uncircumcised",
+		"definitions": [
+			"Not circumcised"
+		]
+	},
+	{
+		"word": "Uncivil",
+		"definitions": [
+			"Ill-mannered; impolite"
+		]
+	},
+	{
+		"word": "Uncivilized",
+		"definitions": [
+			"Not civilized",
+			"Rough; uncultured"
+		]
+	},
+	{
+		"word": "Unclaimed",
+		"definitions": [
+			"Not claimed"
+		]
+	},
+	{
+		"word": "Unclasp",
+		"definitions": [
+			"Loosen the clasp(s) of",
+			"Release the grip of (a hand, etc.)"
+		]
+	},
+	{
+		"word": "Unclassified",
+		"definitions": [
+			"Not classified",
+			"(Of state information) Not secret"
+		]
+	},
+	{
+		"word": "Uncle",
+		"definitions": [
+			"A brother of one's father or mother",
+			"Colloquial (form of address by a child to) parent's male friend",
+			"Slang, especially historical: Pawnbroker"
+		]
+	},
+	{
+		"word": "-uncle",
+		"definitions": [
+			"Suffix forming nouns, usually diminutives (carbuncle)"
+		]
+	},
+	{
+		"word": "Unclean",
+		"definitions": [
+			"Not clean",
+			"Unchaste",
+			"Religiously impure; forbidden"
+		]
+	},
+	{
+		"word": "Unclear",
+		"definitions": [
+			"Not clear or easy to understand",
+			"(Of a person) Uncertain"
+		]
+	},
+	{
+		"word": "Unclench",
+		"definitions": [
+			"Release (clenched hands, etc.)",
+			"(Of hands, etc.) Become relaxed or open"
+		]
+	},
+	{
+		"word": "Uncle Sam",
+		"definitions": [
+			"Colloquial: US government"
+		]
+	},
+	{
+		"word": "Unclothe",
+		"definitions": [
+			"(Often followed by “thing”) Remove clothes, leaves, etc., from",
+			"Expose, reveal"
+		]
+	},
+	{
+		"word": "Unclouded",
+		"definitions": [
+			"Clear; bright",
+			"Untroubled (unclouded serenity)"
+		]
+	},
+	{
+		"word": "Uncluttered",
+		"definitions": [
+			"Not cluttered; austere, simple"
+		]
+	},
+	{
+		"word": "Uncoil",
+		"definitions": [
+			"Unwind"
+		]
+	},
+	{
+		"word": "Uncoloured",
+		"definitions": [
+			"Having no colour",
+			"Not influenced; impartial"
+		]
+	},
+	{
+		"word": "Uncombed",
+		"definitions": [
+			"(Of hair or a person) Not combed"
+		]
+	},
+	{
+		"word": "Uncomfortable",
+		"definitions": [
+			"Not comfortable",
+			"Uneasy; disquieting (uncomfortable silence)"
+		]
+	},
+	{
+		"word": "Uncommercial",
+		"definitions": [
+			"Not commercial"
+		]
+	},
+	{
+		"word": "Uncommitted",
+		"definitions": [
+			"Not committed",
+			"Not politically attached"
+		]
+	},
+	{
+		"word": "Uncommon",
+		"definitions": [
+			"Unusual",
+			"Remarkably great, etc. (uncommon appetite)"
+		]
+	},
+	{
+		"word": "Uncommunicative",
+		"definitions": [
+			"Taciturn"
+		]
+	},
+	{
+		"word": "Uncompetitive",
+		"definitions": [
+			"Not competitive"
+		]
+	},
+	{
+		"word": "Uncomplaining",
+		"definitions": [
+			"Not complaining; resigned"
+		]
+	},
+	{
+		"word": "Uncompleted",
+		"definitions": [
+			"Not completed; incomplete"
+		]
+	},
+	{
+		"word": "Uncomplicated",
+		"definitions": [
+			"Simple; straightforward"
+		]
+	},
+	{
+		"word": "Uncomplimentary",
+		"definitions": [
+			"Insulting"
+		]
+	},
+	{
+		"word": "Uncomprehending",
+		"definitions": [
+			"Not comprehending"
+		]
+	},
+	{
+		"word": "Uncompromising",
+		"definitions": [
+			"Stubborn",
+			"Unyielding"
+		]
+	},
+	{
+		"word": "Unconcealed",
+		"definitions": [
+			"Not concealed",
+			"Obvious"
+		]
+	},
+	{
+		"word": "Unconcern",
+		"definitions": [
+			"Calmness",
+			"Indifference",
+			"Apathy"
+		]
+	},
+	{
+		"word": "Unconditional",
+		"definitions": [
+			"Not subject to conditions",
+			"Complete (unconditional surrender)"
+		]
+	},
+	{
+		"word": "Unconditioned reflex",
+		"definitions": [
+			"Instinctive response to a stimulus"
+		]
+	},
+	{
+		"word": "Unconfined",
+		"definitions": [
+			"Not confined",
+			"Boundless"
+		]
+	},
+	{
+		"word": "Unconfirmed",
+		"definitions": [
+			"Not confirmed"
+		]
+	},
+	{
+		"word": "Uncongenial",
+		"definitions": [
+			"Not congenial"
+		]
+	},
+	{
+		"word": "Unconnected",
+		"definitions": [
+			"Not physically joined",
+			"Not connected or associated",
+			"Disconnected (unconnected ideas)"
+		]
+	},
+	{
+		"word": "Unconquerable",
+		"definitions": [
+			"Not conquerable"
+		]
+	},
+	{
+		"word": "Unconscionable",
+		"definitions": [
+			"Without or contrary to conscience",
+			"Excessive (unconscionable waste)"
+		]
+	},
+	{
+		"word": "Unconscious",
+		"definitions": [
+			"Not conscious (fell unconscious; unconscious prejudice)",
+			"Normally inaccessible part of the mind affecting the emotions"
+		]
+	},
+	{
+		"word": "Unconsidered",
+		"definitions": [
+			"Not considered",
+			"Disregarded",
+			"Not premeditated"
+		]
+	},
+	{
+		"word": "Unconstitutional",
+		"definitions": [
+			"In breach of a political constitution or procedural rules"
+		]
+	},
+	{
+		"word": "Unconstrained",
+		"definitions": [
+			"Not constrained or compelled"
+		]
+	},
+	{
+		"word": "Uncontaminated",
+		"definitions": [
+			"Not contaminated"
+		]
+	},
+	{
+		"word": "Uncontested",
+		"definitions": [
+			"Not contested"
+		]
+	},
+	{
+		"word": "Uncontrollable",
+		"definitions": [
+			"Not controllable"
+		]
+	},
+	{
+		"word": "Uncontrolled",
+		"definitions": [
+			"Not controlled",
+			"Unrestrained"
+		]
+	},
+	{
+		"word": "Uncontroversial",
+		"definitions": [
+			"Not controversial"
+		]
+	},
+	{
+		"word": "Unconventional",
+		"definitions": [
+			"Unusual",
+			"Unorthodox"
+		]
+	},
+	{
+		"word": "Unconvinced",
+		"definitions": [
+			"Not convinced"
+		]
+	},
+	{
+		"word": "Unconvincing",
+		"definitions": [
+			"Not convincing"
+		]
+	},
+	{
+		"word": "Uncooked",
+		"definitions": [
+			"Not cooked",
+			"Raw"
+		]
+	},
+	{
+		"word": "Uncooperative",
+		"definitions": [
+			"Not cooperative"
+		]
+	},
+	{
+		"word": "Uncoordinated",
+		"definitions": [
+			"Not coordinated",
+			"Clumsy"
+		]
+	},
+	{
+		"word": "Uncork",
+		"definitions": [
+			"Draw the cork from (a bottle)",
+			"Vent (feelings, etc.)"
+		]
+	},
+	{
+		"word": "Uncorroborated",
+		"definitions": [
+			"Not corroborated"
+		]
+	},
+	{
+		"word": "Uncountable",
+		"definitions": [
+			"Inestimable, immense (uncountable wealth)",
+			"(Of a noun) Not used in the plural or with the indefinite article (e.g. happiness, milk)"
+		]
+	},
+	{
+		"word": "Uncouple",
+		"definitions": [
+			"Release from couplings or couples"
+		]
+	},
+	{
+		"word": "Uncouth",
+		"definitions": [
+			"Uncultured, rough"
+		]
+	},
+	{
+		"word": "Uncover",
+		"definitions": [
+			"Remove a cover or covering from",
+			"Disclose (uncovered the truth)"
+		]
+	},
+	{
+		"word": "Uncritical",
+		"definitions": [
+			"Not critical",
+			"Complacently accepting",
+			"Not in accordance with the principles of criticism"
+		]
+	},
+	{
+		"word": "Uncross",
+		"definitions": [
+			"Remove from a crossed position",
+			"(As uncrossed adj.) (Of a cheque) Not crossed"
+		]
+	},
+	{
+		"word": "Uncrown",
+		"definitions": [
+			"Deprive of a crown, a position, etc.",
+			"(As uncrowned adj.) A not crowned",
+			"Having the status but not the name of (uncrowned king of boxing)"
+		]
+	},
+	{
+		"word": "Unction",
+		"definitions": [
+			"Anointing with oil, etc. as a religious rite or medical treatment",
+			"Oil, ointment, etc. so used",
+			"Soothing words or thought",
+			"Excessive or insincere flattery",
+			"Emotional fervency",
+			"Pretence of this"
+		]
+	},
+	{
+		"word": "Unctuous",
+		"definitions": [
+			"Unpleasantly flattering",
+			"Oily",
+			"Greasy or soapy"
+		]
+	},
+	{
+		"word": "Uncultivated",
+		"definitions": [
+			"Not cultivated"
+		]
+	},
+	{
+		"word": "Uncured",
+		"definitions": [
+			"Not cured",
+			"(Of pork, etc.) Not salted or smoked"
+		]
+	},
+	{
+		"word": "Uncurl",
+		"definitions": [
+			"Straighten out, untwist"
+		]
+	},
+	{
+		"word": "Uncut",
+		"definitions": [
+			"Not cut",
+			"(Of a book) With the pages sealed or untrimmed",
+			"(Of a book, film, etc.) Complete",
+			"Uncensored",
+			"(Of especially a diamond) Not shaped",
+			"(Of fabric) With a looped pile"
+		]
+	},
+	{
+		"word": "Undamaged",
+		"definitions": [
+			"Intact"
+		]
+	},
+	{
+		"word": "Undated",
+		"definitions": [
+			"Without a date"
+		]
+	},
+	{
+		"word": "Undaunted",
+		"definitions": [
+			"Not daunted"
+		]
+	},
+	{
+		"word": "Undeceive",
+		"definitions": [
+			"(Often followed by \"of\") Free (a person) from a misconception, deception, or error"
+		]
+	},
+	{
+		"word": "Undecided",
+		"definitions": [
+			"Not settled",
+			"Irresolute"
+		]
+	},
+	{
+		"word": "Undeclared",
+		"definitions": [
+			"Not declared"
+		]
+	},
+	{
+		"word": "Undefeated",
+		"definitions": [
+			"Not defeated"
+		]
+	},
+	{
+		"word": "Undefended",
+		"definitions": [
+			"Not defended"
+		]
+	},
+	{
+		"word": "Undefined",
+		"definitions": [
+			"Not defined",
+			"Vague, indefinite"
+		]
+	},
+	{
+		"word": "Undemanding",
+		"definitions": [
+			"Not demanding",
+			"Easily done or satisfied (undemanding reading)"
+		]
+	},
+	{
+		"word": "Undemocratic",
+		"definitions": [
+			"Not democratic"
+		]
+	},
+	{
+		"word": "Undemonstrative",
+		"definitions": [
+			"Not emotionally expressive",
+			"Reserved"
+		]
+	},
+	{
+		"word": "Undeniable",
+		"definitions": [
+			"Indisputable",
+			"Certain"
+		]
+	},
+	{
+		"word": "Under",
+		"definitions": [
+			"In or to a position lower than",
+			"Below",
+			"Beneath (under the table)",
+			"Inferior to",
+			"Less than (no-one under a major; is under 18; was under £20)",
+			"Subject to",
+			"Controlled by (under constraint; born under Saturn; prospered under him)",
+			"Undergoing (is under repair)",
+			"Classified or subsumed in (under two headings)",
+			"At the foot of or sheltered by (under the cliff)",
+			"Planted with (a crop)",
+			"Powered by (sail, steam, etc.)"
+		]
+	},
+	{
+		"word": "Underachieve",
+		"definitions": [
+			"Do less well than might be expected (esp. academically)"
+		]
+	},
+	{
+		"word": "Underact",
+		"definitions": [
+			"Act with insufficient force"
+		]
+	},
+	{
+		"word": "Under-age",
+		"definitions": [
+			"Not old enough"
+		]
+	},
+	{
+		"word": "Underarm",
+		"definitions": [
+			"Sport, esp. Cricket with the arm below shoulder-level",
+			"Under the arm (underarm seam)",
+			"In the armpit"
+		]
+	},
+	{
+		"word": "Underbelly",
+		"definitions": [
+			"Undersurface of an animal, vehicle, etc., esp. as vulnerable to attack"
+		]
+	},
+	{
+		"word": "Underbid",
+		"definitions": [
+			"Make a lower bid than",
+			"Bid less on (one's hand) than warranted"
+		]
+	},
+	{
+		"word": "Undercarriage",
+		"definitions": [
+			"Wheeled retractable structure beneath an aircraft, used for landing, etc.",
+			"Supporting frame of a vehicle"
+		]
+	},
+	{
+		"word": "Undercharge",
+		"definitions": [
+			"Charge too little to (a person)",
+			"Give too little charge to (a gun, electric battery, etc.)"
+		]
+	},
+	{
+		"word": "Underclothes",
+		"definitions": [
+			"Clothes worn under others, esp. next to the skin"
+		]
+	},
+	{
+		"word": "Underclothing",
+		"definitions": [
+			"Underclothes collectively"
+		]
+	},
+	{
+		"word": "Undercoat",
+		"definitions": [
+			"A layer of paint under a topcoat",
+			"Animal's under layer of hair, etc."
+		]
+	},
+	{
+		"word": "Undercook",
+		"definitions": [
+			"Cook insufficiently"
+		]
+	},
+	{
+		"word": "Undercover",
+		"definitions": [
+			"Surreptitious",
+			"Spying incognito, esp. by infiltration (undercover agent)"
+		]
+	},
+	{
+		"word": "Undercroft",
+		"definitions": [
+			"Crypt"
+		]
+	},
+	{
+		"word": "Undercurrent",
+		"definitions": [
+			"Current below the surface",
+			"Underlying often contrary feeling, influence, etc. (undercurrent of protest)"
+		]
+	},
+	{
+		"word": "Undercut",
+		"definitions": [
+			"Sell or work at a lower price than",
+			"Strike (a ball) to make it rise high",
+			"Cut away the part below",
+			"Undermine",
+			"Underside of sirloin"
+		]
+	},
+	{
+		"word": "Underdeveloped",
+		"definitions": [
+			"Not fully developed",
+			"Immature",
+			"(Of a country, etc.) With unexploited potential"
+		]
+	},
+	{
+		"word": "Underdog",
+		"definitions": [
+			"Oppressed person",
+			"Loser in a fight"
+		]
+	},
+	{
+		"word": "Underdone",
+		"definitions": [
+			"Undercooked"
+		]
+	},
+	{
+		"word": "Underemployed",
+		"definitions": [
+			"Not fully occupied"
+		]
+	},
+	{
+		"word": "Underestimate",
+		"definitions": [
+			"Form too low an estimate of",
+			"Estimate that is too low"
+		]
+	},
+	{
+		"word": "Underexpose",
+		"definitions": [
+			"Expose (film) for too short a time"
+		]
+	},
+	{
+		"word": "Underfed",
+		"definitions": [
+			"Malnourished"
+		]
+	},
+	{
+		"word": "Underfelt",
+		"definitions": [
+			"Felt laid under a carpet"
+		]
+	},
+	{
+		"word": "Underfloor",
+		"definitions": [
+			"Beneath the floor (underfloor heating)"
+		]
+	},
+	{
+		"word": "Underfoot",
+		"definitions": [
+			"Under one's feet",
+			"On the ground"
+		]
+	},
+	{
+		"word": "Underfunded",
+		"definitions": [
+			"Provided with insufficient money"
+		]
+	},
+	{
+		"word": "Undergarment",
+		"definitions": [
+			"Piece of underclothing"
+		]
+	},
+	{
+		"word": "Undergo",
+		"definitions": [
+			"Be subjected to",
+			"Suffer",
+			"Endure"
+		]
+	},
+	{
+		"word": "Undergraduate",
+		"definitions": [
+			"Person studying for a first degree"
+		]
+	},
+	{
+		"word": "Underground",
+		"definitions": [
+			"Beneath the ground",
+			"In or into secrecy or hiding",
+			"Situated underground",
+			"Secret, subversive",
+			"Unconventional (underground literature)",
+			"Underground railway",
+			"Secret subversive group or activity"
+		]
+	},
+	{
+		"word": "Undergrowth",
+		"definitions": [
+			"Dense shrubs, etc., esp. in a wood"
+		]
+	},
+	{
+		"word": "Underhand",
+		"definitions": [
+			"Deceitful",
+			"Crafty",
+			"Secret",
+			"Sport, esp. Cricket underarm"
+		]
+	},
+	{
+		"word": "Underlay",
+		"definitions": [
+			"Lay something under (a thing) to support or raise it",
+			"Thing so laid (esp. under a carpet)"
+		]
+	},
+	{
+		"word": "Underlay",
+		"definitions": [
+			"Past of *underlie"
+		]
+	},
+	{
+		"word": "Underlie",
+		"definitions": [
+			"Lie under (a stratum, etc.)",
+			"(Esp. as underlying adj.) Be the basis of (a doctrine, conduct, etc.)",
+			"Exist beneath the superficial aspect of"
+		]
+	},
+	{
+		"word": "Underline",
+		"definitions": [
+			"Draw a line under (a word, etc.) to give emphasis, indicate italic type, etc.",
+			"Emphasize, stress"
+		]
+	},
+	{
+		"word": "Underling",
+		"definitions": [
+			"Subordinate (usu. derog.)"
+		]
+	},
+	{
+		"word": "Underlying",
+		"definitions": [
+			"Present participle of *underlie"
+		]
+	},
+	{
+		"word": "Undermanned",
+		"definitions": [
+			"Having an insufficient crew or staff"
+		]
+	},
+	{
+		"word": "Undermentioned",
+		"definitions": [
+			"Mentioned later in a book, etc."
+		]
+	},
+	{
+		"word": "Undermine",
+		"definitions": [
+			"Injure (a person, reputation, health, etc.) secretly or insidiously",
+			"Wear away the base of (banks were undermined)",
+			"Make an excavation under"
+		]
+	},
+	{
+		"word": "Underneath",
+		"definitions": [
+			"At or to a lower place than, below",
+			"On the inside of",
+			"At or to a lower place",
+			"Inside",
+			"Lower surface or part",
+			"Lower"
+		]
+	},
+	{
+		"word": "Undernourished",
+		"definitions": [
+			"Insufficiently nourished"
+		]
+	},
+	{
+		"word": "Underpaid",
+		"definitions": [
+			"Past and past part. of *underpay"
+		]
+	},
+	{
+		"word": "Underpants",
+		"definitions": [
+			"Undergarment, esp. men's, covering the genitals and buttocks"
+		]
+	},
+	{
+		"word": "Underpart",
+		"definitions": [
+			"Lower or subordinate part"
+		]
+	},
+	{
+		"word": "Underpass",
+		"definitions": [
+			"Road, etc., passing under another",
+			"Subway"
+		]
+	},
+	{
+		"word": "Underpay",
+		"definitions": [
+			"Pay too little to (a person) or for (a thing)"
+		]
+	},
+	{
+		"word": "Underpin",
+		"definitions": [
+			"Support from below with masonry, etc.",
+			"Support, strengthen"
+		]
+	},
+	{
+		"word": "Underplay",
+		"definitions": [
+			"Make little of",
+			"Theatr. Underact"
+		]
+	},
+	{
+		"word": "Underpopulated",
+		"definitions": [
+			"Having an insufficient or very small population"
+		]
+	},
+	{
+		"word": "Underprice",
+		"definitions": [
+			"Price lower than what is usual or appropriate"
+		]
+	},
+	{
+		"word": "Underprivileged",
+		"definitions": [
+			"Less privileged than others",
+			"Having below average income, rights, etc."
+		]
+	},
+	{
+		"word": "Underrate",
+		"definitions": [
+			"Have too low an opinion of"
+		]
+	},
+	{
+		"word": "Underscore",
+		"definitions": [
+			"= *underline"
+		]
+	},
+	{
+		"word": "Undersea",
+		"definitions": [
+			"Below the sea or its surface"
+		]
+	},
+	{
+		"word": "Underseal",
+		"definitions": [
+			"Seal the underpart of (esp. a vehicle against rust, etc.)",
+			"Protective coating for this"
+		]
+	},
+	{
+		"word": "Under-secretary",
+		"definitions": [
+			"Subordinate official, esp. a junior minister or senior civil servant"
+		]
+	},
+	{
+		"word": "Undersell",
+		"definitions": [
+			"Sell at a lower price than (another seller)"
+		]
+	},
+	{
+		"word": "Undersexed",
+		"definitions": [
+			"Having unusually weak sexual desires"
+		]
+	},
+	{
+		"word": "Undershirt",
+		"definitions": [
+			"Esp. Us man's or boy's vest"
+		]
+	},
+	{
+		"word": "Undershoot",
+		"definitions": [
+			"Land short of (a runway, etc.)"
+		]
+	},
+	{
+		"word": "Undershot",
+		"definitions": [
+			"(Of a water-wheel) turned by water flowing under it",
+			"(Of a lower jaw) projecting beyond the upper jaw"
+		]
+	},
+	{
+		"word": "Underside",
+		"definitions": [
+			"Lower or under side or surface"
+		]
+	},
+	{
+		"word": "Undersigned",
+		"definitions": [
+			"Whose signature is appended (we, the undersigned)"
+		]
+	},
+	{
+		"word": "Undersized",
+		"definitions": [
+			"Smaller than average"
+		]
+	},
+	{
+		"word": "Underskirt",
+		"definitions": [
+			"Petticoat"
+		]
+	},
+	{
+		"word": "Underslung",
+		"definitions": [
+			"Supported from above"
+		]
+	},
+	{
+		"word": "Undersold",
+		"definitions": [
+			"Past and past part. of *undersell"
+		]
+	},
+	{
+		"word": "Underspend",
+		"definitions": [
+			"(Usu. absol.) Spend less than (the expected amount), or too little"
+		]
+	},
+	{
+		"word": "Understaffed",
+		"definitions": [
+			"Having too few staff"
+		]
+	},
+	{
+		"word": "Understand",
+		"definitions": [
+			"Perceive the meaning of (words, a person, a language, a subject, etc.)",
+			"Perceive the significance or cause of (do not understand why he came)",
+			"(Often absol.) Sympathize with, know how to deal with (quite understand your difficulty)",
+			"(Often foll. by that or absol.) Infer, take as implied (am I to understand that you refuse?)"
+		]
+	},
+	{
+		"word": "Understanding",
+		"definitions": [
+			"Ability to understand or think",
+			"Intelligence",
+			"Individual's perception of a situation, etc.",
+			"Agreement, esp. informal (had an understanding)",
+			"Sympathy",
+			"Tolerance",
+			"Having understanding or insight",
+			"Sympathetic"
+		]
+	},
+	{
+		"word": "Understate",
+		"definitions": [
+			"Express mildly or in a restrained way",
+			"Represent as less than it actually is"
+		]
+	},
+	{
+		"word": "Understeer",
+		"definitions": [
+			"Tendency of a vehicle not to turn sharply enough"
+		]
+	},
+	{
+		"word": "Understood",
+		"definitions": [
+			"Past and past part. of *understand"
+		]
+	},
+	{
+		"word": "Understudy",
+		"definitions": [
+			"Esp. Theatr. person ready to take on another's role, etc., when required",
+			"Study (a role, etc.) thus",
+			"Act as an understudy to"
+		]
+	},
+	{
+		"word": "Undersubscribed",
+		"definitions": [
+			"Without sufficient subscribers, participants, etc."
+		]
+	},
+	{
+		"word": "Undersurface",
+		"definitions": [
+			"Lower or under surface"
+		]
+	},
+	{
+		"word": "Undertake",
+		"definitions": [
+			"Agree to perform or be responsible for",
+			"Engage in, enter upon (work, a responsibility, etc.)",
+			"(Usu. foll. by to + infin.) Promise",
+			"Guarantee (undertake that he is innocent)"
+		]
+	},
+	{
+		"word": "Undertaker",
+		"definitions": [
+			"Professional funeral organizer"
+		]
+	},
+	{
+		"word": "Undertaking",
+		"definitions": [
+			"Work, etc., undertaken, enterprise (serious undertaking)",
+			"Promise",
+			"Professional funeral management"
+		]
+	},
+	{
+		"word": "Underthings",
+		"definitions": [
+			"Underclothes"
+		]
+	},
+	{
+		"word": "Undertone",
+		"definitions": [
+			"Subdued tone or colour",
+			"Underlying quality or feeling"
+		]
+	},
+	{
+		"word": "Undertook",
+		"definitions": [
+			"Past of *undertake"
+		]
+	},
+	{
+		"word": "Undertow",
+		"definitions": [
+			"Current below the surface of the sea contrary to the surface current"
+		]
+	},
+	{
+		"word": "Underused",
+		"definitions": [
+			"Not used to capacity"
+		]
+	},
+	{
+		"word": "Undervalue",
+		"definitions": [
+			"Value insufficiently",
+			"Underestimate"
+		]
+	},
+	{
+		"word": "Undervest",
+		"definitions": [
+			"Vest"
+		]
+	},
+	{
+		"word": "Underwater",
+		"definitions": [
+			"Situated or done under water",
+			"Under water"
+		]
+	},
+	{
+		"word": "Underwear",
+		"definitions": [
+			"Underclothes"
+		]
+	},
+	{
+		"word": "Underweight",
+		"definitions": [
+			"Below normal weight",
+			"Insufficient weight"
+		]
+	},
+	{
+		"word": "Underwent",
+		"definitions": [
+			"Past of *undergo"
+		]
+	},
+	{
+		"word": "Underwhelm",
+		"definitions": [
+			"Joc. Fail to impress"
+		]
+	},
+	{
+		"word": "Underworld",
+		"definitions": [
+			"Those who live by organized crime and vice",
+			"Mythical abode of the dead under the earth"
+		]
+	},
+	{
+		"word": "Underwrite",
+		"definitions": [
+			"Sign and accept liability under (an insurance policy, esp. on shipping, etc.)",
+			"Accept (liability) in this way",
+			"Undertake to finance or support",
+			"Engage to buy all the unsold stock in (a company, etc.)"
+		]
+	},
+	{
+		"word": "Undescended",
+		"definitions": [
+			"(Of a testicle) not descending normally into the scrotum"
+		]
+	},
+	{
+		"word": "Undeserved",
+		"definitions": [
+			"Not deserved"
+		]
+	},
+	{
+		"word": "Undeserving",
+		"definitions": [
+			"Not deserving"
+		]
+	},
+	{
+		"word": "Undesigned",
+		"definitions": [
+			"Unintentional"
+		]
+	},
+	{
+		"word": "Undesirable",
+		"definitions": [
+			"Objectionable, unpleasant",
+			"Undesirable person"
+		]
+	},
+	{
+		"word": "Undetectable",
+		"definitions": [
+			"Not detectable"
+		]
+	},
+	{
+		"word": "Undetected",
+		"definitions": [
+			"Not detected"
+		]
+	},
+	{
+		"word": "Undetermined",
+		"definitions": [
+			"= *undecided"
+		]
+	},
+	{
+		"word": "Undeterred",
+		"definitions": [
+			"Not deterred"
+		]
+	},
+	{
+		"word": "Undeveloped",
+		"definitions": [
+			"Not developed"
+		]
+	},
+	{
+		"word": "Undid",
+		"definitions": [
+			"Past of *undo"
+		]
+	},
+	{
+		"word": "Undies",
+		"definitions": [
+			"Colloq. (esp. Women's) underclothes"
+		]
+	},
+	{
+		"word": "Undifferentiated",
+		"definitions": [
+			"Not differentiated",
+			"Amorphous"
+		]
+	},
+	{
+		"word": "Undigested",
+		"definitions": [
+			"Not digested",
+			"(Of facts, etc.) Not properly arranged or considered"
+		]
+	},
+	{
+		"word": "Undignified",
+		"definitions": [
+			"Lacking dignity"
+		]
+	},
+	{
+		"word": "Undiluted",
+		"definitions": [
+			"Not diluted",
+			"Complete, utter"
+		]
+	},
+	{
+		"word": "Undiminished",
+		"definitions": [
+			"Not diminished or lessened"
+		]
+	},
+	{
+		"word": "Undine",
+		"definitions": [
+			"Female water-spirit"
+		]
+	},
+	{
+		"word": "Undiplomatic",
+		"definitions": [
+			"Tactless"
+		]
+	},
+	{
+		"word": "Undisciplined",
+		"definitions": [
+			"Lacking discipline",
+			"Not disciplined"
+		]
+	},
+	{
+		"word": "Undisclosed",
+		"definitions": [
+			"Not revealed or made known"
+		]
+	},
+	{
+		"word": "Undiscovered",
+		"definitions": [
+			"Not discovered"
+		]
+	},
+	{
+		"word": "Undiscriminating",
+		"definitions": [
+			"Lacking good judgement"
+		]
+	},
+	{
+		"word": "Undisguised",
+		"definitions": [
+			"Not disguised",
+			"Open"
+		]
+	},
+	{
+		"word": "Undismayed",
+		"definitions": [
+			"Not dismayed"
+		]
+	},
+	{
+		"word": "Undisputed",
+		"definitions": [
+			"Not disputed or called in question"
+		]
+	},
+	{
+		"word": "Undistinguished",
+		"definitions": [
+			"Not distinguished",
+			"Mediocre"
+		]
+	},
+	{
+		"word": "Undisturbed",
+		"definitions": [
+			"Not disturbed or interfered with"
+		]
+	},
+	{
+		"word": "Undivided",
+		"definitions": [
+			"Not divided or shared",
+			"Whole, entire"
+		]
+	},
+	{
+		"word": "Undo",
+		"definitions": [
+			"Unfasten (a coat, button, parcel, etc.), or the clothing of (a person)",
+			"Annul, cancel",
+			"Ruin the prospects, reputation, or morals of"
+		]
+	},
+	{
+		"word": "Undoing",
+		"definitions": [
+			"Ruin or cause of ruin",
+			"Reversing of an action, etc.",
+			"Opening or unfastening"
+		]
+	},
+	{
+		"word": "Undone",
+		"definitions": [
+			"Not done",
+			"Not fastened",
+			"Archaic ruined"
+		]
+	},
+	{
+		"word": "Undoubted",
+		"definitions": [
+			"Certain, not questioned"
+		]
+	},
+	{
+		"word": "Undreamed",
+		"definitions": [
+			"(Often foll. by of) Not dreamed, thought, or imagined"
+		]
+	},
+	{
+		"word": "Undress",
+		"definitions": [
+			"Take off one's clothes",
+			"Take the clothes off (a person)",
+			"Ordinary or casual dress, esp. as opposed to full dress or uniform",
+			"Naked or scantily clad state"
+		]
+	},
+	{
+		"word": "Undressed",
+		"definitions": [
+			"Not, or no longer, dressed",
+			"(Of food) Without a dressing",
+			"(Of leather, etc.) Not treated"
+		]
+	},
+	{
+		"word": "Undrinkable",
+		"definitions": [
+			"Unfit for drinking"
+		]
+	},
+	{
+		"word": "Undue",
+		"definitions": [
+			"Excessive, disproportionate"
+		]
+	},
+	{
+		"word": "Undulate",
+		"definitions": [
+			"(Cause to) Have a wavy motion or look"
+		]
+	},
+	{
+		"word": "Undying",
+		"definitions": [
+			"Immortal",
+			"Never-ending"
+		]
+	},
+	{
+		"word": "Unearned",
+		"definitions": [
+			"Not earned"
+		]
+	},
+	{
+		"word": "Unearned income",
+		"definitions": [
+			"Income from investments, etc. rather than from working"
+		]
+	},
+	{
+		"word": "Unearth",
+		"definitions": [
+			"Discover by searching, digging, or rummaging"
+		]
+	},
+	{
+		"word": "Unearthly",
+		"definitions": [
+			"Supernatural, mysterious",
+			"Colloq. Absurdly early or inconvenient"
+		]
+	},
+	{
+		"word": "Unease",
+		"definitions": [
+			"Nervousness, anxiety"
+		]
+	},
+	{
+		"word": "Uneasy",
+		"definitions": [
+			"Nervous, anxious",
+			"Disturbing"
+		]
+	},
+	{
+		"word": "Uneatable",
+		"definitions": [
+			"Not able to be eaten"
+		]
+	},
+	{
+		"word": "Uneaten",
+		"definitions": [
+			"Left not eaten"
+		]
+	},
+	{
+		"word": "Uneconomic",
+		"definitions": [
+			"Not economic; unprofitable"
+		]
+	},
+	{
+		"word": "Uneconomical",
+		"definitions": [
+			"Not economical; wasteful"
+		]
+	},
+	{
+		"word": "Unedifying",
+		"definitions": [
+			"Distasteful, degrading"
+		]
+	},
+	{
+		"word": "Unedited",
+		"definitions": [
+			"Not edited"
+		]
+	},
+	{
+		"word": "Uneducated",
+		"definitions": [
+			"Not educated"
+		]
+	},
+	{
+		"word": "Unembarrassed",
+		"definitions": [
+			"Not embarrassed"
+		]
+	},
+	{
+		"word": "Unemotional",
+		"definitions": [
+			"Not emotional; lacking emotion"
+		]
+	},
+	{
+		"word": "Unemphatic",
+		"definitions": [
+			"Not emphatic"
+		]
+	},
+	{
+		"word": "Unemployable",
+		"definitions": [
+			"Unfit for paid employment"
+		]
+	},
+	{
+		"word": "Unemployed",
+		"definitions": [
+			"Out of work",
+			"Not in use"
+		]
+	},
+	{
+		"word": "Unemployment",
+		"definitions": [
+			"Being unemployed",
+			"Lack of employment in a country, etc."
+		]
+	},
+	{
+		"word": "Unemployment benefit",
+		"definitions": [
+			"State payment made to an unemployed person"
+		]
+	},
+	{
+		"word": "Unencumbered",
+		"definitions": [
+			"Of an estate) Not having liabilities (e.g. A mortgage)",
+			"Free; not burdened"
+		]
+	},
+	{
+		"word": "Unending",
+		"definitions": [
+			"Endless or seemingly endless"
+		]
+	},
+	{
+		"word": "Unendurable",
+		"definitions": [
+			"Too bad to be borne"
+		]
+	},
+	{
+		"word": "Unenlightened",
+		"definitions": [
+			"Not enlightened"
+		]
+	},
+	{
+		"word": "Unenterprising",
+		"definitions": [
+			"Not enterprising"
+		]
+	},
+	{
+		"word": "Unenthusiastic",
+		"definitions": [
+			"Not enthusiastic"
+		]
+	},
+	{
+		"word": "Unenviable",
+		"definitions": [
+			"Not enviable"
+		]
+	},
+	{
+		"word": "Unequal",
+		"definitions": [
+			"(Often foll. by to) Not equal",
+			"Of varying quality",
+			"Unfair"
+		]
+	},
+	{
+		"word": "Unequaled",
+		"definitions": [
+			"Superior to all others"
+		]
+	},
+	{
+		"word": "Unequalled",
+		"definitions": [
+			"Superior to all others"
+		]
+	},
+	{
+		"word": "Unequivocal",
+		"definitions": [
+			"Not ambiguous, plain, unmistakable"
+		]
+	},
+	{
+		"word": "Unerring",
+		"definitions": [
+			"Not erring; true, certain"
+		]
+	},
+	{
+		"word": "Unesco",
+		"definitions": [
+			"United Nations Educational, Scientific, and Cultural Organization"
+		]
+	},
+	{
+		"word": "Unethical",
+		"definitions": [
+			"Not ethical, esp. unscrupulous or unprofessional"
+		]
+	},
+	{
+		"word": "Uneven",
+		"definitions": [
+			"Not level or smooth",
+			"Of variable quality, etc.",
+			"(Of a contest) Unequal"
+		]
+	},
+	{
+		"word": "Uneventful",
+		"definitions": [
+			"Not eventful"
+		]
+	},
+	{
+		"word": "Unexampled",
+		"definitions": [
+			"Without precedent"
+		]
+	},
+	{
+		"word": "Unexceptionable",
+		"definitions": [
+			"Entirely satisfactory"
+		]
+	},
+	{
+		"word": "Unexceptional",
+		"definitions": [
+			"Usual, normal, ordinary"
+		]
+	},
+	{
+		"word": "Unexciting",
+		"definitions": [
+			"Not exciting; dull"
+		]
+	},
+	{
+		"word": "Unexpected",
+		"definitions": [
+			"Not expected; surprising"
+		]
+	},
+	{
+		"word": "Unexplained",
+		"definitions": [
+			"Not explained"
+		]
+	},
+	{
+		"word": "Unexplored",
+		"definitions": [
+			"Not explored"
+		]
+	},
+	{
+		"word": "Unexposed",
+		"definitions": [
+			"Not exposed"
+		]
+	},
+	{
+		"word": "Unexpressed",
+		"definitions": [
+			"Not expressed or made known"
+		]
+	},
+	{
+		"word": "Unexpurgated",
+		"definitions": [
+			"(Esp. of a text, etc.) Complete"
+		]
+	},
+	{
+		"word": "Unfading",
+		"definitions": [
+			"Never fading"
+		]
+	},
+	{
+		"word": "Unfailing",
+		"definitions": [
+			"Not failing or dwindling; constant; reliable"
+		]
+	},
+	{
+		"word": "Unfair",
+		"definitions": [
+			"Not fair, just, or impartial"
+		]
+	},
+	{
+		"word": "Unfaithful",
+		"definitions": [
+			"Not faithful, esp. adulterous",
+			"Treacherous; disloyal"
+		]
+	},
+	{
+		"word": "Unfamiliar",
+		"definitions": [
+			"Not familiar"
+		]
+	},
+	{
+		"word": "Unfashionable",
+		"definitions": [
+			"Not fashionable"
+		]
+	},
+	{
+		"word": "Unfasten",
+		"definitions": [
+			"Make or become loose",
+			"Open the fastening(s) of",
+			"Detach"
+		]
+	},
+	{
+		"word": "Unfathomable",
+		"definitions": [
+			"Incapable of being fathomed"
+		]
+	},
+	{
+		"word": "Unfavorable",
+		"definitions": [
+			"(Brit. unfavourable) Not favourable; adverse, hostile"
+		]
+	},
+	{
+		"word": "Unfavourable",
+		"definitions": [
+			"(US unfavorable) Not favourable; adverse, hostile"
+		]
+	},
+	{
+		"word": "Unfeasible",
+		"definitions": [
+			"Not feasible; impractical"
+		]
+	},
+	{
+		"word": "Unfeeling",
+		"definitions": [
+			"Unsympathetic, harsh"
+		]
+	},
+	{
+		"word": "Unfeigned",
+		"definitions": [
+			"Genuine, sincere"
+		]
+	},
+	{
+		"word": "Unfertilized",
+		"definitions": [
+			"Not fertilized"
+		]
+	},
+	{
+		"word": "Unfetter",
+		"definitions": [
+			"Release from fetters"
+		]
+	},
+	{
+		"word": "Unfilled",
+		"definitions": [
+			"Not filled"
+		]
+	},
+	{
+		"word": "Unfinished",
+		"definitions": [
+			"Not finished; incomplete"
+		]
+	},
+	{
+		"word": "Unfit",
+		"definitions": [
+			"(Often foll. by for, or to + infin.) Not fit"
+		]
+	},
+	{
+		"word": "Unfitted",
+		"definitions": [
+			"Not fit",
+			"Not fitted or suited"
+		]
+	},
+	{
+		"word": "Unfitting",
+		"definitions": [
+			"Not suitable, unbecoming"
+		]
+	},
+	{
+		"word": "Unfix",
+		"definitions": [
+			"Release, loosen, or detach"
+		]
+	},
+	{
+		"word": "Unflagging",
+		"definitions": [
+			"Tireless, persistent"
+		]
+	},
+	{
+		"word": "Unflappable",
+		"definitions": [
+			"Colloq. Imperturbable; calm"
+		]
+	},
+	{
+		"word": "Unflattering",
+		"definitions": [
+			"Not flattering"
+		]
+	},
+	{
+		"word": "Unfledged",
+		"definitions": [
+			"(Of a person) Inexperienced",
+			"(Of a bird) Not yet fledged"
+		]
+	},
+	{
+		"word": "Unflinching",
+		"definitions": [
+			"Not flinching"
+		]
+	},
+	{
+		"word": "Unfold",
+		"definitions": [
+			"Open the fold or folds of, spread out",
+			"Reveal (thoughts, etc.)",
+			"Become opened out",
+			"Develop"
+		]
+	},
+	{
+		"word": "Unforced",
+		"definitions": [
+			"Easy, natural",
+			"Not compelled or constrained"
+		]
+	},
+	{
+		"word": "Unforeseeable",
+		"definitions": [
+			"Not foreseeable"
+		]
+	},
+	{
+		"word": "Unforeseen",
+		"definitions": [
+			"Not foreseen"
+		]
+	},
+	{
+		"word": "Unforgettable",
+		"definitions": [
+			"That cannot be forgotten; memorable, wonderful"
+		]
+	},
+	{
+		"word": "Unforgivable",
+		"definitions": [
+			"That cannot be forgiven"
+		]
+	},
+	{
+		"word": "Unforgiving",
+		"definitions": [
+			"Not forgiving"
+		]
+	},
+	{
+		"word": "Unformed",
+		"definitions": [
+			"Not formed; undeveloped",
+			"Shapeless"
+		]
+	},
+	{
+		"word": "Unforthcoming",
+		"definitions": [
+			"Not forthcoming"
+		]
+	},
+	{
+		"word": "Unfortunate",
+		"definitions": [
+			"Unlucky",
+			"Unhappy",
+			"Regrettable"
+		]
+	},
+	{
+		"word": "Unfortunately",
+		"definitions": [
+			"(Qualifying a sentence) It is unfortunate that",
+			"In an unfortunate manner"
+		]
+	},
+	{
+		"word": "Unfounded",
+		"definitions": [
+			"Without foundation (unfounded rumour)"
+		]
+	},
+	{
+		"word": "Unfreeze",
+		"definitions": [
+			"(Cause to) Thaw",
+			"Derestrict (assets, credits, etc.)"
+		]
+	},
+	{
+		"word": "Unfrequented",
+		"definitions": [
+			"Not frequented"
+		]
+	},
+	{
+		"word": "Unfriendly",
+		"definitions": [
+			"Not friendly; hostile"
+		]
+	},
+	{
+		"word": "Unfrock",
+		"definitions": [
+			"Defrock"
+		]
+	},
+	{
+		"word": "Unfroze",
+		"definitions": [
+			"Past of *unfreeze"
+		]
+	},
+	{
+		"word": "Unfrozen",
+		"definitions": [
+			"Past part. of *unfreeze"
+		]
+	},
+	{
+		"word": "Unfulfilled",
+		"definitions": [
+			"Not fulfilled"
+		]
+	},
+	{
+		"word": "Unfunny",
+		"definitions": [
+			"Failing to amuse"
+		]
+	},
+	{
+		"word": "Unfurl",
+		"definitions": [
+			"Unroll, spread out (a sail, umbrella, etc.)",
+			"Become unrolled"
+		]
+	},
+	{
+		"word": "Unfurnished",
+		"definitions": [
+			"(Usual. foll. by with) Not supplied",
+			"Without furniture"
+		]
+	},
+	{
+		"word": "Ungainly",
+		"definitions": [
+			"Awkward, clumsy"
+		]
+	},
+	{
+		"word": "Ungenerous",
+		"definitions": [
+			"Mean"
+		]
+	},
+	{
+		"word": "Ungentlemanly",
+		"definitions": [
+			"Not gentlemanly"
+		]
+	},
+	{
+		"word": "Unget-at-able",
+		"definitions": [
+			"Colloq. Inaccessible"
+		]
+	},
+	{
+		"word": "Ungird",
+		"definitions": [
+			"Release the girdle, belt, etc. of"
+		]
+	},
+	{
+		"word": "Ungodly",
+		"definitions": [
+			"Impious, wicked",
+			"Colloq. Outrageous (ungodly hour)"
+		]
+	},
+	{
+		"word": "Ungovernable",
+		"definitions": [
+			"Uncontrollable, violent"
+		]
+	},
+	{
+		"word": "Ungraceful",
+		"definitions": [
+			"Lacking grace or elegance"
+		]
+	},
+	{
+		"word": "Ungracious",
+		"definitions": [
+			"Discourteous; grudging"
+		]
+	},
+	{
+		"word": "Ungrammatical",
+		"definitions": [
+			"Contrary to the rules of grammar"
+		]
+	},
+	{
+		"word": "Ungrateful",
+		"definitions": [
+			"Not feeling or showing gratitude"
+		]
+	},
+	{
+		"word": "Ungreen",
+		"definitions": [
+			"Not concerned with the protection of the environment; harmful to the environment"
+		]
+	},
+	{
+		"word": "Ungrudging",
+		"definitions": [
+			"Not grudging"
+		]
+	},
+	{
+		"word": "Unguarded",
+		"definitions": [
+			"Incautious, thoughtless (unguarded remark)",
+			"Not guarded"
+		]
+	},
+	{
+		"word": "Unguent",
+		"definitions": [
+			"Soft ointment or lubricant"
+		]
+	},
+	{
+		"word": "Ungulate",
+		"definitions": [
+			"Hoofed",
+			"Hoofed mammal"
+		]
+	},
+	{
+		"word": "Unhallowed",
+		"definitions": [
+			"Not consecrated",
+			"Not sacred, wicked"
+		]
+	},
+	{
+		"word": "Unhampered",
+		"definitions": [
+			"Not hampered"
+		]
+	},
+	{
+		"word": "Unhand",
+		"definitions": [
+			"Take one's hands off (a person); release"
+		]
+	},
+	{
+		"word": "Unhappy",
+		"definitions": [
+			"Miserable",
+			"Unfortunate",
+			"Disastrous"
+		]
+	},
+	{
+		"word": "Unharmed",
+		"definitions": [
+			"Not harmed"
+		]
+	},
+	{
+		"word": "Unharness",
+		"definitions": [
+			"Remove a harness from"
+		]
+	},
+	{
+		"word": "Unhealthy",
+		"definitions": [
+			"In poor health",
+			"Harmful to health",
+			"Unwholesome",
+			"Slang dangerous"
+		]
+	},
+	{
+		"word": "Unheard",
+		"definitions": [
+			"Not heard",
+			"(Usual. Unheard-of) Unprecedented"
+		]
+	},
+	{
+		"word": "Unheeded",
+		"definitions": [
+			"Disregarded"
+		]
+	},
+	{
+		"word": "Unhelpful",
+		"definitions": [
+			"Not helpful"
+		]
+	},
+	{
+		"word": "Unhesitating",
+		"definitions": [
+			"Without hesitation"
+		]
+	},
+	{
+		"word": "Unhindered",
+		"definitions": [
+			"Not hindered"
+		]
+	},
+	{
+		"word": "Unhinge",
+		"definitions": [
+			"Take (a door etc.) off its hinges",
+			"Make mad or crazy"
+		]
+	},
+	{
+		"word": "Unhistorical",
+		"definitions": [
+			"Not historical"
+		]
+	},
+	{
+		"word": "Unhitch",
+		"definitions": [
+			"Release from a hitched state",
+			"Unhook, unfasten"
+		]
+	},
+	{
+		"word": "Unholy",
+		"definitions": [
+			"Impious, wicked",
+			"Colloq. Dreadful; outrageous (unholy row)"
+		]
+	},
+	{
+		"word": "Unhook",
+		"definitions": [
+			"Remove from a hook or hooks",
+			"Unfasten the hook(s) of"
+		]
+	},
+	{
+		"word": "Unhoped-for",
+		"definitions": [
+			"Not hoped for or expected"
+		]
+	},
+	{
+		"word": "Unhorse",
+		"definitions": [
+			"Throw (a rider) from a horse"
+		]
+	},
+	{
+		"word": "Unhurried",
+		"definitions": [
+			"Not hurried"
+		]
+	},
+	{
+		"word": "Unhurt",
+		"definitions": [
+			"Not hurt"
+		]
+	},
+	{
+		"word": "Unhygienic",
+		"definitions": [
+			"Not hygienic"
+		]
+	},
+	{
+		"word": "Uni",
+		"definitions": [
+			"(Pl. -s) esp. Austral. & NZ colloq. University"
+		]
+	},
+	{
+		"word": "Uni-",
+		"definitions": [
+			"Form one; having or consisting of one"
+		]
+	},
+	{
+		"word": "Uniat",
+		"definitions": [
+			"Of the church in E. Europe or the Near East, acknowledging papal supremacy but retaining its own liturgy etc.",
+			"Member of such a church"
+		]
+	},
+	{
+		"word": "Unicameral",
+		"definitions": [
+			"Having a single legislative chamber"
+		]
+	},
+	{
+		"word": "Unicef",
+		"definitions": [
+			"United Nations Children's (orig. International Children's Emergency) Fund"
+		]
+	},
+	{
+		"word": "Unicellular",
+		"definitions": [
+			"(Of an organism etc.) Consisting of a single cell"
+		]
+	},
+	{
+		"word": "Unicorn",
+		"definitions": [
+			"Mythical horse with a single straight horn"
+		]
+	},
+	{
+		"word": "Unicycle",
+		"definitions": [
+			"Single-wheeled cycle, esp. as used by acrobats"
+		]
+	},
+	{
+		"word": "Unidentified",
+		"definitions": [
+			"Not identified"
+		]
+	},
+	{
+		"word": "Unification",
+		"definitions": [
+			"Unifying or being unified"
+		]
+	},
+	{
+		"word": "Unification church",
+		"definitions": [
+			"Religious organization founded by Sun Myung Moon"
+		]
+	},
+	{
+		"word": "Uniform",
+		"definitions": [
+			"Unvarying (uniform appearance)",
+			"Conforming to the same standard, rules, etc.",
+			"Constant over a period (uniform acceleration)",
+			"Distinctive clothing worn by soldiers, police, schoolchildren, etc."
+		]
+	},
+	{
+		"word": "Unify",
+		"definitions": [
+			"Make or become united or uniform"
+		]
+	},
+	{
+		"word": "Unilateral",
+		"definitions": [
+			"Done by or affecting only one person or party (unilateral disarmament)"
+		]
+	},
+	{
+		"word": "Unilateralism",
+		"definitions": [
+			"Unilateral disarmament"
+		]
+	},
+	{
+		"word": "Unimaginable",
+		"definitions": [
+			"Impossible to imagine"
+		]
+	},
+	{
+		"word": "Unimaginative",
+		"definitions": [
+			"Lacking imagination; stolid, dull"
+		]
+	},
+	{
+		"word": "Unimpaired",
+		"definitions": [
+			"Not impaired"
+		]
+	},
+	{
+		"word": "Unimpeachable",
+		"definitions": [
+			"Beyond reproach or question"
+		]
+	},
+	{
+		"word": "Unimpeded",
+		"definitions": [
+			"Not impeded"
+		]
+	},
+	{
+		"word": "Unimportant",
+		"definitions": [
+			"Not important"
+		]
+	},
+	{
+		"word": "Unimpressed",
+		"definitions": [
+			"Not impressed"
+		]
+	},
+	{
+		"word": "Unimpressive",
+		"definitions": [
+			"Not impressive"
+		]
+	},
+	{
+		"word": "Uninformed",
+		"definitions": [
+			"Not informed; ignorant"
+		]
+	},
+	{
+		"word": "Uninhabitable",
+		"definitions": [
+			"Unfit for habitation"
+		]
+	},
+	{
+		"word": "Uninhabited",
+		"definitions": [
+			"Not inhabited"
+		]
+	},
+	{
+		"word": "Uninhibited",
+		"definitions": [
+			"Not inhibited"
+		]
+	},
+	{
+		"word": "Uninitiated",
+		"definitions": [
+			"Not initiated, admitted, or instructed"
+		]
+	},
+	{
+		"word": "Uninjured",
+		"definitions": [
+			"Not injured"
+		]
+	},
+	{
+		"word": "Uninspired",
+		"definitions": [
+			"Not inspired; commonplace, pedestrian"
+		]
+	},
+	{
+		"word": "Uninspiring",
+		"definitions": [
+			"Not inspiring"
+		]
+	},
+	{
+		"word": "Unintelligent",
+		"definitions": [
+			"Not intelligent"
+		]
+	},
+	{
+		"word": "Unintelligible",
+		"definitions": [
+			"Not intelligible"
+		]
+	},
+	{
+		"word": "Unintended",
+		"definitions": [
+			"Not intended"
+		]
+	},
+	{
+		"word": "Unintentional",
+		"definitions": [
+			"Not intentional"
+		]
+	},
+	{
+		"word": "Uninterested",
+		"definitions": [
+			"Not interested; indifferent"
+		]
+	},
+	{
+		"word": "Uninteresting",
+		"definitions": [
+			"Not interesting"
+		]
+	},
+	{
+		"word": "Uninterrupted",
+		"definitions": [
+			"Not interrupted"
+		]
+	},
+	{
+		"word": "Uninvited",
+		"definitions": [
+			"Not invited"
+		]
+	},
+	{
+		"word": "Uninviting",
+		"definitions": [
+			"Unattractive, repellent"
+		]
+	},
+	{
+		"word": "Union",
+		"definitions": [
+			"Uniting or being united",
+			"A whole formed from parts or members",
+			"Political unit so formed",
+			"Trade union",
+			"Marriage",
+			"Concord (perfect union)",
+			"(Union) A university social club and (at Oxbridge) debating society",
+			"Buildings of this",
+			"Math. Totality of the members of two or more sets",
+			"Mixed fabric, e.g., cotton with linen or silk"
+		]
+	},
+	{
+		"word": "Union-bashing",
+		"definitions": [
+			"Colloq. Media or government campaign against trade unions"
+		]
+	},
+	{
+		"word": "Unionist",
+		"definitions": [
+			"A member of a trade union",
+			"Advocate of trade unions",
+			"Member of a party advocating continued union between Great Britain and Northern Ireland"
+		]
+	},
+	{
+		"word": "Unionize",
+		"definitions": [
+			"Organize in or into a trade union"
+		]
+	},
+	{
+		"word": "Union jack",
+		"definitions": [
+			"National ensign of the United Kingdom"
+		]
+	},
+	{
+		"word": "Unique",
+		"definitions": [
+			"Being the only one of its kind; having no like, equal, or parallel",
+			"Remarkable (unique opportunity)"
+		]
+	},
+	{
+		"word": "Unisex",
+		"definitions": [
+			"(Of clothing, hairstyles, etc.) Designed for both sexes"
+		]
+	},
+	{
+		"word": "Unison",
+		"definitions": [
+			"Concord (acted in perfect unison)",
+			"Coincidence in pitch of sounds or notes (sung in unison)"
+		]
+	},
+	{
+		"word": "Unit",
+		"definitions": [
+			"An individual thing, person, or group, esp. for calculation",
+			"Smallest component of a complex whole",
+			"Quantity as a standard of measurement (unit of heat; SI unit)",
+			"Smallest share in a unit trust",
+			"Part of a mechanism with a specified function",
+			"Fitted item of furniture, esp. as part of a set",
+			"Subgroup with a special function",
+			"Group of buildings, wards, etc., in a hospital",
+			"A single-digit number",
+			"The number ‘one’"
+		]
+	},
+	{
+		"word": "Unitarian",
+		"definitions": [
+			"A person who believes that God is one, not a trinity",
+			"Member of a religious body so believing",
+			"Of Unitarians"
+		]
+	},
+	{
+		"word": "Unitary",
+		"definitions": [
+			"Of a unit or units",
+			"Marked by unity or uniformity"
+		]
+	},
+	{
+		"word": "Unit cost",
+		"definitions": [
+			"Cost of producing one item"
+		]
+	},
+	{
+		"word": "Unite",
+		"definitions": [
+			"Join together; combine, esp. for a common purpose or action",
+			"Join in marriage",
+			"(Cause to) form a physical or chemical whole"
+		]
+	},
+	{
+		"word": "United Kingdom",
+		"definitions": [
+			"Great Britain and Northern Ireland"
+		]
+	},
+	{
+		"word": "United Nations",
+		"definitions": [
+			"Supranational peace-seeking organization"
+		]
+	},
+	{
+		"word": "United Reformed Church",
+		"definitions": [
+			"Church formed in 1972 from the English Presbyterian and Congregational Churches"
+		]
+	},
+	{
+		"word": "United States",
+		"definitions": [
+			"(In full United States of America) Federal republic of 50 states, mostly in North America and including Alaska and Hawaii"
+		]
+	},
+	{
+		"word": "Unit price",
+		"definitions": [
+			"Price charged for each unit of goods supplied"
+		]
+	},
+	{
+		"word": "Unit trust",
+		"definitions": [
+			"Company investing contributions from many persons in various securities and paying proportional dividends"
+		]
+	},
+	{
+		"word": "Unity",
+		"definitions": [
+			"A oneness; being one; interconnected parts constituting a whole",
+			"Such a complex whole (person regarded as a unity)",
+			"A being united; solidarity",
+			"Harmony (lived together in unity)",
+			"The number ‘one’"
+		]
+	},
+	{
+		"word": "Univalent",
+		"definitions": [
+			"Having a valency of one"
+		]
+	},
+	{
+		"word": "Univalve",
+		"definitions": [
+			"Having one valve",
+			"Univalve mollusc"
+		]
+	},
+	{
+		"word": "Universal",
+		"definitions": [
+			"Of, belonging to, or done etc. by all; applicable to all cases",
+			"Term, characteristic, or concept of general application"
+		]
+	},
+	{
+		"word": "Universal coupling",
+		"definitions": [
+			"(Also universal joint) Coupling or joint which can transmit rotary power by a shaft at any angle"
+		]
+	},
+	{
+		"word": "Universal time",
+		"definitions": [
+			"= Greenwich Mean Time"
+		]
+	},
+	{
+		"word": "Universe",
+		"definitions": [
+			"All existing things; creation",
+			"All mankind",
+			"Statistics & logic: All the objects under consideration"
+		]
+	},
+	{
+		"word": "University",
+		"definitions": [
+			"Educational institution of advanced learning and research conferring degrees",
+			"Members of this"
+		]
+	},
+	{
+		"word": "Unjust",
+		"definitions": [
+			"Not just, not fair"
+		]
+	},
+	{
+		"word": "Unjustifiable",
+		"definitions": [
+			"Not justifiable"
+		]
+	},
+	{
+		"word": "Unjustified",
+		"definitions": [
+			"Not justified"
+		]
+	},
+	{
+		"word": "Unkempt",
+		"definitions": [
+			"Untidy, dishevelled"
+		]
+	},
+	{
+		"word": "Unkind",
+		"definitions": [
+			"Not kind; harsh, cruel"
+		]
+	},
+	{
+		"word": "Unknot",
+		"definitions": [
+			"Release the knot(s) of, untie"
+		]
+	},
+	{
+		"word": "Unknowable",
+		"definitions": [
+			"That cannot be known",
+			"(The unknowable) The postulated absolute or ultimate reality"
+		]
+	},
+	{
+		"word": "Unknowing",
+		"definitions": [
+			"(Often foll. by of) Not knowing; ignorant, unconscious"
+		]
+	},
+	{
+		"word": "Unknown",
+		"definitions": [
+			"(Often foll. by to) Not known, unfamiliar",
+			"Unknown thing, person, or quantity",
+			"Unknown to: Without the knowledge of"
+		]
+	},
+	{
+		"word": "Unknown quantity",
+		"definitions": [
+			"Mysterious or obscure person or thing"
+		]
+	},
+	{
+		"word": "Unknown soldier",
+		"definitions": [
+			"Unidentified soldier etc. symbolizing a nation's dead in war"
+		]
+	},
+	{
+		"word": "Unknown warrior",
+		"definitions": [
+			"= Unknown soldier"
+		]
+	},
+	{
+		"word": "Unlabeled",
+		"definitions": [
+			"(Brit. Unlabelled) Not labelled; without a label"
+		]
+	},
+	{
+		"word": "Unlabelled",
+		"definitions": [
+			"(US Unlabeled) Not labelled; without a label"
+		]
+	},
+	{
+		"word": "Unlace",
+		"definitions": [
+			"Undo the lace(s) of",
+			"Unfasten or loosen in this way"
+		]
+	},
+	{
+		"word": "Unladen",
+		"definitions": [
+			"Not laden"
+		]
+	},
+	{
+		"word": "Unladen weight",
+		"definitions": [
+			"Weight of a vehicle etc. when not loaded"
+		]
+	},
+	{
+		"word": "Unladylike",
+		"definitions": [
+			"Not ladylike"
+		]
+	},
+	{
+		"word": "Unlatch",
+		"definitions": [
+			"Release the latch of",
+			"Open in this way"
+		]
+	},
+	{
+		"word": "Unlawful",
+		"definitions": [
+			"Illegal, not permissible"
+		]
+	},
+	{
+		"word": "Unlawfully",
+		"definitions": [
+			"Illegally, not permissibly"
+		]
+	},
+	{
+		"word": "Unleaded",
+		"definitions": [
+			"(Of petrol etc.) Without added lead"
+		]
+	},
+	{
+		"word": "Unlearn",
+		"definitions": [
+			"Forget deliberately",
+			"Rid oneself of (a habit, false information, etc.)"
+		]
+	},
+	{
+		"word": "Unlearned",
+		"definitions": [
+			"Not well educated; ignorant"
+		]
+	},
+	{
+		"word": "Unlearned",
+		"definitions": [
+			"Not learnt"
+		]
+	},
+	{
+		"word": "Unleash",
+		"definitions": [
+			"Release from a leash or restraint",
+			"Set free to engage in pursuit or attack"
+		]
+	},
+	{
+		"word": "Unleavened",
+		"definitions": [
+			"Not leavened; made without yeast etc."
+		]
+	},
+	{
+		"word": "Unless",
+		"definitions": [
+			"If not; except when",
+			"Shall go unless I hear from you"
+		]
+	},
+	{
+		"word": "Unlettered",
+		"definitions": [
+			"Illiterate; not well educated"
+		]
+	},
+	{
+		"word": "Unlicensed",
+		"definitions": [
+			"Not licensed, esp. to sell alcohol"
+		]
+	},
+	{
+		"word": "Unlike",
+		"definitions": [
+			"Not like; different from",
+			"Uncharacteristic of (greed is unlike her)",
+			"Dissimilar, different",
+			"Differently from (acts quite unlike anyone else)"
+		]
+	},
+	{
+		"word": "Unlikely",
+		"definitions": [
+			"Improbable",
+			"Not expected",
+			"Unpromising"
+		]
+	},
+	{
+		"word": "Unlikeliness",
+		"definitions": [
+			"Improbability"
+		]
+	},
+	{
+		"word": "Unlike signs",
+		"definitions": [
+			"Plus and minus"
+		]
+	},
+	{
+		"word": "Unlimited",
+		"definitions": [
+			"Unrestricted; enormous"
+		]
+	},
+	{
+		"word": "Unlined",
+		"definitions": [
+			"Without lines or wrinkles",
+			"Without a lining"
+		]
+	},
+	{
+		"word": "Unlisted",
+		"definitions": [
+			"Not in a published list, esp. of stock exchange prices or telephone numbers"
+		]
+	},
+	{
+		"word": "Unlit",
+		"definitions": [
+			"Not lit"
+		]
+	},
+	{
+		"word": "Unload",
+		"definitions": [
+			"Remove a load from (a vehicle etc.)",
+			"Remove (a load) from a vehicle etc.",
+			"Remove the ammunition from (a gun etc.)",
+			"Get rid of"
+		]
+	},
+	{
+		"word": "Unlock",
+		"definitions": [
+			"Release the lock of (a door, box, etc.)",
+			"Release or disclose by unlocking",
+			"Release thoughts, feelings, etc. from (one's mind etc.)"
+		]
+	},
+	{
+		"word": "Unlooked-for",
+		"definitions": [
+			"Unexpected"
+		]
+	},
+	{
+		"word": "Unloose",
+		"definitions": [
+			"Unfasten, loose; set free"
+		]
+	},
+	{
+		"word": "Unlovable",
+		"definitions": [
+			"Not lovable"
+		]
+	},
+	{
+		"word": "Unloved",
+		"definitions": [
+			"Not loved"
+		]
+	},
+	{
+		"word": "Unlovely",
+		"definitions": [
+			"Not attractive; unpleasant"
+		]
+	},
+	{
+		"word": "Unloving",
+		"definitions": [
+			"Not loving"
+		]
+	},
+	{
+		"word": "Unlucky",
+		"definitions": [
+			"Not fortunate or successful",
+			"Wretched",
+			"Bringing bad luck",
+			"Ill-judged"
+		]
+	},
+	{
+		"word": "Unluckily",
+		"definitions": [
+			"In an unlucky manner"
+		]
+	},
+	{
+		"word": "Unmade",
+		"definitions": [
+			"Not made"
+		]
+	},
+	{
+		"word": "Unmake",
+		"definitions": [
+			"Undo; destroy, depose, annul"
+		]
+	},
+	{
+		"word": "Unman",
+		"definitions": [
+			"Make weak, cowardly, etc.; cause to weep etc."
+		]
+	},
+	{
+		"word": "Unmanageable",
+		"definitions": [
+			"Not easily managed or controlled"
+		]
+	},
+	{
+		"word": "Unmanly",
+		"definitions": [
+			"Not manly"
+		]
+	},
+	{
+		"word": "Unmanned",
+		"definitions": [
+			"Not manned",
+			"Overcome by emotion etc."
+		]
+	},
+	{
+		"word": "Unmannerly",
+		"definitions": [
+			"Ill-mannered"
+		]
+	},
+	{
+		"word": "Unmannerliness",
+		"definitions": [
+			"Being ill-mannered"
+		]
+	},
+	{
+		"word": "Unmarked",
+		"definitions": [
+			"Not marked",
+			"Not noticed"
+		]
+	},
+	{
+		"word": "Unmarried",
+		"definitions": [
+			"Not married; single"
+		]
+	},
+	{
+		"word": "Unmask",
+		"definitions": [
+			"Remove the mask from",
+			"Expose the true character of",
+			"Remove one's mask"
+		]
+	},
+	{
+		"word": "Unmatched",
+		"definitions": [
+			"Not matched or equalled"
+		]
+	},
+	{
+		"word": "Unmentionable",
+		"definitions": [
+			"Unsuitable for polite conversation",
+			"Undergarments"
+		]
+	},
+	{
+		"word": "Unmerciful",
+		"definitions": [
+			"Merciless"
+		]
+	},
+	{
+		"word": "Unmercifully",
+		"definitions": [
+			"In a merciless manner"
+		]
+	},
+	{
+		"word": "Unmerited",
+		"definitions": [
+			"Not merited"
+		]
+	},
+	{
+		"word": "Unmet",
+		"definitions": [
+			"Not achieved or fulfilled"
+		]
+	},
+	{
+		"word": "Unmethodical",
+		"definitions": [
+			"Not methodical"
+		]
+	},
+	{
+		"word": "Unmindful",
+		"definitions": [
+			"Not mindful"
+		]
+	},
+	{
+		"word": "Unmissable",
+		"definitions": [
+			"That cannot or should not be missed"
+		]
+	},
+	{
+		"word": "Unmistakable",
+		"definitions": [
+			"Clear, obvious, plain"
+		]
+	},
+	{
+		"word": "Unmistakably",
+		"definitions": [
+			"Clearly, obviously, plainly"
+		]
+	},
+	{
+		"word": "Unmitigated",
+		"definitions": [
+			"Not mitigated; absolute"
+		]
+	},
+	{
+		"word": "Unmixed",
+		"definitions": [
+			"Not mixed"
+		]
+	},
+	{
+		"word": "Unmodified",
+		"definitions": [
+			"Not modified"
+		]
+	},
+	{
+		"word": "Unmoral",
+		"definitions": [
+			"Not concerned with morality"
+		]
+	},
+	{
+		"word": "Unmorality",
+		"definitions": [
+			"Being unconcerned with morality"
+		]
+	},
+	{
+		"word": "Unmoved",
+		"definitions": [
+			"Not moved",
+			"Constant in purpose",
+			"Unemotional"
+		]
+	},
+	{
+		"word": "Unmusical",
+		"definitions": [
+			"Discordant",
+			"Unskilled in or indifferent to music"
+		]
+	},
+	{
+		"word": "Unnameable",
+		"definitions": [
+			"Too bad to be named or mentioned"
+		]
+	},
+	{
+		"word": "Unnamed",
+		"definitions": [
+			"Not named"
+		]
+	},
+	{
+		"word": "Unnatural",
+		"definitions": [
+			"Contrary to nature; not normal",
+			"Lacking natural feelings, esp. cruel or wicked",
+			"Artificial",
+			"Affected"
+		]
+	},
+	{
+		"word": "Unnaturally",
+		"definitions": [
+			"In an unnatural manner"
+		]
+	},
+	{
+		"word": "Unnecessary",
+		"definitions": [
+			"Not necessary",
+			"Superfluous"
+		]
+	},
+	{
+		"word": "Unnecessarily",
+		"definitions": [
+			"In an unnecessary manner"
+		]
+	},
+	{
+		"word": "Unneeded",
+		"definitions": [
+			"Not needed"
+		]
+	},
+	{
+		"word": "Unnerve",
+		"definitions": [
+			"Deprive of confidence etc."
+		]
+	},
+	{
+		"word": "Unnoticeable",
+		"definitions": [
+			"Not easily seen or noticed"
+		]
+	},
+	{
+		"word": "Unnoticed",
+		"definitions": [
+			"Not noticed"
+		]
+	},
+	{
+		"word": "Unnumbered",
+		"definitions": [
+			"Without a number",
+			"Not counted",
+			"Countless"
+		]
+	},
+	{
+		"word": "Unobjectionable",
+		"definitions": [
+			"Not objectionable; acceptable"
+		]
+	},
+	{
+		"word": "Unobservant",
+		"definitions": [
+			"Not observant"
+		]
+	},
+	{
+		"word": "Unobserved",
+		"definitions": [
+			"Not observed"
+		]
+	},
+	{
+		"word": "Unobtainable",
+		"definitions": [
+			"That cannot be obtained"
+		]
+	},
+	{
+		"word": "Unobtrusive",
+		"definitions": [
+			"Not making oneself or itself noticed"
+		]
+	},
+	{
+		"word": "Unobtrusively",
+		"definitions": [
+			"In an unobtrusive manner"
+		]
+	},
+	{
+		"word": "Unoccupied",
+		"definitions": [
+			"Not occupied"
+		]
+	},
+	{
+		"word": "Unofficial",
+		"definitions": [
+			"Not officially authorized or confirmed"
+		]
+	},
+	{
+		"word": "Unofficially",
+		"definitions": [
+			"In an unofficial manner"
+		]
+	},
+	{
+		"word": "Unofficial strike",
+		"definitions": [
+			"Strike not ratified by the strikers' trade union"
+		]
+	},
+	{
+		"word": "Unopened",
+		"definitions": [
+			"Not opened"
+		]
+	},
+	{
+		"word": "Unopposed",
+		"definitions": [
+			"Not opposed"
+		]
+	},
+	{
+		"word": "Unorganized",
+		"definitions": [
+			"Not organized"
+		]
+	},
+	{
+		"word": "Unoriginal",
+		"definitions": [
+			"Lacking originality; derivative"
+		]
+	},
+	{
+		"word": "Unorthodox",
+		"definitions": [
+			"Not orthodox"
+		]
+	},
+	{
+		"word": "Unpack",
+		"definitions": [
+			"Open and empty (a package, luggage, etc.)",
+			"Take (a thing) from a package etc."
+		]
+	},
+	{
+		"word": "Unpaid",
+		"definitions": [
+			"Not paid"
+		]
+	},
+	{
+		"word": "Unpainted",
+		"definitions": [
+			"Not painted"
+		]
+	},
+	{
+		"word": "Unpaired",
+		"definitions": [
+			"Not being one of a pair",
+			"Not united or arranged in pairs"
+		]
+	},
+	{
+		"word": "Unpalatable",
+		"definitions": [
+			"Disagreeable, distasteful"
+		]
+	},
+	{
+		"word": "Unparalleled",
+		"definitions": [
+			"Unequalled"
+		]
+	},
+	{
+		"word": "Unpardonable",
+		"definitions": [
+			"That cannot be pardoned"
+		]
+	},
+	{
+		"word": "Unpardonably",
+		"definitions": [
+			"In an unpardonable manner"
+		]
+	},
+	{
+		"word": "Unparliamentary",
+		"definitions": [
+			"Contrary to proper parliamentary usage"
+		]
+	},
+	{
+		"word": "Unparliamentary language",
+		"definitions": [
+			"Oaths or abuse"
+		]
+	},
+	{
+		"word": "Unpasteurized",
+		"definitions": [
+			"Not pasteurized"
+		]
+	},
+	{
+		"word": "Unpatriotic",
+		"definitions": [
+			"Not patriotic"
+		]
+	},
+	{
+		"word": "Unperson",
+		"definitions": [
+			"Person said not to exist, esp. by the state"
+		]
+	},
+	{
+		"word": "Unperturbed",
+		"definitions": [
+			"Not perturbed"
+		]
+	},
+	{
+		"word": "Unpick",
+		"definitions": [
+			"Undo the sewing of (stitches, a garment, etc.)"
+		]
+	},
+	{
+		"word": "Unpin",
+		"definitions": [
+			"Unfasten or detach by removing or opening a pin or pins"
+		]
+	},
+	{
+		"word": "Unplaced",
+		"definitions": [
+			"Not placed, esp. not one of the first three in a race etc."
+		]
+	},
+	{
+		"word": "Unplanned",
+		"definitions": [
+			"Not planned"
+		]
+	},
+	{
+		"word": "Unplayable",
+		"definitions": [
+			"Sport (of a ball) too fast etc. to be returned",
+			"That cannot be played"
+		]
+	},
+	{
+		"word": "Unpleasant",
+		"definitions": [
+			"Not pleasant, disagreeable"
+		]
+	},
+	{
+		"word": "Unpleasantly",
+		"definitions": [
+			"In an unpleasant manner"
+		]
+	},
+	{
+		"word": "Unpleasantness",
+		"definitions": [
+			"Being unpleasant"
+		]
+	},
+	{
+		"word": "Unpleasing",
+		"definitions": [
+			"Not pleasing"
+		]
+	},
+	{
+		"word": "Unplug",
+		"definitions": [
+			"Disconnect (an electrical device) by removing its plug from the socket",
+			"Unstop"
+		]
+	},
+	{
+		"word": "Unplumbed",
+		"definitions": [
+			"Not plumbed",
+			"Not fully explored or understood"
+		]
+	},
+	{
+		"word": "Unpointed",
+		"definitions": [
+			"Having no point or points",
+			"Not punctuated",
+			"Of brickwork etc. Not pointed"
+		]
+	},
+	{
+		"word": "Unpolished",
+		"definitions": [
+			"Not polished or refined; rough"
+		]
+	},
+	{
+		"word": "Unpolitical",
+		"definitions": [
+			"Not concerned with politics"
+		]
+	},
+	{
+		"word": "Unpopular",
+		"definitions": [
+			"Not popular; disliked"
+		]
+	},
+	{
+		"word": "Unpopularity",
+		"definitions": [
+			"Being unpopular"
+		]
+	},
+	{
+		"word": "Unpopulated",
+		"definitions": [
+			"Not populated"
+		]
+	},
+	{
+		"word": "Unpractical",
+		"definitions": [
+			"Not practical",
+			"Of a person Without practical skill"
+		]
+	},
+	{
+		"word": "Unpracticed",
+		"definitions": [
+			"Not experienced or skilled",
+			"Not put into practice"
+		]
+	},
+	{
+		"word": "Unprecedented",
+		"definitions": [
+			"Having no precedent; unparalleled"
+		]
+	},
+	{
+		"word": "Unprecedentedly",
+		"definitions": [
+			"In an unprecedented manner"
+		]
+	},
+	{
+		"word": "Unpredictable",
+		"definitions": [
+			"That cannot be predicted"
+		]
+	},
+	{
+		"word": "Unpredictability",
+		"definitions": [
+			"Being unpredictable"
+		]
+	},
+	{
+		"word": "Unpredictably",
+		"definitions": [
+			"In an unpredictable manner"
+		]
+	},
+	{
+		"word": "Unprejudiced",
+		"definitions": [
+			"Not prejudiced"
+		]
+	},
+	{
+		"word": "Unpremeditated",
+		"definitions": [
+			"Not deliberately planned; unintentional"
+		]
+	},
+	{
+		"word": "Unprepared",
+		"definitions": [
+			"Not prepared; not ready"
+		]
+	},
+	{
+		"word": "Unprepossessing",
+		"definitions": [
+			"Unattractive"
+		]
+	},
+	{
+		"word": "Unpretentious",
+		"definitions": [
+			"Simple, modest, unassuming"
+		]
+	},
+	{
+		"word": "Unpriced",
+		"definitions": [
+			"Not having a price fixed, marked, or stated"
+		]
+	},
+	{
+		"word": "Unprincipled",
+		"definitions": [
+			"Lacking or not based on moral principles"
+		]
+	},
+	{
+		"word": "Unprintable",
+		"definitions": [
+			"Too offensive or indecent to be printed"
+		]
+	},
+	{
+		"word": "Unproductive",
+		"definitions": [
+			"Not productive"
+		]
+	},
+	{
+		"word": "Unprofessional",
+		"definitions": [
+			"Contrary to professional standards",
+			"Unskilled, amateurish"
+		]
+	},
+	{
+		"word": "Unprofessionally",
+		"definitions": [
+			"In an unprofessional manner"
+		]
+	},
+	{
+		"word": "Unprofitable",
+		"definitions": [
+			"Not profitable"
+		]
+	},
+	{
+		"word": "Unprogressive",
+		"definitions": [
+			"Not progressive; old-fashioned"
+		]
+	},
+	{
+		"word": "Unpromising",
+		"definitions": [
+			"Not likely to turn out well"
+		]
+	},
+	{
+		"word": "Unprompted",
+		"definitions": [
+			"Spontaneous"
+		]
+	},
+	{
+		"word": "Unpronounceable",
+		"definitions": [
+			"That cannot be pronounced"
+		]
+	},
+	{
+		"word": "Unpropitious",
+		"definitions": [
+			"Not propitious"
+		]
+	},
+	{
+		"word": "Unprotected",
+		"definitions": [
+			"Not protected"
+		]
+	},
+	{
+		"word": "Unprovable",
+		"definitions": [
+			"That cannot be proved"
+		]
+	},
+	{
+		"word": "Unproved",
+		"definitions": [
+			"Not proved"
+		]
+	},
+	{
+		"word": "Unprovoked",
+		"definitions": [
+			"Without provocation"
+		]
+	},
+	{
+		"word": "Unpublished",
+		"definitions": [
+			"Not published"
+		]
+	},
+	{
+		"word": "Unpunctual",
+		"definitions": [
+			"Not punctual"
+		]
+	},
+	{
+		"word": "Unpunished",
+		"definitions": [
+			"Not punished"
+		]
+	},
+	{
+		"word": "Unputdownable",
+		"definitions": [
+			"Compulsively readable"
+		]
+	},
+	{
+		"word": "Unqualified",
+		"definitions": [
+			"Not legally or officially qualified",
+			"Complete (unqualified success)",
+			"Not competent (unqualified to say)"
+		]
+	},
+	{
+		"word": "Unquenchable",
+		"definitions": [
+			"That cannot be quenched"
+		]
+	},
+	{
+		"word": "Unquestionable",
+		"definitions": [
+			"That cannot be disputed or doubted"
+		]
+	},
+	{
+		"word": "Unquestionably",
+		"definitions": [
+			"In an unquestionable manner"
+		]
+	},
+	{
+		"word": "Unquestioned",
+		"definitions": [
+			"Not disputed or doubted; definite, certain"
+		]
+	},
+	{
+		"word": "Unquestioning",
+		"definitions": [
+			"Asking no questions",
+			"Absolute"
+		]
+	},
+	{
+		"word": "Unquestioningly",
+		"definitions": [
+			"In an unquestioning manner"
+		]
+	},
+	{
+		"word": "Unquiet",
+		"definitions": [
+			"Restless, agitated",
+			"Anxious"
+		]
+	},
+	{
+		"word": "Unquote",
+		"definitions": [
+			"Verbal formula indicating closing quotation marks"
+		]
+	},
+	{
+		"word": "Unravel",
+		"definitions": [
+			"Make or become disentangled, unknitted, unknotted, etc.",
+			"Probe and solve (a mystery etc.)",
+			"Undo (esp. knitted fabric)"
+		]
+	},
+	{
+		"word": "Unread",
+		"definitions": [
+			"Not read",
+			"Not well-read"
+		]
+	},
+	{
+		"word": "Unreadable",
+		"definitions": [
+			"Too dull, bad, or difficult to read"
+		]
+	},
+	{
+		"word": "Unready",
+		"definitions": [
+			"Not ready",
+			"Hesitant"
+		]
+	},
+	{
+		"word": "Unreal",
+		"definitions": [
+			"Not real",
+			"Imaginary"
+		]
+	},
+	{
+		"word": "Unreality",
+		"definitions": [
+			"Being unreal"
+		]
+	},
+	{
+		"word": "Unrealistic",
+		"definitions": [
+			"Not realistic"
+		]
+	},
+	{
+		"word": "Unrealistically",
+		"definitions": [
+			"In an unrealistic manner"
+		]
+	},
+	{
+		"word": "Unrealizable",
+		"definitions": [
+			"That cannot be realized"
+		]
+	},
+	{
+		"word": "Unrealized",
+		"definitions": [
+			"Not realized"
+		]
+	},
+	{
+		"word": "Unreason",
+		"definitions": [
+			"Madness; chaos; disorder"
+		]
+	},
+	{
+		"word": "Unreasonable",
+		"definitions": [
+			"Excessive",
+			"Not heeding reason"
+		]
+	},
+	{
+		"word": "Unreasonably",
+		"definitions": [
+			"In an unreasonable manner"
+		]
+	},
+	{
+		"word": "Unreasoning",
+		"definitions": [
+			"Not reasoning"
+		]
+	},
+	{
+		"word": "Unrecognizable",
+		"definitions": [
+			"That cannot be recognized"
+		]
+	},
+	{
+		"word": "Unrecognized",
+		"definitions": [
+			"Not acknowledged"
+		]
+	},
+	{
+		"word": "Unrecorded",
+		"definitions": [
+			"Not recorded"
+		]
+	},
+	{
+		"word": "Unredeemed",
+		"definitions": [
+			"Not redeemed"
+		]
+	},
+	{
+		"word": "Unreel",
+		"definitions": [
+			"Unwind from a reel"
+		]
+	},
+	{
+		"word": "Unrefined",
+		"definitions": [
+			"Not refined"
+		]
+	},
+	{
+		"word": "Unreflecting",
+		"definitions": [
+			"Not thoughtful"
+		]
+	},
+	{
+		"word": "Unreformed",
+		"definitions": [
+			"Not reformed"
+		]
+	},
+	{
+		"word": "Unregenerate",
+		"definitions": [
+			"Obstinately wrong or bad"
+		]
+	},
+	{
+		"word": "Unregistered",
+		"definitions": [
+			"Not registered"
+		]
+	},
+	{
+		"word": "Unregulated",
+		"definitions": [
+			"Not regulated"
+		]
+	},
+	{
+		"word": "Unrehearsed",
+		"definitions": [
+			"Not rehearsed"
+		]
+	},
+	{
+		"word": "Unrelated",
+		"definitions": [
+			"Not related"
+		]
+	},
+	{
+		"word": "Unrelenting",
+		"definitions": [
+			"Not abating, yielding, or relaxing; unmerciful"
+		]
+	},
+	{
+		"word": "Unrelentingly",
+		"definitions": [
+			"In an unrelenting manner"
+		]
+	},
+	{
+		"word": "Unreliable",
+		"definitions": [
+			"Not reliable; erratic"
+		]
+	},
+	{
+		"word": "Unreliability",
+		"definitions": [
+			"Being unreliable"
+		]
+	},
+	{
+		"word": "Unrelieved",
+		"definitions": [
+			"Not relieved; monotonously uniform"
+		]
+	},
+	{
+		"word": "Unremarkable",
+		"definitions": [
+			"Not remarkable; uninteresting, ordinary"
+		]
+	},
+	{
+		"word": "Unremarked",
+		"definitions": [
+			"Not mentioned or remarked upon"
+		]
+	},
+	{
+		"word": "Unremitting",
+		"definitions": [
+			"Incessant"
+		]
+	},
+	{
+		"word": "Unremittingly",
+		"definitions": [
+			"In an unremitting manner"
+		]
+	},
+	{
+		"word": "Unremunerative",
+		"definitions": [
+			"Not, or not very, profitable"
+		]
+	},
+	{
+		"word": "Unrepeatable",
+		"definitions": [
+			"That cannot be done, made, or said again",
+			"Too indecent to repeat"
+		]
+	},
+	{
+		"word": "Unrepentant",
+		"definitions": [
+			"Not repentant; impenitent"
+		]
+	},
+	{
+		"word": "Unrepentantly",
+		"definitions": [
+			"In an unrepentant manner"
+		]
+	},
+	{
+		"word": "Unrepresentative",
+		"definitions": [
+			"Not representative"
+		]
+	},
+	{
+		"word": "Unrepresented",
+		"definitions": [
+			"Not represented"
+		]
+	},
+	{
+		"word": "Unrequited",
+		"definitions": [
+			"Not returned"
+		]
+	},
+	{
+		"word": "Unreserved",
+		"definitions": [
+			"Not reserved",
+			"Total; without reservation"
+		]
+	},
+	{
+		"word": "Unreservedly",
+		"definitions": [
+			"In an unreserved manner"
+		]
+	},
+	{
+		"word": "Unresisting",
+		"definitions": [
+			"Not resisting"
+		]
+	},
+	{
+		"word": "Unresolved",
+		"definitions": [
+			"Irresolute, undecided",
+			"Undetermined"
+		]
+	},
+	{
+		"word": "Unresponsive",
+		"definitions": [
+			"Not responsive"
+		]
+	},
+	{
+		"word": "Unrest",
+		"definitions": [
+			"Disturbed or dissatisfied state"
+		]
+	},
+	{
+		"word": "Unrestrained",
+		"definitions": [
+			"Not restrained"
+		]
+	},
+	{
+		"word": "Unrestricted",
+		"definitions": [
+			"Not restricted"
+		]
+	},
+	{
+		"word": "Unrewarded",
+		"definitions": [
+			"Not rewarded"
+		]
+	},
+	{
+		"word": "Unrewarding",
+		"definitions": [
+			"Not rewarding or satisfying"
+		]
+	},
+	{
+		"word": "Unrighteous",
+		"definitions": [
+			"Wicked"
+		]
+	},
+	{
+		"word": "Unripe",
+		"definitions": [
+			"Not ripe"
+		]
+	},
+	{
+		"word": "Unrivaled",
+		"definitions": [
+			"Having no equal"
+		]
+	},
+	{
+		"word": "Unroll",
+		"definitions": [
+			"Open out from a rolled-up state",
+			"Display or be displayed like this"
+		]
+	},
+	{
+		"word": "Unromantic",
+		"definitions": [
+			"Not romantic"
+		]
+	},
+	{
+		"word": "Unruffled",
+		"definitions": [
+			"Calm"
+		]
+	},
+	{
+		"word": "Unruly",
+		"definitions": [
+			"Undisciplined, disorderly"
+		]
+	},
+	{
+		"word": "Unruliness",
+		"definitions": [
+			"Being unruly"
+		]
+	},
+	{
+		"word": "Unsaddle",
+		"definitions": [
+			"Remove the saddle from",
+			"Unhorse"
+		]
+	},
+	{
+		"word": "Unsafe",
+		"definitions": [
+			"Not safe"
+		]
+	},
+	{
+		"word": "Unsaid",
+		"definitions": [
+			"Not uttered or expressed"
+		]
+	},
+	{
+		"word": "Unsaleable",
+		"definitions": [
+			"Not saleable"
+		]
+	},
+	{
+		"word": "Unsalted",
+		"definitions": [
+			"Not salted"
+		]
+	},
+	{
+		"word": "Unsatisfactory",
+		"definitions": [
+			"Poor, unacceptable"
+		]
+	},
+	{
+		"word": "Unsatisfied",
+		"definitions": [
+			"Not satisfied"
+		]
+	},
+	{
+		"word": "Unsatisfying",
+		"definitions": [
+			"Not satisfying"
+		]
+	},
+	{
+		"word": "Unsaturated",
+		"definitions": [
+			"Chem. (Of esp. a fat or oil) Having double or triple bonds in its molecule and therefore capable of further reaction"
+		]
+	},
+	{
+		"word": "Unsavory",
+		"definitions": [
+			"(Brit. Unsavoury) Disgusting, unpleasant",
+			"Morally offensive"
+		]
+	},
+	{
+		"word": "Unsavoury",
+		"definitions": [
+			"(US Unsavory) Disgusting, unpleasant",
+			"Morally offensive"
+		]
+	},
+	{
+		"word": "Unsay",
+		"definitions": [
+			"(Past and past part. Unsaid) Retract (a statement)"
+		]
+	},
+	{
+		"word": "Unscalable",
+		"definitions": [
+			"That cannot be scaled"
+		]
+	},
+	{
+		"word": "Unscarred",
+		"definitions": [
+			"Not scarred or damaged"
+		]
+	},
+	{
+		"word": "Unscathed",
+		"definitions": [
+			"Without injury"
+		]
+	},
+	{
+		"word": "Unscheduled",
+		"definitions": [
+			"Not scheduled"
+		]
+	},
+	{
+		"word": "Unschooled",
+		"definitions": [
+			"Uneducated, untrained"
+		]
+	},
+	{
+		"word": "Unscientific",
+		"definitions": [
+			"Not scientific in method etc."
+		]
+	},
+	{
+		"word": "Unscramble",
+		"definitions": [
+			"(Ling) Make plain, decode, interpret (a scrambled transmission etc.)"
+		]
+	},
+	{
+		"word": "Unscreened",
+		"definitions": [
+			"(Esp. Of coal) Not passed through a screen or sieve",
+			"Not checked, esp. For security or medical problems",
+			"Not having a screen",
+			"Not shown on a screen"
+		]
+	},
+	{
+		"word": "Unscrew",
+		"definitions": [
+			"Unfasten by removing a screw or screws",
+			"Loosen (a screw or screw-top)"
+		]
+	},
+	{
+		"word": "Unscripted",
+		"definitions": [
+			"(Of a speech etc.) Delivered impromptu"
+		]
+	},
+	{
+		"word": "Unscrupulous",
+		"definitions": [
+			"Having no scruples, unprincipled"
+		]
+	},
+	{
+		"word": "Unseal",
+		"definitions": [
+			"Break the seal of; open (a letter, receptacle, etc.)"
+		]
+	},
+	{
+		"word": "Unseasonable",
+		"definitions": [
+			"Not seasonable",
+			"Untimely, inopportune"
+		]
+	},
+	{
+		"word": "Unseasonal",
+		"definitions": [
+			"Not typical of, or appropriate to, the time or season"
+		]
+	},
+	{
+		"word": "Unseat",
+		"definitions": [
+			"Remove from (esp. A parliamentary) seat",
+			"Dislodge from a seat, esp. On horseback"
+		]
+	},
+	{
+		"word": "Unseeded",
+		"definitions": [
+			"Sport (of a player) Not seeded"
+		]
+	},
+	{
+		"word": "Unseeing",
+		"definitions": [
+			"Unobservant",
+			"Blind"
+		]
+	},
+	{
+		"word": "Unseemly",
+		"definitions": [
+			"Indecent",
+			"Unbecoming"
+		]
+	},
+	{
+		"word": "Unseen",
+		"definitions": [
+			"Not seen",
+			"Invisible",
+			"(Of a translation) To be done without preparation",
+			"Unseen translation"
+		]
+	},
+	{
+		"word": "Unselfconscious",
+		"definitions": [
+			"Not self-conscious"
+		]
+	},
+	{
+		"word": "Unselfish",
+		"definitions": [
+			"Concerned about others; sharing"
+		]
+	},
+	{
+		"word": "Unsentimental",
+		"definitions": [
+			"Not sentimental"
+		]
+	},
+	{
+		"word": "Unsettle",
+		"definitions": [
+			"Disturb; discompose",
+			"Derange"
+		]
+	},
+	{
+		"word": "Unsettled",
+		"definitions": [
+			"Restless, disturbed; unpredictable, changeable",
+			"Open to change or further discussion",
+			"(Of a bill etc.) Unpaid"
+		]
+	},
+	{
+		"word": "Unsex",
+		"definitions": [
+			"Deprive (a person, esp. A woman) of the qualities of her or his sex"
+		]
+	},
+	{
+		"word": "Unshackle",
+		"definitions": [
+			"Release from shackles",
+			"Set free"
+		]
+	},
+	{
+		"word": "Unshakeable",
+		"definitions": [
+			"Firm; obstinate"
+		]
+	},
+	{
+		"word": "Unshaken",
+		"definitions": [
+			"Not shaken"
+		]
+	},
+	{
+		"word": "Unshaven",
+		"definitions": [
+			"Not shaved"
+		]
+	},
+	{
+		"word": "Unsheathe",
+		"definitions": [
+			"(Thing) Remove (a knife etc.) from a sheath"
+		]
+	},
+	{
+		"word": "Unshockable",
+		"definitions": [
+			"Unable to be shocked"
+		]
+	},
+	{
+		"word": "Unshrinking",
+		"definitions": [
+			"Unhesitating, fearless"
+		]
+	},
+	{
+		"word": "Unsighted",
+		"definitions": [
+			"Not sighted or seen",
+			"Prevented from seeing"
+		]
+	},
+	{
+		"word": "Unsightly",
+		"definitions": [
+			"Ugly"
+		]
+	},
+	{
+		"word": "Unsigned",
+		"definitions": [
+			"Not signed"
+		]
+	},
+	{
+		"word": "Unsinkable",
+		"definitions": [
+			"Unable to be sunk"
+		]
+	},
+	{
+		"word": "Unskilful",
+		"definitions": [
+			"(US Unskillful) Not skilful"
+		]
+	},
+	{
+		"word": "Unskilled",
+		"definitions": [
+			"Lacking, or (of work) not needing, special skill or training"
+		]
+	},
+	{
+		"word": "Unskillful",
+		"definitions": [
+			"(Brit. Unskilful) Not skilful"
+		]
+	},
+	{
+		"word": "Unsliced",
+		"definitions": [
+			"(Esp. Of a loaf of bread) Not sliced"
+		]
+	},
+	{
+		"word": "Unsmiling",
+		"definitions": [
+			"Not smiling"
+		]
+	},
+	{
+		"word": "Unsmoked",
+		"definitions": [
+			"Not cured by smoking (unsmoked bacon)"
+		]
+	},
+	{
+		"word": "Unsociable",
+		"definitions": [
+			"Not sociable, disliking company"
+		]
+	},
+	{
+		"word": "Unsocial",
+		"definitions": [
+			"Not social; not suitable for or seeking society",
+			"Outside the normal working day (unsocial hours)",
+			"Antisocial"
+		]
+	},
+	{
+		"word": "Unsoiled",
+		"definitions": [
+			"Not soiled or dirtied"
+		]
+	},
+	{
+		"word": "Unsold",
+		"definitions": [
+			"Not sold"
+		]
+	},
+	{
+		"word": "Unsolicited",
+		"definitions": [
+			"Not asked for; voluntary"
+		]
+	},
+	{
+		"word": "Unsolved",
+		"definitions": [
+			"Not solved"
+		]
+	},
+	{
+		"word": "Unsophisticated",
+		"definitions": [
+			"Artless, simple, natural"
+		]
+	},
+	{
+		"word": "Unsorted",
+		"definitions": [
+			"Not sorted"
+		]
+	},
+	{
+		"word": "Unsought",
+		"definitions": [
+			"Not sought for",
+			"Without being requested"
+		]
+	},
+	{
+		"word": "Unsound",
+		"definitions": [
+			"Unhealthy, not sound",
+			"Rotten, weak; unreliable",
+			"Ill-founded",
+			"Of unsound mind (insane)"
+		]
+	},
+	{
+		"word": "Unsparing",
+		"definitions": [
+			"Lavish",
+			"Merciless"
+		]
+	},
+	{
+		"word": "Unspeakable",
+		"definitions": [
+			"That cannot be expressed in words",
+			"Indescribably bad"
+		]
+	},
+	{
+		"word": "Unspecific",
+		"definitions": [
+			"Not specific; general, inexact"
+		]
+	},
+	{
+		"word": "Unspecified",
+		"definitions": [
+			"Not specified"
+		]
+	},
+	{
+		"word": "Unspectacular",
+		"definitions": [
+			"Not spectacular; dull"
+		]
+	},
+	{
+		"word": "Unspoiled",
+		"definitions": [
+			"Not spoilt"
+		]
+	},
+	{
+		"word": "Unspoken",
+		"definitions": [
+			"Not expressed in speech",
+			"Not uttered as speech"
+		]
+	},
+	{
+		"word": "Unsporting",
+		"definitions": [
+			"Not fair or generous"
+		]
+	},
+	{
+		"word": "Unsportsmanlike",
+		"definitions": [
+			"Unsporting"
+		]
+	},
+	{
+		"word": "Unstable",
+		"definitions": [
+			"Not stable; likely to fall",
+			"Not stable emotionally",
+			"Changeable"
+		]
+	},
+	{
+		"word": "Unstained",
+		"definitions": [
+			"Not stained"
+		]
+	},
+	{
+		"word": "Unstated",
+		"definitions": [
+			"Not stated or declared"
+		]
+	},
+	{
+		"word": "Unsteady",
+		"definitions": [
+			"Not steady or firm",
+			"Changeable",
+			"Not uniform or regular"
+		]
+	},
+	{
+		"word": "Unstick",
+		"definitions": [
+			"Separate (a thing stuck to another)",
+			"Come unstuck (colloq.) Come to grief, fail"
+		]
+	},
+	{
+		"word": "Unstinted",
+		"definitions": [
+			"Not stinted"
+		]
+	},
+	{
+		"word": "Unstinting",
+		"definitions": [
+			"Lavish; limitless"
+		]
+	},
+	{
+		"word": "Unstitch",
+		"definitions": [
+			"Undo the stitches of"
+		]
+	},
+	{
+		"word": "Unstop",
+		"definitions": [
+			"Unblock",
+			"Remove the stopper from"
+		]
+	},
+	{
+		"word": "Unstoppable",
+		"definitions": [
+			"That cannot be stopped or prevented"
+		]
+	},
+	{
+		"word": "Unstrap",
+		"definitions": [
+			"Undo the strap(s) of"
+		]
+	},
+	{
+		"word": "Stressed",
+		"definitions": [
+			"Not pronounced with stress"
+		]
+	},
+	{
+		"word": "Unstring",
+		"definitions": [
+			"Remove or relax the string(s) of (a bow, harp, etc.)",
+			"Remove (beads etc.) from a string",
+			"Unnerve"
+		]
+	},
+	{
+		"word": "Unstructured",
+		"definitions": [
+			"Not structured",
+			"Informal"
+		]
+	},
+	{
+		"word": "Unstuck",
+		"definitions": [
+			"Past and past part. Of *unstick"
+		]
+	},
+	{
+		"word": "Unstudied",
+		"definitions": [
+			"Easy, natural, spontaneous"
+		]
+	},
+	{
+		"word": "Unsubstantiated",
+		"definitions": [
+			"Not substantiated"
+		]
+	},
+	{
+		"word": "Unsubtle",
+		"definitions": [
+			"Not subtle; obvious; clumsy"
+		]
+	},
+	{
+		"word": "Unsuccessful",
+		"definitions": [
+			"Not successful"
+		]
+	},
+	{
+		"word": "Unsuitable",
+		"definitions": [
+			"Not suitable"
+		]
+	},
+	{
+		"word": "Unsuited",
+		"definitions": [
+			"Not fit",
+			"Not adapted"
+		]
+	},
+	{
+		"word": "Unsullied",
+		"definitions": [
+			"Not sullied"
+		]
+	},
+	{
+		"word": "Unsung",
+		"definitions": [
+			"Not celebrated, unrecognized (unsung heroes)"
+		]
+	},
+	{
+		"word": "Unsupervised",
+		"definitions": [
+			"Not supervised"
+		]
+	},
+	{
+		"word": "Unsupported",
+		"definitions": [
+			"Not supported"
+		]
+	},
+	{
+		"word": "Unsure",
+		"definitions": [
+			"Not sure"
+		]
+	},
+	{
+		"word": "Unsurpassed",
+		"definitions": [
+			"Not surpassed"
+		]
+	},
+	{
+		"word": "Unsurprised",
+		"definitions": [
+			"Not surprised"
+		]
+	},
+	{
+		"word": "Unsurprising",
+		"definitions": [
+			"Not surprising"
+		]
+	},
+	{
+		"word": "Unsuspecting",
+		"definitions": [
+			"Not suspecting"
+		]
+	},
+	{
+		"word": "Unsustainable",
+		"definitions": [
+			"That cannot be sustained"
+		]
+	},
+	{
+		"word": "Unsweetened",
+		"definitions": [
+			"Not sweetened"
+		]
+	},
+	{
+		"word": "Unswept",
+		"definitions": [
+			"Not swept"
+		]
+	},
+	{
+		"word": "Unswerving",
+		"definitions": [
+			"Steady, constant"
+		]
+	},
+	{
+		"word": "Unsymmetrical",
+		"definitions": [
+			"Not symmetrical"
+		]
+	},
+	{
+		"word": "Unsympathetic",
+		"definitions": [
+			"Not sympathetic"
+		]
+	},
+	{
+		"word": "Unsystematic",
+		"definitions": [
+			"Not systematic"
+		]
+	},
+	{
+		"word": "Untainted",
+		"definitions": [
+			"Not tainted"
+		]
+	},
+	{
+		"word": "Untalented",
+		"definitions": [
+			"Not talented"
+		]
+	},
+	{
+		"word": "Untameable",
+		"definitions": [
+			"That cannot be tamed"
+		]
+	},
+	{
+		"word": "Untamed",
+		"definitions": [
+			"Not tamed, wild"
+		]
+	},
+	{
+		"word": "Untangle",
+		"definitions": [
+			"Disentangle"
+		]
+	},
+	{
+		"word": "Untapped",
+		"definitions": [
+			"Not (yet) tapped or used (untapped resources)"
+		]
+	},
+	{
+		"word": "Untarnished",
+		"definitions": [
+			"Not tarnished"
+		]
+	},
+	{
+		"word": "Untaught",
+		"definitions": [
+			"(Of a person, knowledge, etc.) Not taught"
+		]
+	},
+	{
+		"word": "Untaxed",
+		"definitions": [
+			"(Of a person, commodity, etc.) Not taxed"
+		]
+	},
+	{
+		"word": "Unteachable",
+		"definitions": [
+			"(Of a person, subject, etc.) Incapable of being taught"
+		]
+	},
+	{
+		"word": "Untenable",
+		"definitions": [
+			"(Of a theory etc.) Not tenable"
+		]
+	},
+	{
+		"word": "Untested",
+		"definitions": [
+			"Not tested or proved"
+		]
+	},
+	{
+		"word": "Untether",
+		"definitions": [
+			"Release (an animal) from a tether"
+		]
+	},
+	{
+		"word": "Unthinkable",
+		"definitions": [
+			"Unimaginable, inconceivable",
+			"Colloq. Highly unlikely or undesirable"
+		]
+	},
+	{
+		"word": "Unthinking",
+		"definitions": [
+			"Thoughtless",
+			"Unintentional, inadvertent"
+		]
+	},
+	{
+		"word": "Unthread",
+		"definitions": [
+			"Take the thread out of (a needle etc.)"
+		]
+	},
+	{
+		"word": "Unthrone",
+		"definitions": [
+			"Dethrone"
+		]
+	},
+	{
+		"word": "Untidy",
+		"definitions": [
+			"Not neat or orderly"
+		]
+	},
+	{
+		"word": "Untie",
+		"definitions": [
+			"Undo (a knot, package, etc.)",
+			"Release from bonds or attachment"
+		]
+	},
+	{
+		"word": "Until",
+		"definitions": [
+			"= *till1 (earlier untill: un from old Norse und as far as)"
+		]
+	},
+	{
+		"word": "Untimely",
+		"definitions": [
+			"Inopportune",
+			"(Of death) Premature"
+		]
+	},
+	{
+		"word": "Untiring",
+		"definitions": [
+			"Tireless"
+		]
+	},
+	{
+		"word": "Untitled",
+		"definitions": [
+			"Having no title"
+		]
+	},
+	{
+		"word": "Unto",
+		"definitions": [
+			"Archaic = *to (in all uses except signalling the infinitive)"
+		]
+	},
+	{
+		"word": "Untold",
+		"definitions": [
+			"Not told",
+			"Immeasurable (untold misery)"
+		]
+	},
+	{
+		"word": "Untouchable",
+		"definitions": [
+			"That may not be touched",
+			"Member of a hereditary Hindu group held to defile members of higher castes on contact"
+		]
+	},
+	{
+		"word": "Untouched",
+		"definitions": [
+			"Not touched",
+			"Not affected physically, emotionally, etc.",
+			"Not discussed"
+		]
+	},
+	{
+		"word": "Untoward",
+		"definitions": [
+			"Inconvenient, unlucky",
+			"Awkward",
+			"Perverse, refractory",
+			"Unseemly"
+		]
+	},
+	{
+		"word": "Untraceable",
+		"definitions": [
+			"That cannot be traced"
+		]
+	},
+	{
+		"word": "Untrained",
+		"definitions": [
+			"Not trained"
+		]
+	},
+	{
+		"word": "Untrammelled",
+		"definitions": [
+			"Not trammelled, unhampered"
+		]
+	},
+	{
+		"word": "Untranslatable",
+		"definitions": [
+			"That cannot be translated satisfactorily"
+		]
+	},
+	{
+		"word": "Untreated",
+		"definitions": [
+			"Not treated"
+		]
+	},
+	{
+		"word": "Untried",
+		"definitions": [
+			"Not tried or tested",
+			"Inexperienced"
+		]
+	},
+	{
+		"word": "Untroubled",
+		"definitions": [
+			"Calm, tranquil"
+		]
+	},
+	{
+		"word": "Untrue",
+		"definitions": [
+			"Not true",
+			"Not faithful or loyal",
+			"Deviating from an accepted standard"
+		]
+	},
+	{
+		"word": "Untrustworthy",
+		"definitions": [
+			"Not trustworthy"
+		]
+	},
+	{
+		"word": "Untruth",
+		"definitions": [
+			"Being untrue",
+			"Lie"
+		]
+	},
+	{
+		"word": "Untruthful",
+		"definitions": [
+			"Not truthful"
+		]
+	},
+	{
+		"word": "Untuck",
+		"definitions": [
+			"Free (bedclothes etc.) from being tucked in or up"
+		]
+	},
+	{
+		"word": "Unturned",
+		"definitions": [
+			"Not turned over, round, away, etc.",
+			"Not shaped by turning"
+		]
+	},
+	{
+		"word": "Untutored",
+		"definitions": [
+			"Uneducated, untaught"
+		]
+	},
+	{
+		"word": "Untwine",
+		"definitions": [
+			"Untwist, unwind"
+		]
+	},
+	{
+		"word": "Untwist",
+		"definitions": [
+			"Open from a twisted or spiralled state"
+		]
+	},
+	{
+		"word": "Unusable",
+		"definitions": [
+			"Not usable"
+		]
+	},
+	{
+		"word": "Unused",
+		"definitions": [
+			"Not in use",
+			"Never having been used",
+			"Not accustomed"
+		]
+	},
+	{
+		"word": "Unusual",
+		"definitions": [
+			"Not usual",
+			"Remarkable"
+		]
+	},
+	{
+		"word": "Unutterable",
+		"definitions": [
+			"Inexpressible; beyond description"
+		]
+	},
+	{
+		"word": "Unvarnished",
+		"definitions": [
+			"Not varnished",
+			"Plain and straightforward (the unvarnished truth)"
+		]
+	},
+	{
+		"word": "Unvarying",
+		"definitions": [
+			"Not varying"
+		]
+	},
+	{
+		"word": "Unveil",
+		"definitions": [
+			"Uncover (a statue etc.) ceremonially",
+			"Reveal",
+			"Remove a veil from; remove one's veil"
+		]
+	},
+	{
+		"word": "Unverified",
+		"definitions": [
+			"Not verified"
+		]
+	},
+	{
+		"word": "Unversed",
+		"definitions": [
+			"Not experienced or skilled"
+		]
+	},
+	{
+		"word": "Unviable",
+		"definitions": [
+			"Not viable"
+		]
+	},
+	{
+		"word": "Unvoiced",
+		"definitions": [
+			"Not spoken",
+			"(Of a consonant etc.) Not voiced"
+		]
+	},
+	{
+		"word": "Unwaged",
+		"definitions": [
+			"Not receiving a wage; unemployed"
+		]
+	},
+	{
+		"word": "Unwanted",
+		"definitions": [
+			"Not wanted"
+		]
+	},
+	{
+		"word": "Unwarrantable",
+		"definitions": [
+			"Unjustifiable"
+		]
+	},
+	{
+		"word": "Unwarranted",
+		"definitions": [
+			"Unauthorized",
+			"Unjustified"
+		]
+	},
+	{
+		"word": "Unwary",
+		"definitions": [
+			"Not cautious"
+		]
+	},
+	{
+		"word": "Unwashed",
+		"definitions": [
+			"Not washed or clean",
+			"The great unwashed colloq. The rabble"
+		]
+	},
+	{
+		"word": "Unwavering",
+		"definitions": [
+			"Not wavering"
+		]
+	},
+	{
+		"word": "Unweaned",
+		"definitions": [
+			"Not yet weaned"
+		]
+	},
+	{
+		"word": "Unwearying",
+		"definitions": [
+			"Persistent"
+		]
+	},
+	{
+		"word": "Unwelcome",
+		"definitions": [
+			"Not welcome or acceptable"
+		]
+	},
+	{
+		"word": "Unwell",
+		"definitions": [
+			"Ill"
+		]
+	},
+	{
+		"word": "Unwholesome",
+		"definitions": [
+			"Detrimental to physical or moral health",
+			"Unhealthy-looking"
+		]
+	},
+	{
+		"word": "Unwieldy",
+		"definitions": [
+			"Cumbersome or hard to manage, owing to size, shape, etc."
+		]
+	},
+	{
+		"word": "Unwilling",
+		"definitions": [
+			"Not willing or inclined; reluctant"
+		]
+	},
+	{
+		"word": "Unwind",
+		"definitions": [
+			"Draw out or become drawn out after having been wound",
+			"Colloq. Relax"
+		]
+	},
+	{
+		"word": "Unwinking",
+		"definitions": [
+			"Not winking",
+			"Vigilant"
+		]
+	},
+	{
+		"word": "Unwise",
+		"definitions": [
+			"Foolish, imprudent"
+		]
+	},
+	{
+		"word": "Unwished",
+		"definitions": [
+			"Not wished for"
+		]
+	},
+	{
+		"word": "Unwitting",
+		"definitions": [
+			"Not knowing or aware (an unwitting offender)",
+			"Unintentional"
+		]
+	},
+	{
+		"word": "Unwonted",
+		"definitions": [
+			"Not customary or usual"
+		]
+	},
+	{
+		"word": "Unworkable",
+		"definitions": [
+			"Not workable; impracticable"
+		]
+	},
+	{
+		"word": "Unworkmanlike",
+		"definitions": [
+			"Badly done or made"
+		]
+	},
+	{
+		"word": "Unworldly",
+		"definitions": [
+			"Spiritual; naïve"
+		]
+	},
+	{
+		"word": "Unworn",
+		"definitions": [
+			"Not worn or impaired by wear"
+		]
+	},
+	{
+		"word": "Unworried",
+		"definitions": [
+			"Not worried; calm"
+		]
+	},
+	{
+		"word": "Unworthy",
+		"definitions": [
+			"Not worthy of or befitting a person etc.",
+			"Discreditable, unseemly"
+		]
+	},
+	{
+		"word": "Unwound",
+		"definitions": [
+			"Past and past part. of *unwind"
+		]
+	},
+	{
+		"word": "Unwrap",
+		"definitions": [
+			"Remove the wrapping from",
+			"Open, unfold",
+			"Become unwrapped"
+		]
+	},
+	{
+		"word": "Unwritten",
+		"definitions": [
+			"Not written",
+			"(Of a law etc.) Based on custom or judicial decision, not on statute"
+		]
+	},
+	{
+		"word": "Unyielding",
+		"definitions": [
+			"Not yielding",
+			"Firm, obstinate"
+		]
+	},
+	{
+		"word": "Unzip",
+		"definitions": [
+			"Unfasten the zip of"
+		]
+	},
+	{
+		"word": "Up",
+		"definitions": [
+			"At, in, or towards a higher place or a place regarded as higher (e.g. The north, a capital or a university)",
+			"In or into an active condition (stirred up trouble; the hunt is up)",
+			"In a stronger or leading position (three goals up; am £10 up)",
+			"Completed (time is up)",
+			"Higher in price or value (our costs are up)",
+			"Completely (burn up; eat up)",
+			"More loudly or clearly (speak up)",
+			"Out of bed, having risen (are you up yet?; sun is up)",
+			"Happening, esp. unusually (something is up)",
+			"Appearing for trial etc.",
+			"Of a road etc.) Being repaired",
+			"Of a jockey) In the saddle",
+			"Upwards and along, through, or into (climbed up the ladder; went up the road)",
+			"Directed upwards (up stroke)",
+			"Of travel towards a capital or centre (the up train)",
+			"Spell of good fortune",
+			"Colloq. Start, esp. abruptly, to speak or act (upped and hit him)",
+			"Raise (upped their prices)"
+		]
+	},
+	{
+		"word": "Up-and-coming",
+		"definitions": [
+			"Colloq. (Of a person) Promising; progressing"
+		]
+	},
+	{
+		"word": "Up-and-over",
+		"definitions": [
+			"(Of a door) Opening by being raised and pushed back into a horizontal position"
+		]
+	},
+	{
+		"word": "Upbeat",
+		"definitions": [
+			"Unaccented beat in music",
+			"Colloq. Optimistic, cheerful"
+		]
+	},
+	{
+		"word": "Upbraid",
+		"definitions": [
+			"Chide, reproach"
+		]
+	},
+	{
+		"word": "Upbringing",
+		"definitions": [
+			"Rearing of a child",
+			"Upbring to rear (obsolete)"
+		]
+	},
+	{
+		"word": "Up-country",
+		"definitions": [
+			"Inland"
+		]
+	},
+	{
+		"word": "Upcurved",
+		"definitions": [
+			"Curved upwards"
+		]
+	},
+	{
+		"word": "Update",
+		"definitions": [
+			"Bring up to date",
+			"Updating",
+			"Updated information etc."
+		]
+	},
+	{
+		"word": "Up-end",
+		"definitions": [
+			"Set or rise up on end"
+		]
+	},
+	{
+		"word": "Upfield",
+		"definitions": [
+			"In or to a position nearer to the opponents' end of a field"
+		]
+	},
+	{
+		"word": "Upfront",
+		"definitions": [
+			"At the front; in front",
+			"Of payments) In advance",
+			"Honest, frank, direct",
+			"Made in advance"
+		]
+	},
+	{
+		"word": "Upgrade",
+		"definitions": [
+			"Raise in rank etc.",
+			"Improve (equipment etc.)"
+		]
+	},
+	{
+		"word": "Upheaval",
+		"definitions": [
+			"Violent or sudden change or disruption"
+		]
+	},
+	{
+		"word": "Uphill",
+		"definitions": [
+			"Up a slope",
+			"Sloping up; ascending",
+			"Arduous"
+		]
+	},
+	{
+		"word": "Uphold",
+		"definitions": [
+			"Confirm (a decision etc.)",
+			"Support, maintain (a custom etc.)"
+		]
+	},
+	{
+		"word": "Upholster",
+		"definitions": [
+			"Provide (furniture) with upholstery"
+		]
+	},
+	{
+		"word": "Upholsterer",
+		"definitions": [
+			"Person who upholsters, esp. for a living"
+		]
+	},
+	{
+		"word": "Upholstery",
+		"definitions": [
+			"Covering, padding, springs, etc. for furniture",
+			"Upholsterer's work"
+		]
+	},
+	{
+		"word": "Upkeep",
+		"definitions": [
+			"Maintenance in good condition",
+			"Cost or means of this"
+		]
+	},
+	{
+		"word": "Upland",
+		"definitions": [
+			"Higher or inland parts of a country",
+			"Of these parts"
+		]
+	},
+	{
+		"word": "Uplift",
+		"definitions": [
+			"Raise",
+			"Elevate morally or emotionally",
+			"Elevating influence",
+			"Support for the bust etc."
+		]
+	},
+	{
+		"word": "Up-market",
+		"definitions": [
+			"Of or directed at the upper end of the market; classy"
+		]
+	},
+	{
+		"word": "Upmost",
+		"definitions": [
+			"Of uppermost"
+		]
+	},
+	{
+		"word": "Upon",
+		"definitions": [
+			"On"
+		]
+	},
+	{
+		"word": "Upper",
+		"definitions": [
+			"Higher in place; situated above another part",
+			"Higher in rank",
+			"Part of a boot or shoe above the sole"
+		]
+	},
+	{
+		"word": "Upper",
+		"definitions": [
+			"Slang for amphetamine or other stimulant"
+		]
+	},
+	{
+		"word": "Upper case",
+		"definitions": [
+			"Capital letters"
+		]
+	},
+	{
+		"word": "Upper crust",
+		"definitions": [
+			"The aristocracy"
+		]
+	},
+	{
+		"word": "Upper-cut",
+		"definitions": [
+			"Upwards blow delivered with the arm bent",
+			"Hit upwards with the arm bent"
+		]
+	},
+	{
+		"word": "Upper hand",
+		"definitions": [
+			"Dominance, control"
+		]
+	},
+	{
+		"word": "Upper house",
+		"definitions": [
+			"Higher house in a legislature, esp. the House of Lords"
+		]
+	},
+	{
+		"word": "Uppermost",
+		"definitions": [
+			"Highest",
+			"Predominant",
+			"At or to the uppermost position"
+		]
+	},
+	{
+		"word": "Uppish",
+		"definitions": [
+			"Colloquial for Uppity"
+		]
+	},
+	{
+		"word": "Uppity",
+		"definitions": [
+			"Colloquial for self-assertive, arrogant"
+		]
+	},
+	{
+		"word": "Upright",
+		"definitions": [
+			"Erect, vertical",
+			"Of a piano, with vertical strings",
+			"Honourable or honest",
+			"Upright post or rod, especially as a structural support",
+			"Upright piano"
+		]
+	},
+	{
+		"word": "Uprising",
+		"definitions": [
+			"Insurrection"
+		]
+	},
+	{
+		"word": "Uproar",
+		"definitions": [
+			"Tumult; violent disturbance"
+		]
+	},
+	{
+		"word": "Uproarious",
+		"definitions": [
+			"Very noisy",
+			"Provoking loud laughter; very funny"
+		]
+	},
+	{
+		"word": "Uproot",
+		"definitions": [
+			"Pull up a plant from the ground",
+			"Displace a person",
+			"Eradicate"
+		]
+	},
+	{
+		"word": "Uprush",
+		"definitions": [
+			"Upward rush"
+		]
+	},
+	{
+		"word": "Ups-a-daisy",
+		"definitions": [
+			"Var. of upsy-daisy"
+		]
+	},
+	{
+		"word": "Ups and downs",
+		"definitions": [
+			"Rises and falls",
+			"Mixed fortune"
+		]
+	},
+	{
+		"word": "Upset",
+		"definitions": [
+			"Overturn",
+			"Disturb the composure or digestion of",
+			"Disrupt",
+			"Emotional or physical disturbance",
+			"Surprising result",
+			"Disturbed"
+		]
+	},
+	{
+		"word": "Upshot",
+		"definitions": [
+			"Outcome, conclusion"
+		]
+	},
+	{
+		"word": "Upside down",
+		"definitions": [
+			"With the upper and lower parts reversed; inverted",
+			"In or into total disorder"
+		]
+	},
+	{
+		"word": "Upsilon",
+		"definitions": [
+			"Twentieth letter of the Greek alphabet (u, u)",
+			"Slender u, with reference to its later coincidence in sound with Greek oi"
+		]
+	},
+	{
+		"word": "Upstage",
+		"definitions": [
+			"Nearer the back of a theatre stage",
+			"Move upstage to make another actor face away from the audience",
+			"Divert attention from a person to oneself"
+		]
+	},
+	{
+		"word": "Upstairs",
+		"definitions": [
+			"To or on an upper floor",
+			"Situated upstairs",
+			"Upper floor"
+		]
+	},
+	{
+		"word": "Upstanding",
+		"definitions": [
+			"Standing up",
+			"Strong and healthy",
+			"Honest"
+		]
+	},
+	{
+		"word": "Upstart",
+		"definitions": [
+			"Newly successful, especially arrogant, person",
+			"That is an upstart",
+			"Of upstarts"
+		]
+	},
+	{
+		"word": "Upstate",
+		"definitions": [
+			"Provincial, esp. northern, part of a state",
+			"Of this part",
+			"In or to this part"
+		]
+	},
+	{
+		"word": "Upstream",
+		"definitions": [
+			"In the direction contrary to the flow of a stream etc."
+		]
+	},
+	{
+		"word": "Up-stroke",
+		"definitions": [
+			"Upwards stroke"
+		]
+	},
+	{
+		"word": "Upsurge",
+		"definitions": [
+			"Upward surge"
+		]
+	},
+	{
+		"word": "Upswept",
+		"definitions": [
+			"Of hair, combed to the top of the head"
+		]
+	},
+	{
+		"word": "Upswing",
+		"definitions": [
+			"Upward movement or trend"
+		]
+	},
+	{
+		"word": "Upsy-daisy",
+		"definitions": [
+			"Expressing encouragement to a child who is being lifted or has fallen"
+		]
+	},
+	{
+		"word": "Uptake",
+		"definitions": [
+			"Understanding",
+			"Taking up of an offer etc."
+		]
+	},
+	{
+		"word": "Upthrust",
+		"definitions": [
+			"Upward thrust",
+			"Upward displacement of part of the earth's crust"
+		]
+	},
+	{
+		"word": "Uptight",
+		"definitions": [
+			"Nervously tense or angry",
+			"Rigidly conventional"
+		]
+	},
+	{
+		"word": "Uptown",
+		"definitions": [
+			"Of the residential part of a town or city",
+			"In or into this part",
+			"This part"
+		]
+	},
+	{
+		"word": "Upturn",
+		"definitions": [
+			"Upward trend; improvement",
+			"Turn up or upside down"
+		]
+	},
+	{
+		"word": "Upward",
+		"definitions": [
+			"Towards what is higher, more important, etc.",
+			"Moving or extending upwards"
+		]
+	},
+	{
+		"word": "Upwardly",
+		"definitions": [
+			"In an upward direction"
+		]
+	},
+	{
+		"word": "Upwardly mobile",
+		"definitions": [
+			"Aspiring to advance socially or professionally"
+		]
+	},
+	{
+		"word": "Upwind",
+		"definitions": [
+			"In the direction from which the wind is blowing"
+		]
+	},
+	{
+		"word": "Uranium",
+		"definitions": [
+			"Radioactive grey dense metallic element, capable of nuclear fission and used as a source of nuclear energy"
+		]
+	},
+	{
+		"word": "Urban",
+		"definitions": [
+			"Of, living in, or situated in a town or city"
+		]
+	},
+	{
+		"word": "Urbane",
+		"definitions": [
+			"Suave; elegant"
+		]
+	},
+	{
+		"word": "Urban guerrilla",
+		"definitions": [
+			"Terrorist operating in an urban area"
+		]
+	},
+	{
+		"word": "Urbanize",
+		"definitions": [
+			"Make urban, esp. by destroying the rural quality of (a district)"
+		]
+	},
+	{
+		"word": "Urchin",
+		"definitions": [
+			"Mischievous, especially ragged, child",
+			"Sea urchin"
+		]
+	},
+	{
+		"word": "Urdu",
+		"definitions": [
+			"Language related to Hindi but with many Persian words, used esp. in Pakistan"
+		]
+	},
+	{
+		"word": "Ure",
+		"definitions": [
+			"Forming nouns of action",
+			"Forming nouns of result",
+			"Forming collective nouns"
+		]
+	},
+	{
+		"word": "Urea",
+		"definitions": [
+			"Soluble nitrogenous compound contained especially in urine"
+		]
+	},
+	{
+		"word": "Ureter",
+		"definitions": [
+			"Duct conveying urine from the kidney to the bladder"
+		]
+	},
+	{
+		"word": "Urethra",
+		"definitions": [
+			"Duct conveying urine from the bladder",
+			"Related to ureter"
+		]
+	},
+	{
+		"word": "Urge",
+		"definitions": [
+			"Drive forcibly; hasten",
+			"Encourage or entreat earnestly or persistently",
+			"Advocate an action or argument emphatically",
+			"Urging impulse or tendency",
+			"Strong desire"
+		]
+	},
+	{
+		"word": "Urgent",
+		"definitions": [
+			"Requiring immediate action or attention",
+			"Importunate"
+		]
+	},
+	{
+		"word": "Uric",
+		"definitions": [
+			"Of urine"
+		]
+	},
+	{
+		"word": "Uric acid",
+		"definitions": [
+			"Constituent of urine"
+		]
+	},
+	{
+		"word": "Urinal",
+		"definitions": [
+			"Place or receptacle for urination by men"
+		]
+	},
+	{
+		"word": "Urinary",
+		"definitions": [
+			"Of or relating to urine"
+		]
+	},
+	{
+		"word": "Urinate",
+		"definitions": [
+			"Discharge urine"
+		]
+	},
+	{
+		"word": "Urine",
+		"definitions": [
+			"Waste fluid secreted by the kidneys and discharged from the bladder"
+		]
+	},
+	{
+		"word": "Urn",
+		"definitions": [
+			"Vase with a foot and usually a rounded body, used for the ashes of the dead",
+			"Large vessel with a tap, in which tea or coffee is made or kept hot"
+		]
+	},
+	{
+		"word": "Urogenital",
+		"definitions": [
+			"Of the urinary and reproductive systems"
+		]
+	},
+	{
+		"word": "Urology",
+		"definitions": [
+			"The study of the urinary system"
+		]
+	},
+	{
+		"word": "Ursa major",
+		"definitions": [
+			"Great bear"
+		]
+	},
+	{
+		"word": "Ursa minor",
+		"definitions": [
+			"Little bear"
+		]
+	},
+	{
+		"word": "Ursine",
+		"definitions": [
+			"Of or like a bear"
+		]
+	},
+	{
+		"word": "Us",
+		"definitions": [
+			"Objective case of we",
+			"Colloquial for we",
+			"Colloquial for me"
+		]
+	},
+	{
+		"word": "Usa",
+		"definitions": [
+			"United States of America"
+		]
+	},
+	{
+		"word": "Usable",
+		"definitions": [
+			"That can be used"
+		]
+	},
+	{
+		"word": "Usaf",
+		"definitions": [
+			"United States Air Force"
+		]
+	},
+	{
+		"word": "Usage",
+		"definitions": [
+			"Use, treatment",
+			"Customary practice, especially in language or as creating a precedent in law"
+		]
+	},
+	{
+		"word": "Use",
+		"definitions": [
+			"Cause to act or serve for a purpose",
+			"Treat in a specified manner",
+			"Exploit for one's own ends",
+			"Did or had habitually",
+			"Second-hand",
+			"Familiar by habit; accustomed",
+			"Using or being used",
+			"Right or power of using",
+			"Benefit, advantage",
+			"Custom or usage"
+		]
+	},
+	{
+		"word": "Useful",
+		"definitions": [
+			"That can be used to advantage; helpful; beneficial",
+			"Colloquial for creditable, efficient"
+		]
+	},
+	{
+		"word": "Useless",
+		"definitions": [
+			"Serving no purpose; unavailing",
+			"Colloquial for feeble or ineffectual"
+		]
+	},
+	{
+		"word": "User",
+		"definitions": [
+			"Person who uses a thing"
+		]
+	},
+	{
+		"word": "User-friendly",
+		"definitions": [
+			"Of a computer etc., easy to use"
+		]
+	},
+	{
+		"word": "Usher",
+		"definitions": [
+			"Person who shows people to their seats",
+			"Doorkeeper at a court",
+			"Act as usher to",
+			"Announce, herald, or show in"
+		]
+	},
+	{
+		"word": "Usherette",
+		"definitions": [
+			"Female usher, especially in a cinema"
+		]
+	},
+	{
+		"word": "Ussr",
+		"definitions": [
+			"Union of Soviet Socialist Republics"
+		]
+	},
+	{
+		"word": "Usual",
+		"definitions": [
+			"Customary, habitual",
+			"Colloquial for a person's usual drink etc."
+		]
+	},
+	{
+		"word": "Usurer",
+		"definitions": [
+			"Person who practices usury"
+		]
+	},
+	{
+		"word": "Usurp",
+		"definitions": [
+			"Seize a throne or power wrongfully"
+		]
+	},
+	{
+		"word": "Usury",
+		"definitions": [
+			"Lending of money at interest, especially at an exorbitant or illegal rate",
+			"Interest at this rate"
+		]
+	},
+	{
+		"word": "Utensil",
+		"definitions": [
+			"Implement or vessel, especially for kitchen use"
+		]
+	},
+	{
+		"word": "Uterine",
+		"definitions": [
+			"Of the uterus"
+		]
+	},
+	{
+		"word": "Uterus",
+		"definitions": [
+			"Womb"
+		]
+	},
+	{
+		"word": "Utilitarian",
+		"definitions": [
+			"Designed to be useful rather than attractive; severely practical",
+			"Of utilitarianism",
+			"Adherent of utilitarianism"
+		]
+	},
+	{
+		"word": "Utilitarianism",
+		"definitions": [
+			"Doctrine that actions are right if they are useful or benefit a majority"
+		]
+	},
+	{
+		"word": "Utility",
+		"definitions": [
+			"Usefulness",
+			"Useful thing",
+			"Public utility",
+			"Basic and standardized"
+		]
+	},
+	{
+		"word": "Utility room",
+		"definitions": [
+			"Room for domestic appliances, e.g. a washing-machine, boiler, etc."
+		]
+	},
+	{
+		"word": "Utility vehicle",
+		"definitions": [
+			"Vehicle serving various functions"
+		]
+	},
+	{
+		"word": "Utilize",
+		"definitions": [
+			"Use; turn to account"
+		]
+	},
+	{
+		"word": "Utilization",
+		"definitions": [
+			"Act of utilizing"
+		]
+	},
+	{
+		"word": "Utmost",
+		"definitions": [
+			"Furthest, extreme, greatest",
+			"Utmost point or degree"
+		]
+	},
+	{
+		"word": "Utopia",
+		"definitions": [
+			"Imagined perfect place or state of things",
+			"Utopian"
+		]
+	},
+	{
+		"word": "Utter",
+		"definitions": [
+			"Complete, absolute"
+		]
+	},
+	{
+		"word": "Utter",
+		"definitions": [
+			"Emit audibly",
+			"Express in words",
+			"Law: Put into circulation"
+		]
+	},
+	{
+		"word": "Utterance",
+		"definitions": [
+			"Act of uttering",
+			"Thing spoken",
+			"Power or manner of speaking"
+		]
+	},
+	{
+		"word": "Uttermost",
+		"definitions": [
+			"Utmost"
+		]
+	},
+	{
+		"word": "U-turn",
+		"definitions": [
+			"U-shaped turn of a vehicle to face in the opposite direction",
+			"Abrupt reversal of policy"
+		]
+	},
+	{
+		"word": "Uv",
+		"definitions": [
+			"Ultraviolet"
+		]
+	},
+	{
+		"word": "Uvpc",
+		"definitions": [
+			"Unplasticized polyvinyl chloride"
+		]
+	},
+	{
+		"word": "Uvula",
+		"definitions": [
+			"Fleshy part of the soft palate hanging above the throat"
+		]
+	},
+	{
+		"word": "Uxorial",
+		"definitions": [
+			"Of a wife"
+		]
+	},
+	{
+		"word": "Uxorious",
+		"definitions": [
+			"Greatly or excessively fond of one's wife"
 		]
 	}
 ]
