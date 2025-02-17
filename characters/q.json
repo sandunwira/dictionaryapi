@@ -1,9 +1,1247 @@
 [
 	{
-		"word": "<word>",
+		"word": "Q1",
 		"definitions": [
-			"<definition1>",
-			"<definition2>"
+			"Seventeenth letter of the alphabet",
+			"Abbr. for Question"
+		]
+	},
+	{
+		"word": "Q2",
+		"definitions": [
+			"Abbr. for Queen('s)",
+			"Abbr. for Question"
+		]
+	},
+	{
+		"word": "Qc",
+		"definitions": [
+			"Abbr. for Queen's counsel"
+		]
+	},
+	{
+		"word": "Qed",
+		"definitions": [
+			"Abbr. for Which was to be proved"
+		]
+	},
+	{
+		"word": "Qm",
+		"definitions": [
+			"Abbr. for Quartermaster"
+		]
+	},
+	{
+		"word": "Qr",
+		"definitions": [
+			"Abbr. for Quarter(s)"
+		]
+	},
+	{
+		"word": "Qt",
+		"definitions": [
+			"Abbr. for Quart(s)"
+		]
+	},
+	{
+		"word": "Qua",
+		"definitions": [
+			"In the capacity of"
+		]
+	},
+	{
+		"word": "Quack1",
+		"definitions": [
+			"Harsh sound made by ducks",
+			"Utter this sound"
+		]
+	},
+	{
+		"word": "Quack2",
+		"definitions": [
+			"Unqualified practitioner, esp. of medicine",
+			"Slang for any doctor"
+		]
+	},
+	{
+		"word": "Quackery",
+		"definitions": [
+			"Fraudulent practice"
+		]
+	},
+	{
+		"word": "Quad1",
+		"definitions": [
+			"Colloq. for Quadrangle"
+		]
+	},
+	{
+		"word": "Quad2",
+		"definitions": [
+			"Colloq. for Quadruplet"
+		]
+	},
+	{
+		"word": "Quad3",
+		"definitions": [
+			"Colloq. for Quadraphonics",
+			"Colloq. for Quadraphonic"
+		]
+	},
+	{
+		"word": "Quadragesima",
+		"definitions": [
+			"First Sunday in Lent"
+		]
+	},
+	{
+		"word": "Quadrangle",
+		"definitions": [
+			"Four-sided plane figure, esp. A square or rectangle",
+			"Four-sided court, esp. in colleges"
+		]
+	},
+	{
+		"word": "Quadrant",
+		"definitions": [
+			"Quarter of a circle's circumference",
+			"Instrument for measuring angles"
+		]
+	},
+	{
+		"word": "Quadraphonic",
+		"definitions": [
+			"Using four transmission channels",
+			"Relating to sound reproduction"
+		]
+	},
+	{
+		"word": "Quadrate",
+		"definitions": [
+			"Square or rectangular in shape",
+			"Make square"
+		]
+	},
+	{
+		"word": "Quadratic",
+		"definitions": [
+			"Involving the square of an unknown quantity",
+			"Quadratic equation"
+		]
+	},
+	{
+		"word": "Quadri-",
+		"definitions": [
+			"Denoting four"
+		]
+	},
+	{
+		"word": "Quadriceps",
+		"definitions": [
+			"Four-headed muscle at the front of the thigh"
+		]
+	},
+	{
+		"word": "Quadrilateral",
+		"definitions": [
+			"Having four sides",
+			"Four-sided figure"
+		]
+	},
+	{
+		"word": "Quadrille",
+		"definitions": [
+			"A kind of square dance",
+			"Music for this dance"
+		]
+	},
+	{
+		"word": "Quadriplegia",
+		"definitions": [
+			"Paralysis of all four limbs",
+			"Quadriplegic as a person or condition"
+		]
+	},
+	{
+		"word": "Quadruped",
+		"definitions": [
+			"Four-footed animal, esp. A mammal",
+			"Related to four feet"
+		]
+	},
+	{
+		"word": "Quadruple",
+		"definitions": [
+			"Fourfold; having four parts",
+			"Multiply by four"
+		]
+	},
+	{
+		"word": "Quadruplet",
+		"definitions": [
+			"Each of four children born at one birth"
+		]
+	},
+	{
+		"word": "Quadruplicate",
+		"definitions": [
+			"Fourfold",
+			"Make four copies"
+		]
+	},
+	{
+		"word": "Quaff",
+		"definitions": [
+			"Drink deeply",
+			"Drain in long draughts"
+		]
+	},
+	{
+		"word": "Quagmire",
+		"definitions": [
+			"Muddy or boggy area",
+			"Hazardous situation"
+		]
+	},
+	{
+		"word": "Quail1",
+		"definitions": [
+			"Small game-bird related to the partridge",
+			"Related to quail species"
+		]
+	},
+	{
+		"word": "Quail2",
+		"definitions": [
+			"Flinch",
+			"Show fear"
+		]
+	},
+	{
+		"word": "Quaint",
+		"definitions": [
+			"Attractively odd or old-fashioned",
+			"Charmingly unusual"
+		]
+	},
+	{
+		"word": "Quake",
+		"definitions": [
+			"Shake or tremble",
+			"Colloq. for Earthquake"
+		]
+	},
+	{
+		"word": "Quaker",
+		"definitions": [
+			"Member of the society of friends",
+			"Adherent of Quakerism"
+		]
+	},
+	{
+		"word": "Qualification",
+		"definitions": [
+			"Accomplishment fitting a person for a position or purpose",
+			"Thing that modifies or limits a statement"
+		]
+	},
+	{
+		"word": "Qualify",
+		"definitions": [
+			"Make competent or fit for a position",
+			"Make legally entitled"
+		]
+	},
+	{
+		"word": "Qualitative",
+		"definitions": [
+			"Of quality as opposed to quantity",
+			"Relating to quality"
+		]
+	},
+	{
+		"word": "Quality",
+		"definitions": [
+			"Degree of excellence",
+			"A general excellence"
+		]
+	},
+	{
+		"word": "Quality control",
+		"definitions": [
+			"Maintaining of standards in products or services by testing samples"
+		]
+	},
+	{
+		"word": "Qualm",
+		"definitions": [
+			"Misgiving; uneasy doubt",
+			"Scruple of conscience"
+		]
+	},
+	{
+		"word": "Quandary",
+		"definitions": [
+			"Perplexed state",
+			"Practical dilemma"
+		]
+	},
+	{
+		"word": "Quango",
+		"definitions": [
+			"Semi-public body with financial support from and senior appointments made by the government"
+		]
+	},
+	{
+		"word": "Quanta",
+		"definitions": [
+			"Plural of quantum"
+		]
+	},
+	{
+		"word": "Quantify",
+		"definitions": [
+			"Determine the quantity of",
+			"Express as a quantity"
+		]
+	},
+	{
+		"word": "Quantitative",
+		"definitions": [
+			"Of quantity as opposed to quality",
+			"Measured or measurable by quantity"
+		]
+	},
+	{
+		"word": "Quantity",
+		"definitions": [
+			"Property of things that is measurable",
+			"Size, extent, weight, amount, or number"
+		]
+	},
+	{
+		"word": "Quantity surveyor",
+		"definitions": [
+			"Person who measures and prices building work"
+		]
+	},
+	{
+		"word": "Quantum",
+		"definitions": [
+			"Discrete amount of energy proportional to the frequency of radiation it represents",
+			"A required or allowed amount"
+		]
+	},
+	{
+		"word": "Quantum jump",
+		"definitions": [
+			"Sudden large increase or advance",
+			"Abrupt transition in an atom or molecule from one quantum state to another"
+		]
+	},
+	{
+		"word": "Quantum mechanics",
+		"definitions": [
+			"Physics theory assuming that energy exists in discrete units"
+		]
+	},
+	{
+		"word": "Quarantine",
+		"definitions": [
+			"Isolation imposed on persons or animals to prevent infection or contagion",
+			"Period of this"
+		]
+	},
+	{
+		"word": "Quark1",
+		"definitions": [
+			"Physics component of elementary particles"
+		]
+	},
+	{
+		"word": "Quark2",
+		"definitions": [
+			"A kind of low-fat curd cheese"
+		]
+	},
+	{
+		"word": "Quarrel",
+		"definitions": [
+			"Severe or angry dispute or contention",
+			"Break in friendly relations"
+		]
+	},
+	{
+		"word": "Quarrelsome",
+		"definitions": [
+			"Given to quarrelling"
+		]
+	},
+	{
+		"word": "Quarry1",
+		"definitions": [
+			"Place from which stone etc. May be extracted",
+			"Extract (stone) from a quarry"
+		]
+	},
+	{
+		"word": "Quarry2",
+		"definitions": [
+			"Intended victim or prey",
+			"Object of pursuit"
+		]
+	},
+	{
+		"word": "Quarry tile",
+		"definitions": [
+			"Unglazed floor-tile"
+		]
+	},
+	{
+		"word": "Quart",
+		"definitions": [
+			"Liquid measure equal to a quarter of a gallon; two pints (0.946 litre)"
+		]
+	},
+	{
+		"word": "Quarter",
+		"definitions": [
+			"Each of four equal parts into which a thing is divided",
+			"Period of three months"
+		]
+	},
+	{
+		"word": "Quarterback",
+		"definitions": [
+			"Player in American football who directs attacking play"
+		]
+	},
+	{
+		"word": "Quarter day",
+		"definitions": [
+			"One of four days on which quarterly payments are due, tenancies begin and end"
+		]
+	},
+	{
+		"word": "Quarterdeck",
+		"definitions": [
+			"Part of a ship's upper deck near the stern, usually reserved for officers"
+		]
+	},
+	{
+		"word": "Quarter-final",
+		"definitions": [
+			"Match or round preceding the semifinal"
+		]
+	},
+	{
+		"word": "Quarter-hour",
+		"definitions": [
+			"Period of 15 minutes",
+			"Quarter of an hour"
+		]
+	},
+	{
+		"word": "Quarter-light",
+		"definitions": [
+			"Small pivoted window in the side of a car, carriage, etc."
+		]
+	},
+	{
+		"word": "Quarterly",
+		"definitions": [
+			"Produced or occurring once every quarter of a year",
+			"Once every quarter of a year"
+		]
+	},
+	{
+		"word": "Quartermaster",
+		"definitions": [
+			"Regimental officer in charge of quartering, rations, etc.",
+			"Naval petty officer in charge of steering, signals, etc."
+		]
+	},
+	{
+		"word": "Quarter sessions",
+		"definitions": [
+			"Court of limited criminal and civil jurisdiction, usually held quarterly"
+		]
+	},
+	{
+		"word": "Quarterstaff",
+		"definitions": [
+			"Stout pole 6–8 feet long, formerly used as a weapon"
+		]
+	},
+	{
+		"word": "Quartet",
+		"definitions": [
+			"A composition for four performers",
+			"The performers"
+		]
+	},
+	{
+		"word": "Quarto",
+		"definitions": [
+			"Size of a book or page given by folding a sheet of standard size twice to form four leaves",
+			"Book or sheet of this size"
+		]
+	},
+	{
+		"word": "Quartz",
+		"definitions": [
+			"Silica in various mineral forms"
+		]
+	},
+	{
+		"word": "Quartz clock",
+		"definitions": [
+			"Clock or watch operated by vibrations of an electrically driven quartz crystal"
+		]
+	},
+	{
+		"word": "Quasar",
+		"definitions": [
+			"Starlike object with a large redshift"
+		]
+	},
+	{
+		"word": "Quash",
+		"definitions": [
+			"Annul; reject as invalid, especially by a legal procedure",
+			"Suppress, crush"
+		]
+	},
+	{
+		"word": "Quasi",
+		"definitions": [
+			"Seemingly, not really",
+			"Almost"
+		]
+	},
+	{
+		"word": "Quaternary",
+		"definitions": [
+			"Having four parts",
+			"Geol. Of the most recent period in the cenozoic era"
+		]
+	},
+	{
+		"word": "Quatrain",
+		"definitions": [
+			"Four-line stanza"
+		]
+	},
+	{
+		"word": "Quatrefoil",
+		"definitions": [
+			"Four-pointed or -leafed figure, esp. as an architectural ornament"
+		]
+	},
+	{
+		"word": "Quattrocento",
+		"definitions": [
+			"15th-c. Italian art"
+		]
+	},
+	{
+		"word": "Quaver",
+		"definitions": [
+			"(Esp. of a voice or sound) Vibrate, shake, tremble",
+			"Sing or say with a quavering voice"
+		]
+	},
+	{
+		"word": "Quay",
+		"definitions": [
+			"Artificial landing-place for loading and unloading ships"
+		]
+	},
+	{
+		"word": "Quayside",
+		"definitions": [
+			"Land forming or near a quay"
+		]
+	},
+	{
+		"word": "Queasy",
+		"definitions": [
+			"(Of a person) Nauseous",
+			"(Of the stomach) Easily upset, weak of digestion"
+		]
+	},
+	{
+		"word": "Queen",
+		"definitions": [
+			"Female sovereign",
+			"(In full queen consort) King's wife"
+		]
+	},
+	{
+		"word": "Queen-anne",
+		"definitions": [
+			"Style of English architecture, furniture, etc., in the early 18th c."
+		]
+	},
+	{
+		"word": "Queen bee",
+		"definitions": [
+			"Fertile female bee",
+			"Woman who behaves as if she is the most important person in a group"
+		]
+	},
+	{
+		"word": "Queen mother",
+		"definitions": [
+			"Dowager who is mother of the sovereign"
+		]
+	},
+	{
+		"word": "Queen of the may",
+		"definitions": [
+			"May queen"
+		]
+	},
+	{
+		"word": "Queen-post",
+		"definitions": [
+			"Either of two upright timbers between the tie-beam and main rafters of a roof-truss"
+		]
+	},
+	{
+		"word": "Queensberry rules",
+		"definitions": [
+			"Standard rules, esp. of boxing"
+		]
+	},
+	{
+		"word": "Queen's counsel",
+		"definitions": [
+			"Counsel to the crown, taking precedence over other barristers"
+		]
+	},
+	{
+		"word": "Queen's english",
+		"definitions": [
+			"(Prec. by the) English language correctly written or spoken"
+		]
+	},
+	{
+		"word": "Queen's evidence",
+		"definitions": [
+			"See evidence"
+		]
+	},
+	{
+		"word": "Queen's guide",
+		"definitions": [
+			"Guide who has reached the highest rank of proficiency"
+		]
+	},
+	{
+		"word": "Queen's highway",
+		"definitions": [
+			"Public road, regarded as being under the sovereign's protection"
+		]
+	},
+	{
+		"word": "Queen's proctor",
+		"definitions": [
+			"Official who has the right to intervene in probate, divorce, and nullity cases when collusion or the suppression of facts is alleged"
+		]
+	},
+	{
+		"word": "Queen's scout",
+		"definitions": [
+			"Scout who has reached the highest standard of proficiency"
+		]
+	},
+	{
+		"word": "Queer",
+		"definitions": [
+			"Strange, odd, eccentric",
+			"Shady, suspect, of questionable character"
+		]
+	},
+	{
+		"word": "Quell",
+		"definitions": [
+			"Crush or put down (a rebellion etc.)",
+			"Suppress (fear etc.)"
+		]
+	},
+	{
+		"word": "Quench",
+		"definitions": [
+			"Satisfy (thirst) by drinking",
+			"Extinguish (a fire or light)"
+		]
+	},
+	{
+		"word": "Quern",
+		"definitions": [
+			"Hand-mill for grinding corn"
+		]
+	},
+	{
+		"word": "Querulous",
+		"definitions": [
+			"Complaining, peevish"
+		]
+	},
+	{
+		"word": "Query",
+		"definitions": [
+			"Question",
+			"Question mark or the word query as a mark of interrogation"
+		]
+	},
+	{
+		"word": "Quest",
+		"definitions": [
+			"Search or seeking",
+			"Thing sought, esp. by a medieval knight"
+		]
+	},
+	{
+		"word": "Question",
+		"definitions": [
+			"Sentence worded or expressed so as to seek information or an answer",
+			"A doubt or dispute about a matter"
+		]
+	},
+	{
+		"word": "Questionable",
+		"definitions": [
+			"Doubtful as regards truth, quality, honesty, wisdom, etc."
+		]
+	},
+	{
+		"word": "Question mark",
+		"definitions": [
+			"Punctuation mark (?) indicating a question"
+		]
+	},
+	{
+		"word": "Question-master",
+		"definitions": [
+			"Person presiding over a quiz game etc."
+		]
+	},
+	{
+		"word": "Questionnaire",
+		"definitions": [
+			"Formulated series of questions, esp. for statistical analysis"
+		]
+	},
+	{
+		"word": "Question time",
+		"definitions": [
+			"Period in parliament when MPs may question ministers"
+		]
+	},
+	{
+		"word": "Queue",
+		"definitions": [
+			"Line or sequence of persons, vehicles, etc. waiting their turn",
+			"Form or join a queue"
+		]
+	},
+	{
+		"word": "Queue-jump",
+		"definitions": [
+			"Push forward out of turn in a queue"
+		]
+	},
+	{
+		"word": "Quibble",
+		"definitions": [
+			"Petty objection; trivial point of criticism",
+			"Evasion; argument relying on ambiguity"
+		]
+	},
+	{
+		"word": "Quiche",
+		"definitions": [
+			"Savory flan"
+		]
+	},
+	{
+		"word": "Quick",
+		"definitions": [
+			"Taking only a short time",
+			"Arriving after a short time, prompt"
+		]
+	},
+	{
+		"word": "Quicken",
+		"definitions": [
+			"Make or become quicker; accelerate",
+			"Give life or vigour to; rouse"
+		]
+	},
+	{
+		"word": "Quick-fire",
+		"definitions": [
+			"Rapid; in rapid succession"
+		]
+	},
+	{
+		"word": "Quick-freeze",
+		"definitions": [
+			"Freeze (food) rapidly so as to preserve its natural qualities"
+		]
+	},
+	{
+		"word": "Quickie",
+		"definitions": [
+			"Thing done or made quickly",
+			"Colloq. A brief activity or event"
+		]
+	},
+	{
+		"word": "Quicklime",
+		"definitions": [
+			"Lime1"
+		]
+	},
+	{
+		"word": "Quick one",
+		"definitions": [
+			"Drink (usu. Alcoholic) taken quickly",
+			"Colloq."
+		]
+	},
+	{
+		"word": "Quicksand",
+		"definitions": [
+			"Area of loose wet sand that sucks in anything placed on it",
+			"Treacherous situation etc."
+		]
+	},
+	{
+		"word": "Quickset",
+		"definitions": [
+			"Formed of cuttings, esp. Hawthorn",
+			"Hedge formed in this way"
+		]
+	},
+	{
+		"word": "Quicksilver",
+		"definitions": [
+			"Mercury"
+		]
+	},
+	{
+		"word": "Quickstep",
+		"definitions": [
+			"Fast foxtrot"
+		]
+	},
+	{
+		"word": "Quick-tempered",
+		"definitions": [
+			"Easily angered"
+		]
+	},
+	{
+		"word": "Quick-witted",
+		"definitions": [
+			"Quick to grasp a situation, make repartee, etc.",
+			"Quick-wittedness"
+		]
+	},
+	{
+		"word": "Quid",
+		"definitions": [
+			"Slang one pound sterling",
+			"Quids in slang in a position of profit"
+		]
+	},
+	{
+		"word": "Quid",
+		"definitions": [
+			"Lump of tobacco for chewing",
+			"A dialect word, = *cud"
+		]
+	},
+	{
+		"word": "Quiddity",
+		"definitions": [
+			"Essence of a thing",
+			"Quibble; trivial objection"
+		]
+	},
+	{
+		"word": "Quid pro quo",
+		"definitions": [
+			"Return made (for a gift, favour, etc.)",
+			"Something for something"
+		]
+	},
+	{
+		"word": "Quiescent",
+		"definitions": [
+			"Inert, dormant",
+			"Quiescence"
+		]
+	},
+	{
+		"word": "Quiet",
+		"definitions": [
+			"With little or no sound or motion",
+			"Of gentle or peaceful disposition",
+			"Unobtrusive; not showy",
+			"Not overt; disguised",
+			"Undisturbed, uninterrupted; free or far from vigorous action",
+			"Informal (quiet wedding)",
+			"Enjoyed in quiet (quiet smoke)",
+			"Not anxious or remorseful",
+			"Not busy (it is very quiet at work)",
+			"Peaceful (all quiet on the frontier)",
+			"Silence; stillness",
+			"Undisturbed state; tranquillity"
+		]
+	},
+	{
+		"word": "Quietism",
+		"definitions": [
+			"Passive contemplative attitude towards life, esp. As a form of mysticism",
+			"Quietist"
+		]
+	},
+	{
+		"word": "Quietude",
+		"definitions": [
+			"State of quiet"
+		]
+	},
+	{
+		"word": "Quietus",
+		"definitions": [
+			"Release from life; death, final riddance",
+			"Medieval Latin: related to *quiet"
+		]
+	},
+	{
+		"word": "Quiff",
+		"definitions": [
+			"Man's tuft of hair, brushed upward over the forehead",
+			"Curl plastered down on the forehead"
+		]
+	},
+	{
+		"word": "Quill",
+		"definitions": [
+			"Large feather in a wing or tail",
+			"Hollow stem of this",
+			"Pen made of a quill",
+			"Porcupine's spine"
+		]
+	},
+	{
+		"word": "Quilt",
+		"definitions": [
+			"Coverlet, esp. Of quilted material",
+			"Line a coverlet or garment with padding enclosed between layers of cloth by lines of stitching",
+			"Quilter",
+			"Quilting"
+		]
+	},
+	{
+		"word": "Quim",
+		"definitions": [
+			"Coarse slang female genitals"
+		]
+	},
+	{
+		"word": "Quin",
+		"definitions": [
+			"Colloq. Quintuplet"
+		]
+	},
+	{
+		"word": "Quince",
+		"definitions": [
+			"Acid pear-shaped fruit used in jams etc.",
+			"Tree bearing this"
+		]
+	},
+	{
+		"word": "Quincentenary",
+		"definitions": [
+			"500th anniversary; celebration of this",
+			"Of this anniversary"
+		]
+	},
+	{
+		"word": "Quincunx",
+		"definitions": [
+			"Five objects, esp. Trees, at the corners and centre of a square or rectangle",
+			"Latin, = five-twelfths"
+		]
+	},
+	{
+		"word": "Quinine",
+		"definitions": [
+			"Bitter drug obtained from cinchona bark, used as a tonic and to reduce fever",
+			"Spanish quina cinchona bark, from Quechua Kina bark"
+		]
+	},
+	{
+		"word": "Quinquagesima",
+		"definitions": [
+			"Sunday before lent",
+			"Latin quinquagesimus fiftieth"
+		]
+	},
+	{
+		"word": "Quinquennial",
+		"definitions": [
+			"Lasting five years",
+			"Recurring every five years",
+			"Quinquennially"
+		]
+	},
+	{
+		"word": "Quinquereme",
+		"definitions": [
+			"Ancient roman galley with five files of oarsmen on each side",
+			"Latin quinque five, remus oar"
+		]
+	},
+	{
+		"word": "Quintessence",
+		"definitions": [
+			"Purest and most perfect form, manifestation, or embodiment of a quality etc.",
+			"Highly refined extract",
+			"Quintessential",
+			"Quintessentially"
+		]
+	},
+	{
+		"word": "Quintet",
+		"definitions": [
+			"A composition for five performers",
+			"Any group of five"
+		]
+	},
+	{
+		"word": "Quintuple",
+		"definitions": [
+			"Fivefold; having five parts",
+			"Fivefold number or amount",
+			"Multiply by five"
+		]
+	},
+	{
+		"word": "Quintuplet",
+		"definitions": [
+			"Each of five children born at one birth"
+		]
+	},
+	{
+		"word": "Quintuplicate",
+		"definitions": [
+			"Fivefold",
+			"Of which five copies are made",
+			"Multiply by five"
+		]
+	},
+	{
+		"word": "Quip",
+		"definitions": [
+			"Clever saying; epigram",
+			"Make quips"
+		]
+	},
+	{
+		"word": "Quire",
+		"definitions": [
+			"25 Sheets of paper",
+			"Related to *quaternary*"
+		]
+	},
+	{
+		"word": "Quirk",
+		"definitions": [
+			"Peculiar feature, peculiarity",
+			"Trick of fate"
+		]
+	},
+	{
+		"word": "Quisling",
+		"definitions": [
+			"Traitor, collaborator"
+		]
+	},
+	{
+		"word": "Quit",
+		"definitions": [
+			"Give up, let go, abandon (a task etc.)",
+			"Cease, stop (quit grumbling)"
+		]
+	},
+	{
+		"word": "Quitch",
+		"definitions": [
+			"*Couch2* (in full quitch-grass)"
+		]
+	},
+	{
+		"word": "Quite",
+		"definitions": [
+			"Completely, entirely, wholly",
+			"To some extent, rather"
+		]
+	},
+	{
+		"word": "Quits",
+		"definitions": [
+			"On even terms by retaliation or repayment",
+			"Acknowledge that things are now even; agree to stop quarrelling"
+		]
+	},
+	{
+		"word": "Quitter",
+		"definitions": [
+			"Person who gives up easily",
+			"Shirker"
+		]
+	},
+	{
+		"word": "Quiver1",
+		"definitions": [
+			"Tremble or vibrate with a slight rapid motion",
+			"Quivering motion or sound"
+		]
+	},
+	{
+		"word": "Quiver2",
+		"definitions": [
+			"Case for arrows"
+		]
+	},
+	{
+		"word": "Quixotic",
+		"definitions": [
+			"Extravagantly and romantically chivalrous",
+			"Related to *Don Quixote* from Cervantes' romance"
+		]
+	},
+	{
+		"word": "Quiz",
+		"definitions": [
+			"Test of knowledge, esp. as entertainment",
+			"Interrogation, examination"
+		]
+	},
+	{
+		"word": "Quizzical",
+		"definitions": [
+			"Expressing or done with mild or amused perplexity"
+		]
+	},
+	{
+		"word": "Quod",
+		"definitions": [
+			"Slang for prison"
+		]
+	},
+	{
+		"word": "Quoin",
+		"definitions": [
+			"External angle of a building",
+			"Cornerstone"
+		]
+	},
+	{
+		"word": "Quoit",
+		"definitions": [
+			"Ring thrown to encircle an iron peg",
+			"Game using these"
+		]
+	},
+	{
+		"word": "Quondam",
+		"definitions": [
+			"That once was, sometime, former"
+		]
+	},
+	{
+		"word": "Quorate",
+		"definitions": [
+			"Constituting or having a quorum"
+		]
+	},
+	{
+		"word": "Quorum",
+		"definitions": [
+			"Minimum number of members that must be present to constitute a valid meeting"
+		]
+	},
+	{
+		"word": "Quota",
+		"definitions": [
+			"Share to be contributed to, or received from, a total",
+			"Number of goods, people, etc., stipulated or permitted"
+		]
+	},
+	{
+		"word": "Quotable",
+		"definitions": [
+			"Worth quoting"
+		]
+	},
+	{
+		"word": "Quotation",
+		"definitions": [
+			"Passage or remark quoted",
+			"Quoting or being quoted"
+		]
+	},
+	{
+		"word": "Quotation marks",
+		"definitions": [
+			"Inverted commas (‘’ or “ ”) used at the beginning and end of a quotation"
+		]
+	},
+	{
+		"word": "Quote",
+		"definitions": [
+			"Cite or appeal to (an author, book, etc.) in confirmation of some view",
+			"Repeat or copy out a passage from"
+		]
+	},
+	{
+		"word": "Quoth",
+		"definitions": [
+			"Archaic said (only in 1st and 3rd person)"
+		]
+	},
+	{
+		"word": "Quotidian",
+		"definitions": [
+			"Occurring or recurring daily",
+			"Commonplace, trivial"
+		]
+	},
+	{
+		"word": "Quotient",
+		"definitions": [
+			"Result of a division sum"
+		]
+	},
+	{
+		"word": "Q.v.",
+		"definitions": [
+			"Abbreviation for \"Which see\" (in references)"
+		]
+	},
+	{
+		"word": "Qwerty",
+		"definitions": [
+			"Denoting the standard keyboard on English-language typewriters, etc., with Q, W, E, R, T, and Y as the first keys on the top row of letters"
 		]
 	}
 ]
