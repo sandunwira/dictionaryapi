@@ -1,23 +1,13 @@
 [
 	{
-		"word": "M1",
+		"word": "M",
 		"definitions": [
 			"Thirteenth letter of the alphabet",
-			"As a Roman numeral 1,000"
-		]
-	},
-	{
-		"word": "M2",
-		"definitions": [
+			"As a Roman numeral 1,000",
 			"Master",
 			"Monsieur",
 			"Motorway",
-			"Mega-"
-		]
-	},
-	{
-		"word": "M",
-		"definitions": [
+			"Mega-",
 			"Male",
 			"Masculine",
 			"Married",
@@ -31,12 +21,7 @@
 	{
 		"word": "Ma",
 		"definitions": [
-			"Master of arts"
-		]
-	},
-	{
-		"word": "Ma",
-		"definitions": [
+			"Master of arts",
 			"Colloquial term for Mother"
 		]
 	},
