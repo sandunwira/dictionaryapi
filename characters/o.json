@@ -1,26 +1,11 @@
 [
 	{
-		"word": "O1",
+		"word": "O",
 		"definitions": [
 			"Fifteenth letter of the alphabet",
-			"Nought, zero"
-		]
-	},
-	{
-		"word": "O2",
-		"definitions": [
-			"Old"
-		]
-	},
-	{
-		"word": "O3",
-		"definitions": [
-			"Oxygen"
-		]
-	},
-	{
-		"word": "O4",
-		"definitions": [
+			"Nought, zero",
+			"Old",
+			"Oxygen",
 			"Variant of oh",
 			"Prefixed to a name in the vocative (e.g., O God)"
 		]
