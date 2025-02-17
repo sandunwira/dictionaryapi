@@ -1,27 +1,12 @@
 [
 	{
-		"word": "N1",
-		"definitions": [
-			"Fourteenth letter of the alphabet",
-			"Indefinite number"
-		]
-	},
-	{
-		"word": "N2",
-		"definitions": [
-			"North; northern",
-			"New"
-		]
-	},
-	{
-		"word": "N3",
-		"definitions": [
-			"Nitrogen"
-		]
-	},
-	{
 		"word": "N",
 		"definitions": [
+			"Fourteenth letter of the alphabet",
+			"Indefinite number",
+			"North; northern",
+			"New",
+			"Nitrogen",
 			"Name",
 			"Neuter"
 		]
