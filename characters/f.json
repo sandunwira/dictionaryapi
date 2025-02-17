@@ -1,28 +1,13 @@
 [
 	{
-		"word": "F1",
-		"definitions": [
-			"Sixth letter of the alphabet",
-			"Fourth note of the diatonic scale of C major"
-		]
-	},
-	{
-		"word": "F2",
-		"definitions": [
-			"Fahrenheit",
-			"Farad(s)",
-			"Fine (pencil-lead)"
-		]
-	},
-	{
-		"word": "F3",
-		"definitions": [
-			"Fluorine"
-		]
-	},
-	{
 		"word": "F",
 		"definitions": [
+			"Sixth letter of the alphabet",
+			"Fourth note of the diatonic scale of C major",
+			"Fahrenheit",
+			"Farad(s)",
+			"Fine (pencil-lead)",
+			"Fluorine",
 			"Female",
 			"Feminine",
 			"Following page etc.",
