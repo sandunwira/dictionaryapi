@@ -66,15 +66,10 @@
 		]
 	},
 	{
-		"word": "Nag1",
+		"word": "Nag",
 		"definitions": [
 			"Persistently criticize or scold",
-			"Be persistent (of a pain)"
-		]
-	},
-	{
-		"word": "Nag2",
-		"definitions": [
+			"Be persistent (of a pain)",
 			"Horse"
 		]
 	},
@@ -200,21 +195,11 @@
 		]
 	},
 	{
-		"word": "Nap1",
+		"word": "Nap",
 		"definitions": [
 			"Sleep lightly or briefly",
-			"Short sleep or doze"
-		]
-	},
-	{
-		"word": "Nap2",
-		"definitions": [
-			"Raised pile on textiles, especially velvet"
-		]
-	},
-	{
-		"word": "Nap3",
-		"definitions": [
+			"Short sleep or doze",
+			"Raised pile on textiles, especially velvet",
 			"Form of whist in which players declare the number of tricks they expect to take",
 			"Racing tip claimed to be almost a certainty"
 		]
@@ -1514,15 +1499,10 @@
 		]
 	},
 	{
-		"word": "Net1",
+		"word": "Net",
 		"definitions": [
 			"Open-meshed fabric of cord, rope, etc.",
-			"Piece of net used to restrain, contain, or catch"
-		]
-	},
-	{
-		"word": "Net2",
-		"definitions": [
+			"Piece of net used to restrain, contain, or catch",
 			"Remaining after all necessary deductions",
 			"Ultimate, actual"
 		]
@@ -1555,7 +1535,7 @@
 	{
 		"word": "Nett",
 		"definitions": [
-			"Of *net2"
+			"Of *net"
 		]
 	},
 	{
@@ -2526,15 +2506,10 @@
 		]
 	},
 	{
-		"word": "Nip1",
+		"word": "Nip",
 		"definitions": [
 			"Pinch, squeeze, or bite sharply",
-			"Cause pain or harm to from the cold, etc."
-		]
-	},
-	{
-		"word": "Nip2",
-		"definitions": [
+			"Cause pain or harm to from the cold, etc.",
 			"Small quantity of spirits",
 			"A small drink, usually alcoholic"
 		]
@@ -2706,50 +2681,25 @@
 		]
 	},
 	{
-		"word": "No1",
+		"word": "No",
 		"definitions": [
 			"Nobelium",
-			"The first and most significant in a sequence"
-		]
-	},
-	{
-		"word": "No2",
-		"definitions": [
+			"The first and most significant in a sequence",
 			"Used in a variety of ways, including for *noh",
-			"Number two"
-		]
-	},
-	{
-		"word": "No.:",
-		"definitions": [
+			"Number two",
 			"Abbreviation for \"number\"",
-			"Denotes a specific item or entry in a list"
-		]
-	},
-	{
-		"word": "No1",
-		"definitions": [
+			"Denotes a specific item or entry in a list",
 			"Not any",
-			"Hardly any"
-		]
-	},
-	{
-		"word": "No2",
-		"definitions": [
+			"Hardly any",
 			"Indicating a negative answer",
 			"Refusal or denial"
 		]
 	},
 	{
-		"word": "Nob1",
+		"word": "Nob",
 		"definitions": [
 			"Slang for a person of wealth or high social position",
-			"A wealthy or influential individual"
-		]
-	},
-	{
-		"word": "Nob2",
-		"definitions": [
+			"A wealthy or influential individual",
 			"Slang for head",
 			"A prominent or important person"
 		]
@@ -3471,14 +3421,9 @@
 		]
 	},
 	{
-		"word": "Noodle1",
+		"word": "Noodle",
 		"definitions": [
-			"Strip or ring of pasta"
-		]
-	},
-	{
-		"word": "Noodle2",
-		"definitions": [
+			"Strip or ring of pasta",
 			"Simpleton",
 			"Slang head"
 		]
@@ -4245,7 +4190,7 @@
 	{
 		"word": "Nth",
 		"definitions": [
-			"See N1"
+			"See *N"
 		]
 	},
 	{
