@@ -394,21 +394,11 @@
 		]
 	},
 	{
-		"word": "Un-1",
+		"word": "Un-",
 		"definitions": [
 			"Prefix meaning not (unusable), or reverse of (unselfish)",
-			"Less commonly, added to nouns to mean ‘a lack of’ or ‘the reverse of’ (unrest)"
-		]
-	},
-	{
-		"word": "Un-2",
-		"definitions": [
-			"Prefix forming verbs denoting reversal (undress), deprivation (unmask), or causing to be no longer (unman)"
-		]
-	},
-	{
-		"word": "Un-3",
-		"definitions": [
+			"Less commonly, added to nouns to mean ‘a lack of’ or ‘the reverse of’ (unrest)",
+			"Prefix forming verbs denoting reversal (undress), deprivation (unmask), or causing to be no longer (unman)",
 			"Prefix in chemistry denoting ‘one’ combined with other numerical roots, such as unnilquadium or ununbium"
 		]
 	},
@@ -915,17 +905,12 @@
 		]
 	},
 	{
-		"word": "Unbound1",
+		"word": "Unbound",
 		"definitions": [
 			"Not bound",
 			"Unconstrained",
-			"(Of a book) without a binding; having paper covers"
-		]
-	},
-	{
-		"word": "Unbound2",
-		"definitions": [
-			"Past and past participle of *unbind*"
+			"(Of a book) without a binding; having paper covers",
+			"Past and past participle of *unbind"
 		]
 	},
 	{
@@ -6181,7 +6166,7 @@
 	{
 		"word": "Until",
 		"definitions": [
-			"= *till1 (earlier untill: un from old Norse und as far as)"
+			"= *till (earlier untill: un from old Norse und as far as)"
 		]
 	},
 	{
