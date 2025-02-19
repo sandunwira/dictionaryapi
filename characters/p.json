@@ -32,17 +32,12 @@
 		]
 	},
 	{
-		"word": "Pace1",
+		"word": "Pace",
 		"definitions": [
 			"A single step in walking or running",
 			"Distance covered in walking or running",
 			"Speed of walking or running",
-			"Way of walking or running, gait"
-		]
-	},
-	{
-		"word": "Pace2",
-		"definitions": [
+			"Way of walking or running, gait",
 			"Used in stating a contrary opinion, with due respect to the person named"
 		]
 	},
@@ -101,18 +96,13 @@
 		]
 	},
 	{
-		"word": "Pack1",
+		"word": "Pack",
 		"definitions": [
 			"A collection of things wrapped up or tied together for carrying",
 			"Set of packaged items",
 			"Group of hounds, wild animals, or people",
 			"Set of playing cards",
-			"Group of cub scouts or brownies"
-		]
-	},
-	{
-		"word": "Pack2",
-		"definitions": [
+			"Group of cub scouts or brownies",
 			"To fill or secure a decision by selecting a jury or meeting"
 		]
 	},
@@ -193,15 +183,10 @@
 		]
 	},
 	{
-		"word": "Pad1",
+		"word": "Pad",
 		"definitions": [
 			"Thick piece of soft material used for protection or to absorb liquid",
-			"Sheets of blank paper fastened together for writing or drawing"
-		]
-	},
-	{
-		"word": "Pad2",
-		"definitions": [
+			"Sheets of blank paper fastened together for writing or drawing",
 			"To walk with a soft, dull, steady step",
 			"To travel or tramp along on foot"
 		]
@@ -219,15 +204,10 @@
 		]
 	},
 	{
-		"word": "Paddle1",
+		"word": "Paddle",
 		"definitions": [
 			"Short broad-bladed oar used without a rowlock",
-			"Paddle-shaped instrument"
-		]
-	},
-	{
-		"word": "Paddle2",
-		"definitions": [
+			"Paddle-shaped instrument",
 			"To walk barefoot or dabble the feet or hands in shallow water",
 			"The act of paddling"
 		]
@@ -259,15 +239,10 @@
 		]
 	},
 	{
-		"word": "Paddy1",
+		"word": "Paddy",
 		"definitions": [
 			"Rice before threshing or in the husk",
-			"Field where rice is grown"
-		]
-	},
-	{
-		"word": "Paddy2",
-		"definitions": [
+			"Field where rice is grown",
 			"Rage",
 			"Fit of temper"
 		]
@@ -349,15 +324,10 @@
 		]
 	},
 	{
-		"word": "Page1",
+		"word": "Page",
 		"definitions": [
 			"A leaf of a book, periodical, etc.",
-			"Episode; memorable event"
-		]
-	},
-	{
-		"word": "Page2",
-		"definitions": [
+			"Episode; memorable event",
 			"Liveried boy or man employed to run errands, attend to a door, etc.",
 			"Boy as a personal attendant of a bride etc."
 		]
@@ -485,14 +455,9 @@
 		]
 	},
 	{
-		"word": "Painter1",
+		"word": "Painter",
 		"definitions": [
-			"Person who paints; artist or decorator"
-		]
-	},
-	{
-		"word": "Painter2",
-		"definitions": [
+			"Person who paints; artist or decorator",
 			"Rope attached to the bow of a boat for tying it to a quay etc."
 		]
 	},
@@ -687,15 +652,10 @@
 		]
 	},
 	{
-		"word": "Pale1",
+		"word": "Pale",
 		"definitions": [
 			"Light or faint; whitish, ashen",
-			"Of faint lustre; dim"
-		]
-	},
-	{
-		"word": "Pale2",
-		"definitions": [
+			"Of faint lustre; dim",
 			"Pointed piece of wood for fencing etc.; stake",
 			"Boundary"
 		]
@@ -800,16 +760,11 @@
 		]
 	},
 	{
-		"word": "Pall1",
+		"word": "Pall",
 		"definitions": [
 			"Cloth spread over a coffin",
 			"Shoulder-band with pendants, worn as an ecclesiastical vestment and sign of authority",
-			"Dark covering (pall of darkness)"
-		]
-	},
-	{
-		"word": "Pall2",
-		"definitions": [
+			"Dark covering (pall of darkness)",
 			"Become uninteresting to"
 		]
 	},
@@ -826,15 +781,10 @@
 		]
 	},
 	{
-		"word": "Pallet1",
+		"word": "Pallet",
 		"definitions": [
 			"Straw mattress",
-			"Mean or makeshift bed"
-		]
-	},
-	{
-		"word": "Pallet2",
-		"definitions": [
+			"Mean or makeshift bed",
 			"Portable platform for transporting and storing loads"
 		]
 	},
@@ -855,7 +805,7 @@
 		"word": "Pallid",
 		"definitions": [
 			"Pale, esp. from illness",
-			"Related to *pale1*"
+			"Related to *pale"
 		]
 	},
 	{
@@ -873,15 +823,10 @@
 		]
 	},
 	{
-		"word": "Palm1",
+		"word": "Palm",
 		"definitions": [
 			"Tree-like plant with no branches and a mass of large leaves at the top",
-			"Leaf of this as a symbol of victory"
-		]
-	},
-	{
-		"word": "Palm2",
-		"definitions": [
+			"Leaf of this as a symbol of victory",
 			"Inner surface of the hand between the wrist and fingers",
 			"Part of a glove that covers this"
 		]
@@ -1008,22 +953,12 @@
 		]
 	},
 	{
-		"word": "Pan1",
+		"word": "Pan",
 		"definitions": [
 			"A broad, usually metal vessel used for cooking",
-			"The contents of this"
-		]
-	},
-	{
-		"word": "Pan2",
-		"definitions": [
+			"The contents of this",
 			"Swing (a film camera) horizontally to give a panoramic effect",
-			"A panning movement"
-		]
-	},
-	{
-		"word": "Pan3",
-		"definitions": [
+			"A panning movement",
 			"All; the whole of",
 			"Relating to the whole of a continent, racial group, religion, etc."
 		]
@@ -1125,7 +1060,7 @@
 	{
 		"word": "Pandit",
 		"definitions": [
-			"Variant of *pundit 1*"
+			"Variant of *pundit 1"
 		]
 	},
 	{
@@ -1546,15 +1481,10 @@
 		]
 	},
 	{
-		"word": "Para-1",
+		"word": "Para-",
 		"definitions": [
 			"Beside",
-			"Beyond"
-		]
-	},
-	{
-		"word": "Para-2",
-		"definitions": [
+			"Beyond",
 			"Protect, ward off"
 		]
 	},
@@ -2310,7 +2240,7 @@
 		"word": "Pâté",
 		"definitions": [
 			"Paste of mashed and spiced meat or fish etc",
-			"Related to *pasty1*"
+			"Related to *pasty"
 		]
 	},
 	{
@@ -2860,17 +2790,12 @@
 		]
 	},
 	{
-		"word": "Peck1",
+		"word": "Peck",
 		"definitions": [
 			"Strike or pick at something with the beak or a pointed instrument",
 			"Kiss lightly and quickly",
 			"Make (a hole) thus",
-			"Eat (food) sparingly or without appetite"
-		]
-	},
-	{
-		"word": "Peck2",
-		"definitions": [
+			"Eat (food) sparingly or without appetite",
 			"Measure Of Capacity For Dry Goods, Equal To 2 Gallons Or 8 Quarts",
 			"A Unit Of Measurement For Dry Items"
 		]
@@ -2954,7 +2879,7 @@
 		]
 	},
 	{
-		"word": "Peer2",
+		"word": "Peer",
 		"definitions": [
 			"Member of one of the degrees of the nobility in britain or ireland",
 			"Person who is equal in ability, standing, rank, or value"
@@ -3583,16 +3508,11 @@
 		]
 	},
 	{
-		"word": "Periwinkle1",
+		"word": "Periwinkle",
 		"definitions": [
 			"Evergreen trailing plant with blue, purple, or white flowers",
-			"Latin pervinca"
-		]
-	},
-	{
-		"word": "Periwinkle2",
-		"definitions": [
-			"= *winkle*"
+			"Latin pervinca",
+			"= *winkle"
 		]
 	},
 	{
@@ -3609,15 +3529,10 @@
 		]
 	},
 	{
-		"word": "Perk1",
+		"word": "Perk",
 		"definitions": [
 			"Recover confidence, courage, life, or zest",
-			"Restore confidence, courage, or liveliness in"
-		]
-	},
-	{
-		"word": "Perk2",
-		"definitions": [
+			"Restore confidence, courage, or liveliness in",
 			"Colloq. Perquisite",
 			"Abbreviation"
 		]
@@ -3637,14 +3552,9 @@
 		]
 	},
 	{
-		"word": "Perm1",
+		"word": "Perm",
 		"definitions": [
-			"Permanent wave"
-		]
-	},
-	{
-		"word": "Perm2",
-		"definitions": [
+			"Permanent wave",
 			"Colloq. Permutation",
 			"Make a permutation of"
 		]
@@ -4832,15 +4742,10 @@
 		]
 	},
 	{
-		"word": "Piano1",
+		"word": "Piano",
 		"definitions": [
 			"Keyboard instrument with metal strings struck by hammers",
-			"Italian, abbreviation of pianoforte"
-		]
-	},
-	{
-		"word": "Piano2",
-		"definitions": [
+			"Italian, abbreviation of pianoforte",
 			"Soft",
 			"Softly"
 		]
@@ -4854,7 +4759,7 @@
 	{
 		"word": "Pianoforte",
 		"definitions": [
-			"Formal or archaic = piano1"
+			"Formal or archaic = piano"
 		]
 	},
 	{
@@ -4942,16 +4847,11 @@
 		]
 	},
 	{
-		"word": "Pie1",
+		"word": "Pie",
 		"definitions": [
 			"Baked dish of meat, fish, fruit, etc., usu. with a top and base of pastry",
 			"Thing resembling a pie (mud pie)",
-			"Easy as pie very easy"
-		]
-	},
-	{
-		"word": "Pie2",
-		"definitions": [
+			"Easy as pie very easy",
 			"Archaic magpie"
 		]
 	},
@@ -5136,7 +5036,7 @@
 		]
 	},
 	{
-		"word": "Pile1",
+		"word": "Pile",
 		"definitions": [
 			"Heap of things laid upon one another",
 			"Large imposing building",
@@ -5150,12 +5050,7 @@
 			"Crowd hurriedly or tightly",
 			"Exaggerate",
 			"Accumulate; heap up",
-			"Cause to crash"
-		]
-	},
-	{
-		"word": "Pile2",
-		"definitions": [
+			"Cause to crash",
 			"Dense upstanding nap of velvet, carpet, etc."
 		]
 	},
@@ -5329,15 +5224,10 @@
 		]
 	},
 	{
-		"word": "Pine1",
+		"word": "Pine",
 		"definitions": [
 			"Evergreen coniferous tree with needle-shaped leaves growing in clusters",
-			"Its wood"
-		]
-	},
-	{
-		"word": "Pine2",
-		"definitions": [
+			"Its wood",
 			"Decline or waste away from grief etc",
 			"Long eagerly"
 		]
@@ -5407,15 +5297,10 @@
 		]
 	},
 	{
-		"word": "Pinion1",
+		"word": "Pinion",
 		"definitions": [
 			"Outer part of a bird's wing",
-			"Cut off the pinion of (a wing or bird) to prevent flight"
-		]
-	},
-	{
-		"word": "Pinion2",
-		"definitions": [
+			"Cut off the pinion of (a wing or bird) to prevent flight",
 			"Small cog-wheel engaging with a larger one",
 			"Cogged spindle engaging with a wheel"
 		]
@@ -5503,21 +5388,11 @@
 		]
 	},
 	{
-		"word": "Pip1",
+		"word": "Pip",
 		"definitions": [
 			"Seed of an apple, pear, orange, grape, etc",
-			"Remove the pips from (fruit etc.)"
-		]
-	},
-	{
-		"word": "Pip2",
-		"definitions": [
-			"Each of the spots on playing cards, dominoes, etc."
-		]
-	},
-	{
-		"word": "Pip3",
-		"definitions": [
+			"Remove the pips from (fruit etc.)",
+			"Each of the spots on playing cards, dominoes, etc.",
 			"Slang slight indisposition"
 		]
 	},
@@ -6441,22 +6316,12 @@
 		]
 	},
 	{
-		"word": "Pinion2",
+		"word": "Pinion",
 		"definitions": [
 			"Small cog-wheel engaging with a larger one",
-			"Cogged spindle engaging with a wheel"
-		]
-	},
-	{
-		"word": "Pinion1",
-		"definitions": [
+			"Cogged spindle engaging with a wheel",
 			"Outer part of a bird's wing",
-			"Cut off the pinion of (a wing or bird) to prevent flight"
-		]
-	},
-	{
-		"word": "Pinhole camera",
-		"definitions": [
+			"Cut off the pinion of (a wing or bird) to prevent flight",
 			"Camera with a pinhole aperture and no lens"
 		]
 	},
@@ -6663,7 +6528,7 @@
 		]
 	},
 	{
-		"word": "Pile1",
+		"word": "Pile",
 		"definitions": [
 			"Heap of things laid upon one another",
 			"Large imposing building",
@@ -6821,15 +6686,10 @@
 		]
 	},
 	{
-		"word": "Pie2",
+		"word": "Pie",
 		"definitions": [
 			"Archaic magpie",
-			"Piebald animal"
-		]
-	},
-	{
-		"word": "Pie1",
-		"definitions": [
+			"Piebald animal",
 			"Baked dish of meat, fish, fruit, etc., usu. with a top and base of pastry",
 			"Thing resembling a pie (mud pie)",
 			"Easy as pie very easy"
@@ -6910,16 +6770,11 @@
 		]
 	},
 	{
-		"word": "Pie1",
+		"word": "Pie",
 		"definitions": [
 			"Baked dish of meat, fish, fruit, etc., usu. with a top and base of pastry",
 			"Thing resembling a pie (mud pie)",
-			"Easy as pie very easy"
-		]
-	},
-	{
-		"word": "Pie2",
-		"definitions": [
+			"Easy as pie very easy",
 			"Archaic magpie"
 		]
 	},
@@ -7045,7 +6900,7 @@
 		]
 	},
 	{
-		"word": "Pile1",
+		"word": "Pile",
 		"definitions": [
 			"Heap of things laid upon one another",
 			"Large imposing building",
@@ -7243,15 +7098,10 @@
 		]
 	},
 	{
-		"word": "Pine1",
+		"word": "Pine",
 		"definitions": [
 			"Evergreen coniferous tree with needle-shaped leaves growing in clusters",
-			"Its wood"
-		]
-	},
-	{
-		"word": "Pine2",
-		"definitions": [
+			"Its wood",
 			"Decline or waste away from grief etc",
 			"Long eagerly"
 		]
@@ -7321,15 +7171,10 @@
 		]
 	},
 	{
-		"word": "Pinion1",
+		"word": "Pinion",
 		"definitions": [
 			"Outer part of a bird's wing",
-			"Cut off the pinion of (a wing or bird) to prevent flight"
-		]
-	},
-	{
-		"word": "Pinion2",
-		"definitions": [
+			"Cut off the pinion of (a wing or bird) to prevent flight",
 			"Small cog-wheel engaging with a larger one",
 			"Cogged spindle engaging with a wheel"
 		]
@@ -7385,7 +7230,7 @@
 		]
 	},
 	{
-		"word": "Pip1",
+		"word": "Pip",
 		"definitions": [
 			"Seed of an apple, pear, orange, grape, etc",
 			"Remove the pips from (fruit etc.)"
@@ -8023,15 +7868,10 @@
 		]
 	},
 	{
-		"word": "Poach1",
+		"word": "Poach",
 		"definitions": [
 			"Cook (an egg) without its shell in or over boiling water",
-			"Cook (fish etc.) by simmering in a small amount of liquid"
-		]
-	},
-	{
-		"word": "Poach2",
-		"definitions": [
+			"Cook (fish etc.) by simmering in a small amount of liquid",
 			"Catch (game or fish) illegally",
 			"Trespass or encroach on (another's property, territory, etc.)"
 		]
@@ -8746,12 +8586,7 @@
 		"word": "Pontoon",
 		"definitions": [
 			"Card-game in which players try to acquire cards with a face value totalling 21",
-			"[Probably a corruption of *vingt-et-un]"
-		]
-	},
-	{
-		"word": "Pontoon",
-		"definitions": [
+			"[Probably a corruption of *vingt-et-un]",
 			"Flat-bottomed boat used as a ferry or a support for a temporary bridge",
 			"Floating structure supporting a bridge or pier",
 			"[Latin ponto pont- punt]"
@@ -8985,15 +8820,10 @@
 		]
 	},
 	{
-		"word": "Pore1",
+		"word": "Pore",
 		"definitions": [
 			"Especially Biology: Minute Opening In A Surface Through Which Fluids Etc. May Pass",
-			"Greek Poros"
-		]
-	},
-	{
-		"word": "Pore2",
-		"definitions": [
+			"Greek Poros",
 			"Be Absorbed In Studying (A Book Etc.)",
 			"Meditate On"
 		]
@@ -9037,28 +8867,13 @@
 		]
 	},
 	{
-		"word": "Port1",
+		"word": "Port",
 		"definitions": [
 			"Harbour",
-			"Town Possessing A Harbour"
-		]
-	},
-	{
-		"word": "Port2",
-		"definitions": [
-			"A Kind Of Sweet Fortified Wine"
-		]
-	},
-	{
-		"word": "Port3",
-		"definitions": [
+			"Town Possessing A Harbour",
+			"A Kind Of Sweet Fortified Wine",
 			"Left-Hand Side Of A Ship Or Aircraft Looking Forward",
-			"Turn (The Helm) To Port"
-		]
-	},
-	{
-		"word": "Port4",
-		"definitions": [
+			"Turn (The Helm) To Port",
 			"Opening In The Side Of A Ship For Entrance, Loading, Etc.",
 			"Porthole"
 		]
@@ -9282,7 +9097,7 @@
 	{
 		"word": "Postilion",
 		"definitions": [
-			"Person riding on the near horse of a team drawing a coach when there is no coachman [Italian: related to post2]"
+			"Person riding on the near horse of a team drawing a coach when there is no coachman [Italian: related to *post]"
 		]
 	},
 	{
@@ -9631,21 +9446,11 @@
 		"word": "Pound",
 		"definitions": [
 			"Unit of weight equal to 16 oz avoirdupois (0.4536 kg), 12 oz troy (0.3732 kg)",
-			"Chief monetary unit of the UK etc."
-		]
-	},
-	{
-		"word": "Pound",
-		"definitions": [
+			"Chief monetary unit of the UK etc.",
 			"Crush or beat with repeated blows",
 			"Deliver heavy blows or gunfire",
 			"Make one's way heavily or clumsily",
-			"Of the heart, beat heavily"
-		]
-	},
-	{
-		"word": "Pound",
-		"definitions": [
+			"Of the heart, beat heavily",
 			"Enclosure where stray animals or officially removed vehicles are kept until claimed"
 		]
 	},
@@ -10042,18 +9847,13 @@
 		]
 	},
 	{
-		"word": "Prayer1",
+		"word": "Prayer",
 		"definitions": [
 			"Request or thanksgiving to God or an object of worship",
 			"Formula used in praying",
 			"Act of praying",
 			"Religious service consisting largely of prayers",
-			"Entreaty to a person"
-		]
-	},
-	{
-		"word": "Prayer2",
-		"definitions": [
+			"Entreaty to a person",
 			"Person who prays"
 		]
 	},
@@ -10470,22 +10270,12 @@
 		]
 	},
 	{
-		"word": "Present1",
+		"word": "Present",
 		"definitions": [
 			"Being in the place in question",
-			"Now existing, occurring, or being such"
-		]
-	},
-	{
-		"word": "Present2",
-		"definitions": [
+			"Now existing, occurring, or being such",
 			"Introduce, offer, or exhibit for attention or consideration",
-			"Offer or give as a gift"
-		]
-	},
-	{
-		"word": "Present3",
-		"definitions": [
+			"Offer or give as a gift",
 			"Thing given, gift"
 		]
 	},
@@ -10570,7 +10360,7 @@
 		]
 	},
 	{
-		"word": "Press1",
+		"word": "Press",
 		"definitions": [
 			"Apply steady force to (a thing in contact)",
 			"Compress or squeeze a thing to flatten, shape, or smooth it"
@@ -11145,15 +10935,10 @@
 		]
 	},
 	{
-		"word": "Process1",
+		"word": "Process",
 		"definitions": [
 			"Course of action or proceeding, esp. A series of stages in manufacture etc.",
-			"Progress or course"
-		]
-	},
-	{
-		"word": "Process2",
-		"definitions": [
+			"Progress or course",
 			"Walk in procession"
 		]
 	},
@@ -12329,14 +12114,9 @@
 		]
 	},
 	{
-		"word": "Prune1",
+		"word": "Prune",
 		"definitions": [
-			"Dried plum"
-		]
-	},
-	{
-		"word": "Prune2",
-		"definitions": [
+			"Dried plum",
 			"Trim by cutting away dead or overgrown branches",
 			"Reduce costs",
 			"Remove superfluities"
@@ -12445,14 +12225,9 @@
 		]
 	},
 	{
-		"word": "Psi1",
+		"word": "Psi",
 		"definitions": [
-			"Twenty-third letter of the greek alphabet (y, y)"
-		]
-	},
-	{
-		"word": "Psi2",
-		"definitions": [
+			"Twenty-third letter of the greek alphabet (y, y)",
 			"Pounds per square inch"
 		]
 	},
@@ -12641,15 +12416,10 @@
 		]
 	},
 	{
-		"word": "Pubes1",
+		"word": "Pubes",
 		"definitions": [
 			"Lower part of the abdomen at the front of the pelvis",
-			"Colloq. Pubic hair"
-		]
-	},
-	{
-		"word": "Pubes2",
-		"definitions": [
+			"Colloq. Pubic hair",
 			"Of pubis"
 		]
 	},
@@ -12826,16 +12596,11 @@
 		]
 	},
 	{
-		"word": "Pump1",
+		"word": "Pump",
 		"definitions": [
 			"Machine or device for raising or moving liquids, compressing gases, inflating tyres etc.",
 			"Act of pumping",
-			"Stroke of a pump"
-		]
-	},
-	{
-		"word": "Pump2",
-		"definitions": [
+			"Stroke of a pump",
 			"Plimsoll",
 			"Light dancing shoe"
 		]
@@ -12995,7 +12760,7 @@
 		]
 	},
 	{
-		"word": "Punt1",
+		"word": "Punt",
 		"definitions": [
 			"Square-ended flat-bottomed pleasure boat propelled by a long pole",
 			"Propel (a punt) with a pole",
@@ -13108,7 +12873,7 @@
 		]
 	},
 	{
-		"word": "Purl1",
+		"word": "Purl",
 		"definitions": [
 			"Knitting stitch made by putting the needle through the front of the previous stitch and passing the yarn round the back of the needle",
 			"Chain of minute loops decorating the edges of lace etc."
