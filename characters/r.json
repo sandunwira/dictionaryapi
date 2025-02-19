@@ -95,42 +95,27 @@
 		]
 	},
 	{
-		"word": "Race1",
+		"word": "Race",
 		"definitions": [
 			"Contest of speed between runners, horses, vehicles, ships, etc.",
 			"Series of races for horses, dogs, etc.",
 			"Contest between persons to be first to achieve something",
-			"Strong current in the sea or river"
-		]
-	},
-	{
-		"word": "Race2",
-		"definitions": [
+			"Strong current in the sea or river",
 			"Each of the major divisions of humankind"
 		]
 	},
 	{
-		"word": "Rack2",
+		"word": "Rack",
 		"definitions": [
-			"Destruction, especially rack and ruin"
-		]
-	},
-	{
-		"word": "Rack3",
-		"definitions": [
+			"Destruction, especially rack and ruin",
 			"Draw off (wine, beer, etc.) from the lees"
 		]
 	},
 	{
-		"word": "Racket1",
+		"word": "Racket",
 		"definitions": [
 			"Bat with a round or oval frame strung with catgut, nylon, etc., used in tennis, squash, etc.",
-			"Game like squash, played in a court of four plain walls"
-		]
-	},
-	{
-		"word": "Racket2",
-		"definitions": [
+			"Game like squash, played in a court of four plain walls",
 			"Disturbance, uproar, or din",
 			"Scheme for obtaining money dishonestly",
 			"Line of business",
@@ -634,7 +619,7 @@
 	{
 		"word": "Rang",
 		"definitions": [
-			"Past of *ring2*"
+			"Past of *ring"
 		]
 	},
 	{
@@ -670,15 +655,10 @@
 		]
 	},
 	{
-		"word": "Rank1",
+		"word": "Rank",
 		"definitions": [
 			"A position in a hierarchy, grade of advancement",
-			"Row or line"
-		]
-	},
-	{
-		"word": "Rank2",
-		"definitions": [
+			"Row or line",
 			"Luxuriant, coarse",
 			"A foul-smelling"
 		]
@@ -730,15 +710,10 @@
 		]
 	},
 	{
-		"word": "Rap1",
+		"word": "Rap",
 		"definitions": [
 			"Smart slight blow",
-			"Knock, sharp tapping sound"
-		]
-	},
-	{
-		"word": "Rap2",
-		"definitions": [
+			"Knock, sharp tapping sound",
 			"Small amount, the least bit",
 			"Don't care a rap"
 		]
@@ -751,15 +726,10 @@
 		]
 	},
 	{
-		"word": "Rape1",
+		"word": "Rape",
 		"definitions": [
 			"Act of forcing a woman or girl to have sexual intercourse against her will",
-			"Violent assault or plunder"
-		]
-	},
-	{
-		"word": "Rape2",
-		"definitions": [
+			"Violent assault or plunder",
 			"Plant grown as fodder, and for its seed from which oil is extracted"
 		]
 	},
@@ -830,15 +800,10 @@
 		]
 	},
 	{
-		"word": "Rare1",
+		"word": "Rare",
 		"definitions": [
 			"Seldom done, found, or occurring; uncommon, unusual",
-			"Exceptionally good"
-		]
-	},
-	{
-		"word": "Rare2",
-		"definitions": [
+			"Exceptionally good",
 			"(Of meat) cooked so that the inside is still red and juicy",
 			"Underdone"
 		]
@@ -866,7 +831,7 @@
 	{
 		"word": "Rarefaction",
 		"definitions": [
-			"Related to *rare1*"
+			"Related to *rare"
 		]
 	},
 	{
@@ -1311,20 +1276,10 @@
 		"definitions": [
 			"Religious education",
 			"Royal engineers",
-			"Rhenium"
-		]
-	},
-	{
-		"word": "Re1",
-		"definitions": [
+			"Rhenium",
 			"In the matter of (as the first word in a heading)",
-			"Commerce about, concerning (in letters)"
-		]
-	},
-	{
-		"word": "Re2",
-		"definitions": [
-			"Var. of ray3"
+			"Commerce about, concerning (in letters)",
+			"Var. of ray"
 		]
 	},
 	{
@@ -1516,14 +1471,9 @@
 		]
 	},
 	{
-		"word": "Real1",
+		"word": "Real",
 		"definitions": [
-			"Actually existing or occurring"
-		]
-	},
-	{
-		"word": "Real2",
-		"definitions": [
+			"Actually existing or occurring",
 			"Coin and monetary unit in Spanish-speaking countries"
 		]
 	},
@@ -2869,15 +2819,10 @@
 		]
 	},
 	{
-		"word": "Reef1",
+		"word": "Reef",
 		"definitions": [
 			"Ridge of Rock or Coral etc. At or Near the Surface of the Sea",
-			"A Lode of Ore, Bedrock Surrounding This"
-		]
-	},
-	{
-		"word": "Reef2",
-		"definitions": [
+			"A Lode of Ore, Bedrock Surrounding This",
 			"Each of Several Strips Across a Sail, for Taking It In or Rolling It Up to Reduce Its Surface Area in a High Wind",
 			"Take in a Reef or Reefs of (a Sail)"
 		]
@@ -2990,21 +2935,10 @@
 		]
 	},
 	{
-		"word": "Reeve1",
-		"definitions": [
-			null
-		]
-	},
-	{
-		"word": "Reeve2",
+		"word": "Reeve",
 		"definitions": [
 			"(Usus. Foll. by Through) Thread (a Rope or Rod etc.) Through a Ring or Other Aperture",
-			"Fasten (a Rope or Block) in This Way"
-		]
-	},
-	{
-		"word": "Reeve3",
-		"definitions": [
+			"Fasten (a Rope or Block) in This Way",
 			"Female Ruff"
 		]
 	},
@@ -3016,14 +2950,9 @@
 		]
 	},
 	{
-		"word": "Ref1",
+		"word": "Ref",
 		"definitions": [
-			"Referee in Sports"
-		]
-	},
-	{
-		"word": "Ref2",
-		"definitions": [
+			"Referee in Sports",
 			"Commerce Reference"
 		]
 	},
@@ -3318,12 +3247,7 @@
 	{
 		"word": "Refrain",
 		"definitions": [
-			"Avoid doing (an action)"
-		]
-	},
-	{
-		"word": "Refrain2",
-		"definitions": [
+			"Avoid doing (an action)",
 			"Recurring phrase or lines, esp. at the ends of stanzas",
 			"Music accompanying this"
 		]
@@ -3452,15 +3376,10 @@
 		]
 	},
 	{
-		"word": "Refuse1",
+		"word": "Refuse",
 		"definitions": [
 			"Withhold acceptance of or consent to",
-			"Indicate unwillingness or inability"
-		]
-	},
-	{
-		"word": "Refuse2",
-		"definitions": [
+			"Indicate unwillingness or inability",
 			"Items rejected as worthless; waste"
 		]
 	},
@@ -4010,15 +3929,10 @@
 		]
 	},
 	{
-		"word": "Rejoin1",
+		"word": "Rejoin",
 		"definitions": [
 			"Join together again; reunite",
-			"Join a companion again"
-		]
-	},
-	{
-		"word": "Rejoin2",
-		"definitions": [
+			"Join a companion again",
 			"Say in answer, retort"
 		]
 	},
@@ -4706,23 +4620,13 @@
 		]
 	},
 	{
-		"word": "Rent1",
+		"word": "Rent",
 		"definitions": [
 			"Tenant's periodical payment to an owner for the use of land or premises",
-			"Payment for the use of equipment"
-		]
-	},
-	{
-		"word": "Rent2",
-		"definitions": [
+			"Payment for the use of equipment",
 			"Large tear in a garment",
-			"Opening in clouds"
-		]
-	},
-	{
-		"word": "Rent3",
-		"definitions": [
-			"Past tense of \"rend\""
+			"Opening in clouds",
+			"Past tense of *rend"
 		]
 	},
 	{
@@ -4808,15 +4712,10 @@
 		]
 	},
 	{
-		"word": "Rep1",
+		"word": "Rep",
 		"definitions": [
 			"Representative, esp. a commercial traveller",
-			"Sales representative"
-		]
-	},
-	{
-		"word": "Rep2",
-		"definitions": [
+			"Sales representative",
 			"Repertory theatre or company",
 			"Repertory performance"
 		]
@@ -5965,7 +5864,7 @@
 		]
 	},
 	{
-		"word": "Rest1",
+		"word": "Rest",
 		"definitions": [
 			"Cease from exertion, action, etc.",
 			"Be still or asleep, especially to refresh oneself or recover strength",
@@ -5974,12 +5873,7 @@
 			"(Followed by \"on, upon, against\") Lie on",
 			"Be supported by",
 			"(Followed by \"on, upon\") Depend or be based on",
-			"(Followed by \"on, upon\") (Of a look) Alight or be steadily directed on"
-		]
-	},
-	{
-		"word": "Rest2",
-		"definitions": [
+			"(Followed by \"on, upon\") (Of a look) Alight or be steadily directed on",
 			"The remaining part or parts",
 			"The others",
 			"The remainder of some quantity or number",
@@ -6380,12 +6274,7 @@
 			"Incisive, witty, or angry reply",
 			"Say by way of a retort",
 			"Make a retort",
-			"Repay (an insult or attack) in kind"
-		]
-	},
-	{
-		"word": "Retort (2)",
-		"definitions": [
+			"Repay (an insult or attack) in kind",
 			"Vessel with a long neck turned downwards, used in distilling liquids",
 			"Vessel for heating coal to generate gas",
 			"Purify (mercury) by heating in a retort"
@@ -7500,15 +7389,10 @@
 		]
 	},
 	{
-		"word": "Rig1",
+		"word": "Rig",
 		"definitions": [
 			"Provide (a ship) with sails, rigging, etc.",
-			"Fit with clothes or other equipment"
-		]
-	},
-	{
-		"word": "Rig2",
-		"definitions": [
+			"Fit with clothes or other equipment",
 			"Manage or fix (a result etc.) fraudulently",
 			"Trick, dodge, or way of swindling"
 		]
@@ -7578,14 +7462,9 @@
 		]
 	},
 	{
-		"word": "Rigor1",
+		"word": "Rigor",
 		"definitions": [
-			"Feeling of cold with shivering and a rise in temperature, preceding a fever etc."
-		]
-	},
-	{
-		"word": "Rigor2",
-		"definitions": [
+			"Feeling of cold with shivering and a rise in temperature, preceding a fever etc.",
 			"A severity, strictness, harshness",
 			"Logical exactitude"
 		]
@@ -7638,15 +7517,10 @@
 		]
 	},
 	{
-		"word": "Rime1",
+		"word": "Rime",
 		"definitions": [
 			"Frost",
-			"Hoar-frost"
-		]
-	},
-	{
-		"word": "Rime2",
-		"definitions": [
+			"Hoar-frost",
 			"Archaic var. of rhyme"
 		]
 	},
@@ -7657,7 +7531,7 @@
 		]
 	},
 	{
-		"word": "Ring1",
+		"word": "Ring",
 		"definitions": [
 			"Circular band, usu. of metal, worn on a finger",
 			"Circular band of any material",
@@ -7665,12 +7539,7 @@
 			"Mark etc. resembling a ring (rings round his eyes; smoke rings)",
 			"Ring in the cross-section of a tree, produced by one year's growth",
 			"Enclosure for a circus performance, boxing, betting at races, showing of cattle, etc.",
-			"A people or things in a circle"
-		]
-	},
-	{
-		"word": "Ring2",
-		"definitions": [
+			"A people or things in a circle",
 			"Give a clear resonant or vibrating sound of or as of a bell",
 			"Make (esp. a bell) ring",
 			"Call by ringing a bell",
@@ -7732,23 +7601,13 @@
 		]
 	},
 	{
-		"word": "Rip1",
+		"word": "Rip",
 		"definitions": [
 			"Tear or cut (a thing) quickly or forcibly away or apart",
 			"Make (a hole etc.) by ripping",
 			"Come violently apart; split",
-			"Rush along"
-		]
-	},
-	{
-		"word": "Rip2",
-		"definitions": [
-			"Stretch of rough water caused by meeting currents"
-		]
-	},
-	{
-		"word": "Rip3",
-		"definitions": [
+			"Rush along",
+			"Stretch of rough water caused by meeting currents",
 			"Dissolute person; rascal",
 			"Worthless horse"
 		]
@@ -8142,19 +8001,14 @@
 		]
 	},
 	{
-		"word": "Rock1",
+		"word": "Rock",
 		"definitions": [
 			"A hard material of the earth's crust, often exposed on the surface",
 			"Geol. Any natural material, hard or soft (e.g. Clay), consisting of one or more minerals",
 			"A projecting rock forming a hill, cliff, reef, etc.",
 			"Firm and dependable support or protection",
 			"Hard sweet, usually in the form of a peppermint-flavoured stick",
-			"Slang, precious stone, esp. A diamond"
-		]
-	},
-	{
-		"word": "Rock2",
-		"definitions": [
+			"Slang, precious stone, esp. A diamond",
 			"Move gently to and fro; set, maintain, or be in, such motion",
 			"Distress, perturb (rocked by the news)"
 		]
@@ -8223,14 +8077,9 @@
 		]
 	},
 	{
-		"word": "Rocky1",
+		"word": "Rocky",
 		"definitions": [
-			"Of, like, or full of rock or rocks"
-		]
-	},
-	{
-		"word": "Rocky2",
-		"definitions": [
+			"Of, like, or full of rock or rocks",
 			"Colloq. Unsteady, tottering, unstable"
 		]
 	},
@@ -8632,15 +8481,10 @@
 		]
 	},
 	{
-		"word": "Rook1",
+		"word": "Rook",
 		"definitions": [
 			"Black bird of the crow family nesting in colonies",
-			"Charge (a customer) extortionately"
-		]
-	},
-	{
-		"word": "Rook2",
-		"definitions": [
+			"Charge (a customer) extortionately",
 			"Chess piece with a battlement-shaped top"
 		]
 	},
@@ -8701,7 +8545,7 @@
 		]
 	},
 	{
-		"word": "Root1",
+		"word": "Root",
 		"definitions": [
 			"Part of a plant normally below the ground, conveying nourishment from the soil",
 			"Emotional attachment or family ties to a place or community"
@@ -8771,7 +8615,7 @@
 		]
 	},
 	{
-		"word": "Rose1",
+		"word": "Rose",
 		"definitions": [
 			"Prickly bush or shrub bearing usually fragrant red, pink, yellow, or white flowers",
 			"This flower",
@@ -9129,16 +8973,11 @@
 		]
 	},
 	{
-		"word": "Rout1",
+		"word": "Rout",
 		"definitions": [
 			"Disorderly retreat of defeated troops",
 			"Overthrow, defeat",
-			"Put to flight, defeat"
-		]
-	},
-	{
-		"word": "Rout2",
-		"definitions": [
+			"Put to flight, defeat",
 			"Root"
 		]
 	},
@@ -9173,27 +9012,17 @@
 		]
 	},
 	{
-		"word": "Rove1",
+		"word": "Rove",
 		"definitions": [
 			"Wander without settling; roam, ramble",
-			"(Of eyes) look about"
+			"(Of eyes) look about",
+			"Past of *reeve"
 		]
 	},
 	{
-		"word": "Rove2",
+		"word": "Rover",
 		"definitions": [
-			"Past of reeve"
-		]
-	},
-	{
-		"word": "Rover1",
-		"definitions": [
-			"Wanderer"
-		]
-	},
-	{
-		"word": "Rover2",
-		"definitions": [
+			"Wanderer",
 			"Pirate"
 		]
 	},
@@ -9204,22 +9033,12 @@
 		]
 	},
 	{
-		"word": "Row1",
+		"word": "Row",
 		"definitions": [
 			"Line of persons or things",
-			"Line of seats across a theatre etc."
-		]
-	},
-	{
-		"word": "Row2",
-		"definitions": [
+			"Line of seats across a theatre etc.",
 			"Propel (a boat) with oars",
-			"Convey (a passenger) thus"
-		]
-	},
-	{
-		"word": "Row3",
-		"definitions": [
+			"Convey (a passenger) thus",
 			"Loud noise or commotion",
 			"Fierce quarrel or dispute"
 		]
@@ -9454,15 +9273,10 @@
 		]
 	},
 	{
-		"word": "Rubber1",
+		"word": "Rubber",
 		"definitions": [
 			"Tough elastic substance made from the latex of plants or synthetically",
-			"Piece of this or a similar substance for erasing esp. Pencil marks"
-		]
-	},
-	{
-		"word": "Rubber2",
-		"definitions": [
+			"Piece of this or a similar substance for erasing esp. Pencil marks",
 			"Match of esp. Three successive games between the same sides or persons at whist, bridge, cricket, etc."
 		]
 	},
@@ -9805,14 +9619,9 @@
 		]
 	},
 	{
-		"word": "Rum1",
+		"word": "Rum",
 		"definitions": [
-			"Spirit distilled from sugar-cane or molasses"
-		]
-	},
-	{
-		"word": "Rum2",
-		"definitions": [
+			"Spirit distilled from sugar-cane or molasses",
 			"Odd, strange, queer"
 		]
 	},
@@ -9976,16 +9785,11 @@
 		]
 	},
 	{
-		"word": "Rung1",
+		"word": "Rung",
 		"definitions": [
 			"Step of a ladder",
-			"Strengthening crosspiece in a chair etc."
-		]
-	},
-	{
-		"word": "Rung2",
-		"definitions": [
-			"Past part. of *ring2"
+			"Strengthening crosspiece in a chair etc.",
+			"Past part. of *ring"
 		]
 	},
 	{
@@ -10159,7 +9963,7 @@
 	{
 		"word": "Rural dean",
 		"definitions": [
-			"See *dean1"
+			"See *dean"
 		]
 	},
 	{
@@ -10175,7 +9979,7 @@
 		]
 	},
 	{
-		"word": "Rush1",
+		"word": "Rush",
 		"definitions": [
 			"Go, move, flow, or act precipitately or with great speed",
 			"Move or transport with great haste",
@@ -10190,12 +9994,7 @@
 			"Done with great haste or speed (a rush job)",
 			"Sudden migration of large numbers",
 			"Sudden strong demand for a commodity",
-			"First uncut prints of a film (in pl.)"
-		]
-	},
-	{
-		"word": "Rush2",
-		"definitions": [
+			"First uncut prints of a film (in pl.)",
 			"Marsh plant with slender tapering pith-filled stems, used for making chair-bottoms, baskets"
 		]
 	},
@@ -10313,16 +10112,11 @@
 		]
 	},
 	{
-		"word": "Rut1",
+		"word": "Rut",
 		"definitions": [
 			"Deep track made by the passage of wheels",
 			"Established (especially tedious) practice or routine",
-			"Mark with ruts"
-		]
-	},
-	{
-		"word": "Rut2",
-		"definitions": [
+			"Mark with ruts",
 			"Periodic sexual excitement of a male deer, etc.",
 			"Be affected with rut"
 		]
