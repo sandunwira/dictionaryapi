@@ -109,22 +109,12 @@
 		]
 	},
 	{
-		"word": "Sage1",
-		"definitions": [
-			"Culinary herb with dull greyish-green leaves",
-			"Used in cooking and flavoring"
-		]
-	},
-	{
-		"word": "Sage2",
-		"definitions": [
-			"Wise man",
-			"Experienced and judicious"
-		]
-	},
-	{
 		"word": "Sage",
 		"definitions": [
+			"Culinary herb with dull greyish-green leaves",
+			"Used in cooking and flavoring",
+			"Wise man",
+			"Experienced and judicious",
 			"Showing insight or good judgement",
 			"Wise, discerning"
 		]
@@ -371,12 +361,7 @@
 			"Vigour, vitality",
 			"Slang foolish person",
 			"Drain or dry (wood) of sap",
-			"Weaken"
-		]
-	},
-	{
-		"word": "Sap2",
-		"definitions": [
+			"Weaken",
 			"Tunnel or trench dug to get nearer to the enemy",
 			"Dig saps",
 			"Undermine"
@@ -547,18 +532,13 @@
 		]
 	},
 	{
-		"word": "Save1",
+		"word": "Save",
 		"definitions": [
 			"Rescue or keep from danger, harm, etc.",
 			"Keep (especially money) for future use",
 			"Relieve (another or oneself) from spending (money, time, trouble, etc.)",
 			"Preserve from damnation; convert",
-			"Avoid losing (a game, match, etc.)"
-		]
-	},
-	{
-		"word": "Save2",
-		"definitions": [
+			"Avoid losing (a game, match, etc.)",
 			"Except; but"
 		]
 	},
@@ -932,9 +912,9 @@
 		]
 	},
 	{
-		"word": "Scar2",
+		"word": "Scar",
 		"definitions": [
-			"Variant of scaur"
+			"Variant of *scaur"
 		]
 	},
 	{
@@ -952,7 +932,7 @@
 	{
 		"word": "Scaur",
 		"definitions": [
-			"Variant of scar2"
+			"Variant of *scar"
 		]
 	},
 	{
@@ -1140,7 +1120,7 @@
 		]
 	},
 	{
-		"word": "School1",
+		"word": "School",
 		"definitions": [
 			"Educational institution for pupils up to 19 years of age",
 			"Of or for use in school (school dinners)",
@@ -1290,14 +1270,9 @@
 		]
 	},
 	{
-		"word": "Scoff1",
+		"word": "Scoff",
 		"definitions": [
-			"Speak scornfully"
-		]
-	},
-	{
-		"word": "Scoff2",
-		"definitions": [
+			"Speak scornfully",
 			"Eat greedily",
 			"Food; a meal"
 		]
@@ -1529,15 +1504,10 @@
 		]
 	},
 	{
-		"word": "Scour1",
+		"word": "Scour",
 		"definitions": [
 			"Cleanse by rubbing",
-			"Clear out (a pipe, channel, etc.) by flushing through"
-		]
-	},
-	{
-		"word": "Scour2",
-		"definitions": [
+			"Clear out (a pipe, channel, etc.) by flushing through",
 			"Search thoroughly"
 		]
 	},
@@ -1564,7 +1534,7 @@
 		]
 	},
 	{
-		"word": "Scrap1",
+		"word": "Scrap",
 		"definitions": [
 			"Small detached piece; fragment",
 			"Rubbish or waste material",
@@ -1572,12 +1542,7 @@
 			"Smallest piece or amount",
 			"Odds and ends",
 			"Uneaten food",
-			"Discard as useless"
-		]
-	},
-	{
-		"word": "Scrap2",
-		"definitions": [
+			"Discard as useless",
 			"Fight or rough quarrel",
 			"Have a scrap"
 		]
@@ -1842,15 +1807,10 @@
 		]
 	},
 	{
-		"word": "Second1",
+		"word": "Second",
 		"definitions": [
 			"Next after first",
-			"Subordinate or inferior in position or rank"
-		]
-	},
-	{
-		"word": "Second2",
-		"definitions": [
+			"Subordinate or inferior in position or rank",
 			"Sixtieth of a minute of time or angle",
 			"Colloquial term for a very short period of time"
 		]
@@ -2931,16 +2891,11 @@
 		]
 	},
 	{
-		"word": "Shag1",
+		"word": "Shag",
 		"definitions": [
 			"Coarse kind of cut tobacco",
 			"A rough mass of hair etc.",
-			"Cormorant, esp. The crested cormorant"
-		]
-	},
-	{
-		"word": "Shag2",
-		"definitions": [
+			"Cormorant, esp. The crested cormorant",
 			"Coarse slang have sexual intercourse with",
 			"Exhaust, tire out"
 		]
@@ -3106,16 +3061,10 @@
 		]
 	},
 	{
-		"word": "Share1",
+		"word": "Share",
 		"definitions": [
-			"Each of the equal parts into which a company's capital is divided"
-		]
-	},
-	{
-		"word": "Share2",
-		"definitions": [
-			"*Ploughshare",
-			"Related to *share1"
+			"Each of the equal parts into which a company's capital is divided",
+			"*Ploughshare"
 		]
 	},
 	{
@@ -3131,15 +3080,10 @@
 		]
 	},
 	{
-		"word": "Shark1",
+		"word": "Shark",
 		"definitions": [
 			"Large voracious marine fish",
-			"Origin unknown"
-		]
-	},
-	{
-		"word": "Shark2",
-		"definitions": [
+			"Origin unknown",
 			"Colloq. Swindler, profiteer",
 			"Origin unknown"
 		]
@@ -3318,15 +3262,10 @@
 		]
 	},
 	{
-		"word": "Shed1",
+		"word": "Shed",
 		"definitions": [
 			"One-storeyed usually wooden structure for storage or shelter",
-			"Workshop"
-		]
-	},
-	{
-		"word": "Shed2",
-		"definitions": [
+			"Workshop",
 			"Let or cause to fall off",
 			"Take off (clothes)",
 			"Reduce by disconnection",
@@ -3395,16 +3334,11 @@
 		]
 	},
 	{
-		"word": "Sheer1",
+		"word": "Sheer",
 		"definitions": [
 			"Mere, complete (sheer luck)",
 			"(Of a cliff etc.) Perpendicular",
-			"(Of a textile) Diaphanous"
-		]
-	},
-	{
-		"word": "Sheer2",
-		"definitions": [
+			"(Of a textile) Diaphanous",
 			"Esp. Naut. Swerve or change course",
 			"(Foll. By away, off) Turn away, esp. From a person or topic one dislikes or fears"
 		]
@@ -4488,7 +4422,7 @@
 		]
 	},
 	{
-		"word": "Skip1",
+		"word": "Skip",
 		"definitions": [
 			"Move along lightly, esp. With alternate hops",
 			"Jump lightly, esp. Over a skipping-rope",
@@ -4541,14 +4475,9 @@
 		]
 	},
 	{
-		"word": "Slough1",
+		"word": "Slough",
 		"definitions": [
-			"Swamp, miry place"
-		]
-	},
-	{
-		"word": "Slough2",
-		"definitions": [
+			"Swamp, miry place",
 			"Part that an animal casts or moults",
 			"Cast or drop off as a slough"
 		]
@@ -5099,15 +5028,10 @@
 		]
 	},
 	{
-		"word": "Snuff1",
+		"word": "Snuff",
 		"definitions": [
 			"Charred part of a candle-wick",
-			"Trim the snuff from a candle"
-		]
-	},
-	{
-		"word": "Snuff2",
-		"definitions": [
+			"Trim the snuff from a candle",
 			"Powdered tobacco or medicine taken by sniffing"
 		]
 	},
@@ -5342,14 +5266,9 @@
 		]
 	},
 	{
-		"word": "Soil1",
+		"word": "Soil",
 		"definitions": [
-			"Upper layer of earth in which plants grow"
-		]
-	},
-	{
-		"word": "Soil2",
-		"definitions": [
+			"Upper layer of earth in which plants grow",
 			"Make dirty; smear or stain",
 			"Defile; discredit"
 		]
@@ -5386,21 +5305,11 @@
 		]
 	},
 	{
-		"word": "Sole1",
+		"word": "Sole",
 		"definitions": [
 			"Undersurface of the foot",
-			"Part of a shoe, sock, etc., under the foot, esp. Other than the heel"
-		]
-	},
-	{
-		"word": "Sole2",
-		"definitions": [
-			"(pl. Same or -s) flat-fish used as food"
-		]
-	},
-	{
-		"word": "Sole3",
-		"definitions": [
+			"Part of a shoe, sock, etc., under the foot, esp. Other than the heel",
+			"(pl. Same or -s) flat-fish used as food",
 			"One and only; single, exclusive"
 		]
 	},
@@ -6076,15 +5985,10 @@
 		]
 	},
 	{
-		"word": "Span1",
+		"word": "Span",
 		"definitions": [
 			"The full extent from end to end",
-			"To stretch or extend across a distance or space"
-		]
-	},
-	{
-		"word": "Span2",
-		"definitions": [
+			"To stretch or extend across a distance or space",
 			"See *spick and span*"
 		]
 	},
@@ -6110,22 +6014,12 @@
 		]
 	},
 	{
-		"word": "Spar1",
+		"word": "Spar",
 		"definitions": [
 			"A stout pole, especially as a ship's mast",
-			"A main longitudinal beam of an airplane wing"
-		]
-	},
-	{
-		"word": "Spar2",
-		"definitions": [
+			"A main longitudinal beam of an airplane wing",
 			"To make the motions of boxing without heavy blows",
-			"To engage in a verbal argument or debate"
-		]
-	},
-	{
-		"word": "Spar3",
-		"definitions": [
+			"To engage in a verbal argument or debate",
 			"A crystalline mineral that can be easily split",
 			"A type of easily split material, often used in construction"
 		]
@@ -6201,15 +6095,10 @@
 		]
 	},
 	{
-		"word": "Spec1",
+		"word": "Spec",
 		"definitions": [
 			"Colloquial for speculation",
-			"Referring to something done as a gamble"
-		]
-	},
-	{
-		"word": "Spec2",
-		"definitions": [
+			"Referring to something done as a gamble",
 			"Colloquial for specification",
 			"A detailed working description or outline"
 		]
@@ -6341,15 +6230,10 @@
 		]
 	},
 	{
-		"word": "Spelt1",
+		"word": "Spelt",
 		"definitions": [
 			"Past and past participle of spell (to write or name correctly)",
-			"The form of a word that has been spelt or written"
-		]
-	},
-	{
-		"word": "Spelt2",
-		"definitions": [
+			"The form of a word that has been spelt or written",
 			"A type of wheat that produces fine flour",
 			"A cereal grain used for making bread and other baked goods"
 		]
@@ -6411,7 +6295,7 @@
 		]
 	},
 	{
-		"word": "Spit1",
+		"word": "Spit",
 		"definitions": [
 			"To eject saliva from the mouth, often in contempt or anger",
 			"To speak vehemently or angrily"
@@ -6487,9 +6371,9 @@
 		]
 	},
 	{
-		"word": "Spoke2",
+		"word": "Spoke",
 		"definitions": [
-			"Past tense of speak"
+			"Past tense of *speak"
 		]
 	},
 	{
@@ -6947,15 +6831,10 @@
 		]
 	},
 	{
-		"word": "Staple1",
+		"word": "Staple",
 		"definitions": [
 			"A U-shaped metal bar or wire used to fasten papers together",
-			"A piece of wire used for securing electrical wires in place"
-		]
-	},
-	{
-		"word": "Staple2",
-		"definitions": [
+			"A piece of wire used for securing electrical wires in place",
 			"A principal article of commerce or trade, such as staple goods",
 			"The main component or essential element of something"
 		]
