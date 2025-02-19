@@ -198,14 +198,9 @@
 		]
 	},
 	{
-		"word": "Valence1",
+		"word": "Valence",
 		"definitions": [
-			"Combining power of an atom measured by the number of hydrogen atoms it can displace or combine with"
-		]
-	},
-	{
-		"word": "Valence2",
-		"definitions": [
+			"Combining power of an atom measured by the number of hydrogen atoms it can displace or combine with",
 			"Variant of *valance"
 		]
 	},
@@ -338,15 +333,10 @@
 		]
 	},
 	{
-		"word": "Vamp1",
+		"word": "Vamp",
 		"definitions": [
 			"Upper front part of a boot or shoe",
-			"Repair or furbish"
-		]
-	},
-	{
-		"word": "Vamp2",
-		"definitions": [
+			"Repair or furbish",
 			"Woman who uses sexual attraction to exploit men",
 			"Allure and exploit (a man)"
 		]
@@ -359,15 +349,10 @@
 		]
 	},
 	{
-		"word": "Van1",
+		"word": "Van",
 		"definitions": [
 			"Small covered goods vehicle",
-			"Railway carriage for luggage and the guard"
-		]
-	},
-	{
-		"word": "Van2",
-		"definitions": [
+			"Railway carriage for luggage and the guard",
 			"Vanguard, forefront"
 		]
 	},
@@ -1063,15 +1048,10 @@
 		]
 	},
 	{
-		"word": "Vent1",
+		"word": "Vent",
 		"definitions": [
 			"Opening allowing the passage of air, etc.",
-			"Outlet; free expression"
-		]
-	},
-	{
-		"word": "Vent2",
-		"definitions": [
+			"Outlet; free expression",
 			"Slit in a garment, especially in the lower edge of the back of a jacket"
 		]
 	},
@@ -1231,15 +1211,10 @@
 		]
 	},
 	{
-		"word": "Verge1",
+		"word": "Verge",
 		"definitions": [
 			"Edge or border",
-			"Brink"
-		]
-	},
-	{
-		"word": "Verge2",
-		"definitions": [
+			"Brink",
 			"Border on",
 			"Incline downwards or in a specified direction"
 		]
@@ -1570,12 +1545,7 @@
 		"word": "Vet",
 		"definitions": [
 			"Colloquial term for a veterinary surgeon",
-			"Make a careful and critical examination of (a scheme, work, candidate, etc.)"
-		]
-	},
-	{
-		"word": "Vet2",
-		"definitions": [
+			"Make a careful and critical examination of (a scheme, work, candidate, etc.)",
 			"US veteran"
 		]
 	},
@@ -1781,18 +1751,8 @@
 		"word": "Vice",
 		"definitions": [
 			"Immoral conduct",
-			"Form of this (the vice of gluttony)"
-		]
-	},
-	{
-		"word": "Vice2",
-		"definitions": [
-			"(US \"vise\") Clamp with two jaws holding an object so as to leave the hands free to work on it"
-		]
-	},
-	{
-		"word": "Vice3",
-		"definitions": [
+			"Form of this (the vice of gluttony)",
+			"(US \"vise\") Clamp with two jaws holding an object so as to leave the hands free to work on it",
 			"In the place of; succeeding"
 		]
 	},
@@ -2320,14 +2280,9 @@
 		]
 	},
 	{
-		"word": "Viola1",
+		"word": "Viola",
 		"definitions": [
-			"Instrument larger than the violin and of lower pitch"
-		]
-	},
-	{
-		"word": "Viola2",
-		"definitions": [
+			"Instrument larger than the violin and of lower pitch",
 			"Any plant of the genus including the pansy and violet, especially a cultivated hybrid"
 		]
 	},
@@ -2802,15 +2757,10 @@
 		]
 	},
 	{
-		"word": "Viva1",
+		"word": "Viva",
 		"definitions": [
 			"= *viva voce",
-			"Viva-voce"
-		]
-	},
-	{
-		"word": "Viva2",
-		"definitions": [
+			"Viva-voce",
 			"Long live",
 			"Cry of this as a salute, etc."
 		]
