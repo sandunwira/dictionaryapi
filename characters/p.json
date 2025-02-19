@@ -1,20 +1,10 @@
 [
 	{
-		"word": "P1",
-		"definitions": [
-			"Sixteenth letter of the alphabet",
-			"Abbreviation for parking, pawn, proprietary"
-		]
-	},
-	{
-		"word": "P2",
-		"definitions": [
-			"Symbol for Phosphorus"
-		]
-	},
-	{
 		"word": "P",
 		"definitions": [
+			"Sixteenth letter of the alphabet",
+			"Abbreviation for parking, pawn, proprietary",
+			"Symbol for Phosphorus",
 			"Abbreviation for penny, pence",
 			"Abbreviation for page",
 			"Abbreviation for piano (softly)"
@@ -24,18 +14,8 @@
 		"word": "Pa",
 		"definitions": [
 			"Abbreviation for personal assistant",
-			"Abbreviation for public address (system)"
-		]
-	},
-	{
-		"word": "Pa",
-		"definitions": [
-			"Symbol for Protactinium"
-		]
-	},
-	{
-		"word": "Pa",
-		"definitions": [
+			"Abbreviation for public address (system)",
+			"Symbol for Protactinium",
 			"Colloquial term for father (short for papa)"
 		]
 	},
