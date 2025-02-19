@@ -129,7 +129,7 @@
 		]
 	},
 	{
-		"word": "Hack1",
+		"word": "Hack",
 		"definitions": [
 			"Cut or chop roughly",
 			"Football etc. Kick the shin of (an opponent)",
@@ -273,7 +273,7 @@
 	{
 		"word": "Hah",
 		"definitions": [
-			"Var. of *ha1"
+			"Var. of *ha"
 		]
 	},
 	{
@@ -302,15 +302,10 @@
 		]
 	},
 	{
-		"word": "Hail1",
+		"word": "Hail",
 		"definitions": [
 			"Pellets of frozen rain",
-			"Barrage or onslaught"
-		]
-	},
-	{
-		"word": "Hail2",
-		"definitions": [
+			"Barrage or onslaught",
 			"Signal to (a taxi etc.) to stop",
 			"Greet enthusiastically"
 		]
@@ -743,14 +738,9 @@
 		]
 	},
 	{
-		"word": "Hamper1",
+		"word": "Hamper",
 		"definitions": [
-			"Large Basket, Usu. With A Hinged Lid And Containing Food"
-		]
-	},
-	{
-		"word": "Hamper2",
-		"definitions": [
+			"Large Basket, Usu. With A Hinged Lid And Containing Food",
 			"Prevent The Free Movement Of; Hinder"
 		]
 	},
@@ -1408,7 +1398,7 @@
 	{
 		"word": "Hard roe",
 		"definitions": [
-			"See roe1",
+			"See *roe",
 			"Fish eggs, particularly from fish like salmon"
 		]
 	},
@@ -1978,14 +1968,9 @@
 		]
 	},
 	{
-		"word": "Haw1",
+		"word": "Haw",
 		"definitions": [
-			"Hawthorn berry"
-		]
-	},
-	{
-		"word": "Haw2",
-		"definitions": [
+			"Hawthorn berry",
 			"See *hum"
 		]
 	},
@@ -1996,22 +1981,12 @@
 		]
 	},
 	{
-		"word": "Hawk1",
+		"word": "Hawk",
 		"definitions": [
 			"Bird of prey with a curved beak, rounded short wings, and a long tail",
 			"Politician who advocates aggressive policies",
-			"Hunt with a hawk"
-		]
-	},
-	{
-		"word": "Hawk2",
-		"definitions": [
-			"Carry about or offer (goods) for sale"
-		]
-	},
-	{
-		"word": "Hawk3",
-		"definitions": [
+			"Hunt with a hawk",
+			"Carry about or offer (goods) for sale",
 			"Clear the throat noisily"
 		]
 	},
@@ -2830,23 +2805,13 @@
 		]
 	},
 	{
-		"word": "Heel1",
+		"word": "Heel",
 		"definitions": [
 			"Back of the foot below the ankle",
-			"A part of a sock etc. covering this"
-		]
-	},
-	{
-		"word": "Heel2",
-		"definitions": [
+			"A part of a sock etc. covering this",
 			"(Of a ship etc.) Lean over",
 			"Cause (a ship etc.) to do this",
-			"Cause (a ship) to tilt or lean"
-		]
-	},
-	{
-		"word": "Heel3",
-		"definitions": [
+			"Cause (a ship) to tilt or lean",
 			"Var. of *hele"
 		]
 	},
@@ -2946,7 +2911,7 @@
 	{
 		"word": "Held",
 		"definitions": [
-			"Past and past participle of *hold1"
+			"Past and past participle of *hold"
 		]
 	},
 	{
@@ -3153,15 +3118,10 @@
 		]
 	},
 	{
-		"word": "Hem1",
+		"word": "Hem",
 		"definitions": [
 			"Border Of Cloth Where The Edge Is Turned Under And Sewn Down",
-			"Turn Down And Sew In The Edge Of Cloth"
-		]
-	},
-	{
-		"word": "Hem2",
-		"definitions": [
+			"Turn Down And Sew In The Edge Of Cloth",
 			"Calling Attention Or Expressing Hesitation By A Slight Cough",
 			"Utterance Of This"
 		]
@@ -3889,13 +3849,13 @@
 	{
 		"word": "Hid",
 		"definitions": [
-			"Past of *hide1"
+			"Past of *hide"
 		]
 	},
 	{
 		"word": "Hidden",
 		"definitions": [
-			"Past part. of *hide1"
+			"Past part. of *hide"
 		]
 	},
 	{
@@ -3906,18 +3866,13 @@
 		]
 	},
 	{
-		"word": "Hide1",
+		"word": "Hide",
 		"definitions": [
 			"Put or keep out of sight",
 			"Conceal oneself",
 			"Keep (a fact) secret",
 			"Conceal",
-			"Camouflaged shelter used for observing wildlife"
-		]
-	},
-	{
-		"word": "Hide2",
-		"definitions": [
+			"Camouflaged shelter used for observing wildlife",
 			"Animal's skin, esp. when tanned or dressed",
 			"Colloq. The human skin, esp. The backside"
 		]
@@ -3955,15 +3910,10 @@
 		]
 	},
 	{
-		"word": "Hiding1",
+		"word": "Hiding",
 		"definitions": [
 			"Colloq. A thrashing",
-			"On a hiding to nothing with no chance of succeeding"
-		]
-	},
-	{
-		"word": "Hiding2",
-		"definitions": [
+			"On a hiding to nothing with no chance of succeeding",
 			"Act of hiding",
 			"State of remaining hidden"
 		]
@@ -4209,22 +4159,12 @@
 		]
 	},
 	{
-		"word": "Hip2",
+		"word": "Hip",
 		"definitions": [
 			"Fruit of a rose, esp. Wild",
-			"A type of rose fruit"
-		]
-	},
-	{
-		"word": "Hip3",
-		"definitions": [
+			"A type of rose fruit",
 			"Introducing a united cheer (hip, hip, hooray)",
-			"Exclamation used in celebrations"
-		]
-	},
-	{
-		"word": "Hip4",
-		"definitions": [
+			"Exclamation used in celebrations",
 			"Slang trendy, stylish",
 			"Fashionable or in vogue"
 		]
@@ -4300,29 +4240,19 @@
 		]
 	},
 	{
-		"word": "Hippy1",
+		"word": "Hippy",
 		"definitions": [
 			"Var. of *hippie",
-			"Alternative spelling of hippie"
-		]
-	},
-	{
-		"word": "Hippy2",
-		"definitions": [
+			"Alternative spelling of hippie",
 			"Having large hips",
 			"Describing someone with broad hips"
 		]
 	},
 	{
-		"word": "Hipster1",
+		"word": "Hipster",
 		"definitions": [
 			"(of a garment) Hanging from the hips rather than the waist",
-			"A style of trousers worn low on the hips"
-		]
-	},
-	{
-		"word": "Hipster2",
-		"definitions": [
+			"A style of trousers worn low on the hips",
 			"Slang hip person",
 			"A person who follows modern trends or subcultures"
 		]
@@ -4670,22 +4600,12 @@
 		]
 	},
 	{
-		"word": "Hock1",
+		"word": "Hock",
 		"definitions": [
 			"Joint of a quadruped's hind leg between the knee and the fetlock",
-			"Old English origin"
-		]
-	},
-	{
-		"word": "Hock2",
-		"definitions": [
+			"Old English origin",
 			"German white wine from the Rhineland",
-			"From Hochheim in Germany"
-		]
-	},
-	{
-		"word": "Hock3",
-		"definitions": [
+			"From Hochheim in Germany",
 			"Pawn or pledge"
 		]
 	},
@@ -4802,15 +4722,10 @@
 		]
 	},
 	{
-		"word": "Hold1",
+		"word": "Hold",
 		"definitions": [
 			"Keep fast; grasp, especially in the hands or arms",
-			"Have the capacity for, contain"
-		]
-	},
-	{
-		"word": "Hold2",
-		"definitions": [
+			"Have the capacity for, contain",
 			"Cavity in the lower part of a ship or aircraft for cargo",
 			"Old English, related to hollow"
 		]
@@ -5350,15 +5265,10 @@
 		]
 	},
 	{
-		"word": "Hop1",
+		"word": "Hop",
 		"definitions": [
 			"(Of a bird, frog, Etc.) Spring with two or all feet at once",
-			"(Of a person) Jump on one foot"
-		]
-	},
-	{
-		"word": "Hop2",
-		"definitions": [
+			"(Of a person) Jump on one foot",
 			"Climbing plant bearing cones",
 			"(In pl.) Its ripe cones, Used to flavour beer"
 		]
@@ -5392,15 +5302,10 @@
 		]
 	},
 	{
-		"word": "Hopper1",
+		"word": "Hopper",
 		"definitions": [
 			"Container tapering downward to an opening for discharging its contents",
-			"Hopping insect"
-		]
-	},
-	{
-		"word": "Hopper2",
-		"definitions": [
+			"Hopping insect",
 			"Hop-picker"
 		]
 	},
@@ -5498,21 +5403,11 @@
 		]
 	},
 	{
-		"word": "Host1",
+		"word": "Host",
 		"definitions": [
-			"Large number of people or things"
-		]
-	},
-	{
-		"word": "Host2",
-		"definitions": [
+			"Large number of people or things",
 			"Person who receives or entertains another as a guest",
-			"Compère"
-		]
-	},
-	{
-		"word": "Host3",
-		"definitions": [
+			"Compère",
 			"Bread consecrated in the eucharist"
 		]
 	},
@@ -5582,7 +5477,7 @@
 	{
 		"word": "Hot flush",
 		"definitions": [
-			"See *flush1*"
+			"See *flush"
 		]
 	},
 	{
@@ -6130,14 +6025,9 @@
 		]
 	},
 	{
-		"word": "Hull1",
+		"word": "Hull",
 		"definitions": [
-			"Body of a ship, airship, etc."
-		]
-	},
-	{
-		"word": "Hull2",
-		"definitions": [
+			"Body of a ship, airship, etc.",
 			"Outer covering of a fruit, especially the pod of peas and beans",
 			"Remove the hulls from (fruit, etc.)"
 		]
@@ -6602,17 +6492,12 @@
 		]
 	},
 	{
-		"word": "Husky1",
+		"word": "Husky",
 		"definitions": [
 			"(Of a person or voice) dry in the throat; hoarse",
 			"Of or full of husks",
 			"Dry as a husk",
-			"Tough, strong, hefty"
-		]
-	},
-	{
-		"word": "Husky2",
-		"definitions": [
+			"Tough, strong, hefty",
 			"Dog of a powerful breed used in the Arctic for pulling sledges"
 		]
 	},
@@ -7070,14 +6955,9 @@
 		]
 	},
 	{
-		"word": "Hypo1",
+		"word": "Hypo",
 		"definitions": [
-			"Sodium thiosulphate (incorrectly called hyposulphite) used as a photographic fixer"
-		]
-	},
-	{
-		"word": "Hypo2",
-		"definitions": [
+			"Sodium thiosulphate (incorrectly called hyposulphite) used as a photographic fixer",
 			"Slang = Hypodermic"
 		]
 	},
