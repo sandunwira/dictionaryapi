@@ -241,15 +241,10 @@
 		]
 	},
 	{
-		"word": "Lactate1",
+		"word": "Lactate",
 		"definitions": [
 			"Secrete milk (of mammals)",
-			"Related to lactation"
-		]
-	},
-	{
-		"word": "Lactate2",
-		"definitions": [
+			"Related to lactation",
 			"Salt or ester of lactic acid"
 		]
 	},
@@ -400,22 +395,12 @@
 		]
 	},
 	{
-		"word": "Lag1",
+		"word": "Lag",
 		"definitions": [
 			"Fall behind, not keep pace",
-			"Delay"
-		]
-	},
-	{
-		"word": "Lag2",
-		"definitions": [
+			"Delay",
 			"Enclose in heat-insulating material",
-			"Insulating cover"
-		]
-	},
-	{
-		"word": "Lag3",
-		"definitions": [
+			"Insulating cover",
 			"Slang habitual convict"
 		]
 	},
@@ -511,15 +496,10 @@
 		]
 	},
 	{
-		"word": "Lake1",
+		"word": "Lake",
 		"definitions": [
 			"Large body of water surrounded by land",
-			"[Latin lacus]"
-		]
-	},
-	{
-		"word": "Lake2",
-		"definitions": [
+			"[Latin lacus]",
 			"Reddish pigment orig. made from lac",
 			"Pigment obtained by combining an organic colouring matter with a metallic oxide, hydroxide, or salt"
 		]
@@ -1040,22 +1020,12 @@
 		]
 	},
 	{
-		"word": "Lap1",
+		"word": "Lap",
 		"definitions": [
 			"Front of the body from the waist to the knees of a sitting person",
-			"Clothing covering this"
-		]
-	},
-	{
-		"word": "Lap2",
-		"definitions": [
+			"Clothing covering this",
 			"A single circuit of a racetrack etc.",
-			"A section of a journey"
-		]
-	},
-	{
-		"word": "Lap3",
-		"definitions": [
+			"A section of a journey",
 			"Drink with the tongue",
 			"Ripple; make a lapping sound against (the shore)"
 		]
@@ -1203,15 +1173,10 @@
 		]
 	},
 	{
-		"word": "Lark1",
+		"word": "Lark",
 		"definitions": [
 			"Small bird with a tuneful song, esp. the skylark",
-			"Amusing incident"
-		]
-	},
-	{
-		"word": "Lark2",
-		"definitions": [
+			"Amusing incident",
 			"Frolic; amusing incident",
 			"Play tricks"
 		]
@@ -1308,30 +1273,15 @@
 		]
 	},
 	{
-		"word": "Last1",
+		"word": "Last",
 		"definitions": [
 			"After all others",
 			"Coming at or belonging to the end",
-			"Most recent"
-		]
-	},
-	{
-		"word": "Last2",
-		"definitions": [
+			"Most recent",
 			"Remain unexhausted or alive for a specified or considerable time",
-			"Continue for a specified time"
-		]
-	},
-	{
-		"word": "Last3",
-		"definitions": [
+			"Continue for a specified time",
 			"Shoemaker's model for shaping a shoe etc.",
-			"Stick to one's last"
-		]
-	},
-	{
-		"word": "Last",
-		"definitions": [
+			"Stick to one's last",
 			"Finally",
 			"In the last place",
 			"After the due or usual time"
@@ -1672,18 +1622,13 @@
 		]
 	},
 	{
-		"word": "Launch1",
+		"word": "Launch",
 		"definitions": [
 			"Set (a vessel) afloat",
 			"Hurl or send forth (a weapon, rocket, etc.)",
 			"Start or set in motion (an enterprise, person, etc.)",
 			"Formally introduce (a new product) with publicity etc.",
-			"Make a start on (an enterprise, etc.)"
-		]
-	},
-	{
-		"word": "Launch2",
-		"definitions": [
+			"Make a start on (an enterprise, etc.)",
 			"Large motor boat",
 			"Man-of-war's largest boat"
 		]
@@ -1858,14 +1803,9 @@
 		]
 	},
 	{
-		"word": "Lawn1",
+		"word": "Lawn",
 		"definitions": [
-			"Piece of closely-mown grass in a garden etc."
-		]
-	},
-	{
-		"word": "Lawn2",
-		"definitions": [
+			"Piece of closely-mown grass in a garden etc.",
 			"Fine linen or cotton"
 		]
 	},
@@ -1914,30 +1854,15 @@
 		]
 	},
 	{
-		"word": "Lay1",
+		"word": "Lay",
 		"definitions": [
 			"Place on a surface, especially horizontally or in the proper or specified place",
-			"Put or bring into the required position or state"
-		]
-	},
-	{
-		"word": "Lay2",
-		"definitions": [
+			"Put or bring into the required position or state",
 			"Non-clerical",
-			"Not professionally qualified"
-		]
-	},
-	{
-		"word": "Lay3",
-		"definitions": [
+			"Not professionally qualified",
 			"Short poem meant to be sung",
-			"Song"
-		]
-	},
-	{
-		"word": "Lay4",
-		"definitions": [
-			"Past of \"lie1\""
+			"Song",
+			"Past of *lie"
 		]
 	},
 	{
@@ -2083,15 +2008,10 @@
 		]
 	},
 	{
-		"word": "Lead1",
+		"word": "Lead",
 		"definitions": [
 			"Cause to go with one, esp. By guiding or going in front",
-			"Direct the actions or opinions of"
-		]
-	},
-	{
-		"word": "Lead2",
-		"definitions": [
+			"Direct the actions or opinions of",
 			"Heavy bluish-grey soft metallic element",
 			"Graphite"
 		]
@@ -2123,16 +2043,11 @@
 		]
 	},
 	{
-		"word": "Leading1",
+		"word": "Leading",
 		"definitions": [
 			"Chief",
-			"Most important"
-		]
-	},
-	{
-		"word": "Leading2",
-		"definitions": [
-			"Printing = Lead2 n. 6"
+			"Most important",
+			"Printing = Lead n. 6"
 		]
 	},
 	{
@@ -2204,15 +2119,10 @@
 		]
 	},
 	{
-		"word": "League1",
+		"word": "League",
 		"definitions": [
 			"People, countries, groups, etc., combining for a particular purpose",
-			"Agreement to combine in this way"
-		]
-	},
-	{
-		"word": "League2",
-		"definitions": [
+			"Agreement to combine in this way",
 			"Hist. Varying measure of distance, usu. About three miles"
 		]
 	},
@@ -2236,15 +2146,10 @@
 		]
 	},
 	{
-		"word": "Lean1",
+		"word": "Lean",
 		"definitions": [
 			"Be or place in a sloping position; incline from the perpendicular",
-			"Rely on"
-		]
-	},
-	{
-		"word": "Lean2",
-		"definitions": [
+			"Rely on",
 			"(Of a person or animal) thin; having no superfluous fat",
 			"(Of meat) containing little fat"
 		]
@@ -2394,7 +2299,7 @@
 		]
 	},
 	{
-		"word": "Leave1",
+		"word": "Leave",
 		"definitions": [
 			"Go away from",
 			"Depart",
@@ -2409,12 +2314,7 @@
 			"Remain over",
 			"Deposit or entrust a thing in one's absence",
 			"Depute a person to perform a function in one's absence",
-			"Allow to remain or cause to be in a specified state or position"
-		]
-	},
-	{
-		"word": "Leave2",
-		"definitions": [
+			"Allow to remain or cause to be in a specified state or position",
 			"Permission",
 			"(In full leave of absence) permission to be absent from duty",
 			"Period for which this lasts"
@@ -2585,17 +2485,12 @@
 		]
 	},
 	{
-		"word": "Left1",
+		"word": "Left",
 		"definitions": [
 			"On or towards the west side of the human body, or of any object",
 			"Of the left (political context)",
-			"Group or section favoring socialism"
-		]
-	},
-	{
-		"word": "Left2",
-		"definitions": [
-			"Past and past part. Of *leave1",
+			"Group or section favoring socialism",
+			"Past and past part. Of *leave",
 			"Left bank n. Bank of a river on the left facing downstream"
 		]
 	},
@@ -5201,16 +5096,11 @@
 		]
 	},
 	{
-		"word": "List1",
+		"word": "List",
 		"definitions": [
 			"Number of items, names, etc., written or printed together as a record or aid to memory",
 			"(In pl.) A palisades enclosing an area for a tournament",
-			"Enter the lists issue or accept a challenge"
-		]
-	},
-	{
-		"word": "List2",
-		"definitions": [
+			"Enter the lists issue or accept a challenge",
 			"(Of a ship etc.) Lean over to one side",
 			"Process or instance of listing"
 		]
@@ -5253,7 +5143,7 @@
 	{
 		"word": "Lit",
 		"definitions": [
-			"Past and past part. of *light1, *light2"
+			"Past and past part. of *light"
 		]
 	},
 	{
@@ -5498,7 +5388,7 @@
 		]
 	},
 	{
-		"word": "Live1",
+		"word": "Live",
 		"definitions": [
 			"Have life; be or remain alive",
 			"Have one's home",
@@ -5508,12 +5398,7 @@
 			"Spend or pass",
 			"Conduct oneself in a specified way",
 			"Survive",
-			"Enjoy life to the full"
-		]
-	},
-	{
-		"word": "Live2",
-		"definitions": [
+			"Enjoy life to the full",
 			"That is alive; living",
 			"Of a broadcast, performance, etc., heard or seen at the time of its performance",
 			"Of current interest or importance",
@@ -5552,15 +5437,10 @@
 		]
 	},
 	{
-		"word": "Liver1",
+		"word": "Liver",
 		"definitions": [
 			"Large glandular organ in the abdomen of vertebrates",
-			"Liver of some animals as food"
-		]
-	},
-	{
-		"word": "Liver2",
-		"definitions": [
+			"Liver of some animals as food",
 			"Person who lives in a specified way (a fast liver)"
 		]
 	},
@@ -5783,12 +5663,7 @@
 		"word": "Loaf",
 		"definitions": [
 			"Unit of baked bread",
-			"Slang for head as the seat of common sense"
-		]
-	},
-	{
-		"word": "Loaf2",
-		"definitions": [
+			"Slang for head as the seat of common sense",
 			"Spend time idly; hang about",
 			"To engage in leisurely, unproductive activities"
 		]
@@ -6027,15 +5902,10 @@
 		]
 	},
 	{
-		"word": "Lock1",
+		"word": "Lock",
 		"definitions": [
 			"Mechanism for fastening a door etc., with a bolt that requires a key of a particular shape to work it",
-			"Confined section of a canal or river within sluice-gates, for moving boats from one level to another"
-		]
-	},
-	{
-		"word": "Lock2",
-		"definitions": [
+			"Confined section of a canal or river within sluice-gates, for moving boats from one level to another",
 			"Portion of hair that hangs together",
 			"The hair of the head"
 		]
@@ -6090,14 +5960,9 @@
 		]
 	},
 	{
-		"word": "Loco1",
+		"word": "Loco",
 		"definitions": [
-			"Colloquial term for locomotive engine"
-		]
-	},
-	{
-		"word": "Loco2",
-		"definitions": [
+			"Colloquial term for locomotive engine",
 			"Slang term for crazy"
 		]
 	},
@@ -6222,7 +6087,7 @@
 		]
 	},
 	{
-		"word": "Log1",
+		"word": "Log",
 		"definitions": [
 			"Unhewn piece of a felled tree; any large rough piece of wood, especially cut for firewood",
 			"Floating device for gauging a ship's speed",
@@ -6471,7 +6336,7 @@
 		]
 	},
 	{
-		"word": "Long1",
+		"word": "Long",
 		"definitions": [
 			"Measuring much from end to end in space or time",
 			"In length or duration (2 metres long; two months long)",
@@ -6483,12 +6348,7 @@
 			"(Of a vowel or syllable) having the greater of the two recognized durations",
 			"(Of odds or a chance) reflecting a low level of probability",
 			"(Of stocks) bought in large quantities in advance, with the expectation of a rise in price",
-			"(Foll. by on) colloq. Well supplied with"
-		]
-	},
-	{
-		"word": "Long2",
-		"definitions": [
+			"(Foll. by on) colloq. Well supplied with",
 			"Have a strong wish or desire for"
 		]
 	},
@@ -6772,14 +6632,9 @@
 		]
 	},
 	{
-		"word": "Loom1",
+		"word": "Loom",
 		"definitions": [
-			"Apparatus for weaving"
-		]
-	},
-	{
-		"word": "Loom2",
-		"definitions": [
+			"Apparatus for weaving",
 			"Appear dimly, esp. as a vague and often threatening shape",
 			"(Of an event) be ominously close"
 		]
