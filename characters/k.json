@@ -236,7 +236,7 @@
 		]
 	},
 	{
-		"word": "Keen1",
+		"word": "Keen",
 		"definitions": [
 			"Enthusiastic, eager.",
 			"(Foll. by on) enthusiastic about, fond of.",
@@ -245,21 +245,11 @@
 			"(Of a knife etc.) sharp.",
 			"(Of a sound, light, etc.) penetrating, vivid.",
 			"(Of a wind etc.) piercingly cold.",
-			"(Of a pain etc.) acute."
-		]
-	},
-	{
-		"word": "Keen1",
-		"definitions": [
+			"(Of a pain etc.) acute.",
 			"(Of a price) competitive.",
 			"Keenly",
 			"Keenness",
-			"(Old English)"
-		]
-	},
-	{
-		"word": "Keen2",
-		"definitions": [
+			"(Old English)",
 			"Irish wailing funeral song.",
 			"(Often foll. by over, for) wail mournfully, esp. at a funeral.",
 			"(Irish caoine from caoinim wail)"
@@ -273,12 +263,7 @@
 			"Retain or remain in a specified condition, position, place, etc.",
 			"(Foll. by from) restrain, hold back.",
 			"Detain (what kept you?).",
-			"Observe, honour, or respect (a law, custom, commitment, secret, etc.)."
-		]
-	},
-	{
-		"word": "Keep",
-		"definitions": [
+			"Observe, honour, or respect (a law, custom, commitment, secret, etc.).",
 			"Own and look after (animals).",
 			"(Foll. by in) maintain (a person) with a supply of.",
 			"Carry on; manage (a business etc.).",
@@ -289,12 +274,7 @@
 			"(Foll. by verbal noun) continue; repeat habitually (keeps telling me).",
 			"Continue to follow (a way or course).",
 			"(Esp. of food) remain in good condition.",
-			"(Of news etc.) not suffer from delay in telling."
-		]
-	},
-	{
-		"word": "Keep",
-		"definitions": [
+			"(Of news etc.) not suffer from delay in telling.",
 			"(Often foll. by to) remain in (one's bed, room, etc.).",
 			"Maintain (a person) as one's mistress etc. (kept woman).",
 			"(Often in pl.) Maintenance, food, etc.",
@@ -411,7 +391,7 @@
 			"Range of knowledge or sight (beyond my ken).",
 			"(Scot.) Recognize at sight.",
 			"Know.",
-			"(Old English, = make known: related to can1)"
+			"(Old English, = make known: related to *can)"
 		]
 	},
 	{
@@ -518,7 +498,7 @@
 			"1. (Usual. soft) Edible centre within the hard shell of a nut, fruit stone, seed, etc.",
 			"2. Whole seed of a cereal.",
 			"3. Essence of anything.",
-			"(Old English: related to corn1)"
+			"(Old English: related to *corn)"
 		]
 	},
 	{
@@ -572,28 +552,18 @@
 		]
 	},
 	{
-		"word": "Key1",
+		"word": "Key",
 		"definitions": [
-			"(Pl. -s) 1. (Usual. metal) instrument for moving the bolt of a lock.",
-			"2. Similar implement for operating a switch.",
-			"3. Instrument for grasping screws, nuts, etc., or for winding a clock etc."
-		]
-	},
-	{
-		"word": "Key1",
-		"definitions": [
-			"4. (Often in pl.) Finger-operated button or lever on a typewriter, piano, computer terminal, etc.",
-			"5. Means of advance, access, etc. (key to success).",
-			"6. Essential (key element).",
-			"7. A solution or explanation.",
-			"B. Word or system for solving a cipher or code.",
-			"C. Explanatory list of symbols used in a map, table, etc.",
-			"8. Mus. System of notes related to each other and based on a particular note (key of c major)."
-		]
-	},
-	{
-		"word": "Key2",
-		"definitions": [
+			"(Pl. -s) (Usual. metal) instrument for moving the bolt of a lock.",
+			"Similar implement for operating a switch.",
+			"Instrument for grasping screws, nuts, etc., or for winding a clock etc.",
+			"(Often in pl.) Finger-operated button or lever on a typewriter, piano, computer terminal, etc.",
+			"Means of advance, access, etc. (key to success).",
+			"Essential (key element).",
+			"A solution or explanation.",
+			"Word or system for solving a cipher or code.",
+			"Explanatory list of symbols used in a map, table, etc.",
+			"Mus. System of notes related to each other and based on a particular note (key of c major).",
 			"Low-lying island or reef, esp. in the W. Indies.",
 			"(Spanish cayo)"
 		]
@@ -767,15 +737,10 @@
 		]
 	},
 	{
-		"word": "Kid1",
+		"word": "Kid",
 		"definitions": [
 			"Young goat",
-			"Child (informal)"
-		]
-	},
-	{
-		"word": "Kid2",
-		"definitions": [
+			"Child (informal)",
 			"Deceive, trick, tease",
 			"To kid oneself"
 		]
@@ -829,85 +794,6 @@
 	{
 		"word": "Kill",
 		"definitions": [
-			"Deprive of life or vitality; cause death",
-			"Destroy feelings or emotions"
-		]
-	},
-	{
-		"word": "Kick",
-		"definitions": [
-			"Strike forcibly with the foot or hoof",
-			"Rebel against or protest"
-		]
-	},
-	{
-		"word": "Kickstart",
-		"definitions": [
-			"Start the engine of a motorcycle by downward thrust",
-			"To initiate or set in motion"
-		]
-	},
-	{
-		"word": "Kid1",
-		"definitions": [
-			"Young goat",
-			"Leather from this",
-			"Colloq. Child"
-		]
-	},
-	{
-		"word": "Kid2",
-		"definitions": [
-			"Colloq. Deceive, trick, tease",
-			"No kidding slang that is the truth"
-		]
-	},
-	{
-		"word": "Kiddie",
-		"definitions": [
-			"Slang = *Kid1 n. 3"
-		]
-	},
-	{
-		"word": "Kiddo",
-		"definitions": [
-			"Slang = *Kid1 n. 3"
-		]
-	},
-	{
-		"word": "Kidnap",
-		"definitions": [
-			"Abduct (a person etc.), esp. To obtain a ransom",
-			"Steal (a child)"
-		]
-	},
-	{
-		"word": "Kidney",
-		"definitions": [
-			"Either of two organs in the abdominal cavity of vertebrates which remove nitrogenous wastes from the blood and excrete urine"
-		]
-	},
-	{
-		"word": "Kidney bean",
-		"definitions": [
-			"Red-skinned dried bean"
-		]
-	},
-	{
-		"word": "Kidney machine",
-		"definitions": [
-			"Machine able to take over the function of a damaged kidney"
-		]
-	},
-	{
-		"word": "Kidney-shaped",
-		"definitions": [
-			"Having one side concave and the other convex"
-		]
-	},
-	{
-		"word": "Kill",
-		"definitions": [
 			"Deprive of life or vitality; cause death or the death of",
 			"Destroy (feelings etc.)",
 			"Colloq. A overexert oneself",
@@ -916,12 +802,7 @@
 			"Switch off (a light, engine, etc.)",
 			"Colloq. Delete",
 			"Colloq. Cause pain or discomfort to",
-			"Pass (time, or a specified period)"
-		]
-	},
-	{
-		"word": "Kill",
-		"definitions": [
+			"Pass (time, or a specified period)",
 			"Defeat (a bill in parliament)",
 			"Hit (the ball) so that it cannot be returned",
 			"Make ineffective (taste, sound, pain, etc.)"
@@ -1121,17 +1002,12 @@
 		]
 	},
 	{
-		"word": "Kindly1",
+		"word": "Kindly",
 		"definitions": [
 			"In a kind manner (spoke kindly)",
 			"Often iron. Please (kindly go away)",
 			"Look kindly upon regard sympathetically",
-			"Take kindly to be pleased by; like"
-		]
-	},
-	{
-		"word": "Kindly2",
-		"definitions": [
+			"Take kindly to be pleased by; like",
 			"Kind, kind-hearted",
 			"(of a climate etc.) Pleasant, mild",
 			"Kindlily adv. Kindliness n."
@@ -1896,15 +1772,10 @@
 		]
 	},
 	{
-		"word": "Knot1",
+		"word": "Knot",
 		"definitions": [
 			"A Intertwining Of Rope, String, Hair, Etc., So As To Fasten",
-			"Unit Of A Ship's Or Aircraft's Speed, Equivalent To One Nautical Mile Per Hour"
-		]
-	},
-	{
-		"word": "Knot2",
-		"definitions": [
+			"Unit Of A Ship's Or Aircraft's Speed, Equivalent To One Nautical Mile Per Hour",
 			"Small Sandpiper"
 		]
 	},
