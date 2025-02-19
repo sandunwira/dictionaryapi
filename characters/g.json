@@ -103,16 +103,11 @@
 		]
 	},
 	{
-		"word": "Gaff1",
+		"word": "Gaff",
 		"definitions": [
 			"A stick with an iron hook for landing large fish",
 			"Barbed fishing-spear",
-			"Spar to which the head of a fore-and-aft sail is bent"
-		]
-	},
-	{
-		"word": "Gaff2",
-		"definitions": [
+			"Spar to which the head of a fore-and-aft sail is bent",
 			"Slang for blow the gaff, reveal a plot or secret"
 		]
 	},
@@ -147,15 +142,10 @@
 		]
 	},
 	{
-		"word": "Gage1",
+		"word": "Gage",
 		"definitions": [
 			"Pledge; thing deposited as security",
-			"Symbol of a challenge to fight, esp. a glove thrown down"
-		]
-	},
-	{
-		"word": "Gage2",
-		"definitions": [
+			"Symbol of a challenge to fight, esp. a glove thrown down",
 			"Standard measure, esp. of the capacity or contents of a barrel, fineness of a textile, diameter of a bullet, or thickness of sheet metal",
 			"Instrument for measuring pressure, width, length, thickness, etc.",
 			"Distance between rails or opposite wheels"
@@ -435,15 +425,10 @@
 		]
 	},
 	{
-		"word": "Game1",
+		"word": "Game",
 		"definitions": [
 			"Form of play or sport, especially a competitive one with rules",
-			"Portion of play forming a scoring unit, e.g., in bridge or tennis"
-		]
-	},
-	{
-		"word": "Game2",
-		"definitions": [
+			"Portion of play forming a scoring unit, e.g., in bridge or tennis",
 			"Colloquial (of a leg, arm, etc.) crippled"
 		]
 	},
@@ -855,7 +840,7 @@
 		]
 	},
 	{
-		"word": "Gall1",
+		"word": "Gall",
 		"definitions": [
 			"Slang impudence",
 			"Rancour"
@@ -1179,15 +1164,10 @@
 		]
 	},
 	{
-		"word": "Gauntlet1",
+		"word": "Gauntlet",
 		"definitions": [
 			"Stout glove with a long loose wrist",
-			"Hist. Armoured glove"
-		]
-	},
-	{
-		"word": "Gauntlet2",
-		"definitions": [
+			"Hist. Armoured glove",
 			"Run the gauntlet undergo harsh criticism",
 			"Pass between two rows of people and receive blows from them, as a punishment or ordeal"
 		]
@@ -1327,49 +1307,49 @@
 	{
 		"word": "Gc",
 		"definitions": [
-			"**George cross**"
+			"George cross"
 		]
 	},
 	{
 		"word": "Gce",
 		"definitions": [
-			"**General certificate of education**"
+			"General certificate of education"
 		]
 	},
 	{
 		"word": "Gchq",
 		"definitions": [
-			"**Government communications headquarters**"
+			"Government communications headquarters"
 		]
 	},
 	{
 		"word": "Gcse",
 		"definitions": [
-			"**General certificate of secondary education**"
+			"General certificate of secondary education"
 		]
 	},
 	{
 		"word": "Gd",
 		"definitions": [
-			"**Gadolinium**"
+			"Gadolinium"
 		]
 	},
 	{
 		"word": "Gdp",
 		"definitions": [
-			"**Gross domestic product**"
+			"Gross domestic product"
 		]
 	},
 	{
 		"word": "Gdr",
 		"definitions": [
-			"**Hist. German democratic republic**"
+			"Hist. German democratic republic"
 		]
 	},
 	{
 		"word": "Ge",
 		"definitions": [
-			"**Germanium**"
+			"Germanium"
 		]
 	},
 	{
@@ -1408,37 +1388,32 @@
 	{
 		"word": "Gecko",
 		"definitions": [
-			"**Tropical house-lizard**"
+			"Tropical house-lizard"
 		]
 	},
 	{
-		"word": "Gee1",
+		"word": "Gee",
 		"definitions": [
-			"**Colloq. Expression of surprise etc.**"
-		]
-	},
-	{
-		"word": "Gee2",
-		"definitions": [
+			"Colloq. Expression of surprise etc.",
 			"Command to a horse etc. To start or go faster"
 		]
 	},
 	{
 		"word": "Gee-gee",
 		"definitions": [
-			"**Colloq. (a child's word for) a horse**"
+			"Colloq. (a child's word for) a horse"
 		]
 	},
 	{
 		"word": "Geese",
 		"definitions": [
-			"**Pl. Of *goose**"
+			"Pl. Of *goose"
 		]
 	},
 	{
 		"word": "Geezer",
 		"definitions": [
-			"**Slang person, esp. An old man**"
+			"Slang person, esp. An old man"
 		]
 	},
 	{
@@ -2058,14 +2033,9 @@
 		]
 	},
 	{
-		"word": "Georgian1",
+		"word": "Georgian",
 		"definitions": [
-			"Of the time of Kings George I–IV or of George V and VI"
-		]
-	},
-	{
-		"word": "Georgian2",
-		"definitions": [
+			"Of the time of Kings George I–IV or of George V and VI",
 			"Of Georgia in Eastern Europe or the US",
 			"Native or language of Georgia in Eastern Europe",
 			"Native of Georgia in the US"
@@ -2610,15 +2580,10 @@
 		]
 	},
 	{
-		"word": "Gin1",
+		"word": "Gin",
 		"definitions": [
 			"Spirit made from grain or malt and flavoured with juniper berries",
-			"Dutch Geneva: related to *juniper"
-		]
-	},
-	{
-		"word": "Gin2",
-		"definitions": [
+			"Dutch Geneva: related to *juniper",
 			"Snare, trap",
 			"Machine separating cotton from its seeds",
 			"A kind of crane and windlass",
@@ -2756,19 +2721,14 @@
 		]
 	},
 	{
-		"word": "Girdle1",
+		"word": "Girdle",
 		"definitions": [
 			"Belt or cord worn round the waist",
 			"Corset",
 			"Thing that surrounds",
 			"Bony support for the limbs (pelvic girdle)",
 			"Surround with a girdle",
-			"Old English"
-		]
-	},
-	{
-		"word": "Girdle2",
-		"definitions": [
+			"Old English",
 			"Scot. & N. Engl. Variant of *griddle"
 		]
 	},
@@ -2843,7 +2803,7 @@
 		"word": "Gist",
 		"definitions": [
 			"Substance or essence of a matter",
-			"Latin jaceo *lie1"
+			"Latin jaceo *lie"
 		]
 	},
 	{
@@ -3490,15 +3450,10 @@
 		]
 	},
 	{
-		"word": "Gloss1",
+		"word": "Gloss",
 		"definitions": [
 			"Surface shine or lustre",
-			"Deceptively attractive appearance"
-		]
-	},
-	{
-		"word": "Gloss2",
-		"definitions": [
+			"Deceptively attractive appearance",
 			"Explanatory comment added to a text, e.g. In the margin",
 			"Interpretation or paraphrase"
 		]
@@ -3815,7 +3770,7 @@
 		]
 	},
 	{
-		"word": "Go1",
+		"word": "Go",
 		"definitions": [
 			"Start moving or be moving from one place or point in time to another; travel, proceed",
 			"Make a special trip for; participate in (went skiing; goes running)",
@@ -3926,14 +3881,9 @@
 		]
 	},
 	{
-		"word": "Gob1",
+		"word": "Gob",
 		"definitions": [
-			"Slang mouth"
-		]
-	},
-	{
-		"word": "Gob2",
-		"definitions": [
+			"Slang mouth",
 			"Slang",
 			"Clot of slimy matter",
 			"Spit"
@@ -3947,14 +3897,9 @@
 		]
 	},
 	{
-		"word": "Gobble1",
+		"word": "Gobble",
 		"definitions": [
-			"Eat hurriedly and noisily"
-		]
-	},
-	{
-		"word": "Gobble2",
-		"definitions": [
+			"Eat hurriedly and noisily",
 			"(Of a turkeycock) make a characteristic guttural sound",
 			"Make such a sound when speaking"
 		]
@@ -4418,15 +4363,10 @@
 		]
 	},
 	{
-		"word": "Golly1",
+		"word": "Golly",
 		"definitions": [
 			"Expressing surprise",
-			"Euphemism for *god"
-		]
-	},
-	{
-		"word": "Golly2",
-		"definitions": [
+			"Euphemism for *god",
 			"(Pl. -ies) Colloq. = *golliwog",
 			"Abbreviation"
 		]
@@ -4744,22 +4684,12 @@
 		]
 	},
 	{
-		"word": "Gore1",
+		"word": "Gore",
 		"definitions": [
 			"Blood Shed And Clotted",
-			"Dirt"
-		]
-	},
-	{
-		"word": "Gore2",
-		"definitions": [
+			"Dirt",
 			"Pierce With A Horn, Tusk, Etc.",
-			"Origin Unknown"
-		]
-	},
-	{
-		"word": "Gore3",
-		"definitions": [
+			"Origin Unknown",
 			"Wedge-Shaped Piece In A Garment",
 			"Triangular Or Tapering Piece In An Umbrella Etc.",
 			"Shape (A Garment) With A Gore"
@@ -5219,16 +5149,11 @@
 		]
 	},
 	{
-		"word": "Graft1",
+		"word": "Graft",
 		"definitions": [
 			"A shoot or scion inserted into a slit of stock, from which it receives sap",
 			"A piece of living tissue, organ, etc., transplanted surgically",
-			"Hard work (slang)"
-		]
-	},
-	{
-		"word": "Graft2",
-		"definitions": [
+			"Hard work (slang)",
 			"Practices, especially bribery, used to secure illicit gains in politics or business",
 			"The gains made from such illicit practices"
 		]
@@ -5786,18 +5711,13 @@
 		]
 	},
 	{
-		"word": "Grate1",
+		"word": "Grate",
 		"definitions": [
 			"Reduce to small particles by rubbing on a serrated surface",
 			"Rub with a harsh scraping sound",
 			"Utter in a harsh tone",
 			"A sound harshly",
-			"Have an irritating effect"
-		]
-	},
-	{
-		"word": "Grate2",
-		"definitions": [
+			"Have an irritating effect",
 			"Fireplace or furnace",
 			"Metal frame confining fuel in this"
 		]
@@ -5850,23 +5770,13 @@
 		]
 	},
 	{
-		"word": "Grave1",
+		"word": "Grave",
 		"definitions": [
 			"Trench dug in the ground for the burial of a corpse; mound or memorial stone placed over this",
-			"Death"
-		]
-	},
-	{
-		"word": "Grave2",
-		"definitions": [
+			"Death",
 			"Serious, weighty, important",
 			"Dignified, solemn, sombre",
-			"Extremely serious or threatening"
-		]
-	},
-	{
-		"word": "Grave3",
-		"definitions": [
+			"Extremely serious or threatening",
 			"Fix indelibly (on one's memory)",
 			"Engrave, carve"
 		]
@@ -6004,16 +5914,11 @@
 		]
 	},
 	{
-		"word": "Graze1",
+		"word": "Graze",
 		"definitions": [
 			"(Of cattle, sheep, etc.) Eat growing grass",
 			"A feed (cattle etc.) on growing grass",
-			"Feed on (grass)"
-		]
-	},
-	{
-		"word": "Graze2",
-		"definitions": [
+			"Feed on (grass)",
 			"Rub or scrape (part of the body, esp. the skin)",
 			"A touch lightly in passing",
 			"Move with a light passing contact",
@@ -6779,16 +6684,11 @@
 		]
 	},
 	{
-		"word": "Groin1",
+		"word": "Groin",
 		"definitions": [
 			"Depression between the belly and the thigh",
 			"Archit. A edge formed by intersecting vaults",
-			"Build with groins"
-		]
-	},
-	{
-		"word": "Groin",
-		"definitions": [
+			"Build with groins",
 			"Timber, stone, or concrete wall built at right angles to the coast to check beach erosion"
 		]
 	},
@@ -6886,15 +6786,10 @@
 		]
 	},
 	{
-		"word": "Ground1",
+		"word": "Ground",
 		"definitions": [
 			"A surface of the earth, esp. As contrasted with the air around it",
-			"Reason, justification"
-		]
-	},
-	{
-		"word": "Ground2",
-		"definitions": [
+			"Reason, justification",
 			"Past and past part. Of *grind"
 		]
 	},
@@ -7034,15 +6929,10 @@
 		]
 	},
 	{
-		"word": "Grouse1",
+		"word": "Grouse",
 		"definitions": [
 			"Game-bird with a plump body and feathered legs",
-			"Its flesh as food"
-		]
-	},
-	{
-		"word": "Grouse2",
-		"definitions": [
+			"Its flesh as food",
 			"Grumble or complain",
 			"Complaint"
 		]
@@ -7943,15 +7833,10 @@
 		]
 	},
 	{
-		"word": "Guy1",
+		"word": "Guy",
 		"definitions": [
 			"Colloq. Man; fellow",
-			"Effigy of Guy Fawkes burnt on 5 Nov"
-		]
-	},
-	{
-		"word": "Guy2",
-		"definitions": [
+			"Effigy of Guy Fawkes burnt on 5 Nov",
 			"Rope or chain to secure a tent or steady a crane-load",
 			"Secure with a guy or guys"
 		]
