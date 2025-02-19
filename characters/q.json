@@ -45,15 +45,10 @@
 		]
 	},
 	{
-		"word": "Quack1",
+		"word": "Quack",
 		"definitions": [
 			"Harsh sound made by ducks",
-			"Utter this sound"
-		]
-	},
-	{
-		"word": "Quack2",
-		"definitions": [
+			"Utter this sound",
 			"Unqualified practitioner, esp. of medicine",
 			"Slang for any doctor"
 		]
@@ -65,20 +60,10 @@
 		]
 	},
 	{
-		"word": "Quad1",
+		"word": "Quad",
 		"definitions": [
-			"Colloq. for Quadrangle"
-		]
-	},
-	{
-		"word": "Quad2",
-		"definitions": [
-			"Colloq. for Quadruplet"
-		]
-	},
-	{
-		"word": "Quad3",
-		"definitions": [
+			"Colloq. for Quadrangle",
+			"Colloq. for Quadruplet",
 			"Colloq. for Quadraphonics",
 			"Colloq. for Quadraphonic"
 		]
@@ -199,15 +184,10 @@
 		]
 	},
 	{
-		"word": "Quail1",
+		"word": "Quail",
 		"definitions": [
 			"Small game-bird related to the partridge",
-			"Related to quail species"
-		]
-	},
-	{
-		"word": "Quail2",
-		"definitions": [
+			"Related to quail species",
 			"Flinch",
 			"Show fear"
 		]
@@ -348,14 +328,9 @@
 		]
 	},
 	{
-		"word": "Quark1",
+		"word": "Quark",
 		"definitions": [
-			"Physics component of elementary particles"
-		]
-	},
-	{
-		"word": "Quark2",
-		"definitions": [
+			"Physics component of elementary particles",
 			"A kind of low-fat curd cheese"
 		]
 	},
@@ -373,15 +348,10 @@
 		]
 	},
 	{
-		"word": "Quarry1",
+		"word": "Quarry",
 		"definitions": [
 			"Place from which stone etc. May be extracted",
-			"Extract (stone) from a quarry"
-		]
-	},
-	{
-		"word": "Quarry2",
-		"definitions": [
+			"Extract (stone) from a quarry",
 			"Intended victim or prey",
 			"Object of pursuit"
 		]
@@ -797,7 +767,7 @@
 	{
 		"word": "Quicklime",
 		"definitions": [
-			"Lime1"
+			"Lime"
 		]
 	},
 	{
@@ -1080,7 +1050,7 @@
 	{
 		"word": "Quitch",
 		"definitions": [
-			"*Couch2* (in full quitch-grass)"
+			"Couch (in full quitch-grass)"
 		]
 	},
 	{
@@ -1105,15 +1075,10 @@
 		]
 	},
 	{
-		"word": "Quiver1",
+		"word": "Quiver",
 		"definitions": [
 			"Tremble or vibrate with a slight rapid motion",
-			"Quivering motion or sound"
-		]
-	},
-	{
-		"word": "Quiver2",
-		"definitions": [
+			"Quivering motion or sound",
 			"Case for arrows"
 		]
 	},
