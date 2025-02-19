@@ -4660,15 +4660,10 @@
 		]
 	},
 	{
-		"word": "Entrance1",
+		"word": "Entrance",
 		"definitions": [
 			"Place for entering",
-			"Going or coming in"
-		]
-	},
-	{
-		"word": "Entrance2",
-		"definitions": [
+			"Going or coming in",
 			"Enchant, delight",
 			"Put into a trance"
 		]
@@ -4834,23 +4829,13 @@
 		]
 	},
 	{
-		"word": "-er1",
+		"word": "-er",
 		"definitions": [
 			"Person, animal, or thing that does (cobbler; poker)",
 			"Person or thing that is (foreigner; four-wheeler)",
 			"Person concerned with (hatter; geographer)",
-			"Person from (villager; sixth-former)"
-		]
-	},
-	{
-		"word": "-er2",
-		"definitions": [
-			"Suffix forming the comparative of adjectives (wider) and adverbs (faster)"
-		]
-	},
-	{
-		"word": "-er3",
-		"definitions": [
+			"Person from (villager; sixth-former)",
+			"Suffix forming the comparative of adjectives (wider) and adverbs (faster)",
 			"Suffix used in a slang distortion of the word (rugger)"
 		]
 	},
@@ -5990,7 +5975,7 @@
 		]
 	},
 	{
-		"word": "Even1",
+		"word": "Even",
 		"definitions": [
 			"Level; smooth",
 			"A uniform in quality; constant",
@@ -5999,12 +5984,7 @@
 			"(Of a person's temper etc.) Equable, calm",
 			"(Of a number) Divisible by two without a remainder",
 			"Bearing such a number (no parking on even dates)",
-			"Not involving fractions; exact"
-		]
-	},
-	{
-		"word": "Even2",
-		"definitions": [
+			"Not involving fractions; exact",
 			"Poet. Evening"
 		]
 	},
@@ -6304,16 +6284,11 @@
 		]
 	},
 	{
-		"word": "Ex-1",
+		"word": "Ex-",
 		"definitions": [
 			"Forming verbs meaning: out, forth (exclude; exit)",
 			"Bring into a state (exasperate)",
-			"Remove or free from (expatriate; exonerate)"
-		]
-	},
-	{
-		"word": "Ex-2",
-		"definitions": [
+			"Remove or free from (expatriate; exonerate)",
 			"Prefix out (exodus)"
 		]
 	},
@@ -6564,15 +6539,10 @@
 		]
 	},
 	{
-		"word": "Excise1",
+		"word": "Excise",
 		"definitions": [
 			"Tax on goods produced or sold within the country of origin",
-			"Tax on certain licences"
-		]
-	},
-	{
-		"word": "Excise2",
-		"definitions": [
+			"Tax on certain licences",
 			"Remove (a passage from a book etc.)",
 			"Cut out (an organ etc.) by surgery"
 		]
