@@ -272,14 +272,9 @@
 		]
 	},
 	{
-		"word": "Caddy1",
+		"word": "Caddy",
 		"definitions": [
-			"Small container for tea"
-		]
-	},
-	{
-		"word": "Caddy2",
-		"definitions": [
+			"Small container for tea",
 			"Var. Of caddie"
 		]
 	},
@@ -2015,31 +2010,21 @@
 		]
 	},
 	{
-		"word": "Cape1",
+		"word": "Cape",
 		"definitions": [
 			"Sleeveless cloak",
-			"This worn over or as part of a longer cloak or coat"
-		]
-	},
-	{
-		"word": "Cape2",
-		"definitions": [
+			"This worn over or as part of a longer cloak or coat",
 			"Headland, promontory",
 			"The Cape of Good Hope"
 		]
 	},
 	{
-		"word": "Caper1",
+		"word": "Caper",
 		"definitions": [
 			"Jump or run playfully",
 			"Playful leap",
 			"Prank",
-			"Illicit activity"
-		]
-	},
-	{
-		"word": "Caper2",
-		"definitions": [
+			"Illicit activity",
 			"Bramble-like shrub",
 			"Its pickled buds used esp. In a sauce"
 		]
@@ -2602,12 +2587,7 @@
 			"Thick Stiff Paper Or Thin Pasteboard",
 			"A Piece Of This For Writing Or Printing On, Esp. To Send Greetings, To Identify A Person, Or To Record Information",
 			"Small Rectangular Piece Of Plastic Used For Identity Etc.",
-			"Programme Of Events At A Race-Meeting Etc."
-		]
-	},
-	{
-		"word": "Card2",
-		"definitions": [
+			"Programme Of Events At A Race-Meeting Etc.",
 			"Wire Brush Etc. For Raising A Nap On Cloth Etc.",
 			"Brush Or Comb With A Card"
 		]
@@ -3044,15 +3024,10 @@
 		]
 	},
 	{
-		"word": "Carp1",
+		"word": "Carp",
 		"definitions": [
 			"Freshwater fish often bred for food",
-			"Originates from Provençal or Latin"
-		]
-	},
-	{
-		"word": "Carp2",
-		"definitions": [
+			"Originates from Provençal or Latin",
 			"Find fault; complain pettily",
 			"Carper: A person who complains"
 		]
@@ -3246,7 +3221,7 @@
 		"word": "Cartel",
 		"definitions": [
 			"Union of suppliers to control prices",
-			"Originates from Italian, related to *card1"
+			"Originates from Italian, related to *card"
 		]
 	},
 	{
@@ -3413,15 +3388,10 @@
 		]
 	},
 	{
-		"word": "Case1",
+		"word": "Case",
 		"definitions": [
 			"Instance of something occurring",
-			"Hypothetical or actual situation"
-		]
-	},
-	{
-		"word": "Case2",
-		"definitions": [
+			"Hypothetical or actual situation",
 			"Container or enclosing covering",
 			"Item of luggage, especially a suitcase"
 		]
@@ -3528,14 +3498,9 @@
 		]
 	},
 	{
-		"word": "Cashier1",
+		"word": "Cashier",
 		"definitions": [
-			"Person dealing with cash transactions in a shop, bank, etc."
-		]
-	},
-	{
-		"word": "Cashier2",
-		"definitions": [
+			"Person dealing with cash transactions in a shop, bank, etc.",
 			"Dismiss from service, especially with disgrace"
 		]
 	},
@@ -5822,15 +5787,10 @@
 		]
 	},
 	{
-		"word": "Champ1",
+		"word": "Champ",
 		"definitions": [
 			"Munch or chew noisily",
-			"Chewing noise"
-		]
-	},
-	{
-		"word": "Champ2",
-		"definitions": [
+			"Chewing noise",
 			"Slang champion"
 		]
 	},
@@ -6019,14 +5979,9 @@
 		]
 	},
 	{
-		"word": "Chap1",
+		"word": "Chap",
 		"definitions": [
-			"Colloquial term for man, boy, fellow"
-		]
-	},
-	{
-		"word": "Chap2",
-		"definitions": [
+			"Colloquial term for man, boy, fellow",
 			"(Of the skin) Develop cracks or soreness",
 			"(Of the wind, cold, etc.) Cause to chap"
 		]
@@ -6080,7 +6035,7 @@
 	{
 		"word": "Chappie",
 		"definitions": [
-			"Colloquial term for chap1"
+			"Colloquial term for chap"
 		]
 	},
 	{
@@ -6105,28 +6060,13 @@
 		]
 	},
 	{
-		"word": "Char1",
+		"word": "Char",
 		"definitions": [
 			"Make or become black by burning; scorch",
-			"Burn to charcoal"
-		]
-	},
-	{
-		"word": "Char2",
-		"definitions": [
+			"Burn to charcoal",
 			"Colloquial term for charwoman",
-			"Work as a charwoman"
-		]
-	},
-	{
-		"word": "Char3",
-		"definitions": [
-			"Slang term for tea"
-		]
-	},
-	{
-		"word": "Char4",
-		"definitions": [
+			"Work as a charwoman",
+			"Slang term for tea",
 			"A kind of small trout"
 		]
 	},
@@ -6325,15 +6265,10 @@
 		]
 	},
 	{
-		"word": "Chase1",
+		"word": "Chase",
 		"definitions": [
 			"Run After; Pursue",
-			"Force To Run Away Or Flee"
-		]
-	},
-	{
-		"word": "Chase2",
-		"definitions": [
+			"Force To Run Away Or Flee",
 			"Emboss Or Engrave (Metal)"
 		]
 	},
@@ -6523,14 +6458,9 @@
 		]
 	},
 	{
-		"word": "Checker1",
+		"word": "Checker",
 		"definitions": [
-			"Person Etc. That Examines, Esp. In A Factory Etc"
-		]
-	},
-	{
-		"word": "Checker2",
-		"definitions": [
+			"Person Etc. That Examines, Esp. In A Factory Etc",
 			"Var. Of *Chequer",
 			"Us A (In Pl., Usu. Treated As Sing.) Draughts"
 		]
@@ -7334,14 +7264,9 @@
 		]
 	},
 	{
-		"word": "Chink1",
+		"word": "Chink",
 		"definitions": [
-			"Narrow opening; slit"
-		]
-	},
-	{
-		"word": "Chink2",
-		"definitions": [
+			"Narrow opening; slit",
 			"Make a sound like glasses or coins striking together",
 			"This sound"
 		]
@@ -7686,21 +7611,11 @@
 		]
 	},
 	{
-		"word": "Chop1",
+		"word": "Chop",
 		"definitions": [
 			"Cut or fell by the blow of an axe etc",
-			"Cut into small pieces"
-		]
-	},
-	{
-		"word": "Chop2",
-		"definitions": [
-			"Jaw"
-		]
-	},
-	{
-		"word": "Chop3",
-		"definitions": [
+			"Cut into small pieces",
+			"Jaw",
 			"Vacillate; change direction frequently",
 			"Argue pedantically"
 		]
@@ -7746,14 +7661,9 @@
 		]
 	},
 	{
-		"word": "Chord1",
+		"word": "Chord",
 		"definitions": [
-			"Group of notes sounded together"
-		]
-	},
-	{
-		"word": "Chord2",
-		"definitions": [
+			"Group of notes sounded together",
 			"Straight line joining the ends of an arc or curve",
 			"String of a harp etc"
 		]
@@ -8233,15 +8143,10 @@
 		]
 	},
 	{
-		"word": "Chute1",
+		"word": "Chute",
 		"definitions": [
 			"Sloping channel or slide for sending things to a lower level",
-			"Related to *fall* from Latin"
-		]
-	},
-	{
-		"word": "Chute2",
-		"definitions": [
+			"Related to *fall* from Latin",
 			"Colloquial term for parachute",
 			"Abbreviation"
 		]
@@ -9023,17 +8928,12 @@
 		]
 	},
 	{
-		"word": "Clamp1",
+		"word": "Clamp",
 		"definitions": [
 			"Device, esp. a brace or band of iron etc., for strengthening or holding things together",
 			"Device for immobilizing an illegally parked vehicle",
 			"Strengthen or fasten with a clamp; fix firmly",
-			"Immobilize (a vehicle) with a clamp"
-		]
-	},
-	{
-		"word": "Clamp2",
-		"definitions": [
+			"Immobilize (a vehicle) with a clamp",
 			"Potatoes etc. stored under straw or earth"
 		]
 	},
@@ -9096,17 +8996,12 @@
 		]
 	},
 	{
-		"word": "Clap1",
+		"word": "Clap",
 		"definitions": [
 			"Strike the palms of one's hands together, esp. repeatedly as applause",
 			"Applaud thus",
 			"Put or place quickly or with determination",
-			"Give a friendly slap"
-		]
-	},
-	{
-		"word": "Clap2",
-		"definitions": [
+			"Give a friendly slap",
 			"Coarse slang venereal disease, esp. gonorrhoea"
 		]
 	},
@@ -9596,15 +9491,10 @@
 		]
 	},
 	{
-		"word": "Cleave1",
+		"word": "Cleave",
 		"definitions": [
 			"Chop or break apart; split, esp. along the grain or line of cleavage",
-			"Make one's way through (air or water)"
-		]
-	},
-	{
-		"word": "Cleave2",
-		"definitions": [
+			"Make one's way through (air or water)",
 			"Stick fast; adhere"
 		]
 	},
@@ -9621,14 +9511,9 @@
 		]
 	},
 	{
-		"word": "Cleft1",
+		"word": "Cleft",
 		"definitions": [
-			"Split, partly divided"
-		]
-	},
-	{
-		"word": "Cleft2",
-		"definitions": [
+			"Split, partly divided",
 			"Split, fissure"
 		]
 	},
@@ -9866,15 +9751,10 @@
 		]
 	},
 	{
-		"word": "Clink1",
+		"word": "Clink",
 		"definitions": [
 			"Sharp ringing sound",
-			"(Cause to) make a clink"
-		]
-	},
-	{
-		"word": "Clink2",
-		"definitions": [
+			"(Cause to) make a clink",
 			"Slang prison"
 		]
 	},
@@ -9893,15 +9773,10 @@
 		]
 	},
 	{
-		"word": "Clip1",
+		"word": "Clip",
 		"definitions": [
 			"Device for holding things together or attaching something",
-			"Piece of jewellery fastened by a clip"
-		]
-	},
-	{
-		"word": "Clip2",
-		"definitions": [
+			"Piece of jewellery fastened by a clip",
 			"Cut hair, wool, etc., short with shears or scissors",
 			"Hit smartly"
 		]
@@ -9977,15 +9852,10 @@
 		]
 	},
 	{
-		"word": "Clobber1",
+		"word": "Clobber",
 		"definitions": [
 			"Slang hit or beat up",
-			"Defeat"
-		]
-	},
-	{
-		"word": "Clobber2",
-		"definitions": [
+			"Defeat",
 			"Slang clothing or belongings"
 		]
 	},
@@ -9997,15 +9867,10 @@
 		]
 	},
 	{
-		"word": "Clock1",
+		"word": "Clock",
 		"definitions": [
 			"Instrument for measuring and showing time",
-			"Slang person’s face"
-		]
-	},
-	{
-		"word": "Clock2",
-		"definitions": [
+			"Slang person’s face",
 			"Ornamental pattern on the side of a stocking or sock near the ankle"
 		]
 	},
@@ -10076,15 +9941,10 @@
 		]
 	},
 	{
-		"word": "Close1",
+		"word": "Close",
 		"definitions": [
 			"Situated at a short distance or interval",
-			"Having a strong or immediate relation or connection"
-		]
-	},
-	{
-		"word": "Close2",
-		"definitions": [
+			"Having a strong or immediate relation or connection",
 			"Shut or block up",
 			"Bring or come to an end"
 		]
@@ -10431,15 +10291,10 @@
 		]
 	},
 	{
-		"word": "Clutch1",
+		"word": "Clutch",
 		"definitions": [
 			"Seize eagerly; grasp tightly",
-			"Tight grasp"
-		]
-	},
-	{
-		"word": "Clutch2",
-		"definitions": [
+			"Tight grasp",
 			"Set of eggs for hatching",
 			"Brood of chickens"
 		]
@@ -10745,15 +10600,10 @@
 		]
 	},
 	{
-		"word": "Cobble1",
+		"word": "Cobble",
 		"definitions": [
 			"Small Rounded Stone Used For Paving",
-			"To Pave With Cobblestones"
-		]
-	},
-	{
-		"word": "Cobble2",
-		"definitions": [
+			"To Pave With Cobblestones",
 			"Mend Or Patch Up (Especially Shoes)",
 			"Join Or Assemble Roughly"
 		]
@@ -11040,21 +10890,11 @@
 		]
 	},
 	{
-		"word": "Cod1",
+		"word": "Cod",
 		"definitions": [
-			"Large sea fish"
-		]
-	},
-	{
-		"word": "Cod2",
-		"definitions": [
+			"Large sea fish",
 			"Parody",
-			"Hoax"
-		]
-	},
-	{
-		"word": "Cod3",
-		"definitions": [
+			"Hoax",
 			"Slang nonsense"
 		]
 	},
@@ -11105,7 +10945,7 @@
 	{
 		"word": "Codfish",
 		"definitions": [
-			"Same as cod1"
+			"Same as cod"
 		]
 	},
 	{
@@ -11129,15 +10969,10 @@
 		]
 	},
 	{
-		"word": "Codling1",
+		"word": "Codling",
 		"definitions": [
 			"A kind of cooking apple",
-			"Moth whose larva feeds on apples"
-		]
-	},
-	{
-		"word": "Codling2",
-		"definitions": [
+			"Moth whose larva feeds on apples",
 			"Small codfish"
 		]
 	},
@@ -11534,27 +11369,17 @@
 		]
 	},
 	{
-		"word": "Coke1",
+		"word": "Coke",
 		"definitions": [
 			"Solid substance left after gases have been extracted from coal",
-			"Convert (coal) into coke"
-		]
-	},
-	{
-		"word": "Coke2",
-		"definitions": [
+			"Convert (coal) into coke",
 			"Slang for cocaine"
 		]
 	},
 	{
 		"word": "Col.",
 		"definitions": [
-			"Abbreviation for Colonel"
-		]
-	},
-	{
-		"word": "Col",
-		"definitions": [
+			"Abbreviation for Colonel",
 			"Depression in a chain of mountains",
 			"Abbreviation for Column"
 		]
@@ -11812,7 +11637,7 @@
 		]
 	},
 	{
-		"word": "Collect1",
+		"word": "Collect",
 		"definitions": [
 			"Bring or come together; assemble, accumulate",
 			"Systematically seek and acquire, esp. as a hobby",
@@ -11820,12 +11645,7 @@
 			"Call for; fetch",
 			"Regain control of oneself",
 			"Concentrate (one's thoughts etc.)",
-			"Not perturbed or distracted"
-		]
-	},
-	{
-		"word": "Collect2",
-		"definitions": [
+			"Not perturbed or distracted",
 			"Short prayer of the Anglican or Roman Catholic church"
 		]
 	},
@@ -12021,14 +11841,9 @@
 		]
 	},
 	{
-		"word": "Colon1",
+		"word": "Colon",
 		"definitions": [
-			"Punctuation mark (:), used esp. to mark illustration or antithesis"
-		]
-	},
-	{
-		"word": "Colon2",
-		"definitions": [
+			"Punctuation mark (:), used esp. to mark illustration or antithesis",
 			"Lower and greater part of the large intestine"
 		]
 	},
@@ -13048,15 +12863,10 @@
 		]
 	},
 	{
-		"word": "Commune1",
+		"word": "Commune",
 		"definitions": [
 			"Group of people sharing accommodation, goods, etc.",
-			"Small district of local government in France etc."
-		]
-	},
-	{
-		"word": "Commune2",
-		"definitions": [
+			"Small district of local government in France etc.",
 			"Speak intimately",
 			"Feel in close touch (with nature etc.)"
 		]
@@ -13715,7 +13525,7 @@
 		]
 	},
 	{
-		"word": "Compound1",
+		"word": "Compound",
 		"definitions": [
 			"Mixture Of Two Or More Things",
 			"Word Made Up Of Two Or More Existing Words",
@@ -13726,12 +13536,7 @@
 			"Increase Or Complicate (Difficulties Etc.)",
 			"Make Up (A Composite Whole)",
 			"Settle (A Matter) By Mutual Agreement",
-			"Condone Or Conceal (A Liability Or Offence) For Personal Gain"
-		]
-	},
-	{
-		"word": "Compound2",
-		"definitions": [
+			"Condone Or Conceal (A Liability Or Offence) For Personal Gain",
 			"Enclosure Or Fenced-In Space",
 			"Enclosure, Esp. In India, China, Etc., In Which A Factory Or House Stands"
 		]
@@ -13902,28 +13707,13 @@
 		]
 	},
 	{
-		"word": "Con1",
+		"word": "Con",
 		"definitions": [
 			"Confidence trick",
-			"Swindle; deceive"
-		]
-	},
-	{
-		"word": "Con2",
-		"definitions": [
+			"Swindle; deceive",
 			"Reason against",
-			"Against"
-		]
-	},
-	{
-		"word": "Con3",
-		"definitions": [
-			"Convict"
-		]
-	},
-	{
-		"word": "Con4",
-		"definitions": [
+			"Against",
+			"Convict",
 			"Direct the steering of (a ship)"
 		]
 	},
@@ -15057,15 +14847,10 @@
 		]
 	},
 	{
-		"word": "Conk1",
+		"word": "Conk",
 		"definitions": [
 			"For a machine to break down",
-			"For a person to become exhausted, give up, fall asleep, faint, or die"
-		]
-	},
-	{
-		"word": "Conk2",
-		"definitions": [
+			"For a person to become exhausted, give up, fall asleep, faint, or die",
 			"The nose or head",
 			"A punch on the nose or head"
 		]
@@ -15436,14 +15221,9 @@
 		]
 	},
 	{
-		"word": "Console1",
+		"word": "Console",
 		"definitions": [
-			"To comfort, especially in grief or disappointment"
-		]
-	},
-	{
-		"word": "Console2",
-		"definitions": [
+			"To comfort, especially in grief or disappointment",
 			"A panel for switches, controls, etc.",
 			"A cabinet for a television, etc.",
 			"A cabinet with the keyboards and stops of an organ",
@@ -15477,16 +15257,11 @@
 		]
 	},
 	{
-		"word": "Consort1",
+		"word": "Consort",
 		"definitions": [
 			"A wife or husband, especially of royalty",
 			"To keep company",
-			"To harmonize"
-		]
-	},
-	{
-		"word": "Consort2",
-		"definitions": [
+			"To harmonize",
 			"A small group of players, singers, or instruments"
 		]
 	},
@@ -16011,17 +15786,12 @@
 		]
 	},
 	{
-		"word": "Content1",
+		"word": "Content",
 		"definitions": [
 			"Satisfied; adequately happy",
 			"Foll. by to + infin.: Willing",
 			"To make content; satisfy",
-			"A contented state; satisfaction"
-		]
-	},
-	{
-		"word": "Content2",
-		"definitions": [
+			"A contented state; satisfaction",
 			"Usually in plural: What is contained, esp. in a vessel, book, or house",
 			"The amount of a constituent contained (high fat content)",
 			"The substance of a speech as distinct from form",
@@ -16083,15 +15853,10 @@
 		]
 	},
 	{
-		"word": "Continent1",
+		"word": "Continent",
 		"definitions": [
 			"Any of the main continuous expanses of land (Europe, Asia, Africa, N. and S. America, Australia, Antarctica)",
-			"The continent: mainland of Europe as distinct from the British Isles"
-		]
-	},
-	{
-		"word": "Continent2",
-		"definitions": [
+			"The continent: mainland of Europe as distinct from the British Isles",
 			"Able to control one's bowels and bladder",
 			"Exercising self-restraint, especially sexually"
 		]
@@ -16660,14 +16425,9 @@
 		]
 	},
 	{
-		"word": "Converse1",
+		"word": "Converse",
 		"definitions": [
-			"Talk"
-		]
-	},
-	{
-		"word": "Converse2",
-		"definitions": [
+			"Talk",
 			"Opposite, contrary, reversed",
 			"Something, esp. A statement or proposition, that is opposite or reversed"
 		]
@@ -17041,14 +16801,9 @@
 		]
 	},
 	{
-		"word": "Cope1",
+		"word": "Cope",
 		"definitions": [
-			"Deal effectively or contend; manage"
-		]
-	},
-	{
-		"word": "Cope2",
-		"definitions": [
+			"Deal effectively or contend; manage",
 			"Priest's long cloaklike vestment",
 			"Cover with a cope or coping"
 		]
@@ -17653,15 +17408,10 @@
 		]
 	},
 	{
-		"word": "Corporal1",
+		"word": "Corporal",
 		"definitions": [
 			"Non-commissioned army or air-force officer ranking next below sergeant",
-			"Related to *corporal2"
-		]
-	},
-	{
-		"word": "Corporal2",
-		"definitions": [
+			"Related to *corporal",
 			"Of the human body",
 			"Corporality"
 		]
@@ -17949,20 +17699,10 @@
 		]
 	},
 	{
-		"word": "Cos1",
+		"word": "Cos",
 		"definitions": [
-			"Lettuce with crisp narrow leaves"
-		]
-	},
-	{
-		"word": "Cos2",
-		"definitions": [
-			"Cosine"
-		]
-	},
-	{
-		"word": "Cos3",
-		"definitions": [
+			"Lettuce with crisp narrow leaves",
+			"Cosine",
 			"Because"
 		]
 	},
@@ -17979,15 +17719,10 @@
 		]
 	},
 	{
-		"word": "Cosh1",
+		"word": "Cosh",
 		"definitions": [
 			"Heavy blunt weapon",
-			"Hit with a cosh"
-		]
-	},
-	{
-		"word": "Cosh2",
-		"definitions": [
+			"Hit with a cosh",
 			"Hyperbolic cosine"
 		]
 	},
@@ -18149,22 +17884,12 @@
 		]
 	},
 	{
-		"word": "Cot1",
+		"word": "Cot",
 		"definitions": [
 			"Small bed with high sides for a baby",
-			"Small light bed"
-		]
-	},
-	{
-		"word": "Cot2",
-		"definitions": [
+			"Small light bed",
 			"Small shelter; cote",
-			"Poet; cottage"
-		]
-	},
-	{
-		"word": "Cot3",
-		"definitions": [
+			"Poet; cottage",
 			"Cotangent"
 		]
 	},
@@ -18257,16 +17982,11 @@
 		]
 	},
 	{
-		"word": "Couch1",
+		"word": "Couch",
 		"definitions": [
 			"Upholstered piece of furniture for several people; sofa",
 			"Long padded seat with a headrest at one end",
-			"Express in certain terms (couch in)"
-		]
-	},
-	{
-		"word": "Couch2",
-		"definitions": [
+			"Express in certain terms (couch in)",
 			"Grass with long creeping roots"
 		]
 	},
@@ -18382,17 +18102,12 @@
 		]
 	},
 	{
-		"word": "Count1",
+		"word": "Count",
 		"definitions": [
 			"Determine the total number of",
 			"Repeat numbers in ascending order",
 			"Include or be included in one's reckoning or plan",
-			"Consider or regard to be"
-		]
-	},
-	{
-		"word": "Count2",
-		"definitions": [
+			"Consider or regard to be",
 			"Foreign noble corresponding to an earl"
 		]
 	},
@@ -18420,17 +18135,12 @@
 		]
 	},
 	{
-		"word": "Counter1",
+		"word": "Counter",
 		"definitions": [
 			"Long flat-topped fitment in a shop etc., across which business is conducted",
 			"Small disc for playing or scoring in board-games etc.",
 			"Apparatus for counting",
-			"Under the counter surreptitiously, esp. Illegally"
-		]
-	},
-	{
-		"word": "Counter2",
-		"definitions": [
+			"Under the counter surreptitiously, esp. Illegally",
 			"Oppose, contradict",
 			"Meet by countermove",
 			"Boxing give a return blow while parrying",
@@ -18917,15 +18627,10 @@
 		]
 	},
 	{
-		"word": "Cove1",
+		"word": "Cove",
 		"definitions": [
 			"Small bay or creek",
-			"Sheltered recess"
-		]
-	},
-	{
-		"word": "Cove2",
-		"definitions": [
+			"Sheltered recess",
 			"Slang fellow, chap"
 		]
 	},
@@ -19045,15 +18750,10 @@
 		]
 	},
 	{
-		"word": "Cow1",
+		"word": "Cow",
 		"definitions": [
 			"Fully grown female of any, especially domestic bovine animal, used as a source of milk and beef",
-			"Female of other large animals, especially the elephant, whale, and seal"
-		]
-	},
-	{
-		"word": "Cow2",
-		"definitions": [
+			"Female of other large animals, especially the elephant, whale, and seal",
 			"Intimidate or dispirit"
 		]
 	},
@@ -19257,22 +18957,12 @@
 		]
 	},
 	{
-		"word": "Crab1",
+		"word": "Crab",
 		"definitions": [
 			"A ten-footed crustacean, with the first pair of legs as pincers",
-			"(Crab) sign or constellation cancer"
-		]
-	},
-	{
-		"word": "Crab2",
-		"definitions": [
+			"(Crab) sign or constellation cancer",
 			"Small sour apple",
-			"Tree (esp. Uncultivated) bearing this"
-		]
-	},
-	{
-		"word": "Crab3",
-		"definitions": [
+			"Tree (esp. Uncultivated) bearing this",
 			"Criticize; grumble",
 			"Spoil"
 		]
@@ -19598,12 +19288,7 @@
 			"Collapse financially",
 			"Colloq. Gatecrash",
 			"(Of a machine or system) Fail suddenly",
-			"(Often foll. By out) Slang sleep, esp. On a floor etc."
-		]
-	},
-	{
-		"word": "Crash2",
-		"definitions": [
+			"(Often foll. By out) Slang sleep, esp. On a floor etc.",
 			"Coarse plain fabric of linen, cotton, etc."
 		]
 	},
@@ -20204,16 +19889,11 @@
 		]
 	},
 	{
-		"word": "Crew1",
+		"word": "Crew",
 		"definitions": [
 			"People manning a ship, aircraft, train, etc.",
-			"Group of people working together as a team"
-		]
-	},
-	{
-		"word": "Crew2",
-		"definitions": [
-			"Past of *crow2",
+			"Group of people working together as a team",
+			"Past of *crow",
 			"The act of moving in a way that mimics crowing"
 		]
 	},
@@ -20267,15 +19947,10 @@
 		]
 	},
 	{
-		"word": "Cricket1",
+		"word": "Cricket",
 		"definitions": [
 			"Team game played on a grass pitch, with bowling at a wicket defended by a batting player of the other team",
-			"A popular British sport"
-		]
-	},
-	{
-		"word": "Cricket2",
-		"definitions": [
+			"A popular British sport",
 			"Grasshopper-like chirping insect",
 			"Insect known for its distinctive sound"
 		]
@@ -20494,14 +20169,9 @@
 		]
 	},
 	{
-		"word": "Crock1",
+		"word": "Crock",
 		"definitions": [
-			"Colloquial term for an old or worn-out person or vehicle"
-		]
-	},
-	{
-		"word": "Crock2",
-		"definitions": [
+			"Colloquial term for an old or worn-out person or vehicle",
 			"Earthenware pot or jar",
 			"Broken piece of this"
 		]
@@ -20916,14 +20586,9 @@
 		]
 	},
 	{
-		"word": "Croup1",
+		"word": "Croup",
 		"definitions": [
-			"Childhood inflammation of the larynx etc., with a hard cough"
-		]
-	},
-	{
-		"word": "Croup2",
-		"definitions": [
+			"Childhood inflammation of the larynx etc., with a hard cough",
 			"Rump, especially of a horse"
 		]
 	},
@@ -20940,15 +20605,10 @@
 		]
 	},
 	{
-		"word": "Crow1",
+		"word": "Crow",
 		"definitions": [
 			"Large black bird with a powerful black beak",
-			"Similar bird, e.g., the raven, rook, and jackdaw"
-		]
-	},
-	{
-		"word": "Crow2",
-		"definitions": [
+			"Similar bird, e.g., the raven, rook, and jackdaw",
 			"(Past crowed or crew) (Of a cock) utter a loud cry",
 			"(Of a baby) utter happy cries",
 			"(Usually followed by over) gloat; show glee"
@@ -21633,18 +21293,13 @@
 		]
 	},
 	{
-		"word": "Cue1",
+		"word": "Cue",
 		"definitions": [
 			"A Last Words Of An Actor's Speech As A Signal To Another To Enter Or Speak",
 			"A Stimulus To Perception Etc",
 			"Signal For Action",
 			"Hint On Appropriate Behaviour",
-			"Cueing Audio Equipment"
-		]
-	},
-	{
-		"word": "Cue2",
-		"definitions": [
+			"Cueing Audio Equipment",
 			"Long Rod For Striking A Ball",
 			"Strike (A Ball) With Or Use A Cue"
 		]
@@ -21656,17 +21311,12 @@
 		]
 	},
 	{
-		"word": "Cuff1",
+		"word": "Cuff",
 		"definitions": [
 			"End Part Of A Sleeve",
 			"US Trouser Turn-Up",
 			"(In Pl.) Colloq. Handcuffs",
-			"Off The Cuff Without Preparation, Extempore"
-		]
-	},
-	{
-		"word": "Cuff2",
-		"definitions": [
+			"Off The Cuff Without Preparation, Extempore",
 			"Strike With An Open Hand",
 			"Such A Blow"
 		]
@@ -22271,15 +21921,10 @@
 		]
 	},
 	{
-		"word": "Curry1",
+		"word": "Curry",
 		"definitions": [
 			"Meat, vegetables, etc., cooked in a spicy sauce, usually served with rice",
-			"Prepare or flavour with a curry sauce"
-		]
-	},
-	{
-		"word": "Curry2",
-		"definitions": [
+			"Prepare or flavour with a curry sauce",
 			"Groom (a horse) with a curry-comb",
 			"Treat (tanned leather) to improve it"
 		]
