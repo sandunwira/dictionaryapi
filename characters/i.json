@@ -13,7 +13,7 @@
 	{
 		"word": "-ial",
 		"definitions": [
-			"Var. Of *-al*"
+			"Var. Of *-al"
 		]
 	},
 	{
@@ -634,7 +634,7 @@
 	{
 		"word": "-ie",
 		"definitions": [
-			"See *-y2"
+			"See *-y"
 		]
 	},
 	{
@@ -766,7 +766,7 @@
 	{
 		"word": "Il-",
 		"definitions": [
-			"Assim. form of *in-1, *in-2 before l"
+			"Assim. form of *in- before l"
 		]
 	},
 	{
@@ -1040,7 +1040,7 @@
 	{
 		"word": "Im-",
 		"definitions": [
-			"Assim. form of *in-1, *in-2 before b, m, or p"
+			"Assim. form of *in- before b, m, or p"
 		]
 	},
 	{
@@ -1899,14 +1899,9 @@
 		]
 	},
 	{
-		"word": "Impost1",
+		"word": "Impost",
 		"definitions": [
-			"Tax, duty, or tribute"
-		]
-	},
-	{
-		"word": "Impost2",
-		"definitions": [
+			"Tax, duty, or tribute",
 			"Upper course of a pillar, carrying an arch"
 		]
 	},
@@ -2199,15 +2194,10 @@
 		]
 	},
 	{
-		"word": "In-1",
+		"word": "In-",
 		"definitions": [
 			"Prefix meaning ‘not’ (inedible; insane)",
-			"Prefix meaning ‘without, lacking’ (inaction)"
-		]
-	},
-	{
-		"word": "In-2",
-		"definitions": [
+			"Prefix meaning ‘without, lacking’ (inaction)",
 			"Prefix meaning in, on, into, towards, within (induce; influx; insight; intrude)"
 		]
 	},
@@ -2514,15 +2504,10 @@
 		]
 	},
 	{
-		"word": "Incense1",
+		"word": "Incense",
 		"definitions": [
 			"Gum or spice producing a sweet smell when burned",
-			"Smoke of this, especially in religious ceremonial"
-		]
-	},
-	{
-		"word": "Incense2",
-		"definitions": [
+			"Smoke of this, especially in religious ceremonial",
 			"Make angry"
 		]
 	},
@@ -4799,16 +4784,11 @@
 		]
 	},
 	{
-		"word": "-ing1",
+		"word": "-ing",
 		"definitions": [
 			"Forming nouns from verbs denoting verbal action or its result",
 			"Material associated with a process etc.",
-			"Occupation or event"
-		]
-	},
-	{
-		"word": "-ing2",
-		"definitions": [
+			"Occupation or event",
 			"Forming the present participle of verbs, often as adjectives",
 			"Forming adjectives from nouns and verbs"
 		]
@@ -7261,18 +7241,13 @@
 		]
 	},
 	{
-		"word": "Intimate1",
+		"word": "Intimate",
 		"definitions": [
 			"Closely acquainted; familiar (intimate friend)",
 			"Private and personal",
 			"Having sexual relations",
 			"Detailed, thorough knowledge",
-			"Close relationship between things"
-		]
-	},
-	{
-		"word": "Intimate2",
-		"definitions": [
+			"Close relationship between things",
 			"State or make known",
 			"Imply, hint"
 		]
@@ -7704,10 +7679,11 @@
 		]
 	},
 	{
-		"word": "Invalid1",
+		"word": "Invalid",
 		"definitions": [
 			"Person enfeebled or disabled by illness or injury",
-			"Sick, disabled"
+			"Sick, disabled",
+			"Not valid"
 		]
 	},
 	{
@@ -7721,18 +7697,7 @@
 		"word": "Invalidity",
 		"definitions": [
 			"Person enfeebled or disabled by illness or injury",
-			"Sick, disabled"
-		]
-	},
-	{
-		"word": "Invalid2",
-		"definitions": [
-			"Not valid"
-		]
-	},
-	{
-		"word": "Invalidity",
-		"definitions": [
+			"Sick, disabled",
 			"Not valid"
 		]
 	},
@@ -8217,7 +8182,7 @@
 	{
 		"word": "Ir-",
 		"definitions": [
-			"Prefix forming a form of *in-1, *in-2 before r"
+			"Prefix forming a form of *in before r"
 		]
 	},
 	{
